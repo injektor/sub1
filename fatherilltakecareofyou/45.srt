@@ -1,0 +1,4328 @@
+1
+00:00:19,998 --> 00:00:21,228
+<font color=#FFFF00>Director Han.</font>
+
+2
+00:00:40,098 --> 00:00:41,098
+<font color=#FFFF00>Find her.</font>
+
+3
+00:00:54,098 --> 00:00:56,168
+<font color=#FFFF00>Did they hurt you?</font>
+
+4
+00:00:56,598 --> 00:00:58,228
+<font color=#FFFF00>You've been well, right?</font>
+
+5
+00:01:15,098 --> 00:01:16,098
+<font color=#FFFF00>I'm sorry.</font>
+
+6
+00:01:17,468 --> 00:01:18,998
+<font color=#FFFF00>I found out too late.</font>
+
+7
+00:01:20,198 --> 00:01:22,228
+<font color=#FFFF00>I should have looked for you before.</font>
+
+8
+00:01:25,068 --> 00:01:26,098
+<font color=#FFFF00>I'm sorry.</font>
+
+9
+00:01:28,568 --> 00:01:30,898
+<font color=#FFFF00>I don't know what's happening.</font>
+
+10
+00:01:32,528 --> 00:01:33,598
+<font color=#FFFF00>I'm...</font>
+
+11
+00:01:34,868 --> 00:01:36,168
+<font color=#FFFF00>so confused.</font>
+
+12
+00:01:47,368 --> 00:01:48,428
+<font color=#FFFF00>Dong Hui.</font>
+
+13
+00:01:49,068 --> 00:01:50,298
+<font color=#FFFF00>Listen to me carefully.</font>
+
+14
+00:01:51,868 --> 00:01:54,598
+<font color=#FFFF00>Don't worry. Just wait for me.</font>
+
+15
+00:01:55,228 --> 00:01:57,128
+<font color=#FFFF00>Do what Chairman Bang wants you to do.</font>
+
+16
+00:01:57,268 --> 00:01:58,798
+<font color=#FFFF00>Don't go against them.</font>
+
+17
+00:01:59,568 --> 00:02:02,298
+<font color=#FFFF00>Trust me and wait for me.</font>
+
+18
+00:02:03,128 --> 00:02:04,128
+<font color=#FFFF00>You can do that for me, right?</font>
+
+19
+00:02:04,798 --> 00:02:06,068
+<font color=#FFFF00>What are you going to do?</font>
+
+20
+00:02:06,728 --> 00:02:09,468
+<font color=#FFFF00>What if that puts you in danger too?</font>
+
+21
+00:02:10,468 --> 00:02:11,698
+<font color=#FFFF00>I don't think that will happen.</font>
+
+22
+00:02:12,868 --> 00:02:14,568
+<font color=#FFFF00>I will resolve this problem by all means.</font>
+
+23
+00:02:14,668 --> 00:02:16,068
+<font color=#FFFF00>I will make sure to...</font>
+
+24
+00:02:16,568 --> 00:02:18,298
+<font color=#FFFF00>get you and your grandmother out of that house.</font>
+
+25
+00:02:29,798 --> 00:02:31,068
+<font color=#FFFF00>I missed you.</font>
+
+26
+00:02:33,498 --> 00:02:34,598
+<font color=#FFFF00>I missed you too.</font>
+
+27
+00:02:45,828 --> 00:02:47,698
+<font color=#FFFF00>(Episode 45)</font>
+
+28
+00:02:53,428 --> 00:02:55,628
+<font color=#FFFF00>What happened? What's the matter?</font>
+
+29
+00:02:55,898 --> 00:02:58,068
+<font color=#FFFF00>Dong Hui disappeared.</font>
+
+30
+00:02:58,968 --> 00:03:00,028
+<font color=#FFFF00>What?</font>
+
+31
+00:03:02,228 --> 00:03:03,968
+<font color=#FFFF00>What were you doing?</font>
+
+32
+00:03:04,068 --> 00:03:06,628
+<font color=#FFFF00>Are you kidding me? Go find her.</font>
+
+33
+00:03:06,968 --> 00:03:07,998
+<font color=#FFFF00>- Yes, sir. - Yes, sir.</font>
+
+34
+00:03:08,428 --> 00:03:09,428
+<font color=#FFFF00>Gosh.</font>
+
+35
+00:03:14,368 --> 00:03:15,398
+<font color=#FFFF00>Dong Hui.</font>
+
+36
+00:03:16,068 --> 00:03:17,598
+<font color=#FFFF00>Did you receive the script I sent you?</font>
+
+37
+00:03:18,628 --> 00:03:19,628
+<font color=#FFFF00>Yes.</font>
+
+38
+00:03:20,928 --> 00:03:21,998
+<font color=#FFFF00>You did a very good job.</font>
+
+39
+00:03:23,698 --> 00:03:25,028
+<font color=#FFFF00>Once you get home,</font>
+
+40
+00:03:25,328 --> 00:03:27,898
+<font color=#FFFF00>don't worry about anything and just work on your script.</font>
+
+41
+00:03:28,068 --> 00:03:29,068
+<font color=#FFFF00>Okay?</font>
+
+42
+00:03:30,598 --> 00:03:32,568
+<font color=#FFFF00>Yes. But...</font>
+
+43
+00:03:32,698 --> 00:03:33,698
+<font color=#FFFF00>Just listen to me.</font>
+
+44
+00:03:34,298 --> 00:03:36,328
+<font color=#FFFF00>And take good care of Ms. Oh.</font>
+
+45
+00:04:00,268 --> 00:04:01,268
+<font color=#FFFF00>Dong Hui.</font>
+
+46
+00:04:03,228 --> 00:04:04,228
+<font color=#FFFF00>I love you.</font>
+
+47
+00:04:08,128 --> 00:04:09,228
+<font color=#FFFF00>I love you too.</font>
+
+48
+00:04:21,068 --> 00:04:22,398
+<font color=#FFFF00>Gosh.</font>
+
+49
+00:04:27,498 --> 00:04:29,628
+<font color=#FFFF00>I think she left the building.</font>
+
+50
+00:04:29,768 --> 00:04:32,568
+<font color=#FFFF00>- What? - I can't find her anywhere.</font>
+
+51
+00:04:33,428 --> 00:04:34,628
+<font color=#FFFF00>Gosh.</font>
+
+52
+00:04:39,768 --> 00:04:41,128
+<font color=#FFFF00>There she is.</font>
+
+53
+00:04:46,468 --> 00:04:47,498
+<font color=#FFFF00>What?</font>
+
+54
+00:04:50,728 --> 00:04:53,268
+<font color=#FFFF00>Where have you been?</font>
+
+55
+00:04:54,598 --> 00:04:56,928
+<font color=#FFFF00>I went to the bathroom. Why?</font>
+
+56
+00:05:02,228 --> 00:05:04,728
+<font color=#FFFF00>You should have told me before going to the bathroom.</font>
+
+57
+00:05:08,398 --> 00:05:10,328
+<font color=#FFFF00>- Let's go. - Yes, sir.</font>
+
+58
+00:05:47,328 --> 00:05:49,368
+<font color=#FFFF00>- Who are you? - Well...</font>
+
+59
+00:05:50,298 --> 00:05:52,228
+<font color=#FFFF00>I'm from FGC.</font>
+
+60
+00:05:52,468 --> 00:05:54,598
+<font color=#FFFF00>- Can I talk to her for a minute? - Okay.</font>
+
+61
+00:06:08,028 --> 00:06:09,428
+<font color=#FFFF00>Chairwoman Park Chang Wook.</font>
+
+62
+00:06:15,498 --> 00:06:16,568
+<font color=#FFFF00>Hello.</font>
+
+63
+00:06:16,968 --> 00:06:19,868
+<font color=#FFFF00>I'm Han Seong Joon. Ms. Oh Gui Boon asked me to come and see you.</font>
+
+64
+00:06:23,998 --> 00:06:26,568
+<font color=#FFFF00>I'm here to help you.</font>
+
+65
+00:06:44,868 --> 00:06:45,968
+<font color=#FFFF00>Gosh.</font>
+
+66
+00:07:37,228 --> 00:07:38,398
+<font color=#FFFF00>Director Choi Jin Sung is...</font>
+
+67
+00:07:38,598 --> 00:07:40,268
+<font color=#FFFF00>all that remains.</font>
+
+68
+00:07:40,998 --> 00:07:42,898
+<font color=#FFFF00>He is the key figure.</font>
+
+69
+00:07:43,798 --> 00:07:45,328
+<font color=#FFFF00>If Director Choi helps us,</font>
+
+70
+00:07:45,598 --> 00:07:47,428
+<font color=#FFFF00>things would be a lot easier.</font>
+
+71
+00:07:48,568 --> 00:07:50,898
+<font color=#FFFF00>What did the chairwoman say?</font>
+
+72
+00:07:51,628 --> 00:07:54,328
+<font color=#FFFF00>If all the people on the list resigned from the company,</font>
+
+73
+00:07:55,228 --> 00:07:57,868
+<font color=#FFFF00>I should get the key from Ms. Oh, unlock the safe...</font>
+
+74
+00:07:58,428 --> 00:08:00,768
+<font color=#FFFF00>and hand everything in it to Bang Gwang Jin, she said.</font>
+
+75
+00:08:03,898 --> 00:08:05,368
+<font color=#FFFF00>She's trying to raise the stakes.</font>
+
+76
+00:08:06,368 --> 00:08:07,468
+<font color=#FFFF00>Then...</font>
+
+77
+00:08:07,768 --> 00:08:10,668
+<font color=#FFFF00>on the day Bang Gwang Jin announces the renewed will,</font>
+
+78
+00:08:11,168 --> 00:08:14,168
+<font color=#FFFF00>Chairwoman Park will return to the company.</font>
+
+79
+00:08:21,398 --> 00:08:22,428
+<font color=#FFFF00>This is...</font>
+
+80
+00:08:23,128 --> 00:08:24,528
+<font color=#FFFF00>the key to the safe.</font>
+
+81
+00:08:25,968 --> 00:08:27,228
+<font color=#FFFF00>She set you...</font>
+
+82
+00:08:27,968 --> 00:08:29,668
+<font color=#FFFF00>such a heavy burden.</font>
+
+83
+00:08:37,928 --> 00:08:39,568
+<font color=#FFFF00>There are Chairwoman Park's will...</font>
+
+84
+00:08:39,868 --> 00:08:42,298
+<font color=#FFFF00>and the truth about Bang Hyun Jeong who is supposedly dead.</font>
+
+85
+00:08:43,568 --> 00:08:44,828
+<font color=#FFFF00>It's a secret...</font>
+
+86
+00:08:45,528 --> 00:08:48,068
+<font color=#FFFF00>that they've tried to keep for their entire lives.</font>
+
+87
+00:08:49,728 --> 00:08:50,928
+<font color=#FFFF00>Please...</font>
+
+88
+00:08:51,498 --> 00:08:52,998
+<font color=#FFFF00>take good care of it.</font>
+
+89
+00:09:00,728 --> 00:09:01,828
+<font color=#FFFF00>Gosh.</font>
+
+90
+00:09:03,528 --> 00:09:06,268
+<font color=#FFFF00>How could you keep your old mother...</font>
+
+91
+00:09:06,268 --> 00:09:07,728
+<font color=#FFFF00>locked up like that?</font>
+
+92
+00:09:08,138 --> 00:09:09,868
+<font color=#FFFF00>That's so inhumane.</font>
+
+93
+00:09:10,098 --> 00:09:11,198
+<font color=#FFFF00>Get off me.</font>
+
+94
+00:09:11,198 --> 00:09:12,998
+<font color=#FFFF00>All the women in our family...</font>
+
+95
+00:09:12,998 --> 00:09:15,028
+<font color=#FFFF00>are so talkative.</font>
+
+96
+00:09:16,068 --> 00:09:17,928
+<font color=#FFFF00>Where have you been?</font>
+
+97
+00:09:19,468 --> 00:09:20,468
+<font color=#FFFF00>Did you...</font>
+
+98
+00:09:20,798 --> 00:09:22,068
+<font color=#FFFF00>I went to see your grandmother.</font>
+
+99
+00:09:22,498 --> 00:09:23,638
+<font color=#FFFF00>Dad.</font>
+
+100
+00:09:25,568 --> 00:09:26,898
+<font color=#FFFF00>You knew it, right?</font>
+
+101
+00:09:28,228 --> 00:09:29,928
+<font color=#FFFF00>You knew the whole thing.</font>
+
+102
+00:09:32,028 --> 00:09:33,228
+<font color=#FFFF00>I can't believe this.</font>
+
+103
+00:09:34,098 --> 00:09:37,138
+<font color=#FFFF00>You guys are so terrible.</font>
+
+104
+00:09:37,898 --> 00:09:40,898
+<font color=#FFFF00>How could a son and a granddaughter...</font>
+
+105
+00:09:41,568 --> 00:09:43,828
+<font color=#FFFF00>lock their mother and grandmother...</font>
+
+106
+00:09:43,828 --> 00:09:45,968
+<font color=#FFFF00>in a mountain for 20 years?</font>
+
+107
+00:09:46,498 --> 00:09:49,398
+<font color=#FFFF00>What on earth do you gain from this?</font>
+
+108
+00:09:50,068 --> 00:09:51,268
+<font color=#FFFF00>Shut your mouth.</font>
+
+109
+00:09:51,498 --> 00:09:53,368
+<font color=#FFFF00>How dare you say such a thing to us?</font>
+
+110
+00:09:53,368 --> 00:09:56,068
+<font color=#FFFF00>You should shut your mouth. You know I'm older than you!</font>
+
+111
+00:09:56,228 --> 00:09:59,598
+<font color=#FFFF00>It's so noisy. Just stop the quarrel.</font>
+
+112
+00:10:01,068 --> 00:10:03,598
+<font color=#FFFF00>So are you the one...</font>
+
+113
+00:10:04,068 --> 00:10:05,928
+<font color=#FFFF00>who killed my dad...</font>
+
+114
+00:10:06,468 --> 00:10:07,698
+<font color=#FFFF00>and mom?</font>
+
+115
+00:10:07,828 --> 00:10:10,198
+<font color=#FFFF00>That's not it. I told you I didn't do that.</font>
+
+116
+00:10:11,138 --> 00:10:12,268
+<font color=#FFFF00>I'm under a false accusation.</font>
+
+117
+00:10:12,668 --> 00:10:13,728
+<font color=#FFFF00>I can't believe this.</font>
+
+118
+00:10:14,898 --> 00:10:16,298
+<font color=#FFFF00>You can't do this.</font>
+
+119
+00:10:16,868 --> 00:10:18,868
+<font color=#FFFF00>It just doesn't make sense.</font>
+
+120
+00:10:20,668 --> 00:10:22,228
+<font color=#FFFF00>Excuse me, Chairman Bang.</font>
+
+121
+00:10:22,428 --> 00:10:23,568
+<font color=#FFFF00>Mi Joo.</font>
+
+122
+00:10:24,728 --> 00:10:26,368
+<font color=#FFFF00>As I said before,</font>
+
+123
+00:10:26,768 --> 00:10:28,638
+<font color=#FFFF00>I'm not interested...</font>
+
+124
+00:10:28,638 --> 00:10:30,528
+<font color=#FFFF00>in the money, power, and reputation.</font>
+
+125
+00:10:30,668 --> 00:10:32,098
+<font color=#FFFF00>They are no better than trash to me.</font>
+
+126
+00:10:32,638 --> 00:10:35,268
+<font color=#FFFF00>So let me and my grandmother...</font>
+
+127
+00:10:35,668 --> 00:10:37,398
+<font color=#FFFF00>get out of here immediately.</font>
+
+128
+00:10:37,868 --> 00:10:39,228
+<font color=#FFFF00>What have we done wrong?</font>
+
+129
+00:10:40,068 --> 00:10:42,598
+<font color=#FFFF00>I've known nothing all my life.</font>
+
+130
+00:10:43,168 --> 00:10:46,568
+<font color=#FFFF00>And my grandmother has lived in adversity until now...</font>
+
+131
+00:10:46,698 --> 00:10:47,898
+<font color=#FFFF00>just for Chairwoman Park.</font>
+
+132
+00:10:50,068 --> 00:10:52,728
+<font color=#FFFF00>We will live in obscurity...</font>
+
+133
+00:10:53,098 --> 00:10:54,698
+<font color=#FFFF00>as we have done so far.</font>
+
+134
+00:10:55,428 --> 00:10:56,968
+<font color=#FFFF00>So please let us out.</font>
+
+135
+00:11:01,598 --> 00:11:02,968
+<font color=#FFFF00>Don't worry about it.</font>
+
+136
+00:11:03,228 --> 00:11:06,298
+<font color=#FFFF00>I was going to let you out anyway.</font>
+
+137
+00:11:06,628 --> 00:11:08,668
+<font color=#FFFF00>Chairwoman Park will rewrite...</font>
+
+138
+00:11:08,668 --> 00:11:10,768
+<font color=#FFFF00>her will pretty soon.</font>
+
+139
+00:11:10,768 --> 00:11:12,528
+<font color=#FFFF00>Just wait quietly until then.</font>
+
+140
+00:11:12,868 --> 00:11:15,368
+<font color=#FFFF00>I don't want to keep you here anymore.</font>
+
+141
+00:11:16,198 --> 00:11:17,228
+<font color=#FFFF00>Send her up to her room.</font>
+
+142
+00:11:18,998 --> 00:11:20,398
+<font color=#FFFF00>You jerks.</font>
+
+143
+00:11:20,528 --> 00:11:22,368
+<font color=#FFFF00>All of you will pay for this.</font>
+
+144
+00:11:22,498 --> 00:11:24,028
+<font color=#FFFF00>You will be punished for this.</font>
+
+145
+00:11:24,298 --> 00:11:27,298
+<font color=#FFFF00>Bang Mi Joo, I'm not going to be sitting still.</font>
+
+146
+00:11:27,568 --> 00:11:29,268
+<font color=#FFFF00>Get off me!</font>
+
+147
+00:11:29,828 --> 00:11:31,668
+<font color=#FFFF00>- Gosh. - Dad.</font>
+
+148
+00:11:31,698 --> 00:11:34,468
+<font color=#FFFF00>Why did you take Dong Hui there?</font>
+
+149
+00:11:34,498 --> 00:11:37,798
+<font color=#FFFF00>It is the easiest way to change your grandmother's mind.</font>
+
+150
+00:11:38,028 --> 00:11:39,028
+<font color=#FFFF00>So what?</font>
+
+151
+00:11:39,268 --> 00:11:41,098
+<font color=#FFFF00>If she rewrites her will,</font>
+
+152
+00:11:41,628 --> 00:11:44,268
+<font color=#FFFF00>what will happen to Dong Hui?</font>
+
+153
+00:11:44,398 --> 00:11:45,598
+<font color=#FFFF00>It's simple.</font>
+
+154
+00:11:46,028 --> 00:11:47,498
+<font color=#FFFF00>She just said that.</font>
+
+155
+00:11:47,828 --> 00:11:49,198
+<font color=#FFFF00>She'll live as Oh Dong Hui.</font>
+
+156
+00:11:49,228 --> 00:11:50,668
+<font color=#FFFF00>Is it even possible?</font>
+
+157
+00:11:51,698 --> 00:11:53,728
+<font color=#FFFF00>You know she's Bang Hyun Jeong.</font>
+
+158
+00:11:54,628 --> 00:11:56,798
+<font color=#FFFF00>Oh Dong Hui is Bang Hyun Jeong. So what?</font>
+
+159
+00:11:57,328 --> 00:11:59,628
+<font color=#FFFF00>I'll be getting all the money and stocks...</font>
+
+160
+00:11:59,828 --> 00:12:01,868
+<font color=#FFFF00>for Bang Hyun Jeong.</font>
+
+161
+00:12:02,768 --> 00:12:05,028
+<font color=#FFFF00>Hyun Jeong will be just an empty shell.</font>
+
+162
+00:12:05,068 --> 00:12:06,528
+<font color=#FFFF00>She'll be useless.</font>
+
+163
+00:12:07,028 --> 00:12:09,668
+<font color=#FFFF00>Dad, please.</font>
+
+164
+00:12:11,968 --> 00:12:13,798
+<font color=#FFFF00>I don't want to see them anymore.</font>
+
+165
+00:12:14,798 --> 00:12:17,228
+<font color=#FFFF00>Just wait a little longer.</font>
+
+166
+00:12:18,128 --> 00:12:19,498
+<font color=#FFFF00>Everything will be over soon.</font>
+
+167
+00:12:26,828 --> 00:12:27,968
+<font color=#FFFF00>What are you doing?</font>
+
+168
+00:12:31,828 --> 00:12:33,198
+<font color=#FFFF00>Make some noise when you get in the house.</font>
+
+169
+00:12:33,428 --> 00:12:35,268
+<font color=#FFFF00>You said you weren't interested.</font>
+
+170
+00:12:35,798 --> 00:12:38,168
+<font color=#FFFF00>You were doing some research about UN Production.</font>
+
+171
+00:12:40,098 --> 00:12:41,398
+<font color=#FFFF00>That's just my job...</font>
+
+172
+00:12:41,498 --> 00:12:42,668
+<font color=#FFFF00>to analyze companies.</font>
+
+173
+00:12:42,798 --> 00:12:44,168
+<font color=#FFFF00>As a matter of fact,</font>
+
+174
+00:12:44,398 --> 00:12:46,768
+<font color=#FFFF00>I've done some research on UN Production.</font>
+
+175
+00:12:46,968 --> 00:12:49,368
+<font color=#FFFF00>As you know, it is a nasty company.</font>
+
+176
+00:12:50,098 --> 00:12:53,698
+<font color=#FFFF00>I believe you should let Sang Woo wash his hands of the matter.</font>
+
+177
+00:12:53,868 --> 00:12:55,728
+<font color=#FFFF00>I said I was just looking.</font>
+
+178
+00:12:56,428 --> 00:12:58,728
+<font color=#FFFF00>You should sell all the stocks of FGC Group.</font>
+
+179
+00:12:59,198 --> 00:13:00,968
+<font color=#FFFF00>There's no reason to keep them.</font>
+
+180
+00:13:01,428 --> 00:13:04,728
+<font color=#FFFF00>I think it's better to keep them for a little longer.</font>
+
+181
+00:13:05,728 --> 00:13:06,968
+<font color=#FFFF00>What do you mean?</font>
+
+182
+00:13:07,428 --> 00:13:09,498
+<font color=#FFFF00>According to our agent,</font>
+
+183
+00:13:09,928 --> 00:13:12,598
+<font color=#FFFF00>there's a rumor that Park Chang Wook is coming back.</font>
+
+184
+00:13:14,668 --> 00:13:16,398
+<font color=#FFFF00>What do you mean?</font>
+
+185
+00:13:16,798 --> 00:13:18,898
+<font color=#FFFF00>How can the former chairwoman of FGC group come back?</font>
+
+186
+00:13:18,898 --> 00:13:21,468
+<font color=#FFFF00>Recently, a rumor has been going around among shareholders...</font>
+
+187
+00:13:21,968 --> 00:13:24,998
+<font color=#FFFF00>that Chairwoman Park has been found.</font>
+
+188
+00:13:27,328 --> 00:13:29,698
+<font color=#FFFF00>Whoever it is, he's recklessly bold.</font>
+
+189
+00:13:30,128 --> 00:13:31,128
+<font color=#FFFF00>Pardon?</font>
+
+190
+00:13:31,128 --> 00:13:32,868
+<font color=#FFFF00>The return of the chairwoman...</font>
+
+191
+00:13:32,868 --> 00:13:34,998
+<font color=#FFFF00>must be a very bad news for Bang Gwang Jin.</font>
+
+192
+00:13:36,698 --> 00:13:38,668
+<font color=#FFFF00>The fact that this rumor is spreading means that...</font>
+
+193
+00:13:38,668 --> 00:13:42,128
+<font color=#FFFF00>someone's planning to take down Bang Gwang Jin.</font>
+
+194
+00:13:42,628 --> 00:13:44,828
+<font color=#FFFF00>Well, I guess that's possible.</font>
+
+195
+00:13:45,528 --> 00:13:47,568
+<font color=#FFFF00>Should I look into it and find out who's behind it?</font>
+
+196
+00:13:47,728 --> 00:13:49,368
+<font color=#FFFF00>No, there's no need.</font>
+
+197
+00:13:50,098 --> 00:13:53,168
+<font color=#FFFF00>Whether it's good news or bad news, it doesn't affect us at all.</font>
+
+198
+00:13:54,028 --> 00:13:56,868
+<font color=#FFFF00>Like what you said, we should just sell the stocks...</font>
+
+199
+00:13:56,868 --> 00:13:59,198
+<font color=#FFFF00>at the right time and go back.</font>
+
+200
+00:13:59,468 --> 00:14:01,468
+<font color=#FFFF00>Yes, I will report to you...</font>
+
+201
+00:14:01,568 --> 00:14:02,728
+<font color=#FFFF00>as soon as I get an update.</font>
+
+202
+00:14:03,898 --> 00:14:06,468
+<font color=#FFFF00>By the way, what will you do about Sang Woo?</font>
+
+203
+00:14:07,228 --> 00:14:08,768
+<font color=#FFFF00>I said I'm not interested.</font>
+
+204
+00:14:09,528 --> 00:14:10,628
+<font color=#FFFF00>Still,</font>
+
+205
+00:14:10,868 --> 00:14:13,298
+<font color=#FFFF00>you have to get him out of UN Production immediately.</font>
+
+206
+00:14:15,928 --> 00:14:17,128
+<font color=#FFFF00>He's an idiot.</font>
+
+207
+00:14:21,128 --> 00:14:22,168
+<font color=#FFFF00>It's...</font>
+
+208
+00:14:23,228 --> 00:14:25,098
+<font color=#FFFF00>It's the old lady who used to live across the street.</font>
+
+209
+00:14:34,298 --> 00:14:36,028
+<font color=#FFFF00>Your house is bigger than it looks.</font>
+
+210
+00:14:37,828 --> 00:14:39,328
+<font color=#FFFF00>Hello.</font>
+
+211
+00:14:42,428 --> 00:14:43,598
+<font color=#FFFF00>Can I take a seat?</font>
+
+212
+00:14:43,928 --> 00:14:45,668
+<font color=#FFFF00>Sure. Take a seat, please.</font>
+
+213
+00:14:48,968 --> 00:14:49,998
+<font color=#FFFF00>Do you want some tea?</font>
+
+214
+00:14:49,998 --> 00:14:51,428
+<font color=#FFFF00>I don't need anything.</font>
+
+215
+00:14:51,868 --> 00:14:53,098
+<font color=#FFFF00>Why don't you sit?</font>
+
+216
+00:14:58,798 --> 00:15:00,898
+<font color=#FFFF00>You should sit too, Mr. Gray Hair.</font>
+
+217
+00:15:01,468 --> 00:15:02,498
+<font color=#FFFF00>Sure.</font>
+
+218
+00:15:09,798 --> 00:15:10,928
+<font color=#FFFF00>These are...</font>
+
+219
+00:15:12,368 --> 00:15:15,228
+<font color=#FFFF00>gochujang and doenjang from our rooftop.</font>
+
+220
+00:15:15,628 --> 00:15:17,728
+<font color=#FFFF00>These days, men live well...</font>
+
+221
+00:15:17,728 --> 00:15:19,628
+<font color=#FFFF00>even when they live alone.</font>
+
+222
+00:15:20,828 --> 00:15:23,228
+<font color=#FFFF00>You shouldn't eat just anything because you're alone.</font>
+
+223
+00:15:23,598 --> 00:15:26,228
+<font color=#FFFF00>Store-bought ones are not good.</font>
+
+224
+00:15:26,568 --> 00:15:28,098
+<font color=#FFFF00>You should taste ours.</font>
+
+225
+00:15:32,768 --> 00:15:34,468
+<font color=#FFFF00>You didn't have to do this.</font>
+
+226
+00:15:34,468 --> 00:15:36,298
+<font color=#FFFF00>Do you think I want to give it to you?</font>
+
+227
+00:15:36,298 --> 00:15:39,028
+<font color=#FFFF00>I'm giving it to you because you took care of Ah In the other day!</font>
+
+228
+00:15:39,028 --> 00:15:40,798
+<font color=#FFFF00>You are an incarnation of vengeance.</font>
+
+229
+00:15:40,798 --> 00:15:42,098
+<font color=#FFFF00>Ma'am.</font>
+
+230
+00:15:42,098 --> 00:15:43,528
+<font color=#FFFF00>Let me finish.</font>
+
+231
+00:15:45,668 --> 00:15:47,268
+<font color=#FFFF00>When you become as old as me,</font>
+
+232
+00:15:48,568 --> 00:15:51,968
+<font color=#FFFF00>you learn to separate one thing from another.</font>
+
+233
+00:15:52,368 --> 00:15:54,928
+<font color=#FFFF00>Even if I am really mad at you and I want to kill you,</font>
+
+234
+00:15:55,168 --> 00:15:57,168
+<font color=#FFFF00>I still have to thank you for what you've done for Ah In.</font>
+
+235
+00:15:57,668 --> 00:15:59,128
+<font color=#FFFF00>Even if I'm really thankful to you,</font>
+
+236
+00:15:59,768 --> 00:16:02,328
+<font color=#FFFF00>I have to confront you about what you did to us.</font>
+
+237
+00:16:03,668 --> 00:16:04,768
+<font color=#FFFF00>It's not...</font>
+
+238
+00:16:05,128 --> 00:16:06,698
+<font color=#FFFF00>that I don't understand...</font>
+
+239
+00:16:07,198 --> 00:16:09,598
+<font color=#FFFF00>where you're coming from.</font>
+
+240
+00:16:10,128 --> 00:16:11,328
+<font color=#FFFF00>To experience such tragedy...</font>
+
+241
+00:16:11,768 --> 00:16:15,098
+<font color=#FFFF00>must've been so horrifying.</font>
+
+242
+00:16:15,928 --> 00:16:18,868
+<font color=#FFFF00>You were the eldest son to your father,</font>
+
+243
+00:16:20,068 --> 00:16:21,728
+<font color=#FFFF00>and you were the elder brother...</font>
+
+244
+00:16:22,198 --> 00:16:23,468
+<font color=#FFFF00>to your little brother.</font>
+
+245
+00:16:24,998 --> 00:16:25,998
+<font color=#FFFF00>But still,</font>
+
+246
+00:16:26,568 --> 00:16:29,628
+<font color=#FFFF00>you were just a sixth grader.</font>
+
+247
+00:16:30,068 --> 00:16:32,628
+<font color=#FFFF00>When you were supposed to be cared by your parents,</font>
+
+248
+00:16:33,298 --> 00:16:34,828
+<font color=#FFFF00>your father died,</font>
+
+249
+00:16:35,398 --> 00:16:37,268
+<font color=#FFFF00>and you lost your little brother.</font>
+
+250
+00:16:37,898 --> 00:16:40,228
+<font color=#FFFF00>- Ma'am. - Be quiet, boy!</font>
+
+251
+00:16:41,168 --> 00:16:43,228
+<font color=#FFFF00>I'm telling you...</font>
+
+252
+00:16:43,228 --> 00:16:45,368
+<font color=#FFFF00>that I am trying my best to understand you.</font>
+
+253
+00:16:54,698 --> 00:16:56,568
+<font color=#FFFF00>My children...</font>
+
+254
+00:16:56,568 --> 00:16:59,128
+<font color=#FFFF00>still can't understand you. They can't forgive you yet either.</font>
+
+255
+00:17:01,128 --> 00:17:02,168
+<font color=#FFFF00>But...</font>
+
+256
+00:17:03,768 --> 00:17:05,898
+<font color=#FFFF00>I sometimes...</font>
+
+257
+00:17:06,668 --> 00:17:08,468
+<font color=#FFFF00>can understand you.</font>
+
+258
+00:17:09,298 --> 00:17:11,268
+<font color=#FFFF00>I forgive you for a while too.</font>
+
+259
+00:17:12,168 --> 00:17:13,368
+<font color=#FFFF00>But...</font>
+
+260
+00:17:13,768 --> 00:17:17,668
+<font color=#FFFF00>you were too mean to us.</font>
+
+261
+00:17:19,068 --> 00:17:21,468
+<font color=#FFFF00>My son...</font>
+
+262
+00:17:21,898 --> 00:17:24,228
+<font color=#FFFF00>raised Seong Joon with so much love.</font>
+
+263
+00:17:24,368 --> 00:17:26,428
+<font color=#FFFF00>Regardless of what happened,</font>
+
+264
+00:17:26,668 --> 00:17:29,668
+<font color=#FFFF00>I think you should thank him.</font>
+
+265
+00:17:30,498 --> 00:17:33,068
+<font color=#FFFF00>Forget about everything that happened,</font>
+
+266
+00:17:34,098 --> 00:17:36,568
+<font color=#FFFF00>and just think about how well Seong Joon turned out.</font>
+
+267
+00:17:36,898 --> 00:17:39,498
+<font color=#FFFF00>Among the three brothers, he's the most successful one.</font>
+
+268
+00:17:39,498 --> 00:17:42,228
+<font color=#FFFF00>He's also the most handsome and the most mature one.</font>
+
+269
+00:17:42,868 --> 00:17:45,068
+<font color=#FFFF00>You should stop your vengeance now.</font>
+
+270
+00:17:45,168 --> 00:17:47,398
+<font color=#FFFF00>When I was packing these condiments,</font>
+
+271
+00:17:48,098 --> 00:17:49,698
+<font color=#FFFF00>I thought about that.</font>
+
+272
+00:17:49,928 --> 00:17:51,998
+<font color=#FFFF00>And it made me feel so sad.</font>
+
+273
+00:17:53,298 --> 00:17:56,838
+<font color=#FFFF00>I don't know if you will care about what I say,</font>
+
+274
+00:17:57,398 --> 00:17:59,128
+<font color=#FFFF00>but I've come here to tell you this...</font>
+
+275
+00:17:59,728 --> 00:18:01,128
+<font color=#FFFF00>as a grandmother.</font>
+
+276
+00:18:02,168 --> 00:18:03,468
+<font color=#FFFF00>I'll get going then.</font>
+
+277
+00:18:06,798 --> 00:18:08,298
+<font color=#FFFF00>I didn't get to move...</font>
+
+278
+00:18:08,868 --> 00:18:10,698
+<font color=#FFFF00>the pots in the rooftop yet.</font>
+
+279
+00:18:11,928 --> 00:18:15,668
+<font color=#FFFF00>I don't know if Jeong Eun told you this.</font>
+
+280
+00:18:16,668 --> 00:18:19,728
+<font color=#FFFF00>Let me leave them there until you tear down the house.</font>
+
+281
+00:18:20,498 --> 00:18:22,768
+<font color=#FFFF00>It's a shame to waste them.</font>
+
+282
+00:18:23,628 --> 00:18:24,838
+<font color=#FFFF00>Please do me a favor.</font>
+
+283
+00:18:25,498 --> 00:18:27,198
+<font color=#FFFF00>I'm really leaving now.</font>
+
+284
+00:18:29,128 --> 00:18:30,198
+<font color=#FFFF00>Ma'am.</font>
+
+285
+00:18:30,198 --> 00:18:31,428
+<font color=#FFFF00>You don't need to come out.</font>
+
+286
+00:18:52,098 --> 00:18:53,128
+<font color=#FFFF00>Mom,</font>
+
+287
+00:18:53,428 --> 00:18:56,668
+<font color=#FFFF00>now that we're eating ramyeon together in this small house,</font>
+
+288
+00:18:56,668 --> 00:18:58,868
+<font color=#FFFF00>I feel like we've become Heung Bu's family.</font>
+
+289
+00:18:58,968 --> 00:19:00,798
+<font color=#FFFF00>I feel like we're really poor.</font>
+
+290
+00:19:02,198 --> 00:19:04,728
+<font color=#FFFF00>But it's really cozy, so I don't hate it too much.</font>
+
+291
+00:19:06,898 --> 00:19:08,928
+<font color=#FFFF00>Did you say cozy?</font>
+
+292
+00:19:08,928 --> 00:19:09,968
+<font color=#FFFF00>You're unbelievable.</font>
+
+293
+00:19:10,228 --> 00:19:12,968
+<font color=#FFFF00>Gosh, it splattered on my clothes.</font>
+
+294
+00:19:13,198 --> 00:19:15,798
+<font color=#FFFF00>I'm over 60 years old, and I'm eating ramyeon...</font>
+
+295
+00:19:15,798 --> 00:19:17,498
+<font color=#FFFF00>in this small house with my grown up children.</font>
+
+296
+00:19:17,498 --> 00:19:18,868
+<font color=#FFFF00>How do you call this cozy?</font>
+
+297
+00:19:18,868 --> 00:19:19,868
+<font color=#FFFF00>Mom.</font>
+
+298
+00:19:20,068 --> 00:19:22,398
+<font color=#FFFF00>I'm just saying that's how it feels.</font>
+
+299
+00:19:22,398 --> 00:19:25,628
+<font color=#FFFF00>It would feel even better if it rains outside.</font>
+
+300
+00:19:26,068 --> 00:19:28,598
+<font color=#FFFF00>Mom, since this already happened,</font>
+
+301
+00:19:28,598 --> 00:19:31,428
+<font color=#FFFF00>we should live with a positive mind.</font>
+
+302
+00:19:31,428 --> 00:19:33,398
+<font color=#FFFF00>You can be positive all you want.</font>
+
+303
+00:19:33,398 --> 00:19:35,968
+<font color=#FFFF00>I can never be positive.</font>
+
+304
+00:19:36,398 --> 00:19:38,768
+<font color=#FFFF00>Goodness, it smells like ramyeon.</font>
+
+305
+00:19:38,998 --> 00:19:40,668
+<font color=#FFFF00>Where have you been, Mother?</font>
+
+306
+00:19:40,668 --> 00:19:41,698
+<font color=#FFFF00>I went to the roof top.</font>
+
+307
+00:19:43,628 --> 00:19:44,668
+<font color=#FFFF00>Why did you go there?</font>
+
+308
+00:19:45,198 --> 00:19:47,168
+<font color=#FFFF00>I got some doenjang and gochujang.</font>
+
+309
+00:19:47,428 --> 00:19:49,268
+<font color=#FFFF00>And I fed Moong Chi since I already went there.</font>
+
+310
+00:19:49,268 --> 00:19:50,798
+<font color=#FFFF00>You should've asked the kids to do it.</font>
+
+311
+00:19:50,798 --> 00:19:53,298
+<font color=#FFFF00>Why would you go there and drain your energy?</font>
+
+312
+00:19:53,298 --> 00:19:56,098
+<font color=#FFFF00>The real estate agent said they might tear it down soon.</font>
+
+313
+00:19:56,898 --> 00:19:59,268
+<font color=#FFFF00>We need to find...</font>
+
+314
+00:19:59,728 --> 00:20:02,338
+<font color=#FFFF00>a place to move her.</font>
+
+315
+00:20:02,398 --> 00:20:03,398
+<font color=#FFFF00>Grandmother,</font>
+
+316
+00:20:03,498 --> 00:20:05,728
+<font color=#FFFF00>eat some ramyeon.</font>
+
+317
+00:20:08,298 --> 00:20:09,468
+<font color=#FFFF00>Here you go.</font>
+
+318
+00:20:10,298 --> 00:20:11,528
+<font color=#FFFF00>We should be really thankful...</font>
+
+319
+00:20:11,868 --> 00:20:13,728
+<font color=#FFFF00>that we can eat this ramyeon.</font>
+
+320
+00:20:17,468 --> 00:20:18,598
+<font color=#FFFF00>Only if...</font>
+
+321
+00:20:18,998 --> 00:20:20,868
+<font color=#FFFF00>Seong Joon was smarter.</font>
+
+322
+00:20:21,528 --> 00:20:22,728
+<font color=#FFFF00>What are you talking about?</font>
+
+323
+00:20:22,728 --> 00:20:24,128
+<font color=#FFFF00>Think about it, Mom.</font>
+
+324
+00:20:24,468 --> 00:20:25,498
+<font color=#FFFF00>Seong Joon's brother,</font>
+
+325
+00:20:25,798 --> 00:20:28,838
+<font color=#FFFF00>Mr. Lee is very rich, you know?</font>
+
+326
+00:20:29,128 --> 00:20:30,868
+<font color=#FFFF00>If Seong Joon played smart,</font>
+
+327
+00:20:30,868 --> 00:20:32,498
+<font color=#FFFF00>we wouldn't be here doing this.</font>
+
+328
+00:20:32,628 --> 00:20:35,798
+<font color=#FFFF00>He's so tactless and loyal.</font>
+
+329
+00:20:35,898 --> 00:20:38,228
+<font color=#FFFF00>He could go straight to his brother, make up with him,</font>
+
+330
+00:20:38,228 --> 00:20:41,268
+<font color=#FFFF00>and talk him into giving us our house back.</font>
+
+331
+00:20:42,628 --> 00:20:43,728
+<font color=#FFFF00>No.</font>
+
+332
+00:20:44,028 --> 00:20:46,968
+<font color=#FFFF00>He could even get us a nicer house. How nice would that be?</font>
+
+333
+00:20:46,968 --> 00:20:49,668
+<font color=#FFFF00>- Hey! - Goodness.</font>
+
+334
+00:20:49,668 --> 00:20:51,628
+<font color=#FFFF00>I told you not to mention Mr. Lee in front of me, didn't I?</font>
+
+335
+00:20:51,628 --> 00:20:54,998
+<font color=#FFFF00>Well, it's just that I'm really sorry.</font>
+
+336
+00:20:54,998 --> 00:20:56,168
+<font color=#FFFF00>You idiot.</font>
+
+337
+00:20:56,528 --> 00:20:58,928
+<font color=#FFFF00>Is the one thing you managed to think about..</font>
+
+338
+00:20:58,928 --> 00:21:01,068
+<font color=#FFFF00>is exploiting his rich brother?</font>
+
+339
+00:21:01,068 --> 00:21:02,838
+<font color=#FFFF00>I'm not planning to exploit him.</font>
+
+340
+00:21:03,028 --> 00:21:06,068
+<font color=#FFFF00>That's a way of paying us back for everything we've done for him.</font>
+
+341
+00:21:06,628 --> 00:21:08,928
+<font color=#FFFF00>Mom!</font>
+
+342
+00:21:08,928 --> 00:21:09,928
+<font color=#FFFF00>Be quiet.</font>
+
+343
+00:21:09,928 --> 00:21:11,428
+<font color=#FFFF00>What did I do?</font>
+
+344
+00:21:11,798 --> 00:21:13,728
+<font color=#FFFF00>Don't you have self-respect?</font>
+
+345
+00:21:13,728 --> 00:21:16,268
+<font color=#FFFF00>I won't take it even if that guy will give us our house back.</font>
+
+346
+00:21:16,368 --> 00:21:18,628
+<font color=#FFFF00>I'll spit on his face right away.</font>
+
+347
+00:21:18,628 --> 00:21:21,198
+<font color=#FFFF00>You've gone too far.</font>
+
+348
+00:21:21,768 --> 00:21:22,838
+<font color=#FFFF00>Grandmother.</font>
+
+349
+00:21:22,968 --> 00:21:26,428
+<font color=#FFFF00>If you think about it, Mr. Lee is a poor thing too.</font>
+
+350
+00:21:26,568 --> 00:21:27,728
+<font color=#FFFF00>Mother.</font>
+
+351
+00:21:27,768 --> 00:21:30,128
+<font color=#FFFF00>Because of Hyung Seop's mistake, an innocent man died.</font>
+
+352
+00:21:30,168 --> 00:21:32,368
+<font color=#FFFF00>That's why Mr. Lee and Seong Joon...</font>
+
+353
+00:21:32,368 --> 00:21:34,028
+<font color=#FFFF00>became orphans overnight.</font>
+
+354
+00:21:34,338 --> 00:21:35,898
+<font color=#FFFF00>That's not all that happened.</font>
+
+355
+00:21:35,968 --> 00:21:38,568
+<font color=#FFFF00>Mr. Lee had to be parted with his only family...</font>
+
+356
+00:21:38,568 --> 00:21:41,998
+<font color=#FFFF00>Seong Joon for 23 long years.</font>
+
+357
+00:21:42,598 --> 00:21:46,298
+<font color=#FFFF00>Goodness. Think about you becoming orphans overnight.</font>
+
+358
+00:21:47,568 --> 00:21:49,398
+<font color=#FFFF00>Mother, are you...</font>
+
+359
+00:21:49,398 --> 00:21:51,568
+<font color=#FFFF00>taking sides with Mr. Lee?</font>
+
+360
+00:21:51,568 --> 00:21:53,198
+<font color=#FFFF00>I'm not taking any sides.</font>
+
+361
+00:21:53,198 --> 00:21:56,328
+<font color=#FFFF00>I'm just saying this because he's nothing like our children.</font>
+
+362
+00:21:56,328 --> 00:21:58,528
+<font color=#FFFF00>What do you mean he's nothing like us?</font>
+
+363
+00:21:58,528 --> 00:22:00,328
+<font color=#FFFF00>Look at our children.</font>
+
+364
+00:22:00,328 --> 00:22:02,898
+<font color=#FFFF00>None of you wished to...</font>
+
+365
+00:22:02,898 --> 00:22:05,598
+<font color=#FFFF00>leave your parents, and you all crawled back into the house...</font>
+
+366
+00:22:05,598 --> 00:22:06,768
+<font color=#FFFF00>and created this mess.</font>
+
+367
+00:22:06,798 --> 00:22:10,298
+<font color=#FFFF00>Mr. Lee made his own fortune and came here...</font>
+
+368
+00:22:10,498 --> 00:22:14,328
+<font color=#FFFF00>with determination to find his brother.</font>
+
+369
+00:22:14,368 --> 00:22:16,528
+<font color=#FFFF00>It shows how hard he's been living his life.</font>
+
+370
+00:22:16,668 --> 00:22:18,498
+<font color=#FFFF00>There's nobody like him these days.</font>
+
+371
+00:22:19,728 --> 00:22:21,098
+<font color=#FFFF00>So what are you saying, Grandmother?</font>
+
+372
+00:22:21,128 --> 00:22:23,468
+<font color=#FFFF00>Are you saying that guy's actions are justified?</font>
+
+373
+00:22:23,468 --> 00:22:25,728
+<font color=#FFFF00>That's wrong, Grandmother.</font>
+
+374
+00:22:25,928 --> 00:22:29,028
+<font color=#FFFF00>He shouldn't be doing this to us. We are innocent.</font>
+
+375
+00:22:29,268 --> 00:22:31,198
+<font color=#FFFF00>I'm just saying.</font>
+
+376
+00:22:31,198 --> 00:22:33,398
+<font color=#FFFF00>Just keep eating ramyeon. The noodles will get soft.</font>
+
+377
+00:22:33,928 --> 00:22:34,968
+<font color=#FFFF00>Okay.</font>
+
+378
+00:22:37,398 --> 00:22:38,598
+<font color=#FFFF00>I...</font>
+
+379
+00:22:39,268 --> 00:22:42,028
+<font color=#FFFF00>had to agree to play along.</font>
+
+380
+00:22:42,068 --> 00:22:44,428
+<font color=#FFFF00>I felt sorry to Chang Soo and you guys.</font>
+
+381
+00:22:44,428 --> 00:22:45,968
+<font color=#FFFF00>And I knew the family was going to become a mess.</font>
+
+382
+00:22:45,998 --> 00:22:48,228
+<font color=#FFFF00>But I had to save the boy first.</font>
+
+383
+00:22:48,228 --> 00:22:50,128
+<font color=#FFFF00>Goodness, it's shocking.</font>
+
+384
+00:22:50,368 --> 00:22:53,668
+<font color=#FFFF00>How can the eighth grader think of jumping off a building?</font>
+
+385
+00:22:55,128 --> 00:22:57,968
+<font color=#FFFF00>So I think from Dr. Kang's perspective,</font>
+
+386
+00:22:58,398 --> 00:23:01,668
+<font color=#FFFF00>he must have considered this to be quite a serious problem.</font>
+
+387
+00:23:02,168 --> 00:23:03,468
+<font color=#FFFF00>Dr. Kang...</font>
+
+388
+00:23:03,798 --> 00:23:05,768
+<font color=#FFFF00>knows how Hee Sook is.</font>
+
+389
+00:23:05,768 --> 00:23:08,398
+<font color=#FFFF00>He was well aware of Ji Hoon's condition.</font>
+
+390
+00:23:08,498 --> 00:23:10,498
+<font color=#FFFF00>Think about how serious it must have been for him...</font>
+
+391
+00:23:10,498 --> 00:23:12,368
+<font color=#FFFF00>to use this sort of plan to save Ji Hoon.</font>
+
+392
+00:23:13,798 --> 00:23:16,498
+<font color=#FFFF00>Besides, Dr. Kang's...</font>
+
+393
+00:23:16,498 --> 00:23:17,828
+<font color=#FFFF00>youngest daughter...</font>
+
+394
+00:23:18,898 --> 00:23:21,728
+<font color=#FFFF00>went through something similar to what Ji Hoon went through.</font>
+
+395
+00:23:22,198 --> 00:23:25,728
+<font color=#FFFF00>I heard she is paralyzed from the waist down.</font>
+
+396
+00:23:27,498 --> 00:23:28,498
+<font color=#FFFF00>Really?</font>
+
+397
+00:23:29,568 --> 00:23:30,668
+<font color=#FFFF00>Yes.</font>
+
+398
+00:23:30,898 --> 00:23:32,068
+<font color=#FFFF00>That's why...</font>
+
+399
+00:23:32,068 --> 00:23:33,998
+<font color=#FFFF00>he overreached...</font>
+
+400
+00:23:33,998 --> 00:23:36,368
+<font color=#FFFF00>so that the same thing doesn't happen to Ji Hoon.</font>
+
+401
+00:23:36,398 --> 00:23:38,068
+<font color=#FFFF00>He discussed that with me.</font>
+
+402
+00:23:39,498 --> 00:23:41,998
+<font color=#FFFF00>Goodness. Kids have to go through a lot these days.</font>
+
+403
+00:23:42,668 --> 00:23:44,228
+<font color=#FFFF00>If this continues, a disaster is bound to strike.</font>
+
+404
+00:23:44,228 --> 00:23:46,298
+<font color=#FFFF00>We ought to get rid of that college entrance exam.</font>
+
+405
+00:23:48,268 --> 00:23:49,368
+<font color=#FFFF00>But still. Father,</font>
+
+406
+00:23:50,068 --> 00:23:53,298
+<font color=#FFFF00>we know the truth now.</font>
+
+407
+00:23:54,398 --> 00:23:57,928
+<font color=#FFFF00>It's not something we can cover up by ourselves.</font>
+
+408
+00:23:58,198 --> 00:24:00,268
+<font color=#FFFF00>That's not an absolute solution.</font>
+
+409
+00:24:01,198 --> 00:24:04,928
+<font color=#FFFF00>Anyway, this is between Ji Hoon and Hee Sook.</font>
+
+410
+00:24:05,168 --> 00:24:07,198
+<font color=#FFFF00>We should tell Hee Sook the truth.</font>
+
+411
+00:24:07,498 --> 00:24:10,868
+<font color=#FFFF00>Let them find their own solution. Don't you think this is better?</font>
+
+412
+00:24:10,998 --> 00:24:12,098
+<font color=#FFFF00>Hye Joo.</font>
+
+413
+00:24:12,328 --> 00:24:14,498
+<font color=#FFFF00>Sure. Hee Sook will be thrilled to find the solution.</font>
+
+414
+00:24:15,168 --> 00:24:16,498
+<font color=#FFFF00>Don't you know that with Chang Soo's success,</font>
+
+415
+00:24:16,498 --> 00:24:18,768
+<font color=#FFFF00>she is more confident about her education method than ever?</font>
+
+416
+00:24:19,968 --> 00:24:21,568
+<font color=#FFFF00>But still.</font>
+
+417
+00:24:21,568 --> 00:24:24,028
+<font color=#FFFF00>When she finds out her son tried to kill himself...</font>
+
+418
+00:24:24,228 --> 00:24:25,528
+<font color=#FFFF00>What I saying is...</font>
+
+419
+00:24:25,868 --> 00:24:28,568
+<font color=#FFFF00>that people don't change. And that's the problem.</font>
+
+420
+00:24:29,428 --> 00:24:31,298
+<font color=#FFFF00>Besides, look how she's been living her life recently.</font>
+
+421
+00:24:31,968 --> 00:24:33,698
+<font color=#FFFF00>Yes, it was a lie,</font>
+
+422
+00:24:33,798 --> 00:24:36,898
+<font color=#FFFF00>but even though it was known that Ji Hoon wasn't her son,</font>
+
+423
+00:24:37,028 --> 00:24:39,568
+<font color=#FFFF00>she came downstairs to nag Ji Hoon.</font>
+
+424
+00:24:39,698 --> 00:24:40,768
+<font color=#FFFF00>On top of that,</font>
+
+425
+00:24:40,868 --> 00:24:43,268
+<font color=#FFFF00>she penetrated into the world of opera...</font>
+
+426
+00:24:43,428 --> 00:24:45,198
+<font color=#FFFF00>and made Chang Soo win the competition.</font>
+
+427
+00:24:45,228 --> 00:24:46,668
+<font color=#FFFF00>She even took Ah In.</font>
+
+428
+00:24:48,028 --> 00:24:50,228
+<font color=#FFFF00>As of now, Ah In learned 1,800 Chinese characters.</font>
+
+429
+00:24:50,368 --> 00:24:53,298
+<font color=#FFFF00>I think she knows the most about the Chinese characters.</font>
+
+430
+00:24:54,098 --> 00:24:55,428
+<font color=#FFFF00>She's capable of this.</font>
+
+431
+00:24:55,768 --> 00:24:58,198
+<font color=#FFFF00>She will definitely find a solution with Ji Hoon.</font>
+
+432
+00:24:58,398 --> 00:25:00,528
+<font color=#FFFF00>On the day Hee Sook finds out the truth,</font>
+
+433
+00:25:01,298 --> 00:25:04,098
+<font color=#FFFF00>she will drag Ji Hoon away and it will be Ji Hoon's last day.</font>
+
+434
+00:25:04,098 --> 00:25:06,268
+<font color=#FFFF00>Then what do you suggest that we do?</font>
+
+435
+00:25:06,368 --> 00:25:08,168
+<font color=#FFFF00>Are you suggesting that we live as it is now?</font>
+
+436
+00:25:09,228 --> 00:25:10,368
+<font color=#FFFF00>First of all,</font>
+
+437
+00:25:10,398 --> 00:25:12,628
+<font color=#FFFF00>we will solve the problem with Seong Joon.</font>
+
+438
+00:25:13,768 --> 00:25:16,498
+<font color=#FFFF00>Seong Joon and Jeong Hwa are still not speaking to each other.</font>
+
+439
+00:25:16,728 --> 00:25:17,828
+<font color=#FFFF00>Honey.</font>
+
+440
+00:25:18,498 --> 00:25:19,598
+<font color=#FFFF00>Goodness.</font>
+
+441
+00:25:22,998 --> 00:25:24,898
+<font color=#FFFF00>I heard it from Mr. Kim Han Gil.</font>
+
+442
+00:25:25,298 --> 00:25:27,728
+<font color=#FFFF00>You know where Chairwoman Park Chang Wook is?</font>
+
+443
+00:25:27,968 --> 00:25:30,298
+<font color=#FFFF00>Yes, I do. I visited her.</font>
+
+444
+00:25:32,328 --> 00:25:33,868
+<font color=#FFFF00>I can't believe this.</font>
+
+445
+00:25:34,198 --> 00:25:36,168
+<font color=#FFFF00>What world-shaking news.</font>
+
+446
+00:25:36,928 --> 00:25:38,468
+<font color=#FFFF00>How could this continue for 20 years?</font>
+
+447
+00:25:39,798 --> 00:25:41,668
+<font color=#FFFF00>Chairman Bang deserves to die.</font>
+
+448
+00:25:42,498 --> 00:25:44,628
+<font color=#FFFF00>I knew it. Something was suspicious.</font>
+
+449
+00:25:47,768 --> 00:25:50,098
+<font color=#FFFF00>However, there is a problem.</font>
+
+450
+00:25:50,668 --> 00:25:54,498
+<font color=#FFFF00>Even if the shareholders' did trust Chairwoman Park,</font>
+
+451
+00:25:55,428 --> 00:25:58,568
+<font color=#FFFF00>it'll be hard to win them over with just a rumor.</font>
+
+452
+00:25:58,928 --> 00:26:01,028
+<font color=#FFFF00>Besides, at every shareholder meeting,</font>
+
+453
+00:26:01,098 --> 00:26:02,928
+<font color=#FFFF00>you were mentioned to be replaced.</font>
+
+454
+00:26:03,198 --> 00:26:06,328
+<font color=#FFFF00>Everyone believes that you and Director Bang will get married.</font>
+
+455
+00:26:06,928 --> 00:26:09,028
+<font color=#FFFF00>I am fully aware that the shareholders...</font>
+
+456
+00:26:09,768 --> 00:26:12,228
+<font color=#FFFF00>who support Chairwoman Park don't trust me.</font>
+
+457
+00:26:12,668 --> 00:26:13,698
+<font color=#FFFF00>However,</font>
+
+458
+00:26:14,298 --> 00:26:17,268
+<font color=#FFFF00>it is not true that Director Bang and I will get married.</font>
+
+459
+00:26:21,898 --> 00:26:25,498
+<font color=#FFFF00>There are a lot of people waiting for Chairwoman Park.</font>
+
+460
+00:26:25,768 --> 00:26:28,968
+<font color=#FFFF00>You can't overlook the fact that it's been 20 years.</font>
+
+461
+00:26:29,268 --> 00:26:31,028
+<font color=#FFFF00>Chairwoman Park was worried...</font>
+
+462
+00:26:31,368 --> 00:26:34,198
+<font color=#FFFF00>that 20 years has passed.</font>
+
+463
+00:26:34,798 --> 00:26:36,028
+<font color=#FFFF00>During that time,</font>
+
+464
+00:26:36,128 --> 00:26:38,728
+<font color=#FFFF00>some of us could have changed side.</font>
+
+465
+00:26:39,028 --> 00:26:41,428
+<font color=#FFFF00>If so, you will be in danger, Director Han.</font>
+
+466
+00:26:43,028 --> 00:26:45,298
+<font color=#FFFF00>- Are you aware of this? - Yes, I am.</font>
+
+467
+00:26:45,768 --> 00:26:48,398
+<font color=#FFFF00>What is the reason of your involvement despite the fact?</font>
+
+468
+00:26:48,668 --> 00:26:49,798
+<font color=#FFFF00>I just...</font>
+
+469
+00:26:50,228 --> 00:26:52,468
+<font color=#FFFF00>think that an injustice must be corrected.</font>
+
+470
+00:26:55,628 --> 00:26:56,628
+<font color=#FFFF00>All right.</font>
+
+471
+00:26:58,668 --> 00:27:00,228
+<font color=#FFFF00>Do you have a definite plan?</font>
+
+472
+00:27:00,998 --> 00:27:01,998
+<font color=#FFFF00>I do.</font>
+
+473
+00:27:03,198 --> 00:27:05,298
+<font color=#FFFF00>Great. Then...</font>
+
+474
+00:27:05,568 --> 00:27:08,268
+<font color=#FFFF00>you must get Chairwoman Park out of his clutches.</font>
+
+475
+00:27:20,268 --> 00:27:21,468
+<font color=#FFFF00>(CEO Hwang of UN Production)</font>
+
+476
+00:27:30,068 --> 00:27:32,098
+<font color=#FFFF00>This is Han Seong Joon speaking.</font>
+
+477
+00:27:32,268 --> 00:27:33,728
+<font color=#FFFF00>Hey, Director Han.</font>
+
+478
+00:27:34,268 --> 00:27:36,628
+<font color=#FFFF00>I was wondering if things were going well.</font>
+
+479
+00:27:36,628 --> 00:27:38,498
+<font color=#FFFF00>I'm just calling to check.</font>
+
+480
+00:27:40,028 --> 00:27:42,768
+<font color=#FFFF00>- What is it? - It's nothing important.</font>
+
+481
+00:27:43,128 --> 00:27:46,168
+<font color=#FFFF00>Since you will be joining our production,</font>
+
+482
+00:27:46,628 --> 00:27:49,498
+<font color=#FFFF00>I told a few agencies that you are joining our company.</font>
+
+483
+00:27:52,098 --> 00:27:53,128
+<font color=#FFFF00>We had an agreement that...</font>
+
+484
+00:27:53,198 --> 00:27:55,898
+<font color=#FFFF00>you will keep my transfer a secret for a while.</font>
+
+485
+00:27:56,068 --> 00:27:58,598
+<font color=#FFFF00>I have to get things ready in advance too.</font>
+
+486
+00:27:59,698 --> 00:28:02,868
+<font color=#FFFF00>When I told them you are planning to join our production,</font>
+
+487
+00:28:02,998 --> 00:28:06,868
+<font color=#FFFF00>some agencies wanted to get involved in our projects.</font>
+
+488
+00:28:07,198 --> 00:28:09,428
+<font color=#FFFF00>That's why...</font>
+
+489
+00:28:09,628 --> 00:28:12,398
+<font color=#FFFF00>I thought that I should treat you better.</font>
+
+490
+00:28:12,968 --> 00:28:14,068
+<font color=#FFFF00>What do you mean?</font>
+
+491
+00:28:14,268 --> 00:28:15,668
+<font color=#FFFF00>A while ago,</font>
+
+492
+00:28:16,028 --> 00:28:18,668
+<font color=#FFFF00>I just transferred some money to your account.</font>
+
+493
+00:28:18,998 --> 00:28:19,998
+<font color=#FFFF00>Sorry?</font>
+
+494
+00:28:20,098 --> 00:28:22,768
+<font color=#FFFF00>It's for official expenses I planned on giving you once you start here.</font>
+
+495
+00:28:24,398 --> 00:28:26,368
+<font color=#FFFF00>Think of it as an advance.</font>
+
+496
+00:28:26,398 --> 00:28:27,498
+<font color=#FFFF00>Use it freely.</font>
+
+497
+00:28:27,528 --> 00:28:28,828
+<font color=#FFFF00>That's not necessary.</font>
+
+498
+00:28:29,228 --> 00:28:31,498
+<font color=#FFFF00>I will send the money back to you right away.</font>
+
+499
+00:28:32,098 --> 00:28:33,098
+<font color=#FFFF00>Well...</font>
+
+500
+00:28:33,528 --> 00:28:35,068
+<font color=#FFFF00>If you are thankful,</font>
+
+501
+00:28:35,828 --> 00:28:38,598
+<font color=#FFFF00>it'd be great if you can start earlier than the set date.</font>
+
+502
+00:28:39,098 --> 00:28:40,168
+<font color=#FFFF00>Mr. Hawng.</font>
+
+503
+00:28:40,168 --> 00:28:42,498
+<font color=#FFFF00>Then I will call you again later.</font>
+
+504
+00:28:52,328 --> 00:28:53,328
+<font color=#FFFF00>Chairman Bang.</font>
+
+505
+00:28:53,928 --> 00:28:54,998
+<font color=#FFFF00>Han Seong Joon.</font>
+
+506
+00:28:55,698 --> 00:28:57,728
+<font color=#FFFF00>What is he up to these days?</font>
+
+507
+00:28:58,428 --> 00:28:59,968
+<font color=#FFFF00>What do you mean?</font>
+
+508
+00:29:00,028 --> 00:29:02,668
+<font color=#FFFF00>Why is he meeting up with other directors?</font>
+
+509
+00:29:03,728 --> 00:29:05,728
+<font color=#FFFF00>Don't you know how Seong Joon is?</font>
+
+510
+00:29:05,998 --> 00:29:08,228
+<font color=#FFFF00>He likes to prepare to the fullest.</font>
+
+511
+00:29:08,268 --> 00:29:10,298
+<font color=#FFFF00>He told me that he wanted to help you properly.</font>
+
+512
+00:29:10,598 --> 00:29:13,428
+<font color=#FFFF00>He wanted to talk to other directors...</font>
+
+513
+00:29:13,428 --> 00:29:14,498
+<font color=#FFFF00>who turned their back on him.</font>
+
+514
+00:29:14,768 --> 00:29:17,268
+<font color=#FFFF00>He's meeting them to test the water.</font>
+
+515
+00:29:18,498 --> 00:29:20,328
+<font color=#FFFF00>If that's what he's doing...</font>
+
+516
+00:29:26,798 --> 00:29:28,828
+<font color=#FFFF00>He should have done this a long time ago.</font>
+
+517
+00:29:30,068 --> 00:29:32,998
+<font color=#FFFF00>Anyway I look at it, I don't like him.</font>
+
+518
+00:29:33,168 --> 00:29:35,228
+<font color=#FFFF00>Dad. He's going to be different.</font>
+
+519
+00:29:35,268 --> 00:29:36,968
+<font color=#FFFF00>Trust him, please?</font>
+
+520
+00:29:41,098 --> 00:29:42,128
+<font color=#FFFF00>Goodness.</font>
+
+521
+00:29:42,668 --> 00:29:43,728
+<font color=#FFFF00>Did you hear?</font>
+
+522
+00:29:45,128 --> 00:29:47,528
+<font color=#FFFF00>What is it? Over what are you making a fuss?</font>
+
+523
+00:29:47,598 --> 00:29:50,268
+<font color=#FFFF00>What is it? Are Director Han and Bang getting married...</font>
+
+524
+00:29:50,398 --> 00:29:51,398
+<font color=#FFFF00>or something?</font>
+
+525
+00:29:51,398 --> 00:29:54,098
+<font color=#FFFF00>What? What about Dong Hui?</font>
+
+526
+00:29:55,228 --> 00:29:57,228
+<font color=#FFFF00>Amazing. How did you know?</font>
+
+527
+00:29:57,268 --> 00:29:58,498
+<font color=#FFFF00>- What? - What?</font>
+
+528
+00:29:59,698 --> 00:30:00,768
+<font color=#FFFF00>He's marrying her?</font>
+
+529
+00:30:00,998 --> 00:30:03,628
+<font color=#FFFF00>Director Han and Bang are getting married?</font>
+
+530
+00:30:04,228 --> 00:30:06,898
+<font color=#FFFF00>Then the reason why Chairman Bang dropped by last time...</font>
+
+531
+00:30:07,668 --> 00:30:09,468
+<font color=#FFFF00>Was it really about their marriage?</font>
+
+532
+00:30:09,768 --> 00:30:12,928
+<font color=#FFFF00>Something is off. I really thought he liked Dong Hui.</font>
+
+533
+00:30:14,398 --> 00:30:15,728
+<font color=#FFFF00>What are you doing?</font>
+
+534
+00:30:15,798 --> 00:30:17,198
+<font color=#FFFF00>- Goodness. - Hello.</font>
+
+535
+00:30:17,528 --> 00:30:19,428
+<font color=#FFFF00>Stop chatting...</font>
+
+536
+00:30:19,428 --> 00:30:21,568
+<font color=#FFFF00>and work, please. Okay?</font>
+
+537
+00:30:21,728 --> 00:30:23,398
+<font color=#FFFF00>- Yes. - We will.</font>
+
+538
+00:30:29,668 --> 00:30:31,028
+<font color=#FFFF00>Why is...</font>
+
+539
+00:30:31,168 --> 00:30:33,628
+<font color=#FFFF00>Director Han trying to marry a woman like her?</font>
+
+540
+00:30:34,198 --> 00:30:36,298
+<font color=#FFFF00>- Seong Joon. - Hey.</font>
+
+541
+00:30:37,028 --> 00:30:38,028
+<font color=#FFFF00>You're here.</font>
+
+542
+00:30:38,968 --> 00:30:41,128
+<font color=#FFFF00>How are your meetings with the directors going?</font>
+
+543
+00:30:42,728 --> 00:30:44,998
+<font color=#FFFF00>Surprisingly, some of them were quite friendly.</font>
+
+544
+00:30:45,828 --> 00:30:48,298
+<font color=#FFFF00>- Why? - Dad already knew about this.</font>
+
+545
+00:30:48,328 --> 00:30:50,168
+<font color=#FFFF00>He knew that you were meeting up with directors.</font>
+
+546
+00:30:50,928 --> 00:30:51,928
+<font color=#FFFF00>Is that so?</font>
+
+547
+00:30:52,068 --> 00:30:54,928
+<font color=#FFFF00>That's probably why the news is getting around the company.</font>
+
+548
+00:30:55,498 --> 00:30:57,698
+<font color=#FFFF00>The news about our marriage.</font>
+
+549
+00:30:58,298 --> 00:30:59,428
+<font color=#FFFF00>I think...</font>
+
+550
+00:30:59,428 --> 00:31:01,398
+<font color=#FFFF00>the shareholder meeting will be held soon.</font>
+
+551
+00:31:01,598 --> 00:31:04,268
+<font color=#FFFF00>I don't think people need to talk about it.</font>
+
+552
+00:31:04,998 --> 00:31:06,198
+<font color=#FFFF00>The shareholders might think...</font>
+
+553
+00:31:06,368 --> 00:31:09,398
+<font color=#FFFF00>that you are going around to get their approvals of our marriage.</font>
+
+554
+00:31:09,728 --> 00:31:11,168
+<font color=#FFFF00>Which brings me to my question.</font>
+
+555
+00:31:11,798 --> 00:31:14,668
+<font color=#FFFF00>Do you think you can stop meeting the directors?</font>
+
+556
+00:31:17,568 --> 00:31:20,928
+<font color=#FFFF00>To be honest, I don't think Dad likes you meeting them.</font>
+
+557
+00:31:22,768 --> 00:31:24,928
+<font color=#FFFF00>Then I will stop.</font>
+
+558
+00:31:26,568 --> 00:31:27,598
+<font color=#FFFF00>Thank you.</font>
+
+559
+00:31:28,198 --> 00:31:29,698
+<font color=#FFFF00>Do you want to have dinner tonight?</font>
+
+560
+00:31:29,898 --> 00:31:30,898
+<font color=#FFFF00>Sorry?</font>
+
+561
+00:31:32,128 --> 00:31:33,128
+<font color=#FFFF00>Sure.</font>
+
+562
+00:31:33,798 --> 00:31:34,868
+<font color=#FFFF00>Let me just wrap things up.</font>
+
+563
+00:31:44,968 --> 00:31:46,098
+<font color=#FFFF00>What brings you here?</font>
+
+564
+00:31:49,298 --> 00:31:51,528
+<font color=#FFFF00>I'm here to feed Moong Chi.</font>
+
+565
+00:31:52,568 --> 00:31:54,668
+<font color=#FFFF00>- All right. - Okay.</font>
+
+566
+00:31:55,968 --> 00:31:57,168
+<font color=#FFFF00>Feed your dog then.</font>
+
+567
+00:32:03,068 --> 00:32:04,068
+<font color=#FFFF00>By the way,</font>
+
+568
+00:32:06,068 --> 00:32:08,598
+<font color=#FFFF00>I heard you signed a contract with a company that has a bad reputation.</font>
+
+569
+00:32:14,068 --> 00:32:16,598
+<font color=#FFFF00>There's not a thing you are not informed of.</font>
+
+570
+00:32:18,868 --> 00:32:20,968
+<font color=#FFFF00>I didn't like FGC,</font>
+
+571
+00:32:21,698 --> 00:32:24,368
+<font color=#FFFF00>but UN Production is worse than FGC.</font>
+
+572
+00:32:26,798 --> 00:32:28,628
+<font color=#FFFF00>You would have known that too.</font>
+
+573
+00:32:29,028 --> 00:32:31,298
+<font color=#FFFF00>I do. I well aware of that.</font>
+
+574
+00:32:32,328 --> 00:32:33,328
+<font color=#FFFF00>So?</font>
+
+575
+00:32:36,868 --> 00:32:39,198
+<font color=#FFFF00>Did you sell yourself to that nasty company...</font>
+
+576
+00:32:39,398 --> 00:32:41,028
+<font color=#FFFF00>in order to help the people...</font>
+
+577
+00:32:41,468 --> 00:32:43,098
+<font color=#FFFF00>whom you call your family rent a house?</font>
+
+578
+00:32:44,128 --> 00:32:46,128
+<font color=#FFFF00>Is this your method of cleaning things up?</font>
+
+579
+00:32:46,498 --> 00:32:48,898
+<font color=#FFFF00>If you are going to tell me the same thing, I don't want to hear it.</font>
+
+580
+00:32:51,198 --> 00:32:52,698
+<font color=#FFFF00>Get out of that contract immediately.</font>
+
+581
+00:32:54,068 --> 00:32:56,228
+<font color=#FFFF00>Do you think they will take responsibility for your life?</font>
+
+582
+00:32:56,468 --> 00:32:58,628
+<font color=#FFFF00>You should assume responsibility for your own life.</font>
+
+583
+00:32:59,328 --> 00:33:01,968
+<font color=#FFFF00>I'm well aware of that too.</font>
+
+584
+00:33:02,398 --> 00:33:04,368
+<font color=#FFFF00>So please stop meddling in my life...</font>
+
+585
+00:33:04,898 --> 00:33:06,598
+<font color=#FFFF00>and take responsibility for your own life.</font>
+
+586
+00:33:07,598 --> 00:33:08,628
+<font color=#FFFF00>Well then.</font>
+
+587
+00:33:19,898 --> 00:33:21,568
+<font color=#FFFF00>Here's your coffee.</font>
+
+588
+00:33:21,568 --> 00:33:23,868
+<font color=#FFFF00>- Thank you. Enjoy it. - Thank you.</font>
+
+589
+00:33:27,598 --> 00:33:28,668
+<font color=#FFFF00>Why do you look so surprised?</font>
+
+590
+00:33:29,368 --> 00:33:30,728
+<font color=#FFFF00>I'm just your neighbor.</font>
+
+591
+00:33:35,298 --> 00:33:37,768
+<font color=#FFFF00>When did you come? I didn't see you walking in.</font>
+
+592
+00:33:39,028 --> 00:33:41,128
+<font color=#FFFF00>I walked in while you're absorbed in making money.</font>
+
+593
+00:33:41,868 --> 00:33:43,428
+<font color=#FFFF00>Two coffees, please.</font>
+
+594
+00:33:46,498 --> 00:33:47,798
+<font color=#FFFF00>What was that?</font>
+
+595
+00:33:51,968 --> 00:33:53,998
+<font color=#FFFF00>Gosh.</font>
+
+596
+00:34:03,598 --> 00:34:05,568
+<font color=#FFFF00>What is it? What are you doing here?</font>
+
+597
+00:34:08,398 --> 00:34:09,398
+<font color=#FFFF00>Have a seat.</font>
+
+598
+00:34:10,128 --> 00:34:11,298
+<font color=#FFFF00>And have some coffee.</font>
+
+599
+00:34:15,898 --> 00:34:17,598
+<font color=#FFFF00>So this is the routine.</font>
+
+600
+00:34:19,528 --> 00:34:20,668
+<font color=#FFFF00>Would you do me a favor?</font>
+
+601
+00:34:20,968 --> 00:34:21,968
+<font color=#FFFF00>What favor?</font>
+
+602
+00:34:22,628 --> 00:34:24,098
+<font color=#FFFF00>Do I look like a pushover?</font>
+
+603
+00:34:24,268 --> 00:34:25,628
+<font color=#FFFF00>You know we broke up.</font>
+
+604
+00:34:25,798 --> 00:34:29,198
+<font color=#FFFF00>Don't you know what we call common courtesy between exes?</font>
+
+605
+00:34:29,238 --> 00:34:30,898
+<font color=#FFFF00>You're so ridiculous.</font>
+
+606
+00:34:32,898 --> 00:34:33,928
+<font color=#FFFF00>Please stop Sang Woo.</font>
+
+607
+00:34:35,428 --> 00:34:36,898
+<font color=#FFFF00>- What? - He won't...</font>
+
+608
+00:34:37,398 --> 00:34:38,928
+<font color=#FFFF00>listen to me no matter what I say.</font>
+
+609
+00:34:39,498 --> 00:34:41,868
+<font color=#FFFF00>Of course not. Did you only notice that now?</font>
+
+610
+00:34:42,028 --> 00:34:44,798
+<font color=#FFFF00>You didn't do what Seong Joon asked you either.</font>
+
+611
+00:34:45,168 --> 00:34:48,898
+<font color=#FFFF00>Why did you do something you'd regret in the first place?</font>
+
+612
+00:34:49,028 --> 00:34:51,698
+<font color=#FFFF00>Sang Woo sealed a move to UN Production...</font>
+
+613
+00:34:51,968 --> 00:34:54,468
+<font color=#FFFF00>to pay the deposit for his family's house.</font>
+
+614
+00:34:55,598 --> 00:34:57,568
+<font color=#FFFF00>Really?</font>
+
+615
+00:34:57,598 --> 00:35:00,828
+<font color=#FFFF00>The problem is the company is quite nasty.</font>
+
+616
+00:35:01,428 --> 00:35:03,468
+<font color=#FFFF00>He sealed a move knowing all that.</font>
+
+617
+00:35:03,468 --> 00:35:04,738
+<font color=#FFFF00>That idiot.</font>
+
+618
+00:35:05,828 --> 00:35:08,498
+<font color=#FFFF00>Then what is happening to Seong Joon?</font>
+
+619
+00:35:10,528 --> 00:35:12,668
+<font color=#FFFF00>He will be abandoned after being used up.</font>
+
+620
+00:35:13,568 --> 00:35:15,798
+<font color=#FFFF00>It means his career will come to a dead end.</font>
+
+621
+00:35:17,128 --> 00:35:19,028
+<font color=#FFFF00>Then you should stop him.</font>
+
+622
+00:35:19,028 --> 00:35:20,468
+<font color=#FFFF00>That's why I want you to stop him.</font>
+
+623
+00:35:21,528 --> 00:35:22,568
+<font color=#FFFF00>He won't listen...</font>
+
+624
+00:35:22,998 --> 00:35:24,398
+<font color=#FFFF00>to whatever I say.</font>
+
+625
+00:35:25,368 --> 00:35:28,468
+<font color=#FFFF00>You should have played your role well as his brother.</font>
+
+626
+00:35:28,468 --> 00:35:31,528
+<font color=#FFFF00>Then he would have listened to you. Don't you think so?</font>
+
+627
+00:35:35,768 --> 00:35:36,798
+<font color=#FFFF00>Why are you looking at me like that?</font>
+
+628
+00:35:39,328 --> 00:35:42,628
+<font color=#FFFF00>Seong Joon is very stubborn. There's no way I can stop him.</font>
+
+629
+00:35:45,398 --> 00:35:47,328
+<font color=#FFFF00>Anyway, please talk to him.</font>
+
+630
+00:35:49,898 --> 00:35:51,128
+<font color=#FFFF00>Hey.</font>
+
+631
+00:35:52,428 --> 00:35:53,468
+<font color=#FFFF00>Right.</font>
+
+632
+00:35:54,068 --> 00:35:56,398
+<font color=#FFFF00>Thank you for taking care of me that night.</font>
+
+633
+00:35:57,828 --> 00:35:58,968
+<font color=#FFFF00>What are you talking about?</font>
+
+634
+00:36:07,128 --> 00:36:08,598
+<font color=#FFFF00>What?</font>
+
+635
+00:36:08,968 --> 00:36:10,628
+<font color=#FFFF00>He knew the whole thing?</font>
+
+636
+00:36:11,598 --> 00:36:14,968
+<font color=#FFFF00>He should have said thank you before he started talking.</font>
+
+637
+00:36:16,668 --> 00:36:18,098
+<font color=#FFFF00>He's so rude.</font>
+
+638
+00:36:20,298 --> 00:36:23,568
+<font color=#FFFF00>By the way, what should I do with Seong Joon?</font>
+
+639
+00:36:24,528 --> 00:36:29,328
+<font color=#FFFF00>When winter is gone</font>
+
+640
+00:36:29,368 --> 00:36:33,498
+<font color=#FFFF00>And spring comes</font>
+
+641
+00:36:33,898 --> 00:36:39,098
+<font color=#FFFF00>Spring will be gone again</font>
+
+642
+00:36:42,998 --> 00:36:44,398
+<font color=#FFFF00>I know.</font>
+
+643
+00:36:44,868 --> 00:36:46,198
+<font color=#FFFF00>I know how you feel.</font>
+
+644
+00:36:46,528 --> 00:36:48,268
+<font color=#FFFF00>Beauty and hard life seldom go hand in hand.</font>
+
+645
+00:36:48,398 --> 00:36:49,668
+<font color=#FFFF00>You know...</font>
+
+646
+00:36:49,968 --> 00:36:51,668
+<font color=#FFFF00>a beautiful person like you...</font>
+
+647
+00:36:51,668 --> 00:36:54,098
+<font color=#FFFF00>is born under an unlucky star.</font>
+
+648
+00:36:54,598 --> 00:36:57,598
+<font color=#FFFF00>What can I say? You were just born beautiful.</font>
+
+649
+00:36:58,168 --> 00:37:00,738
+<font color=#FFFF00>You should blame your mother.</font>
+
+650
+00:37:00,998 --> 00:37:03,628
+<font color=#FFFF00>What am I supposed to do?</font>
+
+651
+00:37:03,628 --> 00:37:05,398
+<font color=#FFFF00>Now that he's dying,</font>
+
+652
+00:37:05,398 --> 00:37:07,928
+<font color=#FFFF00>I can't do anything.</font>
+
+653
+00:37:13,328 --> 00:37:15,198
+<font color=#FFFF00>It's only his fault...</font>
+
+654
+00:37:16,028 --> 00:37:18,428
+<font color=#FFFF00>that he was born...</font>
+
+655
+00:37:18,698 --> 00:37:22,468
+<font color=#FFFF00>with an ethereal voice.</font>
+
+656
+00:37:22,528 --> 00:37:25,568
+<font color=#FFFF00>Maybe it's time...</font>
+
+657
+00:37:26,028 --> 00:37:28,098
+<font color=#FFFF00>he should return...</font>
+
+658
+00:37:28,098 --> 00:37:30,528
+<font color=#FFFF00>his voice to the sky.</font>
+
+659
+00:37:34,698 --> 00:37:36,628
+<font color=#FFFF00>I can't believe this is happening.</font>
+
+660
+00:37:37,328 --> 00:37:40,098
+<font color=#FFFF00>I know great artists are...</font>
+
+661
+00:37:40,328 --> 00:37:42,468
+<font color=#FFFF00>born under an unlucky star,</font>
+
+662
+00:37:42,498 --> 00:37:45,598
+<font color=#FFFF00>but this is just too much.</font>
+
+663
+00:37:53,898 --> 00:37:55,068
+<font color=#FFFF00>I know.</font>
+
+664
+00:37:55,498 --> 00:37:58,698
+<font color=#FFFF00>There isn't a lot of time left now.</font>
+
+665
+00:37:58,898 --> 00:38:00,898
+<font color=#FFFF00>I'm so sad.</font>
+
+666
+00:38:03,328 --> 00:38:05,328
+<font color=#FFFF00>Is it true...</font>
+
+667
+00:38:06,168 --> 00:38:07,368
+<font color=#FFFF00>that he's given...</font>
+
+668
+00:38:07,868 --> 00:38:10,998
+<font color=#FFFF00>only three months to live?</font>
+
+669
+00:38:11,598 --> 00:38:12,668
+<font color=#FFFF00>Yes.</font>
+
+670
+00:38:13,128 --> 00:38:15,238
+<font color=#FFFF00>Only three months.</font>
+
+671
+00:38:17,428 --> 00:38:18,968
+<font color=#FFFF00>Unfortunately,</font>
+
+672
+00:38:19,398 --> 00:38:21,798
+<font color=#FFFF00>he will live on April, May, and June.</font>
+
+673
+00:38:22,238 --> 00:38:23,668
+<font color=#FFFF00>It's only May...</font>
+
+674
+00:38:24,268 --> 00:38:26,468
+<font color=#FFFF00>that has 31 days.</font>
+
+675
+00:38:26,468 --> 00:38:28,498
+<font color=#FFFF00>How devastating.</font>
+
+676
+00:38:33,368 --> 00:38:35,168
+<font color=#FFFF00>He's such a jerk.</font>
+
+677
+00:38:35,398 --> 00:38:37,238
+<font color=#FFFF00>Why did he come to me?</font>
+
+678
+00:38:37,238 --> 00:38:40,668
+<font color=#FFFF00>Does he want me to bury his body or what?</font>
+
+679
+00:38:41,528 --> 00:38:44,368
+<font color=#FFFF00>You should face your tragic fate.</font>
+
+680
+00:38:47,738 --> 00:38:48,898
+<font color=#FFFF00>How?</font>
+
+681
+00:38:48,968 --> 00:38:49,998
+<font color=#FFFF00>You should...</font>
+
+682
+00:38:50,398 --> 00:38:51,528
+<font color=#FFFF00>live with him...</font>
+
+683
+00:38:52,098 --> 00:38:53,368
+<font color=#FFFF00>for the next three months.</font>
+
+684
+00:38:53,628 --> 00:38:56,268
+<font color=#FFFF00>Just before he dies.</font>
+
+685
+00:38:56,998 --> 00:38:57,998
+<font color=#FFFF00>What?</font>
+
+686
+00:39:00,998 --> 00:39:01,998
+<font color=#FFFF00>It's...</font>
+
+687
+00:39:03,238 --> 00:39:04,968
+<font color=#FFFF00>only three months.</font>
+
+688
+00:39:07,498 --> 00:39:09,598
+<font color=#FFFF00>Aunt.</font>
+
+689
+00:39:34,028 --> 00:39:36,598
+<font color=#FFFF00>Do you hate studying that much?</font>
+
+690
+00:39:37,268 --> 00:39:40,528
+<font color=#FFFF00>Actually, I like studying. It is quite fun.</font>
+
+691
+00:39:40,898 --> 00:39:42,668
+<font color=#FFFF00>That's why I get good grades.</font>
+
+692
+00:39:43,238 --> 00:39:44,698
+<font color=#FFFF00>Then why did you try to kill yourself?</font>
+
+693
+00:39:46,368 --> 00:39:49,798
+<font color=#FFFF00>I was scared out of my wits to hear that.</font>
+
+694
+00:39:50,238 --> 00:39:51,928
+<font color=#FFFF00>When I get fully stressed out,</font>
+
+695
+00:39:52,198 --> 00:39:54,198
+<font color=#FFFF00>I feel like I want to die.</font>
+
+696
+00:39:54,428 --> 00:39:55,598
+<font color=#FFFF00>That's why.</font>
+
+697
+00:39:56,828 --> 00:39:58,128
+<font color=#FFFF00>I think...</font>
+
+698
+00:39:59,198 --> 00:40:01,598
+<font color=#FFFF00>if your mom finds out the whole thing...</font>
+
+699
+00:40:01,768 --> 00:40:02,928
+<font color=#FFFF00>It will kill me.</font>
+
+700
+00:40:02,928 --> 00:40:03,928
+<font color=#FFFF00>You!</font>
+
+701
+00:40:04,368 --> 00:40:06,528
+<font color=#FFFF00>Stop saying that.</font>
+
+702
+00:40:10,798 --> 00:40:13,098
+<font color=#FFFF00>It's not just about you.</font>
+
+703
+00:40:13,968 --> 00:40:16,528
+<font color=#FFFF00>In fact, I feel sorry for students these days.</font>
+
+704
+00:40:19,328 --> 00:40:21,268
+<font color=#FFFF00>Why aren't you eating it?</font>
+
+705
+00:40:22,698 --> 00:40:23,968
+<font color=#FFFF00>I have no appetite.</font>
+
+706
+00:40:24,268 --> 00:40:26,498
+<font color=#FFFF00>I bought it for you. Just eat it.</font>
+
+707
+00:40:26,928 --> 00:40:30,268
+<font color=#FFFF00>You are supposed to like it at your age.</font>
+
+708
+00:40:32,468 --> 00:40:35,568
+<font color=#FFFF00>Gosh, look at you.</font>
+
+709
+00:40:35,568 --> 00:40:38,898
+<font color=#FFFF00>I wish I could tell your mom...</font>
+
+710
+00:40:39,738 --> 00:40:40,968
+<font color=#FFFF00>that you're her son.</font>
+
+711
+00:40:40,968 --> 00:40:42,628
+<font color=#FFFF00>It will really kill me.</font>
+
+712
+00:40:42,628 --> 00:40:45,428
+<font color=#FFFF00>Hey! Stop talking about that.</font>
+
+713
+00:40:45,498 --> 00:40:48,368
+<font color=#FFFF00>Will you say that again? Will you?</font>
+
+714
+00:40:48,628 --> 00:40:49,798
+<font color=#FFFF00>Gosh.</font>
+
+715
+00:40:49,998 --> 00:40:51,168
+<font color=#FFFF00>I'm sorry.</font>
+
+716
+00:40:53,668 --> 00:40:54,698
+<font color=#FFFF00>Eat it.</font>
+
+717
+00:40:55,168 --> 00:40:56,168
+<font color=#FFFF00>Okay.</font>
+
+718
+00:41:03,468 --> 00:41:05,238
+<font color=#FFFF00>I have something to tell you.</font>
+
+719
+00:41:05,628 --> 00:41:07,468
+<font color=#FFFF00>It's about Seong Joon.</font>
+
+720
+00:41:07,868 --> 00:41:09,168
+<font color=#FFFF00>What about him?</font>
+
+721
+00:41:09,528 --> 00:41:12,928
+<font color=#FFFF00>I heard Seong Joon sealed a move to another company.</font>
+
+722
+00:41:13,368 --> 00:41:15,468
+<font color=#FFFF00>Isn't it a good thing?</font>
+
+723
+00:41:15,568 --> 00:41:18,098
+<font color=#FFFF00>Isn't it that he was offered a better job?</font>
+
+724
+00:41:18,628 --> 00:41:22,098
+<font color=#FFFF00>I know that's what usually happens, but this isn't the case.</font>
+
+725
+00:41:22,498 --> 00:41:24,168
+<font color=#FFFF00>The company who offered him a job...</font>
+
+726
+00:41:24,168 --> 00:41:26,198
+<font color=#FFFF00>has a bad reputation in the field.</font>
+
+727
+00:41:26,198 --> 00:41:27,828
+<font color=#FFFF00>People say it is a nasty company.</font>
+
+728
+00:41:28,868 --> 00:41:30,368
+<font color=#FFFF00>- What? - Then...</font>
+
+729
+00:41:30,398 --> 00:41:32,328
+<font color=#FFFF00>why would Seong Joon move to the company then?</font>
+
+730
+00:41:32,598 --> 00:41:34,168
+<font color=#FFFF00>It seems...</font>
+
+731
+00:41:34,298 --> 00:41:36,428
+<font color=#FFFF00>he got a huge money for his transfer.</font>
+
+732
+00:41:38,328 --> 00:41:40,068
+<font color=#FFFF00>But he shouldn't do that.</font>
+
+733
+00:41:40,368 --> 00:41:42,128
+<font color=#FFFF00>You said it's a nasty company.</font>
+
+734
+00:41:42,398 --> 00:41:44,168
+<font color=#FFFF00>Money is not an issue.</font>
+
+735
+00:41:44,238 --> 00:41:46,098
+<font color=#FFFF00>Wait. Did Seong Joon...</font>
+
+736
+00:41:46,528 --> 00:41:47,968
+<font color=#FFFF00>That's right.</font>
+
+737
+00:41:48,068 --> 00:41:51,168
+<font color=#FFFF00>He made such a decision to get you the house.</font>
+
+738
+00:41:52,198 --> 00:41:53,468
+<font color=#FFFF00>What?</font>
+
+739
+00:41:53,768 --> 00:41:56,768
+<font color=#FFFF00>Is he out of his mind? He can't do that.</font>
+
+740
+00:41:56,828 --> 00:41:58,098
+<font color=#FFFF00>What are you talking about?</font>
+
+741
+00:41:58,098 --> 00:41:59,898
+<font color=#FFFF00>He's moving...</font>
+
+742
+00:41:59,928 --> 00:42:02,028
+<font color=#FFFF00>to a nasty company just for the money?</font>
+
+743
+00:42:02,028 --> 00:42:03,098
+<font color=#FFFF00>Gosh.</font>
+
+744
+00:42:03,168 --> 00:42:04,798
+<font color=#FFFF00>Anyway,</font>
+
+745
+00:42:04,828 --> 00:42:08,128
+<font color=#FFFF00>you should stop Seong Joon no matter what.</font>
+
+746
+00:42:08,738 --> 00:42:10,298
+<font color=#FFFF00>If things go wrong,</font>
+
+747
+00:42:10,298 --> 00:42:12,468
+<font color=#FFFF00>his career will come to a dead end.</font>
+
+748
+00:42:13,298 --> 00:42:15,268
+<font color=#FFFF00>- I can't believe this. - Oh dear.</font>
+
+749
+00:43:40,168 --> 00:43:42,728
+<font color=#FFFF00>(Testament)</font>
+
+750
+00:43:47,728 --> 00:43:51,268
+<font color=#FFFF00>(Assigner Park Chang Wook, Assignee Bang Hyun Jeong)</font>
+
+751
+00:43:51,268 --> 00:43:52,468
+<font color=#FFFF00>Bang Hyun Jeong.</font>
+
+752
+00:43:54,328 --> 00:43:55,428
+<font color=#FFFF00>Who is that?</font>
+
+753
+00:44:44,768 --> 00:44:45,768
+<font color=#FFFF00>Why are...</font>
+
+754
+00:44:46,728 --> 00:44:48,228
+<font color=#FFFF00>Dong Hui's pictures here?</font>
+
+755
+00:44:58,468 --> 00:45:01,768
+<font color=#FFFF00>(Death certificate, Oh Dong Hui)</font>
+
+756
+00:45:03,928 --> 00:45:04,998
+<font color=#FFFF00>No way.</font>
+
+757
+00:45:06,828 --> 00:45:07,968
+<font color=#FFFF00>Why is Dong Hui...</font>
+
+758
+00:45:08,468 --> 00:45:10,268
+<font color=#FFFF00>(Death certificate, Oh Dong Hui)</font>
+
+759
+00:45:19,498 --> 00:45:22,028
+<font color=#FFFF00>It's just like what you saw. Dong Hui is...</font>
+
+760
+00:45:22,328 --> 00:45:24,798
+<font color=#FFFF00>Gui Boon's granddaughter.</font>
+
+761
+00:45:25,598 --> 00:45:26,668
+<font color=#FFFF00>But...</font>
+
+762
+00:45:27,298 --> 00:45:28,798
+<font color=#FFFF00>she died a long time ago.</font>
+
+763
+00:45:30,328 --> 00:45:32,028
+<font color=#FFFF00>- Then... - Yes.</font>
+
+764
+00:45:32,528 --> 00:45:35,198
+<font color=#FFFF00>The person who's living as Oh Dong Hui is...</font>
+
+765
+00:45:35,368 --> 00:45:36,998
+<font color=#FFFF00>Chairwoman Park's granddaughter.</font>
+
+766
+00:45:37,798 --> 00:45:40,028
+<font color=#FFFF00>She's Late Bang Gwang Ho's only daughter,</font>
+
+767
+00:45:40,828 --> 00:45:42,198
+<font color=#FFFF00>Bang Hyun Jeong.</font>
+
+768
+00:45:45,798 --> 00:45:46,798
+<font color=#FFFF00>How...</font>
+
+769
+00:45:48,028 --> 00:45:49,798
+<font color=#FFFF00>How can this happen?</font>
+
+770
+00:45:50,168 --> 00:45:52,028
+<font color=#FFFF00>I couldn't tell you until now...</font>
+
+771
+00:45:52,898 --> 00:45:55,428
+<font color=#FFFF00>because Ms. Oh asked me not to tell you.</font>
+
+772
+00:45:57,668 --> 00:45:58,728
+<font color=#FFFF00>I am sorry.</font>
+
+773
+00:45:59,628 --> 00:46:00,968
+<font color=#FFFF00>Then...</font>
+
+774
+00:46:01,398 --> 00:46:03,098
+<font color=#FFFF00>isn't Dong Hui in a great danger?</font>
+
+775
+00:46:03,468 --> 00:46:06,298
+<font color=#FFFF00>There's no way they'd leave her alone.</font>
+
+776
+00:46:06,928 --> 00:46:09,628
+<font color=#FFFF00>But to extricate the chairwoman according to our plan,</font>
+
+777
+00:46:09,828 --> 00:46:11,328
+<font color=#FFFF00>this is the only way.</font>
+
+778
+00:46:12,168 --> 00:46:13,728
+<font color=#FFFF00>So please send those files...</font>
+
+779
+00:46:13,968 --> 00:46:15,428
+<font color=#FFFF00>to Bang Gwang Jin as soon as possible.</font>
+
+780
+00:46:19,628 --> 00:46:20,768
+<font color=#FFFF00>What will happen...</font>
+
+781
+00:46:22,328 --> 00:46:23,898
+<font color=#FFFF00>to Dong Hui after I send them?</font>
+
+782
+00:46:26,498 --> 00:46:28,368
+<font color=#FFFF00>I can't give you a definite answer.</font>
+
+783
+00:46:29,898 --> 00:46:31,198
+<font color=#FFFF00>However, this is...</font>
+
+784
+00:46:31,398 --> 00:46:34,098
+<font color=#FFFF00>the only way for us.</font>
+
+785
+00:46:43,398 --> 00:46:44,528
+<font color=#FFFF00>No way.</font>
+
+786
+00:46:46,298 --> 00:46:47,298
+<font color=#FFFF00>Dong Hui.</font>
+
+787
+00:46:56,298 --> 00:46:59,998
+<font color=#FFFF00>Grandmother, how are you not well?</font>
+
+788
+00:47:00,668 --> 00:47:01,998
+<font color=#FFFF00>I'm okay.</font>
+
+789
+00:47:03,298 --> 00:47:06,728
+<font color=#FFFF00>I just don't have energy. That's all.</font>
+
+790
+00:47:08,468 --> 00:47:10,528
+<font color=#FFFF00>But your temperature is too high.</font>
+
+791
+00:47:13,198 --> 00:47:14,268
+<font color=#FFFF00>You can't stay like this.</font>
+
+792
+00:47:14,628 --> 00:47:16,168
+<font color=#FFFF00>We have to go to the clinic.</font>
+
+793
+00:47:16,698 --> 00:47:19,998
+<font color=#FFFF00>Ms. Oh Gui Boon asked me to deliver these documents.</font>
+
+794
+00:47:20,798 --> 00:47:22,098
+<font color=#FFFF00>Okay.</font>
+
+795
+00:47:22,728 --> 00:47:24,598
+<font color=#FFFF00>Are you Mr. Bang Gwang Jin?</font>
+
+796
+00:47:25,428 --> 00:47:26,468
+<font color=#FFFF00>That's right.</font>
+
+797
+00:47:35,198 --> 00:47:38,398
+<font color=#FFFF00>(Deed of Transfer of Stocks)</font>
+
+798
+00:47:38,968 --> 00:47:41,798
+<font color=#FFFF00>(Death Certificate)</font>
+
+799
+00:47:42,168 --> 00:47:44,628
+<font color=#FFFF00>Right. This is how it's supposed to be done.</font>
+
+800
+00:47:45,428 --> 00:47:47,228
+<font color=#FFFF00>Finally, everything is coming to an end.</font>
+
+801
+00:47:50,928 --> 00:47:53,198
+<font color=#FFFF00>Everything is over now.</font>
+
+802
+00:47:53,968 --> 00:47:55,228
+<font color=#FFFF00>Do you know what this is?</font>
+
+803
+00:47:58,568 --> 00:47:59,798
+<font color=#FFFF00>I don't know.</font>
+
+804
+00:48:01,668 --> 00:48:03,098
+<font color=#FFFF00>This is...</font>
+
+805
+00:48:08,128 --> 00:48:09,128
+<font color=#FFFF00>What is it?</font>
+
+806
+00:48:09,828 --> 00:48:11,998
+<font color=#FFFF00>I need to take Grandmother to a hospital.</font>
+
+807
+00:48:13,928 --> 00:48:14,928
+<font color=#FFFF00>What's going on?</font>
+
+808
+00:48:15,028 --> 00:48:16,568
+<font color=#FFFF00>Grandmother isn't well.</font>
+
+809
+00:48:16,898 --> 00:48:18,528
+<font color=#FFFF00>Please let me take her to the hospital.</font>
+
+810
+00:48:19,128 --> 00:48:20,798
+<font color=#FFFF00>I told you to wait, didn't I?</font>
+
+811
+00:48:21,028 --> 00:48:23,528
+<font color=#FFFF00>Until when? I beg you.</font>
+
+812
+00:48:24,228 --> 00:48:25,428
+<font color=#FFFF00>I won't run away.</font>
+
+813
+00:48:25,598 --> 00:48:29,528
+<font color=#FFFF00>Just let me take Grandmother to the hospital.</font>
+
+814
+00:48:30,668 --> 00:48:32,968
+<font color=#FFFF00>What if she passes away like this?</font>
+
+815
+00:48:33,098 --> 00:48:34,098
+<font color=#FFFF00>Aren't you...</font>
+
+816
+00:48:34,598 --> 00:48:36,828
+<font color=#FFFF00>worried that your grandmother might pass away?</font>
+
+817
+00:48:38,528 --> 00:48:39,868
+<font color=#FFFF00>You jerk.</font>
+
+818
+00:48:40,528 --> 00:48:42,368
+<font color=#FFFF00>Hey! How dare you talk to an elder that way?</font>
+
+819
+00:48:42,828 --> 00:48:44,598
+<font color=#FFFF00>You are terrible. You're terrible.</font>
+
+820
+00:48:44,668 --> 00:48:46,428
+<font color=#FFFF00>How can you do this to us?</font>
+
+821
+00:48:46,468 --> 00:48:48,728
+<font color=#FFFF00>How can you do this to my grandmother?</font>
+
+822
+00:48:49,268 --> 00:48:51,468
+<font color=#FFFF00>Let go of me. Let go!</font>
+
+823
+00:48:52,568 --> 00:48:53,568
+<font color=#FFFF00>Stop.</font>
+
+824
+00:48:57,368 --> 00:49:00,528
+<font color=#FFFF00>You want to save your grandmother, don't you?</font>
+
+825
+00:49:01,528 --> 00:49:04,628
+<font color=#FFFF00>You want to save both of your grandmothers.</font>
+
+826
+00:49:04,828 --> 00:49:06,398
+<font color=#FFFF00>You want to save them all, don't you?</font>
+
+827
+00:49:07,828 --> 00:49:11,698
+<font color=#FFFF00>Then you better listen to me carefully.</font>
+
+828
+00:49:12,428 --> 00:49:14,828
+<font color=#FFFF00>Dad, what are you trying to do?</font>
+
+829
+00:49:15,398 --> 00:49:16,398
+<font color=#FFFF00>Follow me.</font>
+
+830
+00:49:18,698 --> 00:49:21,628
+<font color=#FFFF00>Let go of me. My grandmother is sick!</font>
+
+831
+00:49:21,728 --> 00:49:24,498
+<font color=#FFFF00>Grandmother! Let go of me!</font>
+
+832
+00:49:31,098 --> 00:49:33,898
+<font color=#FFFF00>(Hearty Sanatorium)</font>
+
+833
+00:49:34,228 --> 00:49:35,298
+<font color=#FFFF00>Mother.</font>
+
+834
+00:49:35,998 --> 00:49:38,528
+<font color=#FFFF00>The old sayings are true.</font>
+
+835
+00:49:38,798 --> 00:49:39,798
+<font color=#FFFF00>There are no parents in this world...</font>
+
+836
+00:49:40,328 --> 00:49:42,998
+<font color=#FFFF00>who wouldn't do anything for their child.</font>
+
+837
+00:49:44,128 --> 00:49:46,028
+<font color=#FFFF00>It was going to turn out like this anyway.</font>
+
+838
+00:49:46,398 --> 00:49:48,268
+<font color=#FFFF00>So if you fixed it earlier,</font>
+
+839
+00:49:48,868 --> 00:49:51,028
+<font color=#FFFF00>Hyun Jeong didn't have to struggle.</font>
+
+840
+00:49:51,568 --> 00:49:54,528
+<font color=#FFFF00>She could've lived a happy life.</font>
+
+841
+00:49:58,128 --> 00:50:00,828
+<font color=#FFFF00>Now, it's about time.</font>
+
+842
+00:50:01,128 --> 00:50:03,528
+<font color=#FFFF00>This is the will the bank has been keeping for you.</font>
+
+843
+00:50:05,128 --> 00:50:07,628
+<font color=#FFFF00>And this is Hyun Jeong's stock certificate.</font>
+
+844
+00:50:07,968 --> 00:50:09,828
+<font color=#FFFF00>Gui Boon gave up as well.</font>
+
+845
+00:50:10,468 --> 00:50:11,928
+<font color=#FFFF00>Now, you just have...</font>
+
+846
+00:50:13,568 --> 00:50:15,928
+<font color=#FFFF00>to fix your will.</font>
+
+847
+00:50:16,498 --> 00:50:18,098
+<font color=#FFFF00>In my whole life,</font>
+
+848
+00:50:19,268 --> 00:50:22,028
+<font color=#FFFF00>I began as a street vendor...</font>
+
+849
+00:50:22,028 --> 00:50:24,368
+<font color=#FFFF00>and managed to save that much money.</font>
+
+850
+00:50:26,368 --> 00:50:29,568
+<font color=#FFFF00>I just wanted to feed, dress,</font>
+
+851
+00:50:29,898 --> 00:50:32,828
+<font color=#FFFF00>and educate my children well.</font>
+
+852
+00:50:33,328 --> 00:50:36,528
+<font color=#FFFF00>But that money became my enemy.</font>
+
+853
+00:50:37,668 --> 00:50:39,668
+<font color=#FFFF00>That money pulled siblings apart,</font>
+
+854
+00:50:39,928 --> 00:50:40,968
+<font color=#FFFF00>and that money...</font>
+
+855
+00:50:41,398 --> 00:50:44,128
+<font color=#FFFF00>also pulled apart the parent from her children.</font>
+
+856
+00:50:55,068 --> 00:50:57,568
+<font color=#FFFF00>Come closer.</font>
+
+857
+00:51:00,898 --> 00:51:01,898
+<font color=#FFFF00>Grandmother.</font>
+
+858
+00:51:04,128 --> 00:51:05,228
+<font color=#FFFF00>Goodness.</font>
+
+859
+00:51:05,898 --> 00:51:07,768
+<font color=#FFFF00>You grew up as a beautiful lady.</font>
+
+860
+00:51:09,928 --> 00:51:12,298
+<font color=#FFFF00>You became a beautiful lady.</font>
+
+861
+00:51:13,798 --> 00:51:15,268
+<font color=#FFFF00>I am sorry.</font>
+
+862
+00:51:16,498 --> 00:51:18,228
+<font color=#FFFF00>Don't say that.</font>
+
+863
+00:51:19,128 --> 00:51:21,768
+<font color=#FFFF00>There's nothing you should be sorry about.</font>
+
+864
+00:51:23,268 --> 00:51:24,768
+<font color=#FFFF00>I am the one...</font>
+
+865
+00:51:25,898 --> 00:51:28,098
+<font color=#FFFF00>who is sorry.</font>
+
+866
+00:51:29,898 --> 00:51:31,898
+<font color=#FFFF00>- Grandmother. - Yes?</font>
+
+867
+00:51:33,328 --> 00:51:34,468
+<font color=#FFFF00>Just...</font>
+
+868
+00:51:35,098 --> 00:51:37,868
+<font color=#FFFF00>fix the will for him.</font>
+
+869
+00:51:39,768 --> 00:51:40,828
+<font color=#FFFF00>But...</font>
+
+870
+00:51:42,228 --> 00:51:43,928
+<font color=#FFFF00>But you...</font>
+
+871
+00:51:46,168 --> 00:51:49,098
+<font color=#FFFF00>won't be taking anything then.</font>
+
+872
+00:51:50,068 --> 00:51:52,198
+<font color=#FFFF00>I don't need anything.</font>
+
+873
+00:51:53,028 --> 00:51:55,368
+<font color=#FFFF00>I've been living that way until now.</font>
+
+874
+00:51:56,328 --> 00:51:57,598
+<font color=#FFFF00>So Grandmother,</font>
+
+875
+00:51:57,868 --> 00:51:59,728
+<font color=#FFFF00>don't worry about me...</font>
+
+876
+00:52:00,328 --> 00:52:01,628
+<font color=#FFFF00>and just...</font>
+
+877
+00:52:02,098 --> 00:52:03,668
+<font color=#FFFF00>fix the will.</font>
+
+878
+00:52:05,398 --> 00:52:06,768
+<font color=#FFFF00>You've been stuck here...</font>
+
+879
+00:52:07,028 --> 00:52:08,868
+<font color=#FFFF00>for the past 20 years.</font>
+
+880
+00:52:09,568 --> 00:52:12,328
+<font color=#FFFF00>You spent too many years in here.</font>
+
+881
+00:52:12,698 --> 00:52:14,028
+<font color=#FFFF00>My darling.</font>
+
+882
+00:52:15,328 --> 00:52:16,728
+<font color=#FFFF00>Come closer.</font>
+
+883
+00:52:18,328 --> 00:52:20,228
+<font color=#FFFF00>My darling.</font>
+
+884
+00:52:20,698 --> 00:52:22,568
+<font color=#FFFF00>My lovely darling.</font>
+
+885
+00:52:22,568 --> 00:52:24,398
+<font color=#FFFF00>Let me hug you.</font>
+
+886
+00:52:25,068 --> 00:52:26,198
+<font color=#FFFF00>Grandmother.</font>
+
+887
+00:52:28,068 --> 00:52:29,328
+<font color=#FFFF00>My darling.</font>
+
+888
+00:52:29,968 --> 00:52:31,598
+<font color=#FFFF00>My lovely darling.</font>
+
+889
+00:52:32,168 --> 00:52:33,368
+<font color=#FFFF00>My darling.</font>
+
+890
+00:52:34,728 --> 00:52:38,168
+<font color=#FFFF00>(Testament)</font>
+
+891
+00:52:46,528 --> 00:52:47,528
+<font color=#FFFF00>(Park Chang Wook)</font>
+
+892
+00:52:47,868 --> 00:52:48,898
+<font color=#FFFF00>Okay!</font>
+
+893
+00:52:50,898 --> 00:52:53,928
+<font color=#FFFF00>I waited for 20 years. 20 years, I tell you.</font>
+
+894
+00:52:55,028 --> 00:52:57,468
+<font color=#FFFF00>It has turned my hair gray.</font>
+
+895
+00:52:59,628 --> 00:53:00,668
+<font color=#FFFF00>I have one condition.</font>
+
+896
+00:53:01,628 --> 00:53:03,228
+<font color=#FFFF00>I want you...</font>
+
+897
+00:53:04,028 --> 00:53:05,698
+<font color=#FFFF00>to release...</font>
+
+898
+00:53:06,398 --> 00:53:07,468
+<font color=#FFFF00>Dong Hui and Gui Boon.</font>
+
+899
+00:53:09,068 --> 00:53:10,928
+<font color=#FFFF00>- Mr. Kim. - Yes, sir.</font>
+
+900
+00:53:11,598 --> 00:53:13,298
+<font color=#FFFF00>- Take care of this. - Yes, sir.</font>
+
+901
+00:53:16,968 --> 00:53:20,498
+<font color=#FFFF00>I was going to release them anyway.</font>
+
+902
+00:53:21,028 --> 00:53:23,628
+<font color=#FFFF00>They don't have a penny to their names.</font>
+
+903
+00:53:24,398 --> 00:53:25,698
+<font color=#FFFF00>She will live...</font>
+
+904
+00:53:26,168 --> 00:53:28,728
+<font color=#FFFF00>as Oh Dong Hui for the rest of her life.</font>
+
+905
+00:53:28,728 --> 00:53:29,898
+<font color=#FFFF00>Don't you think so?</font>
+
+906
+00:53:33,998 --> 00:53:38,128
+<font color=#FFFF00>Gosh, my dear Ye Bin. You're studying English.</font>
+
+907
+00:53:38,528 --> 00:53:41,298
+<font color=#FFFF00>Mom. I don't want to study English.</font>
+
+908
+00:53:41,468 --> 00:53:46,028
+<font color=#FFFF00>You have to. You know Chang Soo came first place in his competition.</font>
+
+909
+00:53:46,368 --> 00:53:50,768
+<font color=#FFFF00>Children are supposed to study.</font>
+
+910
+00:53:51,068 --> 00:53:53,568
+<font color=#FFFF00>I want to go out and play.</font>
+
+911
+00:53:53,698 --> 00:53:54,828
+<font color=#FFFF00>You can't!</font>
+
+912
+00:53:55,628 --> 00:53:57,368
+<font color=#FFFF00>- Ji Hoon, stop right there. - No.</font>
+
+913
+00:53:57,498 --> 00:53:59,068
+<font color=#FFFF00>I told you to stop.</font>
+
+914
+00:53:59,128 --> 00:54:00,868
+<font color=#FFFF00>What are you doing, Hee Sook?</font>
+
+915
+00:54:01,068 --> 00:54:02,698
+<font color=#FFFF00>Why are you doing this to me?</font>
+
+916
+00:54:04,498 --> 00:54:05,598
+<font color=#FFFF00>Is this your report card?</font>
+
+917
+00:54:06,128 --> 00:54:08,568
+<font color=#FFFF00>Why are your grades so terrible?</font>
+
+918
+00:54:10,328 --> 00:54:11,928
+<font color=#FFFF00>Why are you closing your ears?</font>
+
+919
+00:54:11,998 --> 00:54:13,628
+<font color=#FFFF00>Stop closing your ears!</font>
+
+920
+00:54:15,868 --> 00:54:17,228
+<font color=#FFFF00>What's going on?</font>
+
+921
+00:54:17,228 --> 00:54:19,728
+<font color=#FFFF00>- What's the matter? - Hee Sook.</font>
+
+922
+00:54:19,828 --> 00:54:21,668
+<font color=#FFFF00>What's wrong?</font>
+
+923
+00:54:21,668 --> 00:54:22,798
+<font color=#FFFF00>Honey.</font>
+
+924
+00:54:24,128 --> 00:54:26,498
+<font color=#FFFF00>It's nothing.</font>
+
+925
+00:54:26,568 --> 00:54:28,268
+<font color=#FFFF00>It's no big deal.</font>
+
+926
+00:54:28,628 --> 00:54:31,398
+<font color=#FFFF00>I was talking to Ji Hoon.</font>
+
+927
+00:54:31,928 --> 00:54:33,698
+<font color=#FFFF00>Han Ji Hoon, follow me.</font>
+
+928
+00:54:33,698 --> 00:54:34,728
+<font color=#FFFF00>No.</font>
+
+929
+00:54:34,798 --> 00:54:36,498
+<font color=#FFFF00>I'm not talking to you.</font>
+
+930
+00:54:38,668 --> 00:54:40,498
+<font color=#FFFF00>Please excuse him.</font>
+
+931
+00:54:40,628 --> 00:54:44,128
+<font color=#FFFF00>Ji Hoon must have been stressed out with studying.</font>
+
+932
+00:54:44,798 --> 00:54:45,998
+<font color=#FFFF00>Follow me.</font>
+
+933
+00:54:46,228 --> 00:54:48,098
+<font color=#FFFF00>- I said no! - Gosh.</font>
+
+934
+00:54:48,128 --> 00:54:49,368
+<font color=#FFFF00>Hey!</font>
+
+935
+00:54:49,728 --> 00:54:53,198
+<font color=#FFFF00>What do you think you are doing to your Mom?</font>
+
+936
+00:54:54,198 --> 00:54:55,228
+<font color=#FFFF00>I mean,</font>
+
+937
+00:54:55,498 --> 00:54:57,868
+<font color=#FFFF00>she's your aunt.</font>
+
+938
+00:55:02,228 --> 00:55:05,298
+<font color=#FFFF00>He must be under a lot of stress.</font>
+
+939
+00:55:06,298 --> 00:55:09,598
+<font color=#FFFF00>You should stop it. Ji Hoon is not your son.</font>
+
+940
+00:55:09,598 --> 00:55:11,628
+<font color=#FFFF00>Why are you doing this to Hye Joo's son?</font>
+
+941
+00:55:11,668 --> 00:55:13,728
+<font color=#FFFF00>I just can't understand you.</font>
+
+942
+00:55:13,728 --> 00:55:15,898
+<font color=#FFFF00>Mother. You know that.</font>
+
+943
+00:55:16,028 --> 00:55:17,498
+<font color=#FFFF00>Seong Hoon and Hye Joo are...</font>
+
+944
+00:55:17,768 --> 00:55:20,398
+<font color=#FFFF00>not that interested in their child's education.</font>
+
+945
+00:55:20,628 --> 00:55:23,228
+<font color=#FFFF00>If Ji Hoon studies a little harder,</font>
+
+946
+00:55:23,298 --> 00:55:25,368
+<font color=#FFFF00>he will get first place in his school again.</font>
+
+947
+00:55:25,698 --> 00:55:27,628
+<font color=#FFFF00>He will even take the nation's first place.</font>
+
+948
+00:55:28,098 --> 00:55:30,198
+<font color=#FFFF00>- Ji Hoon, follow me. - No.</font>
+
+949
+00:55:30,198 --> 00:55:32,668
+<font color=#FFFF00>Hee Sook, stop it.</font>
+
+950
+00:55:32,668 --> 00:55:35,428
+<font color=#FFFF00>You can lead a horse to the water, but you can't make him drink.</font>
+
+951
+00:55:35,498 --> 00:55:38,668
+<font color=#FFFF00>There's no way you can force him to study when he doesn't want to.</font>
+
+952
+00:55:39,298 --> 00:55:41,268
+<font color=#FFFF00>I can't believe this. Honey.</font>
+
+953
+00:55:41,598 --> 00:55:43,928
+<font color=#FFFF00>Let's just focus on Chang Soo.</font>
+
+954
+00:55:43,998 --> 00:55:46,768
+<font color=#FFFF00>Ji Hoon is not our son anymore. Why are you doing this?</font>
+
+955
+00:55:46,768 --> 00:55:49,328
+<font color=#FFFF00>Just give him to Seong Hoon and forget about him.</font>
+
+956
+00:55:51,498 --> 00:55:52,768
+<font color=#FFFF00>Grandmother, Mother, and Father.</font>
+
+957
+00:55:53,128 --> 00:55:54,468
+<font color=#FFFF00>And members of this family.</font>
+
+958
+00:55:55,928 --> 00:55:57,928
+<font color=#FFFF00>I raised him for 15 years.</font>
+
+959
+00:55:58,198 --> 00:55:59,228
+<font color=#FFFF00>Even though...</font>
+
+960
+00:55:59,698 --> 00:56:01,428
+<font color=#FFFF00>I didn't give birth to him,</font>
+
+961
+00:56:02,168 --> 00:56:05,568
+<font color=#FFFF00>I raised him with all my heart for 15 years.</font>
+
+962
+00:56:05,728 --> 00:56:08,928
+<font color=#FFFF00>We are living under the same roof after all.</font>
+
+963
+00:56:09,098 --> 00:56:12,528
+<font color=#FFFF00>It doesn't matter whether he's my birth son or not.</font>
+
+964
+00:56:13,328 --> 00:56:16,328
+<font color=#FFFF00>Let's just make the most of our special abilities. You make money.</font>
+
+965
+00:56:16,728 --> 00:56:19,798
+<font color=#FFFF00>And I will be in charge of children's education.</font>
+
+966
+00:56:19,828 --> 00:56:22,798
+<font color=#FFFF00>What's wrong with that?</font>
+
+967
+00:56:22,798 --> 00:56:26,168
+<font color=#FFFF00>The problem is Ji Hoon doesn't want it.</font>
+
+968
+00:56:26,498 --> 00:56:29,898
+<font color=#FFFF00>Hye Joo, take Ji Hoon with you.</font>
+
+969
+00:56:29,968 --> 00:56:31,998
+<font color=#FFFF00>- Okay. - Bring him.</font>
+
+970
+00:56:32,198 --> 00:56:34,498
+<font color=#FFFF00>You can't go. Follow me.</font>
+
+971
+00:56:34,498 --> 00:56:37,198
+<font color=#FFFF00>Hee Sook, let go of him.</font>
+
+972
+00:56:37,268 --> 00:56:39,368
+<font color=#FFFF00>You should let go of him.</font>
+
+973
+00:56:39,468 --> 00:56:41,628
+<font color=#FFFF00>Ji Hoon needs to study.</font>
+
+974
+00:56:42,428 --> 00:56:45,168
+<font color=#FFFF00>What do you think you are doing with him?</font>
+
+975
+00:56:46,828 --> 00:56:47,928
+<font color=#FFFF00>Hee Sook.</font>
+
+976
+00:56:48,168 --> 00:56:49,568
+<font color=#FFFF00>Follow me!</font>
+
+977
+00:56:49,868 --> 00:56:51,228
+<font color=#FFFF00>Kang Hee Sook!</font>
+
+978
+00:56:51,568 --> 00:56:52,998
+<font color=#FFFF00>You wicked wench!</font>
+
+979
+00:56:53,298 --> 00:56:55,298
+<font color=#FFFF00>Do you want to see him die?</font>
+
+980
+00:56:55,298 --> 00:56:56,928
+<font color=#FFFF00>I said he needs to study.</font>
+
+981
+00:56:56,968 --> 00:56:59,628
+<font color=#FFFF00>- Hee Sook, stop it. - Hee Sook.</font>
+
+982
+00:56:59,628 --> 00:57:01,868
+<font color=#FFFF00>Are you out of your mind?</font>
+
+983
+00:57:02,498 --> 00:57:04,428
+<font color=#FFFF00>Stop it, everyone!</font>
+
+984
+00:57:04,928 --> 00:57:08,098
+<font color=#FFFF00>If you keep doing this, I'll run away from home.</font>
+
+985
+00:57:09,028 --> 00:57:12,398
+<font color=#FFFF00>Ji Hoon. Ji Hoon!</font>
+
+986
+00:57:12,628 --> 00:57:15,228
+<font color=#FFFF00>- Ji Hoon, you rascal! - Hee Sook!</font>
+
+987
+00:57:16,228 --> 00:57:17,968
+<font color=#FFFF00>I told you to stop!</font>
+
+988
+00:57:23,228 --> 00:57:24,568
+<font color=#FFFF00>Did you see that?</font>
+
+989
+00:57:26,528 --> 00:57:27,598
+<font color=#FFFF00>- Yes. - Yes.</font>
+
+990
+00:57:27,798 --> 00:57:29,028
+<font color=#FFFF00>I did.</font>
+
+991
+00:57:29,628 --> 00:57:31,098
+<font color=#FFFF00>It's that bad.</font>
+
+992
+00:57:31,728 --> 00:57:33,398
+<font color=#FFFF00>I don't think...</font>
+
+993
+00:57:33,568 --> 00:57:36,698
+<font color=#FFFF00>it is a good idea to tell her the truth now.</font>
+
+994
+00:57:37,028 --> 00:57:40,498
+<font color=#FFFF00>I know. That's exactly what I'm saying.</font>
+
+995
+00:57:43,298 --> 00:57:44,328
+<font color=#FFFF00>Hye Joo.</font>
+
+996
+00:57:46,968 --> 00:57:48,398
+<font color=#FFFF00>Still.</font>
+
+997
+00:57:49,228 --> 00:57:53,128
+<font color=#FFFF00>How long do we have to do this?</font>
+
+998
+00:57:54,168 --> 00:57:56,198
+<font color=#FFFF00>Let's say we will let it slide this time.</font>
+
+999
+00:57:56,798 --> 00:57:58,698
+<font color=#FFFF00>But after quite a while,</font>
+
+1000
+00:57:58,968 --> 00:58:00,928
+<font color=#FFFF00>how will you tell them the truth?</font>
+
+1001
+00:58:01,628 --> 00:58:03,568
+<font color=#FFFF00>You're right.</font>
+
+1002
+00:58:03,798 --> 00:58:06,328
+<font color=#FFFF00>This is driving me crazy. What should we do?</font>
+
+1003
+00:58:12,428 --> 00:58:13,898
+<font color=#FFFF00>It wasn't me.</font>
+
+1004
+00:58:17,368 --> 00:58:18,398
+<font color=#FFFF00>Was it you, Dad?</font>
+
+1005
+00:58:20,898 --> 00:58:21,928
+<font color=#FFFF00>It wasn't me.</font>
+
+1006
+00:58:23,968 --> 00:58:25,868
+<font color=#FFFF00>Who would it be then?</font>
+
+1007
+00:58:31,828 --> 00:58:32,898
+<font color=#FFFF00>Is that true?</font>
+
+1008
+00:58:34,968 --> 00:58:38,468
+<font color=#FFFF00>Hey, since when were you there?</font>
+
+1009
+00:58:38,728 --> 00:58:39,768
+<font color=#FFFF00>Well...</font>
+
+1010
+00:58:40,298 --> 00:58:42,628
+<font color=#FFFF00>Chang Soo, what did you hear?</font>
+
+1011
+00:58:43,268 --> 00:58:44,368
+<font color=#FFFF00>Is that true?</font>
+
+1012
+00:58:44,998 --> 00:58:46,698
+<font color=#FFFF00>- What? - What?</font>
+
+1013
+00:58:48,098 --> 00:58:51,368
+<font color=#FFFF00>Is it true that Ji Hoon and I weren't switched?</font>
+
+1014
+00:58:54,668 --> 00:58:56,528
+<font color=#FFFF00>What should we do?</font>
+
+1015
+00:58:57,198 --> 00:58:59,868
+<font color=#FFFF00>Was it really a lie?</font>
+
+1016
+00:59:00,368 --> 00:59:01,398
+<font color=#FFFF00>Is that it?</font>
+
+1017
+00:59:02,168 --> 00:59:04,028
+<font color=#FFFF00>Dad. Mom.</font>
+
+1018
+00:59:04,498 --> 00:59:05,568
+<font color=#FFFF00>Grandfather.</font>
+
+1019
+00:59:05,698 --> 00:59:07,228
+<font color=#FFFF00>Keep quiet.</font>
+
+1020
+00:59:07,268 --> 00:59:08,998
+<font color=#FFFF00>Why are you doing this to him?</font>
+
+1021
+00:59:08,998 --> 00:59:10,298
+<font color=#FFFF00>Stay quiet.</font>
+
+1022
+00:59:10,928 --> 00:59:12,468
+<font color=#FFFF00>Is it really true?</font>
+
+1023
+00:59:12,468 --> 00:59:14,928
+<font color=#FFFF00>Is it true that we were not switched?</font>
+
+1024
+00:59:14,928 --> 00:59:16,498
+<font color=#FFFF00>I told you to be quiet.</font>
+
+1025
+00:59:16,498 --> 00:59:18,728
+<font color=#FFFF00>Seong Hoon, stop covering his mouth with your hand.</font>
+
+1026
+00:59:18,728 --> 00:59:20,868
+<font color=#FFFF00>- Keep quiet. - Stop it.</font>
+
+1027
+00:59:28,328 --> 00:59:30,568
+<font color=#FFFF00>Grandmother, are you okay?</font>
+
+1028
+00:59:30,868 --> 00:59:33,398
+<font color=#FFFF00>Yes, I'm fine.</font>
+
+1029
+00:59:34,228 --> 00:59:38,098
+<font color=#FFFF00>By the way, go give Seong Joon a call.</font>
+
+1030
+00:59:38,328 --> 00:59:41,098
+<font color=#FFFF00>He's taking care of everything all alone.</font>
+
+1031
+00:59:42,098 --> 00:59:44,398
+<font color=#FFFF00>I'm afraid if he'd be in danger.</font>
+
+1032
+00:59:44,698 --> 00:59:47,768
+<font color=#FFFF00>Go give him a call now.</font>
+
+1033
+00:59:50,468 --> 00:59:51,528
+<font color=#FFFF00>Okay.</font>
+
+1034
+00:59:59,028 --> 01:00:00,568
+<font color=#FFFF00>Seong Joon, it's me.</font>
+
+1035
+01:00:02,628 --> 01:00:03,968
+<font color=#FFFF00>Yes, we are out.</font>
+
+1036
+01:00:04,468 --> 01:00:06,268
+<font color=#FFFF00>Grandmother and I got out of the house.</font>
+
+1037
+01:00:17,198 --> 01:00:18,368
+<font color=#FFFF00>Moong Chi.</font>
+
+1038
+01:00:20,998 --> 01:00:22,068
+<font color=#FFFF00>Moong Chi.</font>
+
+1039
+01:00:22,998 --> 01:00:25,268
+<font color=#FFFF00>What are you doing here alone?</font>
+
+1040
+01:00:26,628 --> 01:00:29,298
+<font color=#FFFF00>Moong Chi, I missed you so much.</font>
+
+1041
+01:00:30,528 --> 01:00:32,068
+<font color=#FFFF00>My dear Moong Chi.</font>
+
+1042
+01:00:33,298 --> 01:00:34,428
+<font color=#FFFF00>What?</font>
+
+1043
+01:00:34,798 --> 01:00:36,468
+<font color=#FFFF00>Seong Joon really did that?</font>
+
+1044
+01:00:36,598 --> 01:00:37,728
+<font color=#FFFF00>That's ridiculous.</font>
+
+1045
+01:00:38,128 --> 01:00:40,368
+<font color=#FFFF00>He wouldn't do that. There must have been a mix-up.</font>
+
+1046
+01:00:40,428 --> 01:00:41,898
+<font color=#FFFF00>Stay out of this, Mi Joo.</font>
+
+1047
+01:00:43,498 --> 01:00:45,428
+<font color=#FFFF00>What did you say...</font>
+
+1048
+01:00:45,468 --> 01:00:47,098
+<font color=#FFFF00>Seong Joon, that jerk did?</font>
+
+1049
+01:00:55,328 --> 01:00:57,828
+<font color=#FFFF00>Moong Chi, good girl.</font>
+
+1050
+01:00:58,168 --> 01:00:59,498
+<font color=#FFFF00>Good girl.</font>
+
+1051
+01:01:00,528 --> 01:01:03,268
+<font color=#FFFF00>You've watched the house the whole time.</font>
+
+1052
+01:01:03,628 --> 01:01:04,998
+<font color=#FFFF00>Thank you.</font>
+
+1053
+01:01:13,628 --> 01:01:14,698
+<font color=#FFFF00>Dong Hui.</font>
+
+1054
+01:01:15,498 --> 01:01:16,698
+<font color=#FFFF00>Seong Joon.</font>
+
+1055
+01:01:21,328 --> 01:01:22,568
+<font color=#FFFF00>Seong Joon.</font>
+
+1056
+01:01:23,168 --> 01:01:24,298
+<font color=#FFFF00>Dong Hui.</font>
+
+1057
+01:01:38,768 --> 01:01:39,798
+<font color=#FFFF00>Are you all right?</font>
+
+1058
+01:01:40,968 --> 01:01:42,068
+<font color=#FFFF00>Are you okay?</font>
+
+1059
+01:01:43,028 --> 01:01:45,428
+<font color=#FFFF00>Yes, I'm fine.</font>
+
+1060
+01:01:52,228 --> 01:01:53,328
+<font color=#FFFF00>I was worried about you.</font>
+
+1061
+01:01:54,298 --> 01:01:55,528
+<font color=#FFFF00>I was so worried.</font>
+
+1062
+01:01:55,628 --> 01:01:57,268
+<font color=#FFFF00>I'm okay now.</font>
+
+1063
+01:01:58,098 --> 01:01:59,828
+<font color=#FFFF00>Don't worry about me.</font>
+
+1064
+01:02:03,828 --> 01:02:05,028
+<font color=#FFFF00>I'm sorry.</font>
+
+1065
+01:02:06,398 --> 01:02:08,168
+<font color=#FFFF00>And thank you.</font>
+
+1066
+01:02:09,368 --> 01:02:11,928
+<font color=#FFFF00>You've been through a lot because of me.</font>
+
+1067
+01:02:13,498 --> 01:02:15,728
+<font color=#FFFF00>I was worried about you.</font>
+
+1068
+01:02:16,868 --> 01:02:18,668
+<font color=#FFFF00>I was afraid you'd get hurt...</font>
+
+1069
+01:02:19,668 --> 01:02:21,098
+<font color=#FFFF00>or something would happen to you.</font>
+
+1070
+01:02:22,928 --> 01:02:26,528
+<font color=#FFFF00>I've been worried sick about you.</font>
+
+1071
+01:03:09,368 --> 01:03:11,168
+<font color=#FFFF00>(Father, I'll Take Care of You)</font>
+
+1072
+01:03:11,568 --> 01:03:13,328
+<font color=#FFFF00>- Mom. - Seong Joon.</font>
+
+1073
+01:03:13,368 --> 01:03:15,398
+<font color=#FFFF00>It's not about whether you do well or not.</font>
+
+1074
+01:03:15,498 --> 01:03:17,668
+<font color=#FFFF00>Don't give up. Just kill him.</font>
+
+1075
+01:03:18,228 --> 01:03:20,198
+<font color=#FFFF00>Seong Joon who you love so much...</font>
+
+1076
+01:03:20,198 --> 01:03:22,228
+<font color=#FFFF00>Do you think you can protect him?</font>
+
+1077
+01:03:22,828 --> 01:03:25,428
+<font color=#FFFF00>I can't stop here, can I?</font>
+
+1078
+01:03:25,628 --> 01:03:27,898
+<font color=#FFFF00>- What's this? - If something happens to me,</font>
+
+1079
+01:03:28,028 --> 01:03:29,498
+<font color=#FFFF00>you might need it.</font>
+
+1080
+01:03:29,498 --> 01:03:31,468
+<font color=#FFFF00>Why are you looking for our director?</font>
+
+1081
+01:03:31,828 --> 01:03:34,628
+<font color=#FFFF00>We are arresting you for manipulating the stock price.</font>
+
+1082
+01:03:34,728 --> 01:03:35,728
+<font color=#FFFF00>Director Han.</font>
+

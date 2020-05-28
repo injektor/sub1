@@ -1,0 +1,3193 @@
+﻿1
+00:00:00,300 --> 00:00:09,700
+<font color="#ffff00">-CONFESSION-</font>
+
+2
+00:00:16,860 --> 00:00:19,660
+<i>Kasus pembunuhan seorang wanita berusia 20-an di lokasi konstruksi.</i>
+
+3
+00:00:19,780 --> 00:00:22,860
+<i>Kasus pembunuhan yang kejam ini telah membuat semua orang trauma.</i>
+
+4
+00:00:22,980 --> 00:00:24,660
+<i>Han Jong-gu, berhenti!</i>
+
+5
+00:00:26,380 --> 00:00:28,780
+<i>Pengacara magang, Choi Do-hyun.
+Kamu menerima kasus yang ditunjuk negara?</i>
+
+6
+00:00:29,420 --> 00:00:30,900
+<i>Saya tidak membunuhnya.</i>
+
+7
+00:00:31,020 --> 00:00:33,860
+<i>Setidaknya, kamu harus mengatakan yang sebenarnya pada saya.</i>
+
+8
+00:00:34,420 --> 00:00:36,740
+<i>Bahkan meski kamu telah membunuh seseorang.</i>
+
+9
+00:00:37,500 --> 00:00:39,780
+<i>- Saya keberatan.
+- Apa kamu yakin dia tidak bersalah?</i>
+
+10
+00:00:39,900 --> 00:00:41,420
+<i>Anda sendiri yakin dia bersalah?</i>
+
+11
+00:00:41,540 --> 00:00:43,180
+<i>Terdakwa, Han Jong-gu ...</i>
+
+12
+00:00:43,460 --> 00:00:45,460
+<i>- ... tidak bersalah.
+- Tidak.</i>
+
+13
+00:00:46,860 --> 00:00:48,260
+<i>Han Jong-gu, bedebah itu ...</i>
+
+14
+00:00:48,900 --> 00:00:50,300
+<i>... sangat berbahaya.</i>
+
+15
+00:00:50,420 --> 00:00:52,940
+<i>Mungkin ada korban lain yang tidak kita ketahui.</i>
+
+16
+00:00:53,220 --> 00:00:54,860
+<i>Mungkin akan ada lebih banyak di masa depan.</i>
+
+17
+00:00:56,620 --> 00:00:58,500
+<i>Bukankah jasad ini mengingatkanmu pada kasus lain?</i>
+
+18
+00:00:58,620 --> 00:01:00,460
+<i>Kasus ini terlalu mirip dengan kasus lima tahun yang lalu.</i>
+
+19
+00:01:00,580 --> 00:01:03,420
+<i>Kedua korban adalah perempuan muda yang bekerja di bar.</i>
+
+20
+00:01:03,900 --> 00:01:05,620
+<i>Dia menggunakan pecahan botol untuk menusuk tubuh mereka, ...</i>
+
+21
+00:01:05,740 --> 00:01:07,340
+<i>... melucuti pakaian mereka dan membakar pakaian mereka.</i>
+
+22
+00:01:07,460 --> 00:01:10,060
+<i>Tapi, tidak ada tanda-tanda pemerkosaan.</i>
+
+23
+00:01:10,180 --> 00:01:12,660
+<i>Bagaimana bisa semuanya begitu identik?</i>
+
+24
+00:01:12,684 --> 00:01:17,684
+<font color="#8080c0">-Episode Sebelumnya-</font>
+
+25
+00:01:20,430 --> 00:01:23,430
+<font color="#80ff00">Subtitle versi K-Plus Asia</font>
+<font color="#ffff00">Disunting dan disinkronkan oleh ordinaryguy92</font>
+
+26
+00:01:23,454 --> 00:01:25,454
+<font color="#ff8080">Alih Bahasa: Fidah~</font>
+
+27
+00:01:36,260 --> 00:01:38,580
+-EPISODE 2-
+
+28
+00:02:14,420 --> 00:02:16,940
+Pak. Pak, ini ada di mana?
+
+29
+00:02:52,380 --> 00:02:54,700
+(Pengacara Choi Do-hyun)
+
+30
+00:03:37,060 --> 00:03:38,580
+Sial.
+
+31
+00:03:44,340 --> 00:03:45,780
+Kabarmu baik?
+
+32
+00:03:45,900 --> 00:03:47,540
+Kau pikir penjara itu menyenangkan?
+
+33
+00:03:48,900 --> 00:03:50,860
+Saya datang untuk mengonfirmasi beberapa hal.
+
+34
+00:03:51,740 --> 00:03:53,980
+Pak Choi, saya bilang, benar-benar kali ini bukan saya pelakunya.
+
+35
+00:03:58,540 --> 00:03:59,980
+"Kali ini"?
+
+36
+00:04:01,580 --> 00:04:03,980
+Ya, saya tidak melakukannya kali ini.
+
+37
+00:04:09,340 --> 00:04:11,220
+Jejak kaki dari sepatumu ...
+
+38
+00:04:11,340 --> 00:04:13,820
+... sesuai dengan jejak kaki yang ditemukan di TKP.
+
+39
+00:04:13,940 --> 00:04:15,940
+Darah korban juga ditemukan di telapak sepatu tersebut.
+
+40
+00:04:16,060 --> 00:04:18,460
+Aku belum pernah melihat sepatu itu!
+
+41
+00:04:22,580 --> 00:04:24,780
+Aku mengatakan kepada polisi berkali-kali bahwa itu bukan sepatuku.
+
+42
+00:04:24,900 --> 00:04:26,460
+Tapi, mereka mengabaikanku.
+
+43
+00:04:27,500 --> 00:04:30,100
+Mereka menemukan sepatu itu di kamarmu.
+
+44
+00:04:30,620 --> 00:04:32,020
+Dikatakan begitu di sini.
+
+45
+00:04:32,140 --> 00:04:33,540
+(Sepatu ditemukan di kamar motel tersangka dan dikirim ke forensik untuk dianalisis.)
+
+46
+00:04:37,420 --> 00:04:40,060
+- Sungguh sepatu itu bukan punyamu?
+- Benar-benar bukan.
+
+47
+00:04:40,180 --> 00:04:41,580
+Bukan milikku.
+
+48
+00:04:46,020 --> 00:04:47,620
+Pak Han Jong-gu.
+
+49
+00:04:48,900 --> 00:04:52,300
+Ada terlalu banyak bukti yang jelas hingga tak sepantasnya kamu mengklaim ketidakbersalahanmu.
+
+50
+00:04:53,620 --> 00:04:57,420
+Saya pikir lebih baik untuk mengakui kebersalahanmu dan meminta keringanan hukuman.
+
+51
+00:04:57,740 --> 00:04:59,500
+Serius, ini gila.
+
+52
+00:05:00,540 --> 00:05:03,380
+Bagaimana saya bisa mengakui sesuatu yang tidak saya lakukan?
+
+53
+00:05:04,740 --> 00:05:07,260
+Saya lebih baik sekarat di sini.
+
+54
+00:05:14,620 --> 00:05:16,500
+Lepas. Lepaskan aku.
+
+55
+00:05:16,620 --> 00:05:18,940
+Aku tidak membunuhnya. Aku bilang aku tidak membunuhnya.
+
+56
+00:05:19,060 --> 00:05:20,980
+Aku tidak membunuhnya. Aku tidak membunuhnya.
+
+57
+00:05:21,420 --> 00:05:22,940
+Aku tidak membunuhnya!
+
+58
+00:05:23,060 --> 00:05:25,460
+Aku tidak membunuhnya. Aku benar-benar tidak membunuhnya.
+
+59
+00:05:25,580 --> 00:05:27,700
+Aku tidak membunuhnya!
+
+60
+00:06:21,900 --> 00:06:23,780
+(Pada 9 Februari 2019 sekitar pukul 6:00 pagi, jasad ditemukan di Eunseo-gu.)
+
+61
+00:06:33,820 --> 00:06:36,820
+(Daerah oksipital korban dipukul dengan senjata tumpul.)
+
+62
+00:06:36,940 --> 00:06:41,140
+(Pada 9 Februari 2019 sekitar pukul 6:00 pagi, jasad ditemukan di Eunseo-gu.)
+
+63
+00:06:47,780 --> 00:06:49,340
+- Anda sedang lihat apa?
+- Sialan!
+
+64
+00:06:49,460 --> 00:06:50,900
+Kaget aku.
+
+65
+00:06:51,300 --> 00:06:52,700
+Pergi sana. Pergi.
+
+66
+00:06:53,060 --> 00:06:54,460
+Tak ada lagi yang bisa kami berikan.
+
+67
+00:06:54,900 --> 00:06:56,300
+Saya punya sesuatu untuk Anda.
+
+68
+00:06:59,300 --> 00:07:00,740
+Apa ini?
+
+69
+00:07:01,100 --> 00:07:03,340
+Tidakkah kau tahu, ilegal bagi seorang detektif menerima suap?
+
+70
+00:07:03,620 --> 00:07:05,700
+Dan kamu menyebut dirimu seorang pengacara.
+
+71
+00:07:09,420 --> 00:07:11,740
+Dasar bocah-bocah gendeng.
+
+72
+00:07:12,260 --> 00:07:13,660
+Astaga.
+
+73
+00:07:15,540 --> 00:07:16,940
+Kau mau apa?
+
+74
+00:07:18,140 --> 00:07:21,140
+Ini tentang foto TKP untuk kasus Kim Sun-hee.
+
+75
+00:07:21,260 --> 00:07:22,660
+Pengacara Choi.
+
+76
+00:07:23,700 --> 00:07:26,460
+Bosku kehilangan pekerjaannya karena kasus Han Jong-gu.
+
+77
+00:07:26,860 --> 00:07:28,980
+Kita mungkin sering bertemu setelah kasus itu, ...
+
+78
+00:07:30,340 --> 00:07:31,740
+... tapi kali ini aku tak bisa membantu.
+
+79
+00:07:31,860 --> 00:07:34,100
+Saya tidak minta hal yang merepotkan.
+
+80
+00:07:34,220 --> 00:07:35,820
+Hanya fail foto TKP.
+
+81
+00:07:35,940 --> 00:07:37,340
+Beri saya itu dan saya akan pergi.
+
+82
+00:07:37,820 --> 00:07:39,300
+Saya sedang sedikit terburu-buru.
+
+83
+00:07:39,660 --> 00:07:41,060
+Yang benar saja.
+
+84
+00:07:42,340 --> 00:07:43,740
+Kau yakin cuma perlu fotonya?
+
+85
+00:07:44,820 --> 00:07:46,300
+Ya
+
+86
+00:07:46,860 --> 00:07:49,060
+Kau pandai sekali membuat orang menurut.
+
+87
+00:07:50,540 --> 00:07:52,820
+Detektif Lee, salin foto TKP ...
+
+88
+00:07:52,940 --> 00:07:54,340
+... dari kasus Kim Sun-hee.
+
+89
+00:07:54,460 --> 00:07:55,980
+Hanya foto-foto TKP.
+
+90
+00:07:56,100 --> 00:07:57,500
+Ya, Pak.
+
+91
+00:07:59,780 --> 00:08:01,180
+Terima kasih.
+
+92
+00:08:02,540 --> 00:08:04,060
+- Saya akan datang lagi.
+- Jangan!
+
+93
+00:08:05,820 --> 00:08:07,340
+Jangan kembali!
+
+94
+00:08:11,180 --> 00:08:12,580
+- Jam berapa sekarang?
+- Mengapa?
+
+95
+00:08:12,700 --> 00:08:14,460
+- Kau akan membayarku kalau aku datang tepat waktu?
+- Jelas enggaklah.
+
+96
+00:08:14,580 --> 00:08:16,060
+Aku duluan.
+
+97
+00:08:17,060 --> 00:08:18,460
+Astaga.
+
+98
+00:08:31,460 --> 00:08:33,700
+(Kantor Hukum Choi Do-hyun)
+
+99
+00:08:35,580 --> 00:08:37,220
+- Kamu sudah datang?
+- Halo, Bu.
+
+100
+00:08:37,500 --> 00:08:39,020
+- Kamu juga.
+- Ya.
+
+101
+00:08:44,380 --> 00:08:45,860
+(Laporan Penuntutan Kasus Pembunuhan Lokasi Pembongkaran di Eunso-gu)
+
+102
+00:08:52,940 --> 00:08:54,820
+(Laporan Penuntutan Kasus Pembunuhan Lokasi Pembongkaran di Eunso-gu)
+
+103
+00:08:55,860 --> 00:08:57,300
+(Laporan Kasus)
+
+104
+00:09:01,140 --> 00:09:02,540
+Apa mungkin ...
+
+105
+00:09:02,980 --> 00:09:04,380
+... Anda yang membuat ini, Bu Jin?
+
+106
+00:09:04,740 --> 00:09:07,100
+Saya pikir Anda akan sibuk.
+
+107
+00:09:07,620 --> 00:09:09,780
+- Apa saya melangkahi batas?
+- Kenapa? Kenapa? Kenapa?
+
+108
+00:09:10,300 --> 00:09:12,660
+Ada apa? Dia membuat kesalahan?
+
+109
+00:09:12,780 --> 00:09:14,300
+Tidak.
+
+110
+00:09:14,620 --> 00:09:16,020
+Saya pikir ini akan banyak membantu.
+
+111
+00:09:16,460 --> 00:09:18,540
+- Terima kasih.
+- Tak masalah.
+
+112
+00:09:22,100 --> 00:09:23,620
+Apa?
+
+113
+00:09:24,340 --> 00:09:26,260
+Kalian berdua nyaman satu sama lain.
+
+114
+00:09:43,820 --> 00:09:45,220
+<i>Cat kuku merah.</i>
+
+115
+00:09:49,340 --> 00:09:51,180
+(Laporan Penuntutan Kasus Pembunuhan Lokasi Pembongkaran di Eunso-gu)
+
+116
+00:09:59,500 --> 00:10:02,220
+<i>Korban dari lima tahun yang lalu
+memakai cat kuku merah yang sama.</i>
+
+117
+00:10:03,220 --> 00:10:05,660
+<i>Tapi, mengapa jari korban kali ini tidak dimutilasi ...</i>
+
+118
+00:10:05,780 --> 00:10:07,580
+<i>... seperti korban lima tahun yang lalu?</i>
+
+119
+00:10:23,220 --> 00:10:25,180
+<i>Kedua korban memakai lipstik merah.</i>
+
+120
+00:10:27,420 --> 00:10:29,380
+<i>Daerah sekitar mulut korban kali ini
+terlalu bersih ...</i>
+
+121
+00:10:29,500 --> 00:10:31,580
+<i>... dibandingkan dengan yang lima tahun lalu.</i>
+
+122
+00:10:37,420 --> 00:10:39,900
+(Pengacara Choi Do-hyun)
+
+123
+00:10:55,580 --> 00:10:57,500
+Kau akan menyesal selamanya kalau kau pergi sekarang.
+
+124
+00:11:24,540 --> 00:11:26,380
+- Apa kabar?
+- Tidak baik.
+
+125
+00:11:28,380 --> 00:11:29,900
+Berkatmu aku kehilangan pekerjaanku.
+
+126
+00:11:32,300 --> 00:11:33,820
+Bagaimana rasanya dikurung kembali?
+
+127
+00:11:35,220 --> 00:11:38,220
+Tidak baik karena saya tidak membunuhnya.
+
+128
+00:11:39,340 --> 00:11:40,740
+Aku tahu.
+
+129
+00:11:42,020 --> 00:11:44,220
+Kasus Kim Sun-hee di Eunseo-gu ...
+
+130
+00:11:44,780 --> 00:11:46,580
+Aku tahu kau bukan pembunuhnya.
+
+131
+00:11:53,020 --> 00:11:55,300
+Tapi, lima tahun yang lalu ...
+
+132
+00:11:55,940 --> 00:11:57,420
+Kamulah yang membunuh Yang Ae-ran.
+
+133
+00:11:57,980 --> 00:12:01,260
+Setidaknya ceritakan padaku tentang itu. Dengan begitu, aku akan membantu keluar.
+
+134
+00:12:04,620 --> 00:12:06,020
+Apa-apaan itu?
+
+135
+00:12:07,860 --> 00:12:09,380
+Kau tahu apa yang kupikirkan saat ini?
+
+136
+00:12:13,020 --> 00:12:15,060
+Kau tidak membunuh Kim Sun-hee.
+
+137
+00:12:16,260 --> 00:12:18,020
+Aku punya bukti untuk itu.
+
+138
+00:12:22,700 --> 00:12:25,380
+Kalau aku menguburnya, kau jadi bersalah.
+
+139
+00:12:25,500 --> 00:12:29,100
+Maksudku, ...
+
+140
+00:12:29,860 --> 00:12:32,340
+... kau akan dihukum atas pembunuhan Yang Ae-ran.
+
+141
+00:12:36,060 --> 00:12:37,620
+Apa yang kamu bicarakan?
+
+142
+00:12:38,180 --> 00:12:39,740
+Tapi, kalau aku melakukan itu, ...
+
+143
+00:12:40,420 --> 00:12:43,660
+... orang yang membunuh Kim Sun-hee tidak akan dihukum dan akan hidup dalam damai.
+
+144
+00:12:45,580 --> 00:12:47,060
+Bagaimana?
+
+145
+00:12:47,180 --> 00:12:48,580
+Ini omong kosong, bukan?
+
+146
+00:12:55,740 --> 00:12:57,180
+Saya...
+
+147
+00:12:59,020 --> 00:13:02,060
+... tidak melakukan apa-apa lima tahun yang lalu dan juga kali ini.
+
+148
+00:13:03,060 --> 00:13:04,460
+Begitu?
+
+149
+00:13:05,140 --> 00:13:06,660
+Aku pergi saja kalau begitu.
+
+150
+00:13:09,940 --> 00:13:11,700
+Yang pasti, kau akan menyesal ...
+
+151
+00:13:12,140 --> 00:13:13,700
+... tidak mengatakan yang sebenarnya.
+
+152
+00:13:32,780 --> 00:13:34,740
+- Ini kasus barumu?
+- Ya.
+
+153
+00:13:35,140 --> 00:13:36,940
+Ini kasus orang cabul yang bunuh orang, kan?
+
+154
+00:13:37,060 --> 00:13:40,420
+Psikopat cabul semacam ini harusnya dipenjara seumur hidupnya.
+
+155
+00:13:40,540 --> 00:13:43,820
+Sampai pengadilan membuat keputusan, semua orang dianggap tidak bersalah.
+
+156
+00:13:46,100 --> 00:13:48,980
+Tapi, "Kasus Yang Ae-ran" apa ini?
+
+157
+00:13:49,900 --> 00:13:52,060
+Apa mungkin ...
+
+158
+00:13:52,460 --> 00:13:54,820
+Aku benar. Ini orang yang kau bantu sampai dinyatakan tidak bersalah lima tahun yang lalu.
+
+159
+00:13:54,940 --> 00:13:56,340
+Ya, kan?
+
+160
+00:13:56,460 --> 00:13:59,780
+Ya. Dari terdakwa ditangkap lagi sebagai tersangka.
+
+161
+00:14:01,500 --> 00:14:02,900
+Apa ini?
+
+162
+00:14:03,020 --> 00:14:06,020
+Apa kasus yang waktu itu juga dia pelakunya?
+
+163
+00:14:06,860 --> 00:14:09,460
+Dia dinyatakan tidak bersalah, jadi dia tidak bersalah untuk kasus itu.
+
+164
+00:14:11,940 --> 00:14:13,460
+- Yu-ri.
+- Ya?
+
+165
+00:14:15,100 --> 00:14:16,940
+- Aku sedang bekerja.
+- Oh ...
+
+166
+00:14:17,060 --> 00:14:19,780
+Ya, maaf. Saya mengambil waktu Anda yang berharga.
+
+167
+00:14:20,100 --> 00:14:21,900
+Selamat bekerja kembali, Pak.
+
+168
+00:14:22,780 --> 00:14:24,220
+Silakan.
+
+169
+00:14:35,260 --> 00:14:36,700
+Yu-ri.
+
+170
+00:14:39,300 --> 00:14:40,820
+Mbak Reporter.
+
+171
+00:14:47,340 --> 00:14:49,540
+- Apa?
+- Lakukan sesuatu untukku.
+
+172
+00:14:50,700 --> 00:14:52,780
+Kau bilang kau sibuk bekerja.
+
+173
+00:14:52,900 --> 00:14:54,300
+Aku juga sedang sibuk, tahu.
+
+174
+00:14:54,780 --> 00:14:56,380
+Kalau ada pekerjaan yang harus dilakukan, ...
+
+175
+00:14:56,500 --> 00:14:57,940
+kau bisa minta tolong Bu Jin yang sangat kamu sukai itu.
+
+176
+00:14:58,060 --> 00:14:59,700
+Begitu? Okelah.
+
+177
+00:15:00,260 --> 00:15:02,780
+Hei, kau tidak tahu tentang meminta tiga kali?
+
+178
+00:15:03,180 --> 00:15:05,300
+Kau harus bertanya minimal tiga kali.
+
+179
+00:15:06,220 --> 00:15:08,780
+Lakukan. Lakukanlah. Aku minta tolong.
+
+180
+00:15:09,060 --> 00:15:10,500
+Puas?
+
+181
+00:15:11,020 --> 00:15:12,420
+Ini alamat korban.
+
+182
+00:15:12,540 --> 00:15:14,300
+Tolong selidiki lingkungannya.
+
+183
+00:15:14,780 --> 00:15:16,260
+Korban? Kenapa kau memeriksa korban?
+
+184
+00:15:16,380 --> 00:15:19,060
+Seperti yang kamu lihat, ia tinggal di Jooyeon-dong.
+
+185
+00:15:19,180 --> 00:15:22,140
+Jadi, mengapa dari semua tempat, dia terbunuh di Eunseo-gu?
+
+186
+00:15:22,780 --> 00:15:25,260
+Juga, mengapa dia di bangunan yang akan segera dibongkar?
+
+187
+00:15:25,940 --> 00:15:27,340
+Aku hanya tidak bisa memahaminya.
+
+188
+00:15:27,700 --> 00:15:30,140
+Hei, aku reporter apa detektif swasta?
+
+189
+00:15:31,460 --> 00:15:32,940
+Kalau begitu, ...
+
+190
+00:15:33,060 --> 00:15:35,500
+ini untuk bayaran sewa bulan ini.
+
+191
+00:15:37,060 --> 00:15:38,580
+Tergantung pada hasilnya.
+
+192
+00:15:40,500 --> 00:15:42,220
+(Profil pribadi dan pemeriksaan latar belakang)
+
+193
+00:15:54,700 --> 00:15:56,140
+(347 Jooyeon–dong, Apartemen Maju 102
+Yangbuk–gu, Seoul)
+
+194
+00:16:11,380 --> 00:16:13,140
+Halo.
+
+195
+00:16:13,260 --> 00:16:15,860
+Apakah Anda tahu Mbak Kim Sun-hee dari Apartemen 102?
+
+196
+00:16:15,980 --> 00:16:17,420
+Saya tidak kenal dia.
+
+197
+00:16:17,540 --> 00:16:19,460
+Oh, begitukah?
+
+198
+00:16:26,540 --> 00:16:29,100
+Apa CCTV-nya aktif, Pak?
+
+199
+00:16:29,220 --> 00:16:30,740
+Ya, aktif.
+
+200
+00:16:30,860 --> 00:16:33,860
+Boleh saya memeriksa sesuatu kalau begitu?
+
+201
+00:16:43,020 --> 00:16:45,420
+- Apa ini?
+- Rekaman CCTV selama sebulan ...
+
+202
+00:16:45,540 --> 00:16:47,340
+... dari depan rumah korban.
+
+203
+00:16:47,740 --> 00:16:50,020
+Aku harus mengemis dan memohon untuk mendapatkan itu.
+
+204
+00:16:50,740 --> 00:16:52,860
+Tenggorokanku sakit karena itu.
+
+205
+00:16:53,500 --> 00:16:54,900
+Kerja bagus.
+
+206
+00:16:56,420 --> 00:16:58,660
+Setop. Kau mau gratisan?
+
+207
+00:16:59,580 --> 00:17:01,220
+Bagaimana termasuk sewa bulan depan juga?
+
+208
+00:17:04,020 --> 00:17:07,140
+Apa kau berencana untuk membayar setidaknya sekali?
+
+209
+00:17:07,260 --> 00:17:08,660
+Tentu saja.
+
+210
+00:17:09,180 --> 00:17:11,980
+Motto hidupku adalah tidak pernah berutang kepada orang lain.
+
+211
+00:17:12,100 --> 00:17:15,700
+Kalau bisa, itu harus jadi mottomu satu-satunya.
+
+212
+00:17:16,180 --> 00:17:18,820
+Hidup terlalu dinamis untuk hanya dijalani dengan satu motto.
+
+213
+00:17:19,540 --> 00:17:21,180
+- Aku cabut, ya?
+- Ke mana?
+
+214
+00:17:21,580 --> 00:17:24,060
+Aku sudah bekerja keras, jadi aku ingin bersantai.
+
+215
+00:17:24,180 --> 00:17:25,620
+Bekerja keraslah.
+
+216
+00:17:28,260 --> 00:17:29,820
+Jangan minum terlalu banyak.
+
+217
+00:17:37,900 --> 00:17:39,940
+(Perkiraan waktu kematian, 8 Februari 2019 pukul 10:00)
+
+218
+00:17:40,260 --> 00:17:48,260
+(CCTV 8 Februari)
+
+219
+00:17:49,020 --> 00:17:55,260
+(CCTV 7 Februari)
+
+220
+00:17:55,580 --> 00:17:59,460
+(CCTV 6 Februari)
+
+221
+00:17:59,940 --> 00:18:02,260
+(CCTV 5 Februari)
+
+222
+00:18:02,380 --> 00:18:03,780
+(CCTV 4 Februari)
+
+223
+00:18:03,900 --> 00:18:11,900
+(CCTV 3 Februari)
+
+224
+00:18:36,820 --> 00:18:39,260
+<i>Dia meninggalkan rumahnya lima hari sebelum kejadian.</i>
+
+225
+00:18:39,980 --> 00:18:41,820
+<i>Dia dibunuh dengan masih mengenakan pakaian yang sama saat ia pergi dari rumah.</i>
+
+226
+00:18:49,740 --> 00:18:51,940
+(Perkiraan waktu kematian, 8 Februari 2019 pukul 10:00)
+
+227
+00:18:55,820 --> 00:18:57,700
+Minumlah.
+
+228
+00:19:03,860 --> 00:19:05,580
+Kamu tahu kasus pembunuhan Eunseo-gu, kan?
+
+229
+00:19:06,500 --> 00:19:09,580
+Ada banyak kesamaan dengan kasus Yang Ae-ran dari lima tahun lalu.
+
+230
+00:19:09,940 --> 00:19:12,420
+- Apa pendapatmu tentang itu?
+- Aku tidak tahu.
+
+231
+00:19:13,060 --> 00:19:15,660
+Itu memang sama, tapi apa yang menurutku menarik ...
+
+232
+00:19:15,980 --> 00:19:17,780
+... justru bukan kasusnya.
+
+233
+00:19:17,900 --> 00:19:19,620
+Malah pengacara yang mengambil kasus ini.
+
+234
+00:19:20,180 --> 00:19:21,700
+- Pengacara?
+- Iya.
+
+235
+00:19:21,820 --> 00:19:23,900
+Pengacara dari kasus Yang Ae-ran ...
+
+236
+00:19:24,020 --> 00:19:26,820
+... adalah orang yang sama dengan yang menangani kasus kali ini.
+
+237
+00:19:26,940 --> 00:19:28,500
+- Sungguh?
+- Ya.
+
+238
+00:19:28,620 --> 00:19:30,740
+Apa kau tahu mengapa polisi ...
+
+239
+00:19:30,860 --> 00:19:32,780
+... membuat penangkapan mendesak?
+
+240
+00:19:33,420 --> 00:19:35,820
+Metode yang digunakan untuk membunuh kedua korban itu identik.
+
+241
+00:19:36,860 --> 00:19:38,260
+Itulah yang menarik.
+
+242
+00:19:38,740 --> 00:19:40,300
+Putusan kasus dari lima tahun yang lalu ...
+
+243
+00:19:40,420 --> 00:19:41,820
+... tidak bersalah.
+
+244
+00:19:42,740 --> 00:19:45,860
+Jadi kau mengatakan, jika tersangka bersalah kali ini ...
+
+245
+00:19:46,340 --> 00:19:48,500
+... dia pasti bersalah lima tahun lalu.
+
+246
+00:19:49,140 --> 00:19:51,220
+Atau justru dia memang bersalah.
+
+247
+00:19:51,340 --> 00:19:52,820
+Begitu?
+
+248
+00:19:52,940 --> 00:19:55,180
+Yah, aku tidak bisa menyimpulkan begitu.
+
+249
+00:19:55,740 --> 00:19:57,220
+Jika itu terjadi, ...
+
+250
+00:19:57,940 --> 00:19:59,340
+... lima tahun yang lalu, ...
+
+251
+00:19:59,700 --> 00:20:01,580
+... pengacara ini ...
+
+252
+00:20:01,700 --> 00:20:03,380
+... punya andil dalam membiarkan si pembunuh bebas.
+
+253
+00:20:03,980 --> 00:20:05,420
+Itu yang kumaksud.
+
+254
+00:20:05,900 --> 00:20:08,820
+Enggak bisa begitulah. Mengapa itu tanggung jawab si pengacara?
+
+255
+00:20:09,140 --> 00:20:10,980
+Pengacara itu hanya melakukan pekerjaannya.
+
+256
+00:20:11,700 --> 00:20:14,420
+Jika ada yang harus dikritik, ...
+
+257
+00:20:14,940 --> 00:20:16,660
+... itu orang yang menangkap si pembunuh.
+
+258
+00:20:16,780 --> 00:20:18,900
+Mereka tidak bisa membuktikan bahwa dia bersalah.
+
+259
+00:20:19,020 --> 00:20:21,300
+Bukannya fokus harusnya mengarah pada jaksa?
+
+260
+00:20:22,340 --> 00:20:25,260
+Aku tak mengatakan si pengacara harus dikritik.
+
+261
+00:20:25,620 --> 00:20:27,300
+Dia melakukan pekerjaannya seperti yang kamu katakan.
+
+262
+00:20:27,780 --> 00:20:29,700
+Tapi, aku ingin tahu.
+
+263
+00:20:30,300 --> 00:20:33,460
+Ketika terbukti bahwa kedua kasus dilakukan oleh pelaku yang sama, ...
+
+264
+00:20:34,180 --> 00:20:36,180
+...menurutmu, bagaimana...
+
+265
+00:20:36,500 --> 00:20:37,900
+... perasaan pengacara itu?
+
+266
+00:20:38,900 --> 00:20:40,300
+Paham.
+
+267
+00:20:53,780 --> 00:20:55,300
+Pengacara Choi.
+
+268
+00:20:55,420 --> 00:20:57,180
+Oh ... Aduh.
+
+269
+00:20:57,300 --> 00:20:59,380
+Tidurlah dengan nyaman.
+
+270
+00:21:01,060 --> 00:21:04,060
+Kamu tidak boleh terlalu sering begadang dan tertidur seperti ini.
+
+271
+00:21:11,900 --> 00:21:13,340
+Kenapa?
+
+272
+00:21:13,860 --> 00:21:15,300
+Ada yang salah dengan saya?
+
+273
+00:21:15,420 --> 00:21:17,620
+Oh, tidak. Bukan itu.
+
+274
+00:21:19,820 --> 00:21:22,020
+Kebanyakan wanita ...
+
+275
+00:21:22,140 --> 00:21:25,820
+... tidak memakai pakaian yang sama beberapa hari berturut-turut, kan?
+
+276
+00:21:27,340 --> 00:21:29,060
+Selain yang itu.
+
+277
+00:21:30,700 --> 00:21:33,700
+Kebanyakan wanita memang tidak.
+Pria pun sama.
+
+278
+00:21:34,140 --> 00:21:35,620
+Selain kamu, Pak Choi.
+
+279
+00:21:38,420 --> 00:21:41,500
+Ketika seorang wanita memakai pakaian yang mencolok untuk bekerja, ...
+
+280
+00:21:41,860 --> 00:21:43,620
+hal itu akan lebih kentara, kan?
+
+281
+00:21:43,900 --> 00:21:45,540
+Ya. Kenapa memangnya?
+
+282
+00:21:46,260 --> 00:21:48,860
+Apa ada sesuatu yang memusingkanmu?
+
+283
+00:21:49,180 --> 00:21:52,180
+Korban terakhir terlihat enam hari sebelum mayatnya ditemukan.
+
+284
+00:21:52,940 --> 00:21:57,220
+Tapi, perkiraan waktu kematian hanya enam sampai delapan jam sebelum ditemukan.
+
+285
+00:21:58,060 --> 00:21:59,540
+Tampaknya ada yang tidak benar.
+
+286
+00:22:00,140 --> 00:22:01,580
+Oh ...
+
+287
+00:22:02,140 --> 00:22:05,740
+Jadi, dari lokasi terakhirnya sampai perkiraan waktu kematian itu ....
+
+288
+00:22:06,220 --> 00:22:08,260
+ada sekitar lima hari yang hilang.
+
+289
+00:22:08,660 --> 00:22:10,100
+Betul.
+
+290
+00:22:12,100 --> 00:22:14,420
+Tampaknya saya melewatkan sesuatu, jadi saya harus memeriksanya lagi.
+
+291
+00:22:15,780 --> 00:22:18,100
+- Terima kasih.
+- Tak apa.
+
+292
+00:22:29,940 --> 00:22:33,180
+<i>Orang yang paling dekat dengan korban.</i>
+
+293
+00:22:35,460 --> 00:22:37,020
+<i>Pacar korban, ...</i>
+
+294
+00:22:37,140 --> 00:22:38,540
+<i>... Lee Chul-soo.</i>
+
+295
+00:22:55,820 --> 00:22:57,340
+Pak.
+
+296
+00:22:58,980 --> 00:23:00,460
+Tunggu sebentar!
+
+297
+00:23:23,120 --> 00:23:24,720
+Ada apa?
+
+298
+00:23:24,840 --> 00:23:27,040
+"Ada apa"? Bedebah ini lucu juga.
+
+299
+00:23:31,200 --> 00:23:32,600
+Kau sudah mendingan?
+
+300
+00:23:35,400 --> 00:23:36,880
+Ketua Ki.
+
+301
+00:23:38,440 --> 00:23:40,400
+Dia pikir kamu seorang rentenir.
+
+302
+00:23:43,120 --> 00:23:44,760
+Penglihatannya payah.
+
+303
+00:23:48,720 --> 00:23:51,280
+Saya sedang dikejar oleh rentenir, ...
+
+304
+00:23:51,400 --> 00:23:53,040
+... jadi kami tidak bisa sering bertemu.
+
+305
+00:23:53,640 --> 00:23:55,200
+Kapan terakhir kali kalian bertemu?
+
+306
+00:23:55,560 --> 00:23:56,960
+Itu saja yang saya perlu tahu.
+
+307
+00:23:58,800 --> 00:24:00,320
+Sekitar satu minggu ...
+
+308
+00:24:01,160 --> 00:24:02,560
+... sebelum itu terjadi pada Sun-hee.
+
+309
+00:24:03,000 --> 00:24:04,520
+Saya belum melihatnya lagi.
+
+310
+00:24:04,640 --> 00:24:06,040
+Apakah Anda yakin?
+
+311
+00:24:07,400 --> 00:24:08,800
+Ya.
+
+312
+00:24:09,760 --> 00:24:11,200
+Kalau sudah ...
+
+313
+00:24:19,440 --> 00:24:20,840
+Apakah itu layak untuk lukamu?
+
+314
+00:24:22,160 --> 00:24:25,160
+Tidak selayak itu untuk luka yang saya dapat, tapi setidaknya saya bisa mengonfirmasi apa yang saya perlukan.
+
+315
+00:24:27,160 --> 00:24:28,720
+Bagaimana Anda bisa ada di sini?
+
+316
+00:24:49,480 --> 00:24:51,960
+Mengapa kau mengunjungi pacar korban?
+
+317
+00:24:52,080 --> 00:24:54,280
+Saya perlu memeriksa sesuatu.
+
+318
+00:24:56,240 --> 00:24:57,640
+Bagaimana dengan Anda?
+
+319
+00:25:01,960 --> 00:25:03,360
+Aku mengikutimu.
+
+320
+00:25:03,840 --> 00:25:05,240
+Saya?
+
+321
+00:25:10,200 --> 00:25:12,200
+Aku tahu kamu pengacara dalam kasus ini.
+
+322
+00:25:12,320 --> 00:25:13,720
+Jujur, aku terkejut.
+
+323
+00:25:14,400 --> 00:25:15,800
+Jadi, aku penasaran.
+
+324
+00:25:16,120 --> 00:25:18,360
+Bagaimana dia akan melepaskan Han Jong-gu kali ini?
+
+325
+00:25:20,200 --> 00:25:21,600
+Apa Anda masih...
+
+326
+00:25:22,360 --> 00:25:24,400
+... merasa terbebani atas kasus itu?
+
+327
+00:25:24,520 --> 00:25:25,920
+Masih?
+
+328
+00:25:32,520 --> 00:25:34,200
+Apa kau tahu berapa lama aku jadi detektif?
+
+329
+00:25:36,360 --> 00:25:37,760
+Ketika kau masih sebesar ini.
+
+330
+00:25:38,920 --> 00:25:40,600
+Kalau kau sudah menjadi detektif dalam waktu yang lama, ...
+
+331
+00:25:41,440 --> 00:25:43,080
+kau akan merasa sakit untuk beberapa hal.
+
+332
+00:25:43,800 --> 00:25:45,680
+Ketika kau menjalani hidup, ...
+
+333
+00:25:46,480 --> 00:25:49,040
+- ... kau tidak bisa mengabaikan itu.
+- Perasaan itu?
+
+334
+00:25:50,840 --> 00:25:52,360
+Itulah mengapa Anda ...
+
+335
+00:25:53,200 --> 00:25:54,640
+Pak Choi, kau ingat?
+
+336
+00:25:54,760 --> 00:25:58,480
+Senjata pembunuhan yang digunakan lima tahun lalu untuk pembunuhan Yang Ae-ran.
+
+337
+00:26:00,120 --> 00:26:01,880
+Pertama, senjata tumpul.
+
+338
+00:26:03,280 --> 00:26:04,800
+Kedua, botol kaca pecah.
+
+339
+00:26:04,920 --> 00:26:06,400
+Betul.
+
+340
+00:26:06,520 --> 00:26:09,160
+Botol kaca pecah digunakan untuk memutilasi tubuh.
+
+341
+00:26:10,440 --> 00:26:12,520
+Kau tahu apa jenis botolnya?
+
+342
+00:26:13,480 --> 00:26:15,040
+Jika memori saya benar ...
+
+343
+00:26:15,160 --> 00:26:17,840
+tidak disebutkan mengenai itu di laporan polisi.
+
+344
+00:26:17,960 --> 00:26:19,400
+Kamu benar.
+
+345
+00:26:19,520 --> 00:26:21,800
+Kemudian aku tahu apa jenis botolnya.
+
+346
+00:26:23,480 --> 00:26:26,600
+Aku pergi untuk melihat Han Jong-gu yang dinyatakan tidak bersalah karena dirimu.
+
+347
+00:26:28,600 --> 00:26:30,840
+Aku marah, tapi ada sesuatu di sana.
+
+348
+00:26:32,200 --> 00:26:34,000
+Sesuatu yang menggangguku sampai akhir.
+
+349
+00:26:34,680 --> 00:26:36,320
+<i>Han Jong-gu.</i>
+
+350
+00:26:37,160 --> 00:26:38,760
+<i>Tidak masalah. Saya hanya sebentar.</i>
+
+351
+00:26:39,280 --> 00:26:41,160
+<i>Apa lagi? Kan, sudah selesai.</i>
+
+352
+00:26:41,560 --> 00:26:44,520
+<i>Aku tahu itu, jadi aku takkan mengganggumu. Santai saja.</i>
+
+353
+00:26:45,600 --> 00:26:47,720
+<i>Biarkan aku bertanya satu hal.</i>
+
+354
+00:26:48,160 --> 00:26:51,600
+<i>Ada banyak alat-alat lain di sana.</i>
+
+355
+00:26:52,560 --> 00:26:54,200
+<i>Kenapa harus pakai botol soju?</i>
+
+356
+00:27:09,560 --> 00:27:11,600
+<i>Itu bukan botol soju, tapi botol soda.</i>
+
+357
+00:27:14,480 --> 00:27:16,840
+<i>Sudah dibilang aku tidak membunuhnya!</i>
+
+358
+00:27:19,680 --> 00:27:22,320
+Laporan hanya mengatakan itu adalah pecahan botol.
+
+359
+00:27:23,640 --> 00:27:25,520
+Tak disebutkan mengenai jenis botolnya.
+
+360
+00:27:26,400 --> 00:27:29,280
+Kami hanya fokus pada keberadaan sidik jari.
+
+361
+00:27:36,120 --> 00:27:37,920
+Han Jong-gu tidak akan bisa tahu, ...
+
+362
+00:27:39,800 --> 00:27:41,200
+... kecuali dia pembunuhnya.
+
+363
+00:27:46,640 --> 00:27:48,440
+(Setelah analisis, senjata pembunuh dikonfirmasi sebagai botol soda.)
+
+364
+00:27:51,880 --> 00:27:54,080
+<i>Pak Choi, saya bilang, saya benar-benar tidak melakukannya kali ini.</i>
+
+365
+00:28:00,320 --> 00:28:02,200
+Bahkan jika kita mengakuinya sekarang, ...
+
+366
+00:28:02,320 --> 00:28:03,720
+...tidak ada yang akan berubah.
+
+367
+00:28:03,840 --> 00:28:05,240
+Kenapa tidak?
+
+368
+00:28:05,720 --> 00:28:07,160
+Ada sesuatu.
+
+369
+00:28:07,280 --> 00:28:08,760
+Rasa bersalah.
+
+370
+00:28:09,720 --> 00:28:11,840
+Kalau Han Jong-gu yang membunuh Yang Ae-ran, ...
+
+371
+00:28:12,920 --> 00:28:15,520
+... bisakah kau berdiri gagah di hadapan keluarga korban?
+
+372
+00:28:16,040 --> 00:28:18,440
+Berdasarkan UU Pidana, semua orang dianggap tidak bersalah.
+
+373
+00:28:19,360 --> 00:28:20,920
+Sebagai seorang pengacara--
+
+374
+00:28:21,520 --> 00:28:23,680
+Jangan membawa-bawa soal itu di hadapanku.
+
+375
+00:28:38,240 --> 00:28:39,800
+Aku akan menanyakan satu hal.
+
+376
+00:28:40,520 --> 00:28:43,320
+Bahkan jika ia mengakui kesalahannya saat ini dan membayar kejahatannya, ...
+
+377
+00:28:44,200 --> 00:28:45,760
+... bagaimana ia akan membayar ...
+
+378
+00:28:46,480 --> 00:28:48,240
+... untuk pembunuhan lima tahun yang lalu?
+
+379
+00:28:51,600 --> 00:28:53,760
+Aku memiliki informasi penting tentang kasus ini.
+
+380
+00:28:55,400 --> 00:28:57,000
+Han Jong-gu bukan pembunuhnya.
+
+381
+00:28:58,080 --> 00:28:59,680
+Maksudku, ...
+
+382
+00:29:00,520 --> 00:29:03,360
+... Han Jong-gu bisa keluar jika aku berdiri sebagai saksi.
+
+383
+00:29:04,640 --> 00:29:07,560
+Aku ingin membiarkan Han Jong-gu mendapatkan vonis bersalah.
+
+384
+00:29:08,920 --> 00:29:11,400
+Tapi, situasi ini tidak memungkinkan untuk itu.
+
+385
+00:29:12,440 --> 00:29:14,520
+Ada pembunuh lain yang benar-benar membunuh Kim Sun-hee.
+
+386
+00:29:15,400 --> 00:29:17,280
+Tapi, aku juga tidak bisa membiarkan Han Jong-gu bebas.
+
+387
+00:29:19,600 --> 00:29:22,680
+Mengapa Anda datang kepada saya untuk memberi tahu saya tentang ini?
+
+388
+00:29:24,200 --> 00:29:26,760
+Apakah Anda mengatakan, Anda akan menjadi saksi tergantung pada bagaimana saya bersikap?
+
+389
+00:29:32,000 --> 00:29:33,440
+Apa yang harus saya lakukan?
+
+390
+00:29:34,240 --> 00:29:35,760
+Cari cara ...
+
+391
+00:29:36,880 --> 00:29:39,560
+... untuk membuat Han Jong-gu membayar kejahatannya lima tahun yang lalu.
+
+392
+00:29:39,680 --> 00:29:42,520
+Bahkan jika diungkapkan bahwa dia pembunuhnya, ...
+
+393
+00:29:43,360 --> 00:29:45,440
+... <i>double jeopardy</i> akan ikut bermain.
+<font color="#c0c0c0">(Pembelaan hukum yang melarang seseorang diadili untuk kedua kalinya untuk pelanggaran hukum yang sama.)</font>
+
+394
+00:29:45,560 --> 00:29:47,720
+- Kita tidak dapat menghukum dia.
+- Itu sebabnya aku mengatakan ini.
+
+395
+00:29:48,840 --> 00:29:50,280
+Hukum...
+
+396
+00:29:50,560 --> 00:29:52,320
+... dan kamu membiarkan dia lolos.
+
+397
+00:29:53,160 --> 00:29:54,600
+Tapi, Pak Choi ...
+
+398
+00:29:56,440 --> 00:29:58,280
+... bisa memikirkan cara lain untuk mengurung dia lagi.
+
+399
+00:29:59,960 --> 00:30:01,520
+Bukankah kau seharusnya melakukannya?
+
+400
+00:30:06,040 --> 00:30:07,440
+Ketua Ki.
+
+401
+00:30:10,360 --> 00:30:12,040
+Bagaimana saya bisa mempercayai Anda?
+
+402
+00:30:17,040 --> 00:30:18,560
+Itu pilihanmu.
+
+403
+00:30:35,240 --> 00:30:37,400
+<i>Kalau Han Jong-gu yang membunuh Yang Ae-ran, ...</i>
+
+404
+00:30:38,480 --> 00:30:40,920
+<i>... bisakah kamu berdiri gagah di hadapan keluarga korban?</i>
+
+405
+00:30:42,440 --> 00:30:43,960
+<i>Bagaimana dia membayar ...</i>
+
+406
+00:30:44,080 --> 00:30:45,640
+<i>...... pembunuhan lima tahun yang lalu?</i>
+
+407
+00:31:32,040 --> 00:31:33,640
+(Catatan Kasus)
+
+408
+00:31:33,760 --> 00:31:36,680
+(9 Februari 2019 pukul 6:00, Eunseo-gu, Jinhyun-dong, tubuh korban ditemukan.)
+
+409
+00:32:01,800 --> 00:32:03,800
+Persidangan untuk Perkara Nomor 2019 ...
+
+410
+00:32:03,920 --> 00:32:05,520
+... Go Hap 871 ...
+
+411
+00:32:05,640 --> 00:32:07,360
+... sekarang akan dimulai.
+
+412
+00:32:07,720 --> 00:32:09,800
+Pihak penuntut, lanjutkan dengan dakwaan.
+
+413
+00:32:12,160 --> 00:32:13,880
+Tergugat, Han Jong-gu tanpa ampun membunuh
+
+414
+00:32:14,000 --> 00:32:15,880
+... korban di lokasi pembongkaran yang terletak ...
+
+415
+00:32:16,480 --> 00:32:19,600
+... di Jinhyun-dong, Eunseo-gu dan terus merusak tubuh korban.
+
+416
+00:32:20,200 --> 00:32:23,920
+Oleh karena itu, berdasarkan Pasal 250 dan 161 Undang-Undang Pidana, ...
+
+417
+00:32:24,400 --> 00:32:26,120
+... kami menuntut Terdakwa atas pembunuhan dan <i>perusakan tubuh</i> <font color="#c0c0c0">(maaf kalau yang ini salah)</font>.
+
+418
+00:32:27,200 --> 00:32:28,960
+Pembela, silakan nyatakan pembelaan Anda.
+
+419
+00:32:31,240 --> 00:32:33,400
+Kami tidak menerima tuduhan jaksa.
+
+420
+00:32:34,040 --> 00:32:36,840
+Saya bersikeras klien saya tidak bersalah.
+
+421
+00:32:37,440 --> 00:32:39,800
+Terdakwa, Ada yang mau Anda katakan?
+
+422
+00:32:41,960 --> 00:32:43,760
+Saya tidak membunuhnya.
+
+423
+00:32:46,200 --> 00:32:49,280
+Saya menyerahkan daftar bukti untuk kasus ini.
+
+424
+00:32:53,280 --> 00:32:56,880
+Pembela, apakah Anda punya bukti yang ingin diserahkan atau saksi untuk dipanggil?
+
+425
+00:33:13,960 --> 00:33:17,920
+Saya menyerahkan rekaman CCTV dari kediaman korban sebagai barang bukti.
+
+426
+00:33:18,240 --> 00:33:19,640
+Pembela.
+
+427
+00:33:20,600 --> 00:33:22,120
+Apakah hanya itu saja?
+
+428
+00:33:23,880 --> 00:33:26,440
+- Ya.
+- Baik.
+
+429
+00:33:27,280 --> 00:33:29,120
+Lalu, Penuntut, silakan lanjutkan.
+
+430
+00:33:31,080 --> 00:33:32,560
+Tolong tampilkan.
+
+431
+00:33:34,240 --> 00:33:36,120
+Ini sepatu lari yang ditemukan di kamar 301 dari Motel Baekwoon ...
+
+432
+00:33:36,240 --> 00:33:38,160
+... di mana Terdakwa ditangkap.
+
+433
+00:33:38,800 --> 00:33:42,000
+Sebuah jejak darah korban ditemukan di telapak sepatu ...
+
+434
+00:33:42,480 --> 00:33:45,160
+... dan jejak kaki yang sesuai dengan sepatu ditemukan di TKP.
+
+435
+00:33:45,280 --> 00:33:47,800
+Aku belum pernah melihat sepatu itu!
+
+436
+00:33:47,920 --> 00:33:50,200
+Terdakwa. Tolong diam.
+
+437
+00:33:59,600 --> 00:34:02,640
+Ini rekaman CCTV di mana korban terakhir kali terlihat.
+
+438
+00:34:05,600 --> 00:34:07,960
+Tolong perhatikan dengan saksama baju korban.
+
+439
+00:34:10,560 --> 00:34:14,040
+Ini bagian yang tersisa dari pakaian korban yang dibakar dan ditemukan di TKP.
+
+440
+00:34:14,160 --> 00:34:17,200
+Anda dapat melihat bahwa itu identik dengan apa yang dikenakannya pada rekaman CCTV.
+
+441
+00:34:17,720 --> 00:34:19,520
+Begitu juga anting-antingnya.
+
+442
+00:34:19,640 --> 00:34:23,200
+Korban terakhir terlihat pada rekaman CCTV lima hari sebelum kejadian.
+
+443
+00:34:23,320 --> 00:34:27,080
+Berdasarkan laporan orang di sekelilingnya, ia suka mengenakan pakaian mencolok ...
+
+444
+00:34:27,200 --> 00:34:30,880
+... dan fakta bahwa keberadaan korban tidak diketahui ...
+
+445
+00:34:31,000 --> 00:34:32,520
+... setelah rekaman terakhir ini, ...
+
+446
+00:34:33,240 --> 00:34:38,360
+... akan logis untuk menduga bahwa korban diculik atau pergerakannya dibatasi.
+
+447
+00:34:38,480 --> 00:34:43,360
+Keberatan, Yang Mulia. Apa yang Pembela katakan hanyalah spekulasi.
+
+448
+00:34:43,480 --> 00:34:45,760
+Keberatan diterima.
+
+449
+00:34:45,880 --> 00:34:49,800
+Pembela, apakah Anda memiliki bukti konkret bahwa korban diculik?
+
+450
+00:35:11,160 --> 00:35:12,640
+Mari kembali.
+
+451
+00:35:20,400 --> 00:35:22,240
+Itu bagus, ...
+
+452
+00:35:23,040 --> 00:35:24,520
+... tapi tidak cukup baik.
+
+453
+00:35:24,920 --> 00:35:27,080
+Kukira kau tak bisa menang kali ini.
+
+454
+00:35:27,680 --> 00:35:29,160
+Sampai nanti.
+
+455
+00:35:50,800 --> 00:35:53,000
+Ini akan menjadi persidangan yang sulit.
+
+456
+00:35:53,720 --> 00:35:57,040
+Bukankah sudah waktunya kamu mempertimbangkan tawaranku?
+
+457
+00:35:59,120 --> 00:36:00,880
+Apa sebenarnya bukti yang Anda sebutkan?
+
+458
+00:36:02,240 --> 00:36:04,720
+Seandainya kau dulu tidak membebaskannya.
+
+459
+00:36:05,240 --> 00:36:08,840
+Itu lebih baik daripada membiarkan pembunuh bebas berkeliaran bahkan jika ia tidak melakukannya kali ini.
+
+460
+00:36:16,880 --> 00:36:22,240
+Lebih bagus lagi bila mendengar dia yang melakukannya.
+
+461
+00:36:32,520 --> 00:36:35,200
+(Perkiraan waktu kematian)
+
+462
+00:36:38,880 --> 00:36:40,720
+(Kasus Pembunuhan Yang Ae-ran, Kasus Pembunuhan Kim Sun-hee)
+
+463
+00:37:00,640 --> 00:37:03,520
+Ini gambar korban dari kasus yang pernah saya kerjakan.
+
+464
+00:37:04,720 --> 00:37:08,000
+Anda dapat melihat bahwa kuku korban dan daerah bibir rusak berat.
+
+465
+00:37:08,440 --> 00:37:11,680
+Sepertinya, ia terobsesi dengan bagian tubuh tertentu ...
+
+466
+00:37:12,160 --> 00:37:14,840
+... atau memiliki mentalitas yang khusus pada korban.
+
+467
+00:37:16,680 --> 00:37:20,280
+Bibir, kuku, atau warna merah ...
+
+468
+00:37:20,640 --> 00:37:23,000
+Mungkin dia terobsesi dengan warna merah.
+
+469
+00:37:23,440 --> 00:37:27,320
+Bisa jadi ia mencoba untuk menghapus warna merah dari bibir dan kuku korban.
+
+470
+00:37:27,840 --> 00:37:30,240
+Apakah ada bukti pemerkosaan atau pelecehan seksual?
+
+471
+00:37:31,000 --> 00:37:32,720
+Tidak, tidak ada.
+
+472
+00:37:33,720 --> 00:37:35,120
+Yang satu ini juga?
+
+473
+00:37:35,440 --> 00:37:37,040
+Ya, tidak ada.
+
+474
+00:37:37,760 --> 00:37:40,880
+- Itu aneh.
+- Apakah mungkin pelakunya sama?
+
+475
+00:37:41,000 --> 00:37:45,720
+Nah, dengan asumsi itu adalah orang yang sama, ...
+
+476
+00:37:45,840 --> 00:37:48,880
+... dia pasti punya stimulasi yang kuat.
+
+477
+00:37:50,240 --> 00:37:53,960
+Kau dapat melihat bahwa kerusakan lebih parah pada yang satu ini daripada yang satunya.
+
+478
+00:37:55,000 --> 00:37:58,120
+Sebenarnya, ini korban yang terakhir.
+
+479
+00:37:58,600 --> 00:38:00,040
+Begitukah?
+
+480
+00:38:00,640 --> 00:38:05,600
+Berarti, sulit untuk mengatakan bahwa pelakunya sama berdasarkan gambar ini.
+
+481
+00:38:06,040 --> 00:38:09,160
+- Mengapa demikian?
+- Pada tingkat obsesi, ...
+
+482
+00:38:09,280 --> 00:38:12,440
+... pola perilakunya tidak bisa berubah begitu tiba-tiba.
+
+483
+00:38:12,760 --> 00:38:15,040
+Biasanya akan menjadi lebih ganas.
+
+484
+00:38:22,000 --> 00:38:25,960
+Panggilan untuk Dr. Yoon dari Departemen Bedah. Tolong segera datang ke Departemen.
+
+485
+00:38:27,000 --> 00:38:28,440
+Do-hyun!
+
+486
+00:38:31,280 --> 00:38:34,000
+- Oh, Dokter.
+- Kamu mau menemuiku?
+
+487
+00:38:34,560 --> 00:38:38,080
+Tidak, saya ada perlu di sini untuk hal lain.
+
+488
+00:38:39,120 --> 00:38:41,800
+Sudah lama sejak pemeriksaan terakhirmu.
+
+489
+00:38:42,160 --> 00:38:43,680
+Saya cukup sibuk akhir-akhir ini.
+
+490
+00:38:44,280 --> 00:38:46,360
+Kenapa kau tidak buat janji dulu sebelum pergi?
+
+491
+00:38:48,000 --> 00:38:49,920
+Lain kali saja.
+
+492
+00:38:50,320 --> 00:38:54,320
+Kau tak boleh gejala sekecil apa pun dan harus segera kau periksakan.
+
+493
+00:38:55,320 --> 00:38:59,000
+- Baik.
+- Datanglah lagi untuk pemeriksaan.
+
+494
+00:38:59,760 --> 00:39:01,240
+- Terima kasih.
+- Sampai jumpa lagi.
+
+495
+00:39:08,520 --> 00:39:14,400
+(Lokasi Pembangunan di Eunseo-gu, Perkiraan waktu kematian)
+
+496
+00:39:14,520 --> 00:39:18,320
+(Kasus Pembunuhan Kim Sun-hee, Kasus Pembunuhan Yang Ae-ran)
+
+497
+00:39:18,440 --> 00:39:22,520
+(Kim Sun-hee kasus pembunuhan, usia 36, ​​bekerja di bar)
+
+498
+00:39:23,360 --> 00:39:25,760
+<i>Apakah ada sesuatu yang memusingkanmu?</i>
+
+499
+00:39:26,200 --> 00:39:29,400
+<i>Korban terakhir terlihat enam hari sebelum mayatnya ditemukan.</i>
+
+500
+00:39:30,040 --> 00:39:34,400
+<i>Tapi, perkiraan waktu kematian hanya enam sampai delapan jam sebelum ditemukan.</i>
+
+501
+00:39:35,240 --> 00:39:36,920
+Tampaknya ada yang tidak benar.
+
+502
+00:39:39,600 --> 00:39:42,200
+(Laporan Penuntutan Kasus Pembunuhan Lokasi Pembongkaran di Eunso-gu)
+
+503
+00:39:49,360 --> 00:39:50,840
+Apa yang sedang Anda kerjakan dengan begitu keras?
+
+504
+00:39:51,360 --> 00:39:53,040
+Perkiraan waktu kematian.
+
+505
+00:39:53,160 --> 00:39:54,560
+Perkiraan waktu kematian?
+
+506
+00:39:54,680 --> 00:39:57,840
+Saya menuliskan perkiraan waktu kematian ...
+
+507
+00:39:57,960 --> 00:39:59,920
+... berdasarkan pedoman standar.
+
+508
+00:40:00,600 --> 00:40:05,880
+Tapi, dengan laporan penuntutan dan foto TKP, ...
+
+509
+00:40:06,000 --> 00:40:10,000
+saya kira saya tak bisa yakin itu benar.
+
+510
+00:40:10,120 --> 00:40:11,560
+Oh.
+
+511
+00:40:24,200 --> 00:40:25,720
+Ya, Bu Jin.
+
+512
+00:40:27,800 --> 00:40:29,200
+Perkiraan waktu kematian?
+
+513
+00:40:29,520 --> 00:40:33,680
+Biasanya, tubuh disimpan dalam kamar bersuhu rendah sampai autopsi dilakukan.
+
+514
+00:40:34,320 --> 00:40:38,080
+Itu metode untuk mengurangi tingkat dekomposisi sebanyak mungkin.
+
+515
+00:40:38,440 --> 00:40:44,440
+Jika tubuh diperlakukan dengan cara yang sama segera setelah kematian korban, ...
+
+516
+00:40:44,920 --> 00:40:48,120
+... maka kamu dapat dengan mudah memanipulasi perkiraan waktu kematian.
+
+517
+00:40:49,000 --> 00:40:52,480
+Silakan mempertimbangkan kemungkinan ini.
+
+518
+00:40:53,000 --> 00:40:54,400
+Baik. Terima kasih.
+
+519
+00:41:03,360 --> 00:41:06,120
+Nona Yu-ri, kamu mau mengatakan sesuatu pada saya?
+
+520
+00:41:06,480 --> 00:41:07,880
+Katakan saja.
+
+521
+00:41:08,240 --> 00:41:10,520
+Tidak, saya hanya melihat.
+
+522
+00:41:12,200 --> 00:41:14,480
+Apakah ada sesuatu di wajah saya?
+
+523
+00:41:14,600 --> 00:41:16,000
+Sama sekali tidak.
+
+524
+00:41:16,560 --> 00:41:18,000
+Lalu apa?
+
+525
+00:41:18,760 --> 00:41:20,600
+Bu Jin, Anda sebenarnya siapa?
+
+526
+00:41:21,320 --> 00:41:22,720
+Saya?
+
+527
+00:41:22,840 --> 00:41:27,520
+Saya hanya seorang asisten di kantor ini.
+
+528
+00:41:29,000 --> 00:41:31,040
+Ya. Benar.
+
+529
+00:41:31,600 --> 00:41:33,520
+Saya mengerti.
+
+530
+00:42:33,520 --> 00:42:35,800
+Pembela, silakan mulai pemeriksaan saksi.
+
+531
+00:42:35,920 --> 00:42:37,840
+(Persidangan Kedua untuk Kasus Pembunuhan Kim Sun-hee)
+
+532
+00:42:40,160 --> 00:42:44,160
+Anda memperkirakan waktu kematian menjadi sekitar enam sampai delapan jam ...
+
+533
+00:42:44,280 --> 00:42:47,440
+... sebelum mayat itu ditemukan. Apa dasar Anda?
+
+534
+00:42:47,560 --> 00:42:49,520
+Hal ini terutama didasarkan pada perubahan tubuh korban ...
+
+535
+00:42:49,640 --> 00:42:51,440
+... dan status dekomposisi.
+
+536
+00:42:51,560 --> 00:42:54,280
+Secara umum, apa akurat untuk memperkirakan waktu kematian berdasarkan perubahan ...
+
+537
+00:42:54,400 --> 00:42:56,400
+... dalam tubuh dan dekomposisi status korban?
+
+538
+00:42:56,520 --> 00:42:59,320
+Tergantung. Seringkali, Anda harus mempertimbangkan banyak faktor lainnya ...
+
+539
+00:42:59,440 --> 00:43:02,600
+... termasuk cuaca, kelembaban, dan lingkungan untuk pertumbuhan bakteri.
+
+540
+00:43:02,720 --> 00:43:04,960
+Apakah mungkin perkiraan waktu kematian korban, Kim Sun-hee ...
+
+541
+00:43:05,080 --> 00:43:07,480
+tidak akurat?
+
+542
+00:43:07,600 --> 00:43:09,440
+Keberatan, Yang Mulia.
+
+543
+00:43:09,560 --> 00:43:11,680
+Pertanyaan Pembela mengarahkan saksi.
+
+544
+00:43:12,200 --> 00:43:13,600
+Silakan dilanjutkan.
+
+545
+00:43:14,840 --> 00:43:17,640
+Bagaimana Anda memperkirakan waktu kematian pada umumnya?
+
+546
+00:43:18,200 --> 00:43:21,680
+Dalam prakteknya, ketika Anda memperkirakan waktu kematian, ...
+
+547
+00:43:21,800 --> 00:43:26,360
+... selain dari perubahan dalam tubuh dan status dekomposisi korban, ...
+
+548
+00:43:26,480 --> 00:43:29,680
+... Anda turut mempertimbangkan keberadaan terakhir korban, ...
+
+549
+00:43:29,800 --> 00:43:32,520
+... melalui penggunaan kartu kredit dan catatan panggilan.
+
+550
+00:43:33,200 --> 00:43:35,120
+Bagaimana dengan kasus ini?
+
+551
+00:43:35,240 --> 00:43:40,240
+Untuk kasus ini, keberadaan terakhir korban yang dapat digunakan sebagai bukti itu tidak ada.
+
+552
+00:43:40,360 --> 00:43:44,920
+Jadi, kami hanya bisa menggunakan kondisi tubuh korban untuk memperkirakan waktu kematian.
+
+553
+00:43:45,040 --> 00:43:46,440
+Berarti, jika tubuh korban ...
+
+554
+00:43:46,560 --> 00:43:49,560
+... dipindahkan ke lokasi lain dengan suhu yang lebih rendah ...
+
+555
+00:43:49,840 --> 00:43:52,320
+... atau tubuh itu didinginkan setelah kematian, ...
+
+556
+00:43:52,440 --> 00:43:53,840
+apakah mungkin bahwa perkiraan waktu kematian korban ...
+
+557
+00:43:53,960 --> 00:43:56,640
+- ... menjadi berbeda?
+- Keberatan, Yang Mulia.
+
+558
+00:43:56,760 --> 00:44:00,080
+Pembela memeriksa Saksi berdasarkan spekulasi, bukan fakta.
+
+559
+00:44:00,520 --> 00:44:01,920
+Pembela.
+
+560
+00:44:02,280 --> 00:44:05,080
+Apakah Anda mempertanyakan perkiraan waktu kematian korban?
+
+561
+00:44:05,480 --> 00:44:06,920
+Ya, Yang Mulia.
+
+562
+00:44:09,280 --> 00:44:10,840
+Saksi, silakan menjawab.
+
+563
+00:44:11,280 --> 00:44:17,040
+Nah, jika tubuh itu didinginkan, ...
+
+564
+00:44:17,560 --> 00:44:20,560
+... itu akan menyebabkan penurunan suhu dan pembekuan darah ...
+
+565
+00:44:20,960 --> 00:44:24,440
+... dan itu juga akan memengaruhi waktu yang dibutuhkan untuk rigor mortis terjadi.
+
+566
+00:44:24,560 --> 00:44:27,400
+Maka, akan sulit untuk secara akurat memperkirakan waktu kematian.
+
+567
+00:44:28,480 --> 00:44:30,080
+Silakan lihat ke monitor.
+
+568
+00:44:33,840 --> 00:44:36,440
+Sampai saat ini, korban Kim Sun-hee telah dikonfirmasi terakhir terlihat ...
+
+569
+00:44:36,560 --> 00:44:39,280
+... sekitar pukul 11.00 pada tanggal 3 Februari.
+
+570
+00:44:41,040 --> 00:44:44,040
+Tubuhnya ditemukan sekitar pukul 06:00 pada 9 Februari.
+
+571
+00:44:44,160 --> 00:44:45,920
+(06:00 pada 9 Februari: Tubuh Kim Sun-hee ditemukan)
+
+572
+00:44:47,080 --> 00:44:50,640
+Polisi memperkirakan waktu kematian berada di sekitar pukul 22:00 pada 8 Februari, ...
+
+573
+00:44:51,920 --> 00:44:54,800
+... tapi didasarkan pada premis bahwa tubuh mungkin telah didinginkan, ...
+
+574
+00:44:55,120 --> 00:44:57,760
+... menjadi sulit untuk memperkirakan waktu kematian secara akurat.
+
+575
+00:44:58,520 --> 00:45:02,080
+Ini berarti perkiraan waktu kematian tidak lagi terbatas pada 8 Februari, ...
+
+576
+00:45:02,640 --> 00:45:05,560
+... melainkan antara 4 Februari sampai 8 Februari.
+
+577
+00:45:07,280 --> 00:45:09,840
+Ini juga berarti kita tidak bisa lagi mengesampingkan kemungkinan ...
+
+578
+00:45:09,960 --> 00:45:12,160
+... bahwa Terdakwa tidak membunuh korban.
+
+579
+00:45:12,880 --> 00:45:14,360
+Bagaimana bisa begitu?
+
+580
+00:45:18,440 --> 00:45:22,400
+Itu karena Terdakwa dibebaskan dari Lembaga Pemasyarakatan Gwang-ha ...
+
+581
+00:45:23,520 --> 00:45:25,720
+... sekitar pukul 11.30 pagi pada tanggal 6 Februari.
+
+582
+00:45:26,360 --> 00:45:28,200
+- Apa?
+- Dia baru saja dibebaskan?
+
+583
+00:45:28,560 --> 00:45:30,160
+- Kau dengar itu?
+- Astaga.
+
+584
+00:45:32,200 --> 00:45:33,640
+Saksi.
+
+585
+00:45:34,560 --> 00:45:37,000
+Apa Anda benar pacar korban?
+
+586
+00:45:37,920 --> 00:45:40,640
+Lebih tepatnya, saya mantan pacarnya.
+
+587
+00:45:41,120 --> 00:45:43,160
+Kami putus pada akhir tahun lalu.
+
+588
+00:45:43,680 --> 00:45:46,600
+Berarti, hari kalian putus merupakan hari Anda melihat korban untuk terakhir kalinya?
+
+589
+00:45:46,720 --> 00:45:49,320
+Tidak. Kami kehilangan kontak untuk sementara waktu, ...
+
+590
+00:45:51,160 --> 00:45:54,640
+... tapi Sun-hee datang menemui saya malam sebelum dia meninggal.
+
+591
+00:45:55,440 --> 00:45:59,040
+Saya pikir, sekitar satu minggu sebelum apa yang terjadi pada Sun-hee ...
+
+592
+00:45:59,640 --> 00:46:01,520
+saya terakhir melihatnya.
+
+593
+00:46:01,960 --> 00:46:04,000
+Dia mengatakan kepada saya bahwa dia dikejar rentenir ...
+
+594
+00:46:04,120 --> 00:46:06,400
+... dan meminta saya untuk meminjamkan 10 juta won untuk dia bersembunyi.
+
+595
+00:46:06,960 --> 00:46:08,400
+Tapi, saya tidak punya uang sebanyak itu, ...
+
+596
+00:46:09,120 --> 00:46:10,840
+... jadi dia pergi setelah saya memberinya apa yang tersisa di dompet saya.
+
+597
+00:46:11,640 --> 00:46:13,080
+Yang Mulia.
+
+598
+00:46:13,880 --> 00:46:18,360
+Saudara Lee Chul-soo terakhir melihat korban malam sebelum tubuh korban ditemukan.
+
+599
+00:46:18,480 --> 00:46:21,800
+Bahkan jika kita tidak bisa secara akurat memperkirakan waktu pasti kematian korban, ...
+
+600
+00:46:22,240 --> 00:46:26,040
+... kita tidak bisa mengatakan bahwa korban hilang selama lima hari seperti yang diklaim Pembela.
+
+601
+00:46:26,440 --> 00:46:27,960
+Sekian.
+
+602
+00:46:33,640 --> 00:46:35,520
+Saksi, kita sudah bertemu sebelumnya, kan?
+
+603
+00:46:36,240 --> 00:46:37,720
+Ya.
+
+604
+00:46:37,840 --> 00:46:39,600
+Apa yang Anda ceritakan saat itu?
+
+605
+00:46:39,920 --> 00:46:42,440
+Saya bilang hal yang sama persis dengan yang saya katakan kepada Jaksa.
+
+606
+00:46:42,560 --> 00:46:46,120
+Saksi, apakah Anda menyadari seberapa parah hukuman untuk melakukan sumpah palsu di pengadilan?
+
+607
+00:46:46,240 --> 00:46:48,160
+Keberatan, Pembela sekarang--
+
+608
+00:46:48,280 --> 00:46:49,880
+Pembela.
+
+609
+00:46:50,520 --> 00:46:52,960
+Anda harus memiliki bukti bahwa Saksi melakukan sumpah palsu.
+
+610
+00:46:56,000 --> 00:46:57,520
+Saya...
+
+611
+00:46:59,000 --> 00:47:00,400
+tidak punya bukti tersebut.
+
+612
+00:47:00,880 --> 00:47:02,480
+- Apa?
+- Tidak ada bukti?
+
+613
+00:47:03,240 --> 00:47:04,960
+- Astaga.
+- Tidak ada bukti.
+
+614
+00:47:05,640 --> 00:47:07,080
+Ya Tuhan.
+
+615
+00:47:07,520 --> 00:47:09,560
+Bagaimana dia bisa melakukan itu di pengadilan?
+
+616
+00:47:10,080 --> 00:47:13,040
+(Kantor Hukum Choi Do-hyun)
+
+617
+00:47:19,200 --> 00:47:22,200
+<i>Jika dua kejahatan tidak dilakukan oleh pelaku yang sama, ...</i>
+
+618
+00:47:23,000 --> 00:47:25,600
+<i>... mungkin bahwa salah satu kuku yang hancur ...</i>
+
+619
+00:47:25,720 --> 00:47:28,360
+<i>... dikarenakan pelaku memiliki stimulasi yang kuat.</i>
+
+620
+00:47:29,080 --> 00:47:30,640
+<i>Itu berarti...</i>
+
+621
+00:47:31,640 --> 00:47:33,240
+<i>Ini hanya kemungkinan, ...</i>
+
+622
+00:47:34,200 --> 00:47:37,280
+<i>... tapi bisa ada lebih banyak korban sebelum dan sesudahnya.</i>
+
+623
+00:47:47,720 --> 00:47:50,000
+Reporter Ha, kau bisa membantuku lagi?
+
+624
+00:47:50,120 --> 00:47:52,520
+Oh, baiklah. Apa katamu?
+
+625
+00:47:52,640 --> 00:47:55,360
+Bisakah kamu menemui keluarganya Han Jong-gu? Aku akan berikan alamatnya.
+
+626
+00:47:56,040 --> 00:47:58,320
+Hei, haruskah aku jadi pekerja tetap di sini?
+
+627
+00:47:58,440 --> 00:47:59,880
+Terus, kau mau apa?
+
+628
+00:48:02,920 --> 00:48:04,440
+Satu-satunya hal yang dapat kucoba sekarang ...
+
+629
+00:48:04,560 --> 00:48:05,960
+... adalah mendapatkan kesaksian dari seseorang yang memiliki ...
+
+630
+00:48:06,080 --> 00:48:07,640
+... bukti konklusif untuk kasus ini.
+
+631
+00:48:08,120 --> 00:48:09,640
+Siapa itu?
+
+632
+00:48:09,760 --> 00:48:11,800
+Bukankah kita hanya perlu memanggilnya ...
+
+633
+00:48:11,920 --> 00:48:14,160
+- ... sebagai saksi?
+- Itu ...
+
+634
+00:48:14,280 --> 00:48:16,040
+<i>Apa yang harus saya lakukan?</i>
+
+635
+00:48:16,520 --> 00:48:20,400
+<i>Temukan cara untuk membuat Han Jong-gu membayar kejahatannya lima tahun yang lalu.</i>
+
+636
+00:48:20,760 --> 00:48:22,440
+Ada kondisi yang sedikit urmit.
+
+637
+00:48:22,560 --> 00:48:23,960
+Kondisi yang sedikit rumit?
+
+638
+00:48:40,920 --> 00:48:42,320
+Chul-soo.
+
+639
+00:48:44,400 --> 00:48:45,960
+Mengapa kau membalikkan pernyataanmu di pengadilan?
+
+640
+00:48:46,240 --> 00:48:49,120
+Apa maksudmu? Tak ada yang seperti itu!
+
+641
+00:48:49,240 --> 00:48:51,760
+Sebenarnya, kapan terakhir kali kamu melihat Kim Sun-hee?
+
+642
+00:48:52,960 --> 00:48:55,320
+Aku sudah mengatakan itu semua di pengadilan. Paham?
+
+643
+00:48:55,440 --> 00:48:57,360
+Tinggalkan aku sendiri. Sialan!
+
+644
+00:48:59,360 --> 00:49:01,760
+Wah, mantel yang bagus.
+
+645
+00:49:02,760 --> 00:49:05,720
+Kupikir kau dikejar rentenir, tapi entah bagaimana kau langsung bisa melunasi semua utangmu.
+
+646
+00:49:06,240 --> 00:49:08,760
+Judi, <i>nge-game</i>, beli baju baru.
+
+647
+00:49:09,040 --> 00:49:10,680
+Kau menang lotre atau apa?
+
+648
+00:49:12,440 --> 00:49:16,720
+Apa urusannya denganmu? Kenapa? Kau mau menyelidiki sumber uangku?
+
+649
+00:49:16,840 --> 00:49:18,520
+Lakukan apa yang kamu mau.
+
+650
+00:49:21,920 --> 00:49:24,920
+Bajingan. Jika seseorang terbunuh, bukankah kamu setidaknya ingin tahu ...
+
+651
+00:49:25,040 --> 00:49:27,480
+... mengapa dia tewas ...
+
+652
+00:49:28,520 --> 00:49:30,360
+... dan siapa yang melakukannya?
+
+653
+00:49:32,840 --> 00:49:34,560
+Terlebih lagi, Kim Sun-hee ...
+
+654
+00:49:35,600 --> 00:49:37,280
+pernah jadi pacarmu.
+
+655
+00:49:48,640 --> 00:49:50,040
+Ambil ini.
+
+656
+00:49:54,000 --> 00:49:55,680
+Hubungi aku jika kamu berubah pikiran.
+
+657
+00:50:24,760 --> 00:50:26,280
+Kamu mencari seseorang?
+
+658
+00:50:27,040 --> 00:50:30,320
+Saya mau bertemu Bu Yoon Yi-geum yang tinggal di sini.
+
+659
+00:50:31,400 --> 00:50:35,320
+Aku tidak tahu namanya, tapi wanita tua itu dikirim ke sebuah panti jompo bertahun-tahun lalu.
+
+660
+00:50:35,440 --> 00:50:37,000
+Panti jompo?
+
+661
+00:50:37,600 --> 00:50:39,200
+Aku dengar dia punya Alzheimer atau apa.
+
+662
+00:50:40,880 --> 00:50:43,040
+Apakah Anda tahu kapan dia dikirim ke panti jompo?
+
+663
+00:50:43,560 --> 00:50:45,760
+Entahlah.
+
+664
+00:50:48,800 --> 00:50:51,200
+-Terima kasih.
+-Ya.
+
+665
+00:50:59,680 --> 00:51:01,160
+Hei, Yu-ri.
+
+666
+00:51:04,000 --> 00:51:05,400
+Panti jompo?
+
+667
+00:51:07,040 --> 00:51:08,440
+Oke.
+
+668
+00:51:15,720 --> 00:51:17,800
+Nama ibumu adalah Yoon Yi Geum, kan?
+
+669
+00:51:20,760 --> 00:51:22,280
+Di mana dia sekarang?
+
+670
+00:51:24,360 --> 00:51:25,840
+Mengapa mau tahu?
+
+671
+00:51:25,960 --> 00:51:27,520
+Wanita itu tidak ada hubungannya dengan kasus ini.
+
+672
+00:51:27,640 --> 00:51:31,320
+Saya mengunjungi beliau karena mungkin bisa membantu menyelesaikan kasusmu.
+
+673
+00:51:32,280 --> 00:51:34,920
+Tapi, rumah itu seperti sudah lama ditinggalkan.
+
+674
+00:51:35,680 --> 00:51:37,080
+Apa?
+
+675
+00:51:42,080 --> 00:51:44,920
+Wanita itu berselingkuh dan sudah lama pergi.
+
+676
+00:51:45,040 --> 00:51:47,640
+Aku takkan menemuimu lagi bila kamu membicarakan soal ini lagi.
+
+677
+00:51:53,000 --> 00:51:54,880
+Aku akan mengatakannya lagi.
+
+678
+00:51:57,880 --> 00:51:59,280
+Wanita itu.
+
+679
+00:52:00,440 --> 00:52:02,440
+Dia tak memiliki hubungan ...
+
+680
+00:52:02,920 --> 00:52:04,440
+... apa pun denganku.
+
+681
+00:52:18,880 --> 00:52:21,960
+Oh, begitu. Terima kasih.
+
+682
+00:52:25,560 --> 00:52:27,040
+(Daftar Rumah Perawatan)
+
+683
+00:52:27,400 --> 00:52:29,160
+- Ketemu?
+- Tidak.
+
+684
+00:52:29,280 --> 00:52:32,120
+Aku menelepon setiap panti jompo di negara ini, ...
+
+685
+00:52:32,400 --> 00:52:35,400
+... tapi tidak ada yang merawat pasien di bawah nama Yoon Yi Geum atau Han Jong-gu.
+
+686
+00:52:35,520 --> 00:52:39,720
+- Bagaimana dengan ayahnya?
+- Sudah lama meninggal karena kecelakaan kapal.
+
+687
+00:52:40,720 --> 00:52:42,800
+- Bagaimana dengan rumah sakit?
+- Bu Jin?
+
+688
+00:52:43,520 --> 00:52:46,120
+Saya menelepon rumah sakit tapi tidak menemukan apa pun.
+
+689
+00:52:46,600 --> 00:52:48,600
+Tidak ada laporan orang hilang yang diajukan sekitar waktu itu ...
+
+690
+00:52:48,720 --> 00:52:51,200
+... dan tidak ada satu pun yang cocok dengan profilnya di pelayanan sosial.
+
+691
+00:52:53,320 --> 00:52:54,920
+Ini sangat aneh.
+
+692
+00:52:55,800 --> 00:52:57,600
+Bagaimana bisa dia menghilang begitu saja?
+
+693
+00:52:59,320 --> 00:53:02,560
+Tetangga mengatakan dia dikirim ke sebuah panti jompo. Aneh.
+
+694
+00:53:04,920 --> 00:53:07,920
+<i>Wanita itu berselingkuh dan pergi sejak lama.</i>
+
+695
+00:53:11,240 --> 00:53:12,880
+Kalian berdua pulanglah duluan.
+
+696
+00:53:13,320 --> 00:53:14,760
+Mengapa? Kamu mau pergi ke suatu tempat?
+
+697
+00:53:16,240 --> 00:53:19,360
+Ya, saya baru ingat harus mampir ke suatu tempat.
+
+698
+00:53:29,600 --> 00:53:32,360
+Kenapa dia tidak tinggal di sini setelah ia dibebaskan dari penjara?
+
+699
+00:53:33,000 --> 00:53:34,600
+Bagaimanapun, ini rumahnya.
+
+700
+00:54:23,920 --> 00:54:25,840
+(Detektif Seo Geun-pyo)
+
+701
+00:54:28,760 --> 00:54:31,960
+<i>Nomor yang Anda tuju tidak menjawab.
+Silakan tinggalkan pesan setelah nada berikut.</i>
+
+702
+00:55:28,960 --> 00:55:30,720
+(Mati)
+
+703
+00:55:35,600 --> 00:55:40,400
+(Mati)
+
+704
+00:55:43,080 --> 00:55:47,000
+(Mati)
+
+705
+00:56:10,960 --> 00:56:12,360
+Ini semakin menarik.
+
+706
+00:56:14,480 --> 00:56:17,600
+(Persidangan Ketiga Kasus Pembunuhan Kim Sun-hee)
+
+707
+00:56:18,360 --> 00:56:21,080
+Pembela, apa Anda punya saksi untuk dipanggil?
+
+708
+00:56:21,960 --> 00:56:23,640
+Jika tidak, ...
+
+709
+00:56:27,440 --> 00:56:30,920
+Yang Mulia. Saya ingin memanggil Terdakwa sebagai saksi.
+
+710
+00:56:33,120 --> 00:56:34,520
+Saya keberatan.
+
+711
+00:56:34,640 --> 00:56:37,960
+Bukti yang ditemukan sudah cukup untuk melakukan pemeriksaan.
+
+712
+00:56:38,080 --> 00:56:40,400
+Tetapi jika keadaan baru yang bisa menguntungkan Terdakwa muncul, ...
+
+713
+00:56:40,520 --> 00:56:43,000
+... diperbolehkan untuk menguji kembali dalam batas waktu tertentu.
+
+714
+00:56:44,400 --> 00:56:46,880
+Kami akan mendengarnya. Izin diberikan.
+
+715
+00:56:47,360 --> 00:56:51,200
+Tapi, saya tidak akan mengizinkan pemeriksaan lagi setelah ini.
+
+716
+00:56:52,120 --> 00:56:54,000
+Terdakwa, silakan ke meja saksi.
+
+717
+00:57:27,480 --> 00:57:28,880
+Terdakwa.
+
+718
+00:57:34,560 --> 00:57:35,960
+Apakah kamu...
+
+719
+00:57:36,800 --> 00:57:38,200
+...lima tahun yang lalu...
+
+720
+00:57:38,480 --> 00:57:39,960
+... di lokasi konstruksi di Eunseo-gu ...
+
+721
+00:57:41,720 --> 00:57:43,360
+...membunuh Yang Ae–ran?
+
+722
+00:57:43,480 --> 00:57:45,280
+- Apa?
+- Astaga.
+
+723
+00:57:45,560 --> 00:57:47,040
+Apa artinya ini?
+
+724
+00:57:47,160 --> 00:57:48,640
+Apa yang sedang terjadi?
+
+725
+00:57:49,360 --> 00:57:50,880
+Kamu gila?
+
+726
+00:57:53,080 --> 00:57:54,560
+Ini tidak akan mudah seperti dulu.
+
+727
+00:57:55,360 --> 00:57:56,800
+Sial.
+
+728
+00:57:57,320 --> 00:58:00,560
+Lalu, apa yang harus kulakukan? Aku bahkan tidak melakukannya. Aku merasa serba salah.
+
+729
+00:58:01,960 --> 00:58:05,240
+Ada satu solusi.
+
+730
+00:58:06,080 --> 00:58:07,560
+Apa itu?
+
+731
+00:58:09,240 --> 00:58:10,680
+Katakan apa itu.
+
+732
+00:58:12,840 --> 00:58:14,320
+Dengarkan saya baik-baik, Pak Han.
+
+733
+00:58:14,760 --> 00:58:18,720
+Meskipun kasus ini mungkin tampak identik dengan kasus lima tahun yang lalu, ...
+
+734
+00:58:19,480 --> 00:58:20,880
+... sebenarnya ada perbedaan penting.
+
+735
+00:58:21,960 --> 00:58:23,560
+Namun, untuk membuktikan itu, ...
+
+736
+00:58:27,120 --> 00:58:29,520
+... saya ingin kamu mengakui bahwa kamu ...
+
+737
+00:58:29,640 --> 00:58:31,560
+... pelaku yang membunuh Yang Ae-ran lima tahun yang lalu.
+
+738
+00:58:33,120 --> 00:58:34,960
+Jika kita mengatakan bahwa kamulah pelaku sesungguhnya dari kasus sebelumnya, ...
+
+739
+00:58:35,080 --> 00:58:39,040
+... kita dapat membuktikan bahwa kamu tidak melakukan kejahatan yang sekarang.
+
+740
+00:58:46,240 --> 00:58:47,720
+Maksudmu, ...
+
+741
+00:58:48,760 --> 00:58:51,200
+... agar aku bisa bebas dari tuduhan pembunuhan kali ini, ...
+
+742
+00:58:51,720 --> 00:58:55,440
+aku harus mengaku telah membunuh Yang Ae-ran lima tahun yang lalu?
+
+743
+00:58:55,560 --> 00:58:57,520
+Begitu maksudmu?
+
+744
+00:58:59,000 --> 00:59:00,400
+Betul.
+
+745
+00:59:09,360 --> 00:59:12,600
+Ah, omong kosong konyol gila macam apa itu?
+
+746
+00:59:12,960 --> 00:59:15,520
+Kalau tak mau jadi pembunuh, aku harus mengakui bahwa aku seorang pembunuh?
+
+747
+00:59:17,320 --> 00:59:18,880
+Detektif itu juga mengatakan hal yang sama.
+
+748
+00:59:19,000 --> 00:59:21,400
+Apa kalian berdua bersekongkol untuk menjebakku?
+
+749
+00:59:21,800 --> 00:59:25,320
+Tapi, kau tidak membunuh Kim Sun-hee, kan?
+
+750
+00:59:26,280 --> 00:59:27,680
+Jadi, kamu akhirnya percaya padaku?
+
+751
+00:59:27,800 --> 00:59:29,800
+Berapa kali aku harus mengatakannya padamu?
+
+752
+00:59:31,560 --> 00:59:33,120
+Baik.
+
+753
+00:59:34,480 --> 00:59:37,880
+Anggap saja aku membunuh Yang Ae-ran lima tahun yang lalu.
+
+754
+00:59:38,640 --> 00:59:41,320
+Bahkan jika aku dibersihkan dari tuduhan pembunuhan untuk Kim Sun-hee, ...
+
+755
+00:59:41,440 --> 00:59:44,440
+... bukankah aku akan ditangkap lagi karena kasus Yang Ae-ran?
+
+756
+00:59:44,560 --> 00:59:46,840
+Lalu, apa gunanya? Aku kembali dikurung.
+
+757
+00:59:46,960 --> 00:59:51,920
+Tidak. Bahkan jika kamu mengakui kejahatan itu, kau tidak bisa ditangkap atas tuduhan yang sama.
+
+758
+00:59:53,040 --> 00:59:57,160
+Di bawah hukum pidana, kamu tidak bisa dituntut untuk kejahatan yang sama lagi ...
+
+759
+00:59:57,280 --> 00:59:59,360
+... karena ada pembelaan hukum yang disebut larangan <i>double jeopardy.</i>
+
+760
+00:59:59,760 --> 01:00:03,600
+Dengan kata lain, bahkan jika terungkap kamulah pembunuh dari kasus sebelumnya, ...
+
+761
+01:00:04,040 --> 01:00:07,560
+... kamu tak bisa dituntut lagi untuk kasus itu.
+
+762
+01:00:08,200 --> 01:00:09,600
+Kau minta aku untuk percaya itu?
+
+763
+01:00:09,960 --> 01:00:11,360
+Kamu harus percaya pada saya.
+
+764
+01:00:11,880 --> 01:00:14,400
+Sama seperti yang kamu lakukan lima tahun yang lalu.
+
+765
+01:00:25,960 --> 01:00:28,560
+Tapi, aku masih tidak bisa mengakui sesuatu yang tidak kulakukan.
+
+766
+01:00:34,240 --> 01:00:35,640
+Apakah begitu?
+
+767
+01:00:37,160 --> 01:00:38,760
+Aku tidak melakukannya.
+
+768
+01:00:39,120 --> 01:00:42,040
+Temukan solusi. Kau pengacara!
+
+769
+01:00:42,880 --> 01:00:44,760
+Barusan, saya ...
+
+770
+01:00:45,040 --> 01:00:46,520
+... mengatakan solusinya.
+
+771
+01:00:49,880 --> 01:00:51,480
+Saya bertanya lagi.
+
+772
+01:00:52,600 --> 01:00:55,680
+Terdakwa. Lima tahun yang lalu, ...
+
+773
+01:00:57,240 --> 01:00:59,080
+... apa Anda membunuh ...
+
+774
+01:01:03,240 --> 01:01:04,880
+...Yang Ae-ran?
+
+775
+01:01:26,400 --> 01:01:28,600
+CONFESSION
+
+776
+01:01:28,720 --> 01:01:30,760
+<i>Ini merupakan kasus yang belum pernah terjadi sebelumnya.</i>
+
+777
+01:01:30,880 --> 01:01:32,520
+<i>Apa yang sedang Anda coba lakukan?</i>
+
+778
+01:01:32,640 --> 01:01:35,600
+<i>Anda pada dasarnya menegasikan pembelaan Anda sendiri. Bagaimana perasaan Anda tentang itu?</i>
+
+779
+01:01:35,720 --> 01:01:37,840
+<i>Apa aku meminta terlalu banyak?</i>
+
+780
+01:01:40,080 --> 01:01:42,800
+<i>Apa yang mereka pikirkan?</i>
+
+781
+01:01:42,920 --> 01:01:44,320
+<i>Apakah kau tidak penasaran?</i>
+
+782
+01:01:45,720 --> 01:01:48,560
+<i>Mari kita lihat bagaimana dia menangani sidang ini.</i>
+
+783
+01:01:48,680 --> 01:01:50,080
+<i>Berikut ini adalah putusan ...</i>
+
+784
+01:01:50,200 --> 01:01:52,880
+<i>... untuk kasus pembunuhan terhadap Kim Sun-hee di Jinhyun-dong, Eunseo-gu.</i>
+
+785
+01:01:53,000 --> 01:01:54,560
+<i>Pak, saya butuh bantuan Anda.</i>
+
+786
+01:01:55,880 --> 01:01:57,360
+<i>Segera.</i>
+

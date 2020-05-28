@@ -1,0 +1,4951 @@
+﻿1
+00:00:15,880 --> 00:00:17,480
+=Gempa berkekuatan 6,5 skala
+menghantam kota Seoul.=
+
+2
+00:00:17,480 --> 00:00:19,350
+=Gempa terkuat dalam sejarah.=
+
+3
+00:00:19,350 --> 00:00:22,150
+=Karena ini adalah gempa terkuat yang pernah
+melanda wilayah Semenanjung Korea.
+
+4
+00:00:22,150 --> 00:00:23,750
+=Dikarenakan oleh gempa,
+tidak hanya aliran listrik di kota Seoul mati,=
+
+5
+00:00:23,750 --> 00:00:26,290
+=Tapi gas dan air  bersih juga
+tidak berfungsi sama sekali.=
+
+6
+00:00:26,290 --> 00:00:28,420
+=Diharapkan semoga masyarakat
+pada setelah mendengar siaran ini,=
+
+7
+00:00:28,420 --> 00:00:29,360
+=segera keluar dari dalam bangunan,=
+
+8
+00:00:29,360 --> 00:00:33,230
+=dan segera menuju ke kamp pengungsi darurat
+yang berada di berbagai titik daerah.=
+
+9
+00:00:33,230 --> 00:00:35,900
+<i>Kemungkinan besar bangunannya
+akan roboh!</i>
+
+10
+00:00:35,900 --> 00:00:37,230
+<i>Jangan!</i>
+
+11
+00:00:41,640 --> 00:00:43,240
+<i>Masih hidup?</i>
+
+12
+00:00:43,910 --> 00:00:44,970
+<i>Harus hidup!</i>
+
+13
+00:00:44,970 --> 00:00:49,110
+<i>Di bawah sini ada... orang.</i>
+
+14
+00:00:49,110 --> 00:00:49,910
+<i>Apa pun tidak punya.</i>
+
+15
+00:00:49,910 --> 00:00:51,250
+<i>Bagaimana caranya kita bisa memberikan
+perawatan medis yang terbaik?</i>
+
+16
+00:00:51,250 --> 00:00:52,580
+<i>Rumah sakit harus ditutup.</i>
+
+17
+00:00:52,580 --> 00:00:53,520
+<i>Harus tetap dibuka.</i>
+
+18
+00:00:53,520 --> 00:00:55,380
+<i>Kang Siljang, kau yakin?</i>
+
+19
+00:00:55,380 --> 00:00:57,250
+<i>Berikan padaku hak memerintah
+di rumah sakit ini.</i>
+
+20
+00:00:58,850 --> 00:01:03,120
+<i>Membawa begitu banyak orang berjalan
+setapak demi setapak benar bisa sampai ke RS. Hanseo?</i>
+
+21
+00:01:03,120 --> 00:01:05,530
+<i>Aku mau ke RS. Mirae.</i>
+
+22
+00:01:05,530 --> 00:01:07,660
+<i>Dokter Lee bukanlah dokter
+RS. Mirae.</i>
+
+23
+00:01:07,660 --> 00:01:10,470
+<i>RS. Mirae tidak bisa menerima kalian.</i>
+
+24
+00:01:10,470 --> 00:01:13,000
+<i>Nyawa yang tidak bisa diselamatkan,
+ada lebih banyak lagi Wonjang-nim.</i>
+
+25
+00:01:13,000 --> 00:01:16,470
+<i>Jika rumah sakit mengabaikan pasien,</i>
+
+26
+00:01:16,470 --> 00:01:18,470
+<i>kami tidak ada bedanya dengan
+kehilangan harapan hidup.</i>
+
+27
+00:01:18,470 --> 00:01:22,080
+<i>Camkan baik-baik perjanjian
+mendesakmu tadi!</i>
+
+28
+00:01:22,080 --> 00:01:25,150
+<i>Mulai sekarang RS. Mirae
+memasuki keadaan darurat.</i>
+
+29
+00:01:25,150 --> 00:01:27,420
+<i>Rumah sakit tidak menelantarkan Anda semua.</i>
+
+30
+00:01:27,420 --> 00:01:28,480
+<i>Untuk mengatasi akibat gempa,</i>
+
+31
+00:01:28,480 --> 00:01:31,820
+<i>inilah usaha terbesar
+yang dilakukan oleh rumah sakit.</i>
+
+32
+00:01:31,820 --> 00:01:33,420
+<i>Semoga Anda semua bisa mengerti.</i>
+
+33
+00:01:36,290 --> 00:01:36,890
+<font color="#ffff00">-=Episode 05=-</font>
+
+34
+00:01:36,890 --> 00:01:38,230
+<font color="#ffff00">-=Episode 05=-</font>
+<i>Lee Hye Sang?</i>
+
+35
+00:01:38,230 --> 00:01:38,990
+<font color="#ffff00">-=Episode 05=-</font>
+<i>Ya?</i>
+
+36
+00:01:38,990 --> 00:01:39,290
+<font color="#ffff00">-=Episode 05=-</font>
+Lee Hye Sang?
+- Iya?
+
+37
+00:01:39,290 --> 00:01:39,660
+<font color="#ffff00">-=Episode 05=-</font>
+<i>Lee Hye Sang?</i>
+
+38
+00:01:39,660 --> 00:01:41,400
+<i>Lee Hye Sang?</i>
+
+39
+00:01:41,400 --> 00:01:42,460
+<i>Ya?</i>
+
+40
+00:01:44,070 --> 00:01:45,530
+Terima kasih.
+
+41
+00:01:45,530 --> 00:01:46,200
+Baik, hati-hati ya?
+
+42
+00:01:46,200 --> 00:01:47,140
+Sampai jumpa.
+
+43
+00:01:50,740 --> 00:01:52,870
+Jeong Ttol Mi!
+
+44
+00:01:52,870 --> 00:01:54,480
+Kenapa masih belum balik ke Busan?
+
+45
+00:01:55,010 --> 00:01:57,680
+Oh, ternyata kau masih ingat padaku.
+
+46
+00:01:57,680 --> 00:01:59,010
+Tadinya aku berpikir dengan memanfaatkan
+kedatanganku ke RS. Mirae,
+
+47
+00:01:59,010 --> 00:02:00,480
+sekalian mengunjungi Saem.
+<font color="#ffff00">[Saem - Guru]</font>
+
+48
+00:02:00,480 --> 00:02:02,220
+Akhirnya malah jadi begini.
+
+49
+00:02:02,220 --> 00:02:04,090
+Aku malah berpikir kau sudah
+lupa padaku.
+
+50
+00:02:04,090 --> 00:02:08,220
+Nama seperti Jeong Ttol Mi begitu,
+bagaimana mungkin bisa kulupakan?
+
+51
+00:02:08,220 --> 00:02:10,490
+Kalau tidak salah waktu liburan
+musim panas SMA kelas 2 ya?
+
+52
+00:02:10,490 --> 00:02:11,690
+Iya.
+
+53
+00:02:11,690 --> 00:02:13,560
+Aku terlibat dalam kecelakaan lalu lintas
+dan hampir meninggal.
+
+54
+00:02:13,560 --> 00:02:14,760
+Berkat Saem yang mengoperasi aku,
+
+55
+00:02:14,760 --> 00:02:16,500
+barulah aku bisa lolos dari maut.
+
+56
+00:02:16,500 --> 00:02:18,900
+Tapi waktu itu Saem benar-benar
+terlihat keren sekali.
+
+57
+00:02:18,900 --> 00:02:20,770
+Sehingga aku juga ikutan masuk FK.
+
+58
+00:02:20,770 --> 00:02:23,970
+Selama ini aku ingin sekali
+bisa bertemu kembali denganmu.
+
+59
+00:02:23,970 --> 00:02:26,240
+Tapi...
+
+60
+00:02:27,840 --> 00:02:29,580
+Apanya tapi?
+
+61
+00:02:29,580 --> 00:02:32,380
+Aku ingin bertemu dengan Saem
+yang aku kenal dulu.
+
+62
+00:02:33,580 --> 00:02:35,450
+Waktu itu kau juga tanpa bantuan
+dokter anastesi,
+
+63
+00:02:35,450 --> 00:02:40,260
+mengoperasiku di sebuah rumah sakit kecil di pedesaan.
+Saem yang berhasil menyelamatkan nyawaku...
+
+64
+00:02:40,260 --> 00:02:42,660
+Kalau begitu, aku ada satu pertanyaan untukmu.
+
+65
+00:02:42,660 --> 00:02:45,860
+Bekas luka di perutmu itu.
+
+66
+00:02:45,860 --> 00:02:47,460
+Sekalipun kau tidak pernah menyalahkanku?
+
+67
+00:02:47,460 --> 00:02:50,000
+Itu kan karena waktu itu aku masih kecil jadi...
+
+68
+00:02:50,000 --> 00:02:52,270
+Bisa dimengerti kenapa pasien
+berbuat seperti itu.
+
+69
+00:02:52,270 --> 00:02:54,270
+Tubuh adalah tubuh sendiri.
+
+70
+00:02:54,270 --> 00:02:58,810
+Kalau sakit juga dirasakan sendiri.
+Jadi egois itu sudah sepantasnya.
+
+71
+00:02:59,470 --> 00:03:02,680
+Tanpa bantuan seorang anastesi,
+aku berhasil menolong nyawamu dengan operasi,
+
+72
+00:03:03,350 --> 00:03:05,080
+itu bukanlah sebuah legenda.
+
+73
+00:03:05,080 --> 00:03:06,550
+Tapi aku yang telah melakukan sebuah
+hal yang gila.
+
+74
+00:03:06,550 --> 00:03:08,420
+Kebetulan keberuntungan
+sedang berpihak padaku hari itu
+
+75
+00:03:09,620 --> 00:03:12,550
+Kau bisa hidup karena beruntung.
+
+76
+00:03:12,550 --> 00:03:15,620
+Pasien yang jumlahnya begitu banyak di situ,
+
+77
+00:03:15,620 --> 00:03:17,490
+walaupun kau merasa mereka juga akan
+seperti itu,
+
+78
+00:03:17,490 --> 00:03:21,360
+Tapi ilusimu itu hanya akan
+membawa mereka ke dalam bahaya.
+
+79
+00:03:23,630 --> 00:03:24,630
+Kalau begitu,
+
+80
+00:03:25,630 --> 00:03:27,130
+jika Saem yang kukenal dulu
+
+81
+00:03:27,370 --> 00:03:29,370
+adalah Han Saem yang sekarang,
+
+82
+00:03:30,440 --> 00:03:32,440
+aku akan menemui ajalku?
+
+83
+00:03:36,440 --> 00:03:38,580
+Kau melakukan sesuatu yang gila
+dan menyelamatkan nyawaku.
+
+84
+00:03:38,580 --> 00:03:39,920
+Kau menyesalinya sekarang?
+
+85
+00:03:42,050 --> 00:03:43,050
+Tidak.
+
+86
+00:03:44,800 --> 00:03:47,050
+Tapi aku juga tidak berniat mengulanginya lagi.
+
+87
+00:04:07,680 --> 00:04:08,880
+Anda sudah datang?
+
+88
+00:04:09,280 --> 00:04:10,580
+Kau datang sedikit terlambat.
+
+89
+00:04:12,080 --> 00:04:15,600
+Rumah sakit kelimpungan mempertahankan
+situasi seperti sekarang ini.
+
+90
+00:04:15,820 --> 00:04:17,320
+Yang pasti harus kita lalui.
+
+91
+00:04:17,950 --> 00:04:20,890
+Asalkan kita berusaha maksimal
+menyelesaikan semua yang harus diselesaikan
+dalam dua hari,
+
+92
+00:04:20,890 --> 00:04:23,830
+akan bisa menghilangkan
+opini negatif masyarakat terhadap kita.
+
+93
+00:04:23,830 --> 00:04:26,830
+Juga bisa menghindari opini negatif
+terhadap penanganan bencana alam Seoul.
+
+94
+00:04:27,960 --> 00:04:29,960
+Sekalipun jika nanti
+timbul permasalahan,
+
+95
+00:04:30,200 --> 00:04:32,600
+Kang Siljang yang akan
+menanggung semua akibatnya.
+
+96
+00:04:32,630 --> 00:04:36,910
+"Nyawa manusia adalah sama berharganya",
+merupakan pepatah yang sangat salah.
+
+97
+00:04:36,910 --> 00:04:39,910
+Nyawa orang ini berbeda.
+Dia sangat berharga bagi kita.
+
+98
+00:04:41,180 --> 00:04:43,980
+Dia adalah tali yang pernah
+kau lepaskan sekali.
+
+99
+00:04:44,380 --> 00:04:47,380
+Kau bertanggung-jawab
+untuk menyelamatkan nyawanya.
+
+100
+00:04:49,000 --> 00:04:50,200
+Genggam dengan erat tali ini!
+
+101
+00:04:50,520 --> 00:04:52,920
+Saya mengerti.
+
+102
+00:05:02,400 --> 00:05:04,630
+Abaikan pasien yang membutuhkan
+transfusi darah dalam jumlah banyak!
+
+103
+00:05:04,930 --> 00:05:08,330
+Pasien dengan fraktur yang disertai dengan,
+laserasi jaringan, jangan dikerjakan.
+
+104
+00:05:08,670 --> 00:05:10,470
+Kita tidak memiliki persediaan darah
+yang berlebih.
+
+105
+00:05:10,670 --> 00:05:12,270
+Para pasien sudah menyerbu ke mari.
+
+106
+00:05:12,270 --> 00:05:13,470
+Tolong cepat ditangani.
+
+107
+00:05:14,140 --> 00:05:17,750
+Sudah dengar?
+Semua orang harus secepatnya melakukan diagnosa.
+
+108
+00:05:18,150 --> 00:05:20,280
+Kita hanya perlu berusaha semampu kita.
+
+109
+00:05:20,280 --> 00:05:22,550
+Yang bisa dirawat oleh dokter rumah sakit kita,
+segera ditangani.
+
+110
+00:05:22,550 --> 00:05:24,150
+Ayo, mari kita cek pasien yang ada!
+
+111
+00:05:24,150 --> 00:05:25,150
+Baik.
+
+112
+00:05:43,640 --> 00:05:44,640
+Anda tidak apa-apa?
+
+113
+00:05:47,240 --> 00:05:50,450
+Ah, baru juga mulai aku sudah begitu.
+
+114
+00:05:51,110 --> 00:05:52,710
+Istirahatlah sebentar.
+Tanganmu juga terluka.
+
+115
+00:05:52,710 --> 00:05:54,210
+Serahkan saja padaku.
+
+116
+00:05:56,720 --> 00:05:59,720
+Tapi Dong Ha mana?
+Di mana Dong Ha Anda titipkan?
+
+117
+00:06:07,530 --> 00:06:08,600
+Siljang-nim...
+
+118
+00:06:09,530 --> 00:06:11,400
+Aku tidak bisa menemukan dia.
+
+119
+00:06:12,070 --> 00:06:14,070
+Tadinya dia berada di dalam
+satu mobil denganku.
+
+120
+00:06:15,000 --> 00:06:17,010
+Tapi saat aku siuman,
+dia sudah hilang entah ke mana.
+
+121
+00:06:20,610 --> 00:06:23,410
+Tidak peduli bagaimana aku mencari,
+tetap tidak bisa menemukannya.
+
+122
+00:06:25,550 --> 00:06:29,550
+Dia awalnya duduk di belakang
+sambil memegang mainannya.
+
+123
+00:06:30,890 --> 00:06:33,690
+Tapi hanya mainannya saja yang tertinggal.
+
+124
+00:06:33,690 --> 00:06:34,890
+Bagaimana ya?
+
+125
+00:06:35,420 --> 00:06:38,820
+Seharusnya Anda pergi mencarinya lagi
+dan bukan malah menyibukkan diri di rumah sakit.
+
+126
+00:06:40,630 --> 00:06:42,230
+Dong Ha pasti tahu.
+
+127
+00:06:43,300 --> 00:06:44,900
+Aku pernah bilang padanya,
+jika terjadi sesuatu,
+
+128
+00:06:44,900 --> 00:06:47,500
+kita bertemu di rumah sakit.
+
+129
+00:06:48,640 --> 00:06:52,140
+Aku berada di rumah sakit
+untuk merawat pasien.
+
+130
+00:06:53,980 --> 00:06:58,180
+Sekarang pasti ada juga orang
+yang sedang menjaga Dong Ha.
+
+131
+00:06:58,780 --> 00:07:01,050
+Kami akan bertemu kembali
+dalam keadaan selamat.
+
+132
+00:07:03,050 --> 00:07:05,190
+Pasti bisa bertemu dalam keadaan selamat.
+
+133
+00:07:06,650 --> 00:07:08,260
+Tentu saja, Siljang-nim.
+
+134
+00:07:20,000 --> 00:07:22,000
+Ayo, hanya pasien dengan tanda merah
+yang boleh masuk.
+
+135
+00:07:22,140 --> 00:07:22,570
+Jika kita tidak mengklasifikasi
+triase dengan akurat,
+
+136
+00:07:22,570 --> 00:07:23,610
+Jika kita tidak mengklasifikasi
+triase dengan akurat,
+<font color="#ffff00">[Triase: proses khusus memilah pasien
+berdasarkan beratnya cedera atau penyakit]</font>
+
+137
+00:07:23,610 --> 00:07:27,110
+pasien yang seharusnya bisa ditolong,
+jadi tidak tertolong.
+<font color="#ffff00">[Triase: proses khusus memilah pasien
+berdasarkan beratnya cedera atau penyakit]</font>
+
+138
+00:07:27,110 --> 00:07:27,610
+pasien yang seharusnya bisa ditolong,
+jadi tidak tertolong
+
+139
+00:07:38,020 --> 00:07:41,090
+Dokter, tolong periksa anakku!
+
+140
+00:07:44,960 --> 00:07:46,430
+<i>TD 70/50.</i>
+<font color="#ffff00">[TD - Tekanan Darah]</font>
+
+141
+00:07:46,430 --> 00:07:48,560
+Nadi di atas 130.
+
+142
+00:07:49,500 --> 00:07:52,570
+- Bagaimana anak ini sampai terluka?
+- Saat gempa, kami ditabrak mobil.
+
+143
+00:07:52,570 --> 00:07:55,170
+Setelah bagian perutnya ditabrak,
+dia jatuh pingsan.
+
+144
+00:07:56,840 --> 00:07:58,840
+Sebelah sini! Perawat!
+
+145
+00:07:59,110 --> 00:08:00,310
+-<i>Iya!</i>
+- Cepat! Cepat!
+
+146
+00:08:01,640 --> 00:08:02,940
+Tidak apa-apa.
+Semuanya akan baik-baik saja.
+
+147
+00:08:02,980 --> 00:08:04,850
+Dokter, tolong selamatkan anakku.
+
+148
+00:08:04,850 --> 00:08:06,310
+Bisakah, Dokter?
+
+149
+00:08:08,180 --> 00:08:09,520
+Sebelah sini!
+Bawa ke OK, cito!
+<font color="#ffff00">[OK - Kamar Operasi, Cito - Stat, segera]</font>
+
+150
+00:08:09,520 --> 00:08:10,320
+Baik.
+
+151
+00:08:15,660 --> 00:08:17,390
+Dokter Ahn Dae Gil!
+Dokter Eun So Yool!
+
+152
+00:08:17,390 --> 00:08:18,590
+Bagian sini lebih kurang sudah beres.
+
+153
+00:08:18,590 --> 00:08:20,060
+Tolong antar selimutnya
+kepada pasien-pasien di luar!
+
+154
+00:08:20,060 --> 00:08:21,530
+Sudah habis.
+
+155
+00:08:21,530 --> 00:08:22,600
+Lagi?
+
+156
+00:08:22,600 --> 00:08:24,600
+Yang lain-lain ke mana?
+
+157
+00:08:32,000 --> 00:08:33,470
+Dasar perawat idiot!
+
+158
+00:08:33,680 --> 00:08:36,480
+Tidak tahu ya dia kalau
+aku itu ketua ko-as?
+
+159
+00:08:37,150 --> 00:08:40,950
+Bukan karena kau hafal betul
+denah rumah sakit dan bagian-bagiannya?
+
+160
+00:08:42,620 --> 00:08:45,420
+Memangnya dandananku seperti
+seorang ahli gizi ya?
+
+161
+00:08:45,420 --> 00:08:46,890
+Selalu saja memberi perintah seenak perut.
+
+162
+00:08:46,890 --> 00:08:51,160
+Ahli gizi dan ahli jiwa kan gajinya mirip-mirip?
+
+163
+00:08:51,160 --> 00:08:52,630
+Kedengarannya seperti pujian nih!
+
+164
+00:08:52,630 --> 00:08:53,560
+Terima kasih.
+
+165
+00:09:06,510 --> 00:09:08,380
+Kalian jangan panik!
+
+166
+00:09:08,380 --> 00:09:10,380
+Hidupkan lampu kalian!
+
+167
+00:09:16,780 --> 00:09:18,380
+Aigoo, kau tidak apa-apa?
+
+168
+00:09:18,650 --> 00:09:21,320
+<i>Hati-hati, hati-hati sedikit.</i>
+
+169
+00:09:21,320 --> 00:09:23,460
+Tidak bisa.
+Ayo, ayo naik!
+
+170
+00:09:23,460 --> 00:09:25,260
+Sini, Oppa bopong kau.
+
+171
+00:09:34,400 --> 00:09:35,740
+Lebih keras lagi!
+
+172
+00:09:38,270 --> 00:09:41,080
+Semuanya, jangan takut!
+
+173
+00:09:41,080 --> 00:09:43,210
+Dengarkan bunyi peluit
+dan ikuti aku!
+
+174
+00:09:49,480 --> 00:09:50,950
+Kakiku sakit sekali.
+
+175
+00:09:52,950 --> 00:09:54,960
+Mau jauh lagi?
+
+176
+00:09:56,020 --> 00:09:58,960
+Baik, sedikit lagi sudah hampir tiba.
+
+177
+00:09:59,490 --> 00:10:01,760
+Yang semangat!
+Hampir sampai.
+
+178
+00:10:01,760 --> 00:10:03,230
+Hati-hati sedikit.
+
+179
+00:10:05,370 --> 00:10:07,500
+Terus! Terus naik!
+
+180
+00:10:07,900 --> 00:10:09,100
+Hati-hati!
+
+181
+00:10:15,110 --> 00:10:18,050
+<i>Aigoo, warung-warung di pinggir jalan
+roboh semua.</i>
+
+182
+00:10:18,050 --> 00:10:20,320
+Aku hanya berhasil memungut
+beberapa botol air.
+
+183
+00:10:20,720 --> 00:10:23,250
+Yang lain?
+Tidak ada makanan yang lain?
+
+184
+00:10:23,790 --> 00:10:26,320
+Ada sih orang-orang yang merangkak
+masuk ke dalam mengambil makanan.
+
+185
+00:10:26,320 --> 00:10:28,590
+Dasar! Jadi tim penyelamat setidaknya
+harus memiliki harkat martabat.
+
+186
+00:10:28,590 --> 00:10:30,590
+Kunyuk, memangnya harkat martabat
+bisa mengenyangkan perutmu?
+
+187
+00:10:30,590 --> 00:10:31,660
+Dengan perut kenyang
+baru ada tenaga.
+
+188
+00:10:31,660 --> 00:10:33,930
+Dengan adanya tenaga
+baru bisa menyelamatkan orang.
+
+189
+00:10:33,930 --> 00:10:36,200
+Daejang-nim, berhasil mengontak markas?
+<font color="#ffff00">[Daejang - kapten / ketua unit]</font>
+
+190
+00:10:36,730 --> 00:10:38,330
+Kapan baru bisa pulih?
+
+191
+00:10:38,330 --> 00:10:40,200
+Masih belum bisa ganti shift?
+
+192
+00:10:41,270 --> 00:10:43,000
+Aku sangking lelahnya
+duduk saja tidak bertenaga.
+
+193
+00:10:43,000 --> 00:10:44,610
+Aku juga hampir mati pengap.
+
+194
+00:10:44,610 --> 00:10:46,870
+HT-nya harus berfungsi dulu
+baru bisa digunakan untuk berkomunikasi.
+
+195
+00:10:47,070 --> 00:10:50,080
+Tempat buat mengisi ulang batere
+saja tidak ada sekarang.
+Kejadian apa ini sebenarnya? Mau gila rasanya.
+
+196
+00:10:50,080 --> 00:10:53,010
+Yang pasti akan datang lagi
+kejadian apa gitu.
+
+197
+00:10:53,010 --> 00:10:54,080
+Aigoo, sudah ah!
+
+198
+00:10:54,080 --> 00:10:55,180
+Malas ngurusin lagi ah!
+
+199
+00:10:55,420 --> 00:10:57,020
+Ngurusi diri sendiri saja
+sudah tidak bisa.
+
+200
+00:10:57,020 --> 00:10:58,220
+Tim penyelamat apaan tim penyelamat.
+
+201
+00:10:58,220 --> 00:11:00,490
+Daejang-nim! Daejang-nim!
+
+202
+00:11:00,490 --> 00:11:01,690
+Apa lagi, Nyong?
+
+203
+00:11:01,690 --> 00:11:05,560
+Sekarang ini di stasiun Yonggwang,
+penumpang kereta bawah tanah sedang menyelamatkan diri.
+
+204
+00:11:06,230 --> 00:11:07,960
+Aigoo, ayo kita ke stasiun kereta bawah tanah!
+
+205
+00:11:11,170 --> 00:11:12,900
+Nak, pegang yang erat!
+
+206
+00:11:12,900 --> 00:11:14,240
+Baik.
+Hati-hati! Hati-hati!
+
+207
+00:11:14,240 --> 00:11:16,240
+Cepat, cepat ke sini!
+Hati-hati!
+
+208
+00:11:18,640 --> 00:11:20,110
+Sebelah sini, sebelah sini.
+
+209
+00:11:20,110 --> 00:11:20,640
+Bagus.
+
+210
+00:11:20,640 --> 00:11:21,840
+Pegang tanganku, pegang tanganku.
+
+211
+00:11:22,510 --> 00:11:23,440
+Bagus.
+
+212
+00:11:23,850 --> 00:11:25,180
+Ayo, ayo.
+
+213
+00:11:25,180 --> 00:11:28,120
+Awas kaki, awas kaki.
+
+214
+00:11:30,520 --> 00:11:32,520
+<i>Anak-anak, ayo cepat bantu!</i>
+
+215
+00:11:33,050 --> 00:11:34,850
+<i>Cepat bantu sana!</i>
+
+216
+00:11:36,920 --> 00:11:37,860
+Sobatku!
+
+217
+00:11:38,530 --> 00:11:39,330
+Kunyuk!
+
+218
+00:11:39,330 --> 00:11:39,990
+Tolong aku!
+
+219
+00:11:39,990 --> 00:11:40,930
+Kau masih hidup?
+
+220
+00:11:40,930 --> 00:11:42,660
+Il Seob, kau datang mencariku?
+
+221
+00:11:43,600 --> 00:11:44,270
+Sobatku!
+
+222
+00:11:44,270 --> 00:11:45,600
+Sudah kubilang jangan
+panggil aku sobat.
+
+223
+00:11:45,600 --> 00:11:47,600
+Tapi gak ada mati-matinya kau ini.
+
+224
+00:11:48,140 --> 00:11:48,670
+Baik-baik saja?
+
+225
+00:11:48,670 --> 00:11:50,270
+Iya, baik-baik saja.
+
+226
+00:11:50,270 --> 00:11:52,010
+Orang-orang ku...
+
+227
+00:11:52,010 --> 00:11:53,210
+Orang yang di sebelah sana...
+
+228
+00:11:53,210 --> 00:11:54,410
+<i>Aku mengajak dia menjadi
+anggota tim penyelamat.</i>
+
+229
+00:11:54,410 --> 00:11:56,540
+<i>Orang itu selain tenaganya kuat,
+pintar memimpin jug</i>a.
+
+230
+00:11:56,540 --> 00:11:58,010
+<i>Tim Superman.</i>
+
+231
+00:11:58,010 --> 00:11:59,480
+Apaan?
+
+232
+00:11:59,480 --> 00:12:00,950
+Aigoo, telah menyusahkanmu.
+
+233
+00:12:00,950 --> 00:12:02,680
+<i>Orang itu di tengah-tengah kegelapan</i>
+
+234
+00:12:02,680 --> 00:12:05,090
+<i>meniup peluit menuntun semua orang</i>
+
+235
+00:12:05,090 --> 00:12:06,690
+<i>bersama denganku.</i>
+
+236
+00:12:07,220 --> 00:12:08,020
+<i>Apa?</i>
+
+237
+00:12:08,020 --> 00:12:10,560
+Tapi apa sebenarnya yang terjadi?
+
+238
+00:12:10,560 --> 00:12:12,830
+Aigoo, terjadi gempa... gempa.
+
+239
+00:12:12,830 --> 00:12:15,100
+Apa? Serius?
+
+240
+00:12:36,980 --> 00:12:38,450
+Jangan lari!
+
+241
+00:12:38,450 --> 00:12:39,920
+Jangan lari!
+Jongkok semuanya!
+
+242
+00:12:39,920 --> 00:12:41,920
+Jongkok!
+
+243
+00:12:42,460 --> 00:12:43,790
+<i>Menjauh dari bangunan!
+Menjauh dari bangunan!</i>
+
+244
+00:12:43,790 --> 00:12:46,060
+<i>Jangan lari!</i>
+
+245
+00:12:46,060 --> 00:12:49,400
+<i>Semuanya jongkok!</i>
+
+246
+00:12:54,340 --> 00:12:54,870
+Ki Woong?
+
+247
+00:12:54,870 --> 00:12:55,270
+<i>Ya?</i>
+
+248
+00:12:55,270 --> 00:12:56,340
+Ki Woong, bawa ke sini peralatannya!
+
+249
+00:12:56,340 --> 00:12:56,740
+<i>Baik!</i>
+
+250
+00:12:56,740 --> 00:12:58,340
+Woo Seong, cepat cari orang untuk bantu!
+
+251
+00:12:58,340 --> 00:12:58,870
+Baik.
+
+252
+00:12:58,870 --> 00:13:00,340
+Anda tidak apa-apa?
+Tunggu sebentar!
+
+253
+00:13:00,340 --> 00:13:02,080
+Tim Penyelamat, tunggu sebentar!
+
+254
+00:13:02,080 --> 00:13:03,280
+Tidak apa-apa, tidak apa-apa.
+
+255
+00:13:03,280 --> 00:13:04,480
+Sebentar lagi... sebentar lagi...
+
+256
+00:13:04,480 --> 00:13:05,810
+Ki Woong! Cepat!
+
+257
+00:13:07,150 --> 00:13:09,680
+Aku mulai dari sini,
+dokter Ahn dari sana.
+
+258
+00:13:17,430 --> 00:13:19,030
+<i>Saem! Saem!</i>
+
+259
+00:13:19,030 --> 00:13:19,430
+Ngapain aja kau?
+
+260
+00:13:19,430 --> 00:13:20,090
+<i>Sini! Sini!</i>
+
+261
+00:13:20,090 --> 00:13:22,360
+Hei, hentikan pendarahannya!
+Cepat!
+
+262
+00:13:23,830 --> 00:13:25,300
+<i>Hentikan pendarahan...
+Hentikan pendarahan...</i>
+
+263
+00:13:25,970 --> 00:13:27,700
+Tunggu apa lagi?
+Kusuruh kau hentikan pendarahannya!
+
+264
+00:13:27,700 --> 00:13:29,040
+Hentikan pendarahan!
+
+265
+00:13:30,100 --> 00:13:31,970
+Nih!
+
+266
+00:13:39,980 --> 00:13:42,250
+Ngapain kau?
+Bumbui kimchi?
+
+267
+00:13:42,250 --> 00:13:43,720
+Sarung tangannya sedikit...
+
+268
+00:13:43,720 --> 00:13:44,520
+Sini.
+
+269
+00:13:49,190 --> 00:13:51,060
+Untuk berjaga-jaga,
+tekan pakai tangan itu juga!
+
+270
+00:13:51,060 --> 00:13:53,190
+Sebelum darahnya menyembur,
+tekan pembuluh darahnya!
+
+271
+00:13:53,190 --> 00:13:53,860
+Baik.
+
+272
+00:13:56,400 --> 00:13:58,530
+Pembuluh darahnya sudah kutemukan.
+
+273
+00:13:58,530 --> 00:14:00,000
+Tekan sekuat tenaga!
+Jangan lepas!
+
+274
+00:14:02,000 --> 00:14:03,200
+IV cepat!
+
+275
+00:14:03,870 --> 00:14:05,870
+Aigoo, mengagetkan saja.
+
+276
+00:14:07,340 --> 00:14:08,680
+Bagian betisnya benar-benar parah.
+
+277
+00:14:08,680 --> 00:14:09,610
+Aku ambil stetoskop dulu.
+
+278
+00:14:09,610 --> 00:14:10,950
+Bagian betisnya hancur.
+
+279
+00:14:10,950 --> 00:14:13,210
+TD nya tidak stabil.
+Sepertinya ada fraktur pada tibia dan fibula.
+
+280
+00:14:13,210 --> 00:14:15,220
+Dilihat dari posisinya sepertinya
+ruptur pada arteri.
+
+281
+00:14:15,220 --> 00:14:16,820
+Masih terasa denyut nadi pada arterinya.
+
+282
+00:14:16,820 --> 00:14:19,750
+Ada indikasi syok hypovolemic.
+<font color="#ffff00">[Syok Hypovolemic - syok yang diakibatkan penurunan
+volume darah secara mendadak]</font>
+
+283
+00:14:19,750 --> 00:14:25,630
+Tapi tidak bisa mendiagnosa kondisi arteri lainnya.
+<font color="#ffff00">[Syok Hypovolemic - syok yang diakibatkan penurunan
+volume darah secara mendadak]</font>
+
+284
+00:14:25,630 --> 00:14:27,360
+Sekarang ini sedang kutekan
+menggunakan tanganku,
+
+285
+00:14:27,360 --> 00:14:29,100
+tapi darahnya menyembur dengan dashyat.
+
+286
+00:14:29,100 --> 00:14:30,830
+Sebaiknya pasien secepatnya ditransfer ke OK.
+
+287
+00:14:30,830 --> 00:14:34,840
+Hei, bukankah kita sedang dilema
+haruskah dia ditolong atau tidak.
+
+288
+00:14:35,640 --> 00:14:38,570
+Dokter Busan, kau adalah spesialis ortopedi kan?
+
+289
+00:14:38,570 --> 00:14:40,170
+Bagaimana kalau dipotong
+langsung saja pakai gergaji?
+
+290
+00:14:40,170 --> 00:14:40,980
+Mau dipotong?
+
+291
+00:14:40,980 --> 00:14:41,780
+Gergaji?
+
+292
+00:14:42,580 --> 00:14:44,710
+Hei, gila ya kau?
+
+293
+00:14:45,650 --> 00:14:46,450
+Kunyuk!
+
+294
+00:14:46,450 --> 00:14:48,320
+Hei, taruh di mana tangan kotormu itu?
+
+295
+00:14:48,320 --> 00:14:50,050
+Minggir! Minggir sana!
+
+296
+00:14:50,450 --> 00:14:52,320
+Sinting.
+
+297
+00:15:03,260 --> 00:15:05,930
+Dalam perjalanan ke ruang OK
+sudah bisa diambil kesimpulan, dokter Yoo.
+
+298
+00:15:05,930 --> 00:15:07,540
+Kita jahit saja dulu arterinya.
+
+299
+00:15:07,540 --> 00:15:10,070
+Bagian tulang yang fraktur
+bisa tunggu hingga tanda vital pasien stabil baru ditangani juga masih sempat.
+
+300
+00:15:10,070 --> 00:15:12,070
+Bagian bedah plastiknya
+nanti baru dilakukan, bisa kan?
+
+301
+00:15:12,070 --> 00:15:14,880
+Aku akan meminta dokter Ahn Dae Gil
+untuk mengambil surat persetujuan operasi.
+
+302
+00:15:14,880 --> 00:15:15,940
+Oh, terima kasih.
+
+303
+00:15:15,940 --> 00:15:17,410
+Ada Perawat Ohn dan dokter Busan di sini
+
+304
+00:15:17,410 --> 00:15:18,750
+masalah diselesaikan dengan lancar.
+
+305
+00:15:18,750 --> 00:15:21,280
+Aigoo, jika tidak aku harus balik lagi.
+
+306
+00:15:21,280 --> 00:15:22,480
+Apa ini?
+
+307
+00:15:30,490 --> 00:15:32,490
+Setidaknya juga harus bisa
+melakukan sesuatu dengan benar,
+
+308
+00:15:33,160 --> 00:15:35,560
+jadi aku tidak usah mengeluh.
+
+309
+00:15:39,030 --> 00:15:39,830
+<i>Hei!</i>
+
+310
+00:15:43,830 --> 00:15:46,330
+Kulihat kau begitu lancar dalam
+menghafal teori yang ada di buku.
+
+311
+00:15:46,470 --> 00:15:47,710
+Tapi begitu tahu jika paha
+pasien mau digergaji,
+
+312
+00:15:47,710 --> 00:15:49,180
+kau langsung muntah, begitu?
+
+313
+00:15:49,180 --> 00:15:50,780
+Seperti begini kau masih
+berani menyebut dirimu dokter?
+
+314
+00:15:50,780 --> 00:15:52,780
+Jika kau itu hubae-ku,
+
+315
+00:15:52,780 --> 00:15:55,450
+sudah pasti kau kuhajar, tahu?
+
+316
+00:15:55,450 --> 00:15:56,920
+Hei, Jeong Ttol Mi-ssi!
+
+317
+00:15:56,920 --> 00:15:59,720
+Apa katamu?
+Jeong Ttol Mi-ssi?
+
+318
+00:16:00,120 --> 00:16:01,460
+Ssi?
+
+319
+00:16:01,460 --> 00:16:04,530
+Kenapa dokter?
+Dokter Ahn Dae Gil?
+
+320
+00:16:04,530 --> 00:16:07,330
+Cuma seorang ko-as,
+mau berlagak di depan siapa kau?
+
+321
+00:16:09,330 --> 00:16:11,200
+Beda tiga tahun, tiga tahun!
+
+322
+00:16:11,200 --> 00:16:13,730
+Tiga tahun yang penuh perjuangan.
+
+323
+00:16:13,730 --> 00:16:16,670
+Hei, Dae Gil!
+
+324
+00:16:17,470 --> 00:16:20,270
+Izin ko-as mu itu
+hanyalah secarik kertas sampah.
+
+325
+00:16:20,270 --> 00:16:22,810
+Secarik kertas sampah.
+
+326
+00:16:26,550 --> 00:16:27,750
+Mengerti?
+
+327
+00:16:33,620 --> 00:16:35,760
+Kenapa... kenapa bisa ada orang seperti itu?
+
+328
+00:16:35,760 --> 00:16:37,490
+- Seperti orang gila.
+- Dokter Ahn Dae Gil.
+
+329
+00:16:37,490 --> 00:16:38,560
+Selimut yang tadi kuminta kau antarkan,
+
+330
+00:16:38,560 --> 00:16:39,490
+masih belum kau antarkan?
+
+331
+00:16:39,490 --> 00:16:41,900
+Sudah kubagikan ke pasien.
+
+332
+00:16:41,900 --> 00:16:43,100
+Hanya kebetulan pada saat itu
+aku tidak ada kerjaan,
+
+333
+00:16:43,100 --> 00:16:44,970
+kau anggap aku itu staf kebersihan?
+
+334
+00:16:44,970 --> 00:16:47,230
+Aku adalah dokter Ahn Dae Gil!
+
+335
+00:16:51,910 --> 00:16:54,440
+Hei, Dae Gil!
+Mau ke mana kau?
+
+336
+00:16:54,440 --> 00:16:55,640
+Kau harus bersabar.
+
+337
+00:16:55,640 --> 00:16:58,710
+Kurang ajar!
+Ketua ko-as dianggap seperti
+petugas kebersihan.
+
+338
+00:16:58,710 --> 00:17:00,050
+Justru kerena begini,
+makanya si gila dari Busan itu
+
+339
+00:17:00,050 --> 00:17:02,320
+bisa seenaknya memperlakukanku.
+
+340
+00:17:02,320 --> 00:17:04,190
+Kau sudah lihat kan gaya dia
+waktu mengomeli aku?
+
+341
+00:17:04,190 --> 00:17:05,390
+Di depan siapa dia berlagak?
+
+342
+00:17:05,390 --> 00:17:06,190
+Idiot, dasar!
+
+343
+00:17:06,190 --> 00:17:09,120
+Jika kau begitu takut darah,
+bagaimana bisa jadi dokter ortopedik?
+
+344
+00:17:09,120 --> 00:17:11,260
+Otakmu kan encer,
+lebih baik jadi dokter umum saja.
+
+345
+00:17:11,260 --> 00:17:14,200
+Lantas klinik ortopedi milik ayahku
+mau dikasih ke orang lain?
+
+346
+00:17:14,200 --> 00:17:15,930
+<i>Dasar!</i>
+
+347
+00:17:17,670 --> 00:17:18,470
+Mau ke mana kau?
+
+348
+00:17:18,470 --> 00:17:19,800
+Pulang! Pulang!
+
+349
+00:17:19,800 --> 00:17:21,400
+Hei, memangnya rumah sakit
+itu cuma ada ini satu?
+
+350
+00:17:21,400 --> 00:17:23,270
+Aigoo, sekarang rumah sakit
+bertebaran di mana-mana.
+
+351
+00:17:23,270 --> 00:17:24,340
+Kalian nikmati hidup kalian saja!
+
+352
+00:17:25,410 --> 00:17:27,140
+Dasar gentong nasi satu itu.
+
+353
+00:17:30,750 --> 00:17:32,210
+Bukalah matamu.
+
+354
+00:17:32,880 --> 00:17:34,080
+<i>Oppa!</i>
+
+355
+00:17:35,420 --> 00:17:37,820
+<i>Ibu, aku harus bagaimana?</i>
+
+356
+00:17:42,620 --> 00:17:44,360
+Memangnya dia pikir dia itu seonbae-ku apa?
+
+357
+00:17:44,360 --> 00:17:45,960
+Punya hak apa dia mengomeliku?
+
+358
+00:17:45,960 --> 00:17:48,360
+Kalaupun dia itu seonbaeku,
+boleh seenaknya mengomeliku?
+
+359
+00:17:48,360 --> 00:17:50,230
+Aigoo, benar-benar ingin ku...
+
+360
+00:17:50,230 --> 00:17:51,700
+Tunggu saja setelah gempa berlalu!
+
+361
+00:17:51,700 --> 00:17:53,700
+Memangnya HAM itu
+hanya sekedar pajangan?
+
+362
+00:17:55,170 --> 00:17:56,640
+Batu yang berguling ke sini masih berani...
+
+363
+00:17:59,170 --> 00:18:01,580
+Bukalah matamu!
+
+364
+00:18:02,380 --> 00:18:04,510
+Ibu, bukalah matamu.
+
+365
+00:18:04,510 --> 00:18:06,780
+<i>Ibu! Ibu!</i>
+
+366
+00:18:07,720 --> 00:18:09,850
+<i>Ibu, bukalah matamu.</i>
+
+367
+00:18:09,850 --> 00:18:15,320
+<i>Ibu! Ibu! Ibu!</i>
+
+368
+00:18:17,190 --> 00:18:20,530
+Ibu!
+
+369
+00:18:44,950 --> 00:18:46,550
+Pahaku sudah hampir berotot.
+
+370
+00:18:46,550 --> 00:18:48,560
+Padahal pahaku itu sudah cukup besar.
+
+371
+00:18:48,560 --> 00:18:50,020
+Sekarang malah jadi otot.
+
+372
+00:18:50,830 --> 00:18:53,090
+Berhasil mengklasifikasi begitu
+banyak pasien,
+
+373
+00:18:53,090 --> 00:18:54,700
+hebat sekali kalian semua.
+
+374
+00:18:54,700 --> 00:18:56,960
+Perutku lapar sekali.
+Gula darahku sudah drop.
+
+375
+00:18:56,960 --> 00:18:59,100
+Kenapa rumah sakit
+tidak menyediakan makanan?
+
+376
+00:18:59,770 --> 00:19:02,570
+Setelah hari terang,
+pasti akan ada lebih banyak lagi pasien yang menyerbu ke sini.
+
+377
+00:19:03,370 --> 00:19:06,170
+Dan proses penyelamatan akan dimulai kembali.
+
+378
+00:19:06,170 --> 00:19:08,180
+Mungkin dikasih sarapan nanti.
+
+379
+00:19:08,180 --> 00:19:09,910
+Aku mau makan yang banyak.
+
+380
+00:19:09,910 --> 00:19:11,780
+Tidak tahu kapan baru dikasih makan lagi.
+
+381
+00:19:22,720 --> 00:19:23,520
+Lagi?
+
+382
+00:19:23,520 --> 00:19:25,390
+Lapar sekali ya?
+Minumlah untuk mengganjal perut.
+
+383
+00:19:25,390 --> 00:19:28,200
+Mungkin Saem sudah biasa
+menganggap kopi kalengan sebagai makanan.
+
+384
+00:19:28,200 --> 00:19:30,460
+Tapi aku tidak terbiasa minum kopi
+dengan perut kosong. Terlalu pahit.
+
+385
+00:19:30,460 --> 00:19:32,200
+Kalau begitu ya jangan diminum!
+Dasar!
+
+386
+00:19:41,940 --> 00:19:43,540
+Kita pakai kopi untuk mengganjal perut saja.
+
+387
+00:19:43,940 --> 00:19:46,880
+Lebih mending daripada perut kosong.
+
+388
+00:19:47,680 --> 00:19:49,150
+Harap cepat keluar!
+
+389
+00:19:49,150 --> 00:19:51,690
+Tim penyelamat membawa seorang pasien ke mari.
+
+390
+00:19:52,350 --> 00:19:53,550
+Jalanan sudah dibuka?
+
+391
+00:20:06,630 --> 00:20:07,570
+Apa itu?
+
+392
+00:20:07,570 --> 00:20:09,700
+Pasien ini diantar ke mari
+dengan kereta dorong dari swalayan.
+
+393
+00:20:09,700 --> 00:20:10,910
+Bukan mobil penyelamat?
+
+394
+00:20:10,910 --> 00:20:12,510
+Sepertinya jalanan masih belum bisa digunakan
+
+395
+00:20:12,510 --> 00:20:14,380
+makanya kapten tim penyelamat
+baru menggunakan cara seperti ini.
+
+396
+00:20:14,380 --> 00:20:16,510
+Perawat Ohn, pindahkan anak itu ke tenda!
+
+397
+00:20:16,510 --> 00:20:17,180
+Baik.
+
+398
+00:20:22,120 --> 00:20:24,250
+Iya, sudah sampai.
+
+399
+00:20:26,790 --> 00:20:28,120
+Dia adalah tuna rungu.
+
+400
+00:20:28,120 --> 00:20:29,860
+Dia lebih kurang mengerti
+dengan cara membaca gerak bibir.
+
+401
+00:20:29,860 --> 00:20:31,330
+Kalau mau ditulis juga boleh.
+
+402
+00:20:31,330 --> 00:20:32,260
+Baik.
+
+403
+00:20:32,390 --> 00:20:34,390
+Baik.
+Sakit sekali?
+
+404
+00:20:35,060 --> 00:20:39,070
+Sakit sekali?
+
+405
+00:20:41,740 --> 00:20:45,610
+Ibu ayahmu mana?
+
+406
+00:20:49,210 --> 00:20:50,140
+Maaf?
+
+407
+00:20:53,480 --> 00:21:03,090
+Ibu tidak ada,
+Ayah di rumah?
+
+408
+00:21:04,290 --> 00:21:15,100
+Tolong selamatkan Oppa itu.
+
+409
+00:21:16,040 --> 00:21:17,240
+Baik.
+
+410
+00:21:25,910 --> 00:21:28,450
+Kenapa? Apa yang terjadi?
+
+411
+00:21:29,380 --> 00:21:33,790
+TD 70/50, nadi lebih kurang 130.
+
+412
+00:21:33,790 --> 00:21:35,660
+Pendarahan masif di bagian abdomen.
+
+413
+00:21:35,660 --> 00:21:36,990
+Jika ingin melakukan sesuatu
+pada fraktur tulang pelvis.
+<font color="#ffff00">[Fraktur pelvis - patah pada tulang panggul]</font>
+
+414
+00:21:36,990 --> 00:21:38,860
+pasti akan terjadi pendarahan yang masif.
+<font color="#ffff00">[Fraktur pelvis - patah pada tulang panggul]</font>
+
+415
+00:21:38,860 --> 00:21:41,660
+Dia demi menolong anak kecil itu
+tertimpa reruntuhan gedung.
+
+416
+00:21:41,660 --> 00:21:43,800
+Setelah lewat tiga sampai empat jam
+baru berhasil ditolong keluar.
+
+417
+00:21:44,730 --> 00:21:44,870
+<font color="#ffff00">[Crush syndrome - kondisi medis yang disebabkanoleh kerusakan otot yang akan menyebabkan gagal ginjal apabila tidak segera ditangani]</font>
+
+418
+00:21:44,870 --> 00:21:46,600
+Dan ada indikasi crush syndrome.
+<font color="#ffff00">[Crush syndrome - kondisi medis yang disebabkan oleh kerusakan otot yang akan menyebabkan gagal ginjal apabila tidak segera ditangani]</font>
+
+419
+00:21:46,600 --> 00:21:48,470
+Walaupun untuk memastikannya
+kita harus melakukan pengetesan darah,
+<font color="#ffff00">[Crush syndrome - kondisi medis yang disebabkan oleh kerusakan otot yang akan menyebabkan gagal ginjal apabila tidak segera ditangani]</font>
+
+420
+00:21:48,470 --> 00:21:51,410
+tapi kemungkinan crush syndrom tinggi sekali.
+<font color="#ffff00">[Crush syndrome - kondisi medis yang disebabkan oleh kerusakan otot yang akan menyebabkan gagal ginjal apabila tidak segera ditangani]</font>
+
+421
+00:21:51,410 --> 00:21:53,010
+Tinggalkan saja dia di sana!
+<font color="#ffff00">[Crush syndrome - kondisi medis yang disebabkan oleh kerusakan otot yang akan menyebabkan gagal ginjal apabila tidak segera ditangani]</font>
+
+422
+00:21:53,010 --> 00:21:53,210
+Maaf, kau tidak berniat memindahkan
+pasien darurat tersebut ke ruang operasi?
+<font color="#ffff00">[Crush syndrome - kondisi medis yang disebabkan oleh kerusakan otot yang akan menyebabkan gagal ginjal apabila tidak segera ditangani]</font>
+
+423
+00:21:53,210 --> 00:21:57,010
+Maaf, kau tidak berniat memindahkan
+pasien darurat tersebut ke ruang operasi?
+
+424
+00:21:57,950 --> 00:22:00,480
+Mengabaikan pasien yang membutuhkan
+transfusi darah dalam jumlah besar,
+
+425
+00:22:00,480 --> 00:22:02,350
+adalah prinsip penanggulangan bencana
+RS. Mirae.
+
+426
+00:22:02,350 --> 00:22:06,620
+Abaikan? Kau bilang abaikan?
+
+427
+00:22:06,620 --> 00:22:08,760
+Bukan tidak mau menyelamatkannya,
+tapi tidak bisa menyelamatkannya.
+
+428
+00:22:08,760 --> 00:22:10,490
+Persediaan darah rumah sakit sudah habis.
+
+429
+00:22:10,490 --> 00:22:13,430
+Han Saem, hentikan!
+
+430
+00:22:13,430 --> 00:22:15,160
+Pasien masih memiliki kesadaran.
+
+431
+00:22:15,430 --> 00:22:18,770
+Jika mau menolong pasien,
+antarkan dia ke rumah sakit yang lain.
+
+432
+00:22:18,770 --> 00:22:20,630
+Anu, mana bisa sekarang
+menyuruh kami mengantarnya ke rumah sakit lain?
+
+433
+00:22:20,630 --> 00:22:22,770
+Setidaknya lakukan sesuatu.
+Apapun itu.
+
+434
+00:22:24,370 --> 00:22:26,770
+Tidak ada yang dapat kami lakukan.
+
+435
+00:22:29,440 --> 00:22:31,710
+Kau sedang bercanda denganku
+sekarang ini?
+
+436
+00:22:32,250 --> 00:22:34,250
+Jalanan semua runtuh.
+Tidak ada mobil pemadam kebakaran,
+
+437
+00:22:34,250 --> 00:22:35,580
+juga tidak ada perlengkapan.
+
+438
+00:22:35,580 --> 00:22:37,990
+Tapi kami tetap menolong dia.
+
+439
+00:22:37,990 --> 00:22:39,990
+Tapi kau bilang mau mengabaikan?
+
+440
+00:22:43,720 --> 00:22:45,330
+Kenapa bisa ada kejadian seperti ini?
+
+441
+00:22:57,600 --> 00:23:01,210
+Jeong Ttol Mi, kita operasi dia.
+
+442
+00:23:06,680 --> 00:23:08,550
+Perawat Ohn, siapkan ruang operasi!
+
+443
+00:23:10,150 --> 00:23:13,090
+Mau apa kau?
+Siapa memberimu izin melakukan operasi?
+
+444
+00:23:13,090 --> 00:23:15,090
+Sudah kubilang kita tidak punya waktu
+ataupun persediaan darah.
+
+445
+00:23:15,090 --> 00:23:17,090
+Operasi tanpa transfusi darah,
+dengan waktu 1 jam.
+
+446
+00:23:17,620 --> 00:23:21,760
+Satu jam? Kau begitu congkak?
+
+447
+00:23:21,760 --> 00:23:23,100
+Lebih tepatnya putus-asa.
+
+448
+00:23:23,100 --> 00:23:25,500
+Apa yang ingin kau perlihatkan pada pasien yang akan meninggal?
+
+449
+00:23:25,500 --> 00:23:28,170
+Kemampuanmu?
+Ketrampilanmu?
+
+450
+00:23:29,240 --> 00:23:30,570
+Hari esok.
+
+451
+00:23:30,840 --> 00:23:32,970
+Dia akan hidup menyongsong hari esok.
+
+452
+00:23:32,970 --> 00:23:34,580
+Jika dokter bilang menyerah,
+
+453
+00:23:34,580 --> 00:23:36,440
+pasien tidak akan memiliki hari esok.
+
+454
+00:23:37,110 --> 00:23:38,710
+Mana surat persetujuan operasi?
+
+455
+00:23:39,650 --> 00:23:41,250
+Aku yakin aku bisa menyelamatkanmu.
+
+456
+00:23:41,250 --> 00:23:42,580
+Bersediakah kau dioperasi?
+
+457
+00:23:43,920 --> 00:23:47,120
+Aku ingin hidup.
+
+458
+00:23:47,120 --> 00:23:48,990
+Sudah mendapat persetujuan
+dari yang bersangkutan.
+
+459
+00:23:48,990 --> 00:23:51,130
+Operasi seperti apa,
+akan kujelaskan dalam perjalanan ke sana.
+
+460
+00:23:51,130 --> 00:23:52,060
+Dokter Jeong Ttol Mi!
+
+461
+00:23:52,060 --> 00:23:52,730
+Ya?
+
+462
+00:23:52,730 --> 00:23:53,260
+Tunggu apa lagi?
+
+463
+00:23:53,260 --> 00:23:54,460
+Sudah kuinstruksikan kepada kalian
+untuk pindahkan dia ke OK.
+
+464
+00:23:54,460 --> 00:23:55,130
+Baik.
+
+465
+00:23:57,000 --> 00:23:58,600
+Dia mengambil keputusan
+setelah mengonsumsi analgesik.
+
+466
+00:23:58,600 --> 00:23:59,930
+Ini bukan keputusan yang bisa dipegang.
+
+467
+00:23:59,930 --> 00:24:01,540
+Tidak peduli sebanyak apapun
+dia memakan obat analgesik,
+
+468
+00:24:01,540 --> 00:24:04,340
+tidak ada pasien yang berharap
+akan mati begitu saja.
+
+469
+00:24:04,340 --> 00:24:05,270
+Tolong minggir!
+
+470
+00:24:07,810 --> 00:24:09,810
+Kau terlalu ceroboh!
+Jangan selalu berjudi.
+
+471
+00:24:09,810 --> 00:24:11,550
+Kau juga melanggar peraturan rumah sakit.
+
+472
+00:24:11,550 --> 00:24:15,150
+Maaf, peraturan rumah sakit mana
+yang menyatakan untuk mengabaikan pasien?
+
+473
+00:24:15,150 --> 00:24:17,550
+Kau kira kami menolong orang supaya
+mendapat perlakuan seperti ini?
+
+474
+00:24:17,550 --> 00:24:20,090
+Setidaknya kalian harus melakukan sesuatu.
+Apapun itu.
+
+475
+00:24:20,090 --> 00:24:21,820
+Ini adalah rumah sakit.
+
+476
+00:24:21,820 --> 00:24:24,360
+Masalah rumah sakit,
+biar ditangani oleh staf rumah sakit.
+
+477
+00:24:26,490 --> 00:24:29,300
+Orang yang tertimbun di dalam tanah,
+orang yang kakinya dipotong...
+
+478
+00:24:29,300 --> 00:24:30,360
+pada saat kami menyelamatkan mereka
+
+479
+00:24:30,360 --> 00:24:32,900
+kau tahu apa yang kami katakan pada mereka?
+
+480
+00:24:32,900 --> 00:24:34,500
+"Kau akan mendapat perawatan di rumah sakit."
+
+481
+00:24:34,500 --> 00:24:36,370
+"Tidak apa-apa, tahanlah sebentar."
+
+482
+00:24:36,370 --> 00:24:38,110
+Tapi kenapa pihak rumah sakit
+malah bilang tidak bisa?
+
+483
+00:24:38,110 --> 00:24:40,370
+Lalu dengan membawa harapan seperti apa
+kami harus menyelamatkan orang?
+
+484
+00:24:40,370 --> 00:24:42,380
+Ha? Ha?
+
+485
+00:24:42,380 --> 00:24:43,980
+Menyelamatkan orang?
+
+486
+00:24:43,980 --> 00:24:46,250
+Karena itulah pasien dengan pendarahan perut,
+
+487
+00:24:46,250 --> 00:24:48,250
+diantarkan ke sini dengan kereta barang?
+
+488
+00:24:48,780 --> 00:24:50,520
+Tidak, itu dikarenakan tidak ada
+pengangkutan yang bisa digunakan.
+
+489
+00:24:50,520 --> 00:24:51,590
+Sehingga terpaksa menggunakan kereta barang.
+
+490
+00:24:51,590 --> 00:24:53,320
+Lebih baik Anda laksanakan tugas Anda
+sendiri dengan baik.
+
+491
+00:24:54,390 --> 00:24:56,390
+Bisa tidaknya seorang pasien diselamatkan,
+biar kami yang menentukan.
+
+492
+00:24:57,720 --> 00:24:59,460
+Jangan melewati batasmu
+dan ikut campur mengurusi masalah rumah sakit!
+
+493
+00:24:59,460 --> 00:25:02,660
+<i>Cukup! Cukup!</i>
+
+494
+00:25:02,660 --> 00:25:05,870
+Pasien ini masih memiliki kesadaran.
+
+495
+00:25:05,870 --> 00:25:07,600
+Dia bisa mendengar semuanya.
+
+496
+00:25:09,070 --> 00:25:12,670
+Tidak bisakah kalian mempertimbangkan
+perasaan pasien?
+
+497
+00:25:17,080 --> 00:25:20,150
+<i>Dokter, aku tidak ingin mati.</i>
+
+498
+00:25:20,550 --> 00:25:22,150
+<i>Aku ingin hidup.</i>
+
+499
+00:25:25,090 --> 00:25:27,090
+Jeong Ttol Mi, kita ke ruang operasi.
+
+500
+00:25:34,030 --> 00:25:34,830
+Aku tidak mengerti bahasa isyarat.
+
+501
+00:25:34,830 --> 00:25:37,230
+Kau ingin bilang supaya kami
+harus menyelamatkan dia, kan?
+
+502
+00:25:37,230 --> 00:25:38,570
+Kami pasti akan berusaha semampu kami.
+
+503
+00:25:41,370 --> 00:25:42,970
+Perawat Ohn, tolong jaga anak ini.
+
+504
+00:25:42,970 --> 00:25:43,640
+Baik.
+
+505
+00:25:46,040 --> 00:25:47,770
+Kita tunggu saja.
+
+506
+00:26:02,060 --> 00:26:04,060
+Laksanakan tugas dengan baik?
+
+507
+00:26:04,060 --> 00:26:05,790
+Kau kira aku karena tidak
+ingin melakukan dengan baik
+
+508
+00:26:05,790 --> 00:26:07,390
+sehingga melakukannya dengan tidak baik?
+
+509
+00:26:07,390 --> 00:26:09,400
+Dasar tidak makan bangku sekolah!
+
+510
+00:26:11,930 --> 00:26:15,400
+Omo, Anda ada urusan apa?
+
+511
+00:26:16,470 --> 00:26:19,540
+Ada yang ingin saya katakan pada Anda.
+
+512
+00:26:20,340 --> 00:26:21,940
+Oh, iya.
+
+513
+00:26:25,150 --> 00:26:27,410
+Ini adalah permohonan pribadi.
+
+514
+00:26:28,480 --> 00:26:30,480
+Iya, silakan.
+
+515
+00:26:31,420 --> 00:26:36,360
+Pada saat gempa,
+di swalayan di Yonggwang,
+
+516
+00:26:37,960 --> 00:26:41,160
+orang-orang yang terluka atau ditolong,
+
+517
+00:26:41,160 --> 00:26:48,240
+di mana mereka sekarang berada,
+Anda tahu?
+
+518
+00:26:49,170 --> 00:26:52,770
+Menurut saya mungkin tim penyelamat
+punya informasi mengenai keberadaan mereka.
+
+519
+00:26:52,770 --> 00:26:59,180
+Anak berumur 7 tahun.
+Memakai kaos warna hijau.
+
+520
+00:27:00,780 --> 00:27:03,850
+Itu bukan daerah yuridiksiku,
+jadi mungkin butuh sedikit waktu.
+
+521
+00:27:03,850 --> 00:27:05,450
+Tapi kenapa Anda bertanya tentang ini?
+
+522
+00:27:07,190 --> 00:27:14,130
+Dia adalah putra saya, umurnya 7 tahun.
+Seong Dong Ha.
+
+523
+00:27:18,000 --> 00:27:20,670
+Oh, Anda pasti sedih sekali.
+
+524
+00:27:21,870 --> 00:27:23,740
+Anda masih harus bertugas
+di rumah sakit ini.
+
+525
+00:27:27,070 --> 00:27:28,410
+Baik, saya sudah tahu.
+
+526
+00:27:28,410 --> 00:27:30,280
+Asalkan saya ke kamp pengungsian
+ataupun rumah sakit,
+
+527
+00:27:30,280 --> 00:27:31,480
+saya akan bantu Anda cari informasi.
+
+528
+00:27:31,750 --> 00:27:33,610
+Jangan khawatir,
+tidak akan terjadi apa-apa padanya.
+
+529
+00:27:34,550 --> 00:27:37,350
+Baiklah, saya percayakan pada Anda.
+
+530
+00:27:38,420 --> 00:27:39,620
+Semuanya akan baik-baik saja.
+
+531
+00:28:01,240 --> 00:28:02,580
+Ini adalah kali pertama?
+
+532
+00:28:02,580 --> 00:28:06,050
+Operasi tanpa transfusi darah,
+cukup satu jam saja.
+
+533
+00:28:06,050 --> 00:28:07,250
+Iya.
+
+534
+00:28:07,250 --> 00:28:10,450
+Sungguh mencolok.
+Kau terlihat gugup.
+
+535
+00:28:11,390 --> 00:28:12,590
+Oh ya?
+
+536
+00:28:12,590 --> 00:28:14,590
+Menyerah sajalah jika
+kau tidak memiliki keyakinan.
+
+537
+00:28:14,590 --> 00:28:16,320
+Orang-orang tidak akan
+bilang apa-apa.
+
+538
+00:28:18,860 --> 00:28:20,330
+Bolehkah aku tidur dengan tenang?
+
+539
+00:28:20,330 --> 00:28:22,060
+Pasien juga begitu gugup.
+
+540
+00:28:23,400 --> 00:28:25,000
+Sungguh disayangkan, orang itu.
+
+541
+00:28:26,200 --> 00:28:28,200
+Aku tidak bisa membiarkannya
+pergi begitu saja.
+
+542
+00:28:28,870 --> 00:28:31,410
+Kalau begitu, rasa gugup ini harus
+berakhir sampai di sini.
+
+543
+00:28:31,410 --> 00:28:33,540
+Kami ikut masuk ke ruang OK
+karena kami percaya padamu.
+
+544
+00:28:33,540 --> 00:28:35,010
+Jika mereka tahu dokter Lee gugup,
+
+545
+00:28:35,010 --> 00:28:36,480
+ruang OK pasti akan kacau.
+
+546
+00:28:36,740 --> 00:28:38,210
+Kau sanggup melakukannya dengan baik?
+
+547
+00:28:38,480 --> 00:28:40,610
+Jawab aku sekarang juga!
+
+548
+00:28:40,610 --> 00:28:41,680
+Bahwa kau pasti bisa.
+
+549
+00:28:42,350 --> 00:28:43,680
+Jika tidak, aku batal masuk.
+
+550
+00:28:45,150 --> 00:28:46,890
+Menakutkan sekali, Park Ji Na.
+
+551
+00:28:49,690 --> 00:28:51,560
+Dokter Lee Hae Seong
+mambawa pasien masuk ke dalam?
+
+552
+00:28:51,560 --> 00:28:53,430
+Iya.
+
+553
+00:28:53,430 --> 00:28:56,230
+Tidak tahu berapa banyak darah
+yang dibutuhkan untuk menyelamatkan pasien itu.
+
+554
+00:28:56,230 --> 00:28:58,900
+Tidak ada pemeriksaan apapun,
+hanya percaya pada persetujuan pasien.
+
+555
+00:29:02,640 --> 00:29:06,110
+Kang Siljang, kau pernah bilang
+
+556
+00:29:06,110 --> 00:29:09,580
+dia akan mendatangkan banyak bantuan
+bagi UGD kita.
+
+557
+00:29:14,250 --> 00:29:16,920
+Di mana ruang operasi?
+
+558
+00:29:17,450 --> 00:29:18,920
+<i>Di dalam surat persetujuan operasi itu,</i>
+
+559
+00:29:18,920 --> 00:29:20,920
+<i>mencakup semua efek samping
+dan komplikasi yang mungkin terjadi.</i>
+
+560
+00:29:20,920 --> 00:29:23,990
+<i>Dengan ini yang bersangkutan menyatakan
+paham atas semua yang tersebut di atas,</i>
+
+561
+00:29:23,990 --> 00:29:25,990
+<i>Dengan ini mendelegasikan tindakan
+operasi ini kepada dokter,</i>
+
+562
+00:29:25,990 --> 00:29:27,460
+<i>dan menyetujui untuk menerima tindakan operasi ini.</i>
+
+563
+00:29:29,060 --> 00:29:32,270
+Septikemia, stroke, dan serangan jantung
+yang tertulis di dalam surat persetujuan itu
+
+564
+00:29:32,270 --> 00:29:35,340
+adalah kosa kata yang sangat menakutkan.
+
+565
+00:29:36,540 --> 00:29:38,270
+Kau hanya perlu memfokuskan diri
+pada pikiran bahwa kau mau hidup.
+
+566
+00:29:38,540 --> 00:29:42,680
+Dokter, terima kasih.
+
+567
+00:29:43,480 --> 00:29:45,080
+Kenapa begitu terburu-buru?
+
+568
+00:29:45,080 --> 00:29:46,550
+Operasi saja belum dimulai.
+
+569
+00:29:46,550 --> 00:29:53,350
+Bukankah Anda tidak membiarkan saya
+mati di pinggir jalan?
+
+570
+00:29:55,760 --> 00:30:02,700
+Sekalipun operasinya gagal,
+saya juga tidak akan menyalahkanmu.
+
+571
+00:30:02,700 --> 00:30:04,030
+Jangan khawatir.
+
+572
+00:30:05,770 --> 00:30:08,440
+Melihat bacotmu yang begitu banyak,
+sepertinya kau bisa bertahan beberapa waktu.
+
+573
+00:30:08,440 --> 00:30:09,900
+Perawat Park, Dokter Jeong Ttol Mi...
+
+574
+00:30:09,900 --> 00:30:11,100
+jangan buang-buang waktu!
+
+575
+00:30:11,100 --> 00:30:13,370
+Jika terlambat, dokter anastesis harus bekerja keras
+untuk menstabilkan tanda-tanda vitalnya.
+
+576
+00:30:13,370 --> 00:30:14,840
+Iya.
+
+577
+00:30:18,710 --> 00:30:19,650
+Sudah siap.
+
+578
+00:30:21,920 --> 00:30:23,120
+Mari kita mulai!
+
+579
+00:30:23,120 --> 00:30:24,320
+Baik.
+
+580
+00:30:24,990 --> 00:30:26,990
+Tidak usah!
+
+581
+00:30:28,190 --> 00:30:30,190
+Hentikan operasinya!
+
+582
+00:30:31,530 --> 00:30:33,260
+Tidak usah!
+
+583
+00:30:34,730 --> 00:30:36,200
+Hentikan operasinya!
+
+584
+00:30:37,530 --> 00:30:39,800
+Bukankah kau sudah berjanji padaku
+untuk mematuhi kebijakan rumah sakit?
+
+585
+00:30:39,800 --> 00:30:43,270
+Kau harusnya sudah tahu stok
+darah rumah sakit pada saat ini, bukan?
+
+586
+00:30:43,270 --> 00:30:45,270
+Operasi tanpa transfusi darah bisa dilakukan.
+
+587
+00:30:45,270 --> 00:30:46,340
+Mana surat persetujuannya?
+
+588
+00:30:46,340 --> 00:30:49,410
+Yang bersangkutan sudah bersedia.
+
+589
+00:30:49,410 --> 00:30:51,280
+Walinya mana?
+
+590
+00:30:52,880 --> 00:30:55,020
+Sekalipun operasi berjalan dengan sukses,
+
+591
+00:30:55,020 --> 00:30:57,550
+ini adalah sebuah operasi tanpa persetujuan wali ataupun orang yang menjamin.
+
+592
+00:30:57,550 --> 00:30:59,690
+Jika terjadi sesuatu,
+bagaimana kau akan mempertanggung-jawabkannya?
+
+593
+00:31:00,220 --> 00:31:01,960
+Dibandingkan dengan tantangan dan
+kewajiban seorang dokter,
+
+594
+00:31:01,960 --> 00:31:05,160
+stabilitas dan kebijakan rumah sakit
+jauh lebih penting.
+
+595
+00:31:05,160 --> 00:31:06,360
+Pindahkan pasien keluar!
+
+596
+00:31:06,890 --> 00:31:08,090
+Wonjang-nim!
+
+597
+00:31:08,090 --> 00:31:10,500
+Kita bukanlah Badan Sosial.
+
+598
+00:31:10,500 --> 00:31:13,030
+Menaati kebijakan rumah sakit
+berarti mengusir pasien?
+
+599
+00:31:13,030 --> 00:31:14,100
+Aku hanya menyuruhmu memindahkan pasien
+
+600
+00:31:14,100 --> 00:31:16,370
+ke rumah sakit yang bisa menerimanya.
+Jangan buang-buang waktu!
+
+601
+00:31:16,370 --> 00:31:18,770
+Angka kelangsungan hidup
+pasien ini hanyalah 9%.
+
+602
+00:31:18,770 --> 00:31:20,640
+Karena kau menunda waktu...
+
+603
+00:31:20,640 --> 00:31:23,040
+Ini semua gara-gara biaya rumah sakit?
+
+604
+00:31:23,040 --> 00:31:24,380
+Kalau begitu biar saya
+yang menjadi penjaminnya.
+
+605
+00:31:24,380 --> 00:31:26,380
+Dokter Lee Hae Seong!
+
+606
+00:31:32,120 --> 00:31:34,790
+Jangan menanggung semuanya
+seorang diri.
+
+607
+00:31:34,790 --> 00:31:37,860
+Beban di bahumu sudah cukup berat.
+
+608
+00:31:38,930 --> 00:31:40,790
+Kau juga harus mempertimbangkan ibumu.
+
+609
+00:31:43,200 --> 00:31:44,660
+Semoga Anda lekas sembuh.
+
+610
+00:31:48,400 --> 00:31:52,010
+Biar aku yang menjadi penjaminnya,
+aku yang jamin.
+
+611
+00:31:55,080 --> 00:31:56,540
+Ahn Dae Gil...
+
+612
+00:31:57,080 --> 00:31:58,680
+Aku akan menjadi penjaminnya.
+
+613
+00:31:58,680 --> 00:32:00,810
+Karena itu tolong segera laksanakan operasi ini!
+
+614
+00:32:00,810 --> 00:32:03,620
+Anda kenal ayah saya bukan?
+Direktur RS Bedah Ansang.
+
+615
+00:32:03,620 --> 00:32:05,090
+<i>Cukup pantas bukan?</i>
+
+616
+00:32:05,490 --> 00:32:06,820
+Kenapa kau bersedia?
+
+617
+00:32:07,620 --> 00:32:10,960
+Dia adalah temanku,
+teman SMA ku.
+
+618
+00:32:10,960 --> 00:32:12,030
+Kupercayakan pada Anda.
+
+619
+00:32:12,690 --> 00:32:14,960
+Kau... tutup mulutmu!
+
+620
+00:32:14,960 --> 00:32:17,230
+Jangan bergerak!
+Kau butuh menenangkan dirimu.
+
+621
+00:32:17,230 --> 00:32:20,030
+Jeong Min Cheol,
+bukankah kau bilang kau ingin tetap hidup?
+
+622
+00:32:20,030 --> 00:32:21,230
+Kata-katamu itu hanyalah bohong belaka?
+
+623
+00:32:22,040 --> 00:32:23,100
+Dokter...
+
+624
+00:32:24,170 --> 00:32:27,240
+Kau bilang ingin tetap hidup
+dan sudah tanda-tangan.
+
+625
+00:32:27,240 --> 00:32:31,380
+Aku akan mengoperasimu,
+aku akan menyelamatkanmu.
+
+626
+00:32:34,850 --> 00:32:37,650
+Baik, laksanakan operasinya!
+
+627
+00:32:38,850 --> 00:32:41,520
+Harus... harus berhasil.
+
+628
+00:32:43,390 --> 00:32:46,460
+Jika tidak ingin berpartisipasi,
+silakan keluar.
+
+629
+00:32:47,930 --> 00:32:49,130
+Karena waktu yang dimiliki pasien
+tidak banyak.
+
+630
+00:33:11,020 --> 00:33:12,220
+Mulai anastesi.
+
+631
+00:33:12,220 --> 00:33:13,690
+Baik.
+Anastesi dimulai.
+
+632
+00:33:20,490 --> 00:33:22,760
+<i>TD 90/60, nadi 120.</i>
+
+633
+00:33:22,760 --> 00:33:28,100
+<i>Barusan diketemukan seorang bocah laki-laki
+tertinggal di kolong mobil</i>.
+
+634
+00:33:34,910 --> 00:33:35,980
+Tunggu sebentar ya.
+
+635
+00:33:36,640 --> 00:33:39,580
+Sakit sekali! Sakit sekali!
+Yang lembut sedikit.
+
+636
+00:33:49,860 --> 00:33:51,320
+Anda kenapa, Siljang-nim?
+
+637
+00:33:55,730 --> 00:33:59,330
+Tidak apa-apa.
+Tolong rawat anak ini.
+
+638
+00:34:15,750 --> 00:34:18,420
+Perhatian semuanya!
+
+639
+00:34:18,420 --> 00:34:20,290
+Operasi tanpa transfusi darah ini
+harus diselesaikan dalam waktu 1 jam.
+
+640
+00:34:20,290 --> 00:34:21,890
+Tapi mungkinkah ini?
+
+641
+00:34:21,890 --> 00:34:22,460
+Dari X-Ray bisa kelihatan
+ada perforasi usus.
+
+642
+00:34:22,460 --> 00:34:24,690
+Dari X-Ray bisa kelihatan ada perforasi usus.
+<font color="#ffff00">[Perforasi usus - suatu kondisi medis yang ditandai dengan terbentuknya suatu lubang pada dinding usus halus atau usus besar, yang menyebabkan kebocoran isi usus kedalam rongga perut.]</font>
+
+643
+00:34:24,690 --> 00:34:27,090
+Utamakan jadi asisten yang baik.
+<font color="#ffff00">[Perforasi usus - suatu kondisi medis yang ditandai dengan terbentuknya suatu lubang pada dinding lambung, usus halus atau usus besar, yang menyebabkan kebocoran isi usus kedalam rongga perut.]</font>
+
+644
+00:34:27,090 --> 00:34:27,590
+Scalpel!
+<font color="#ffff00">[Perforasi usus - suatu kondisi medis yang ditandai dengan terbentuknya suatu lubang pada dinding lambung, usus halus atau usus besar, yang menyebabkan kebocoran isi usus kedalam rongga perut.]</font>
+
+645
+00:34:27,590 --> 00:34:28,430
+Scalpel!
+
+646
+00:34:54,590 --> 00:34:54,820
+Dokter Ahn Dae Gil bersedia
+menjamin semua biaya perawatan pasien.
+
+647
+00:34:54,820 --> 00:34:55,670
+<font color="#ffff00">-=Selang 15:59:55 setelah gempa=-</font>
+Dokter Ahn Dae Gil bersedia
+menjamin semua biaya perawatan pasien.
+
+648
+00:34:55,670 --> 00:34:56,640
+<font color="#ffff00">-=Selang 15:59:56 setelah gempa=-</font>
+Dokter Ahn Dae Gil bersedia
+menjamin semua biaya perawatan pasien.
+
+649
+00:34:56,640 --> 00:34:56,990
+<font color="#ffff00">-=Selang 15:59:57 setelah gempa=-</font>
+Dokter Ahn Dae Gil bersedia
+menjamin semua biaya perawatan pasien.
+
+650
+00:34:56,990 --> 00:34:57,640
+<font color="#ffff00">-=Selang 15:59:57 setelah gempa=-</font>
+Karena itu operasi sudah dilaksanakan.
+
+651
+00:34:57,640 --> 00:34:58,460
+<font color="#ffff00">-=Selang 5:59:58 setelah gempa=-</font>
+Karena itu operasi sudah dilaksanakan.
+
+652
+00:34:58,460 --> 00:34:58,640
+<font color="#ffff00">-=Selang 15:59:58 setelah gempa=-</font>
+
+653
+00:34:58,640 --> 00:34:59,640
+<font color="#ffff00">-=Selang 15:59:59 setelah gempa=-</font>
+
+654
+00:34:59,640 --> 00:34:59,660
+<font color="#ffff00">-=Selang 16:00:00 setelah gempa=-</font>
+
+655
+00:34:59,660 --> 00:35:00,640
+<font color="#ffff00">-=Selang 16:00:00 setelah gempa=-</font>
+Dokter Ahn Dae Gil jadi penjamin?
+
+656
+00:35:00,640 --> 00:35:01,640
+<font color="#ffff00">-=Selang 16:00:01 setelah gempa=-</font>
+Dokter Ahn Dae Gil jadi penjamin?
+
+657
+00:35:01,640 --> 00:35:01,800
+<font color="#ffff00">-=Selang 16:00:02 setelah gempa=-</font>
+Dokter Ahn Dae Gil jadi penjamin?
+
+658
+00:35:01,800 --> 00:35:02,640
+<font color="#ffff00">-=Selang 16:00:02 setelah gempa=-</font>
+Dia bilang kenal?
+
+659
+00:35:02,640 --> 00:35:03,000
+<font color="#ffff00">-=Selang 16:00:03 setelah gempa=-</font>
+Dia bilang kenal?
+
+660
+00:35:03,000 --> 00:35:03,640
+<font color="#ffff00">-=Selang 16:00:03 setelah gempa=-</font>
+Iya, teman baiknya waktu SMA.
+
+661
+00:35:03,640 --> 00:35:04,640
+<font color="#ffff00">-=Selang 16:00:04 setelah gempa=-</font>
+Iya, teman baiknya waktu SMA.
+
+662
+00:35:04,640 --> 00:35:07,130
+Iya, teman baiknya waktu SMA.
+
+663
+00:35:07,130 --> 00:35:08,470
+Tapi sudah lama tidak berkomunikasi lagi.
+
+664
+00:35:08,470 --> 00:35:11,140
+Karena dokter Ahn Dae Gil masih muda
+dan tidak mengerti.
+
+665
+00:35:11,140 --> 00:35:13,410
+Tidak bisa membedakan posisinya di mana.
+
+666
+00:35:13,410 --> 00:35:16,610
+Sudah berkali-kali kuberi dia peringatan.
+
+667
+00:35:16,610 --> 00:35:18,080
+Anak yang tadi sudah dioperasi?
+
+668
+00:35:18,080 --> 00:35:21,010
+Anda jangan khawatir.
+Dulu saya juga sudah pernah bilang pada Ahn Dae Gil--
+
+669
+00:35:21,010 --> 00:35:23,280
+Dokter Yoo, anak yang tadi itu
+
+670
+00:35:23,280 --> 00:35:24,350
+lakukan pemeriksaan USG padanya!
+
+671
+00:35:24,350 --> 00:35:25,150
+Iya.
+
+672
+00:35:25,150 --> 00:35:27,290
+Bukankah ini adalah sogjeonsoggyeol?
+<font color="#ffff00">[Sogjeonsoggyeol - bertempur dan menang menggunaan keputusan kilat]</font>
+
+673
+00:35:27,290 --> 00:35:28,890
+Jika sudah di CT ataupun MRI,
+
+674
+00:35:28,890 --> 00:35:30,760
+untuk bisa masuk ruang operasi
+setidaknya harus nunggu minimal 2 jam.
+
+675
+00:35:30,760 --> 00:35:34,890
+Perawat Ohn, kecepatan bukan segalanya
+dalam perawatan medis.
+
+676
+00:35:34,890 --> 00:35:37,300
+Diagnosa akurat jauh lebih penting.
+
+677
+00:35:47,310 --> 00:35:49,440
+Operasi seharusnya dihentikan.
+
+678
+00:35:49,440 --> 00:35:51,440
+Aku juga pernah mencoba menghentikannya.
+
+679
+00:35:51,440 --> 00:35:52,380
+Maaf?
+
+680
+00:35:52,380 --> 00:35:55,850
+Tapi setelah dipertimbangkan,
+tidak ada alasan untuk mencegah.
+
+681
+00:35:55,850 --> 00:35:57,720
+Tidak ada dampak negatifnya bagi rumah sakit.
+
+682
+00:35:58,120 --> 00:35:59,850
+Lagipula ada surat persetujuan.
+
+683
+00:35:59,850 --> 00:36:03,590
+Jika terjadi sesuatu dan
+pasien mengajukan gugatan,
+
+684
+00:36:04,520 --> 00:36:06,260
+Dokter Lee Hae Seong yang melakukannya
+seorang diri.
+
+685
+00:36:07,060 --> 00:36:09,730
+Gunakan kesempatan ini
+untuk menyingkirkannya!
+
+686
+00:36:11,730 --> 00:36:13,730
+Kenapa? Kau mengkhawatirkannya?
+
+687
+00:36:14,800 --> 00:36:17,470
+Ada yang mau kutanyakan.
+
+688
+00:36:18,140 --> 00:36:22,680
+Yang kau khawatirkan itu
+rumah sakit ini atau Lee Hae Seong?
+
+689
+00:36:25,880 --> 00:36:26,950
+Rumah sakit.
+
+690
+00:36:29,750 --> 00:36:31,080
+Jangan lupa niat yang seperti itu.
+
+691
+00:36:35,760 --> 00:36:38,420
+Ahn Dae Gil, di liver nya sudah kukasih lem.
+
+692
+00:36:38,420 --> 00:36:39,230
+Lekas dep dengan kain kasa!
+<font color="#ffff00">[dep - menyumbat supaya pendarahan berhenti]</font>
+
+693
+00:36:39,230 --> 00:36:40,030
+Baik.
+
+694
+00:36:41,360 --> 00:36:44,160
+Walaupun livernya ruptur,
+tapi pendarahan berhasil dikendalikan.
+
+695
+00:36:44,160 --> 00:36:45,900
+Untunglah pankreasnya tidak ada masalah.
+
+696
+00:36:46,570 --> 00:36:47,900
+Pasien terserang hipotermia.
+<font color="#ffff00">[Hipotermia - suhu bagian dalam tubuh di bawah 35 °C]</font>
+
+697
+00:36:47,900 --> 00:36:48,100
+Juga terserang gangguan koagulasi dan asidosis metabolik.
+
+698
+00:36:48,100 --> 00:36:50,970
+Juga terserang gangguan koagulasi dan asidosis metabolik.
+<font color="#ffff00">[koagulasi - pembekuan darah;
+Asidosis metabolik - perubahan keseimbangan antara produksi dan ekskresi asam]</font>
+
+699
+00:36:50,970 --> 00:36:53,240
+Waktu adalah nyawa.
+<font color="#ffff00">[koagulasi - pembekuan darah;
+Asidosis metabolik - perubahan keseimbangan antara produksi dan ekskresi asam]</font>
+
+700
+00:36:53,240 --> 00:36:53,540
+Mulai dari kolon hingga ujung kanan intestin terdapat ruptur.
+<font color="#ffff00">[koagulasi - pembekuan darah;
+Asidosis metabolik - perubahan keseimbangan antara produksi dan ekskresi asam]</font>
+
+701
+00:36:53,540 --> 00:36:55,780
+Mulai dari kolon hingga ujung kanan intestin terdapat ruptur.
+
+702
+00:36:55,780 --> 00:36:58,180
+Juga ditemukannya kerusakan
+pada membran usus.
+
+703
+00:36:58,180 --> 00:37:01,250
+Karena itu sisi kanan kolon
+dan intestin harus dipotong.
+
+704
+00:37:01,250 --> 00:37:03,520
+Ingat, waktu adalah nyawa.
+
+705
+00:37:04,180 --> 00:37:05,920
+- Di sini.
+- Prof. Han.
+
+706
+00:37:22,740 --> 00:37:24,470
+Ada kepentingan apa Prof. Han ke sini?
+
+707
+00:37:26,340 --> 00:37:28,740
+Aku ke sini mau lihat berapa lama
+kau bisa melakukan aksi ceroboh sampai kapan.
+
+708
+00:37:28,740 --> 00:37:31,280
+Kau bilang dalam waktu sejam akan merampungkan
+operasi tanpa transfusi bukan?
+
+709
+00:37:34,610 --> 00:37:35,820
+Terserah.
+
+710
+00:37:37,020 --> 00:37:39,550
+Jika masalah berubah menjadi seheboh ini,
+
+711
+00:37:39,550 --> 00:37:41,420
+pasien ini mau tak mau harus kau selamatkan.
+
+712
+00:37:41,420 --> 00:37:44,090
+Tidak cukup hanya bermodalkan kenekatan
+dalam  memainkan pisau bedah.
+
+713
+00:37:44,090 --> 00:37:45,290
+Buktikan dengan hasil yang cemerlang!
+
+714
+00:37:45,830 --> 00:37:48,090
+Kau nantikan saja hasilnya.
+
+715
+00:38:07,850 --> 00:38:08,110
+Indeks kreatinin-nya harus kau perhatikan.
+
+716
+00:38:08,110 --> 00:38:09,580
+Indeks kreatinin-nya harus kau perhatikan.
+<font color="#ffff00">[Kreatinin - tes darah untuk menentukan fungsi ginjal]</font>
+
+717
+00:38:09,580 --> 00:38:11,990
+Tidak bisa hanya melihat tekanan darah saja.
+<font color="#ffff00">[Kreatinin - tes darah untuk menentukan fungsi ginjal]</font>
+
+718
+00:38:11,990 --> 00:38:12,320
+Maaf, karena tidak ada dokter spesialis anak,
+jadi tidak mendapat bantuan.
+<font color="#ffff00">[Kreatinin - tes darah untuk menentukan fungsi ginjal]</font>
+
+719
+00:38:12,320 --> 00:38:15,860
+Maaf, karena tidak ada dokter spesialis anak,
+jadi tidak mendapat bantuan.
+
+720
+00:38:15,860 --> 00:38:18,660
+Lalu? Karena alasan itu
+kau boleh berpangku tangan saja?
+
+721
+00:38:18,660 --> 00:38:21,330
+Dalam tahap seperti ini,
+masih boleh dikatakan normal.
+
+722
+00:38:21,330 --> 00:38:24,930
+Dokter Yoo Myeong Hyeon,
+kau berani tanggung jawab atas anak ini?
+
+723
+00:38:24,930 --> 00:38:26,400
+Aku?
+
+724
+00:38:26,400 --> 00:38:28,400
+Iya.
+Kau bisa tanggung jawab?
+
+725
+00:38:30,000 --> 00:38:31,810
+Penanggung-jawab tempat ini adalah aku.
+
+726
+00:38:32,010 --> 00:38:33,470
+Apapun itu masalahnya,
+harus melalui persetujuanku dan diselesaikan bersama!
+
+727
+00:38:33,470 --> 00:38:35,210
+Kau mengambil keputusan sendiri
+tapi setelah itu kau telantarkan anak ini.
+
+728
+00:38:35,210 --> 00:38:36,680
+Menurutmu perbuatanmu ini benar?
+
+729
+00:38:38,540 --> 00:38:41,610
+Maaf, saya akan lebih memperhatikan lagi.
+
+730
+00:38:50,020 --> 00:38:51,620
+Sakit?
+
+731
+00:38:52,690 --> 00:38:55,760
+Ayah ibumu pasti akan datang mencarimu.
+
+732
+00:38:55,760 --> 00:38:58,560
+Jangan takut.
+Harus kuat ya!
+
+733
+00:39:00,170 --> 00:39:01,500
+Mengerti?
+
+734
+00:39:07,910 --> 00:39:09,640
+Lee Saem, kolektomi ini...
+
+735
+00:39:09,640 --> 00:39:11,110
+Lee Saem, kolektomi ini...
+<font color="#ffff00">[Kolektomi: operasi untuk memotong seluruh atau sebagian usus besar / reseksi segmental]</font>
+
+736
+00:39:11,110 --> 00:39:12,580
+Tidak ada pengaruhnya pada intestin?
+<font color="#ffff00">[Kolektomi: operasi untuk memotong seluruh atau sebagian usus besar / reseksi segmental]</font>
+
+737
+00:39:12,580 --> 00:39:13,510
+Ada.
+<font color="#ffff00">[Kolektomi: operasi untuk memotong seluruh atau sebagian usus besar / reseksi segmental]</font>
+
+738
+00:39:13,510 --> 00:39:14,910
+Ada? Hentikan!
+<font color="#ffff00">[Kolektomi: operasi untuk memotong seluruh atau sebagian usus besar / reseksi segmental]</font>
+
+739
+00:39:14,910 --> 00:39:15,780
+Ada? Hentikan!
+
+740
+00:39:15,780 --> 00:39:17,380
+Dokter Lee, hentikan operasi ini!
+
+741
+00:39:17,920 --> 00:39:19,390
+Hentikan operasi ini!
+
+742
+00:39:19,390 --> 00:39:20,720
+Apa hakmu menyuruh kami
+menghentikan operasi?
+
+743
+00:39:20,720 --> 00:39:23,790
+Sebagai seorang profesor ahli bedah,
+aku tidak bisa mengizinkan operasi ini berjalan.
+
+744
+00:39:23,790 --> 00:39:25,390
+Ganti orang!
+Biar aku saja.
+
+745
+00:39:25,390 --> 00:39:27,260
+Dokter bedahnya adalah aku!
+
+746
+00:39:28,060 --> 00:39:31,800
+Jika tidak tahan menyaksikannya,
+silakan keluar!
+
+747
+00:39:32,470 --> 00:39:34,070
+Cut!
+
+748
+00:39:34,070 --> 00:39:36,340
+Park Ji Na, kau tidak dengar?
+
+749
+00:39:36,340 --> 00:39:37,540
+Jika memang harus dioperasi,
+akulah yang lebih pantas melakukannya.
+
+750
+00:39:37,540 --> 00:39:39,140
+Kusuruh kau cut!
+
+751
+00:39:39,540 --> 00:39:40,470
+Lee Hae Seong!
+
+752
+00:39:40,470 --> 00:39:41,670
+Cut!
+
+753
+00:39:42,480 --> 00:39:44,610
+Bukankah kau demi kebaikan pasien?
+
+754
+00:39:44,610 --> 00:39:46,080
+Tanpa jahitan, hanya reseksi segmental saja,
+
+755
+00:39:46,080 --> 00:39:47,410
+apa yang ingin kau lakukan?
+
+756
+00:39:47,410 --> 00:39:49,950
+Sebagai seorang dokter,
+ini bukanlah hal yang keputusannya bisa diambil dengan enteng.
+
+757
+00:39:49,950 --> 00:39:52,490
+Enteng?
+
+758
+00:39:52,490 --> 00:39:53,690
+Dokter seperti apa yang memegang pisau bedah
+
+759
+00:39:53,690 --> 00:39:55,820
+dan mengambil keputusan dengan enteng?
+
+760
+00:39:56,360 --> 00:39:59,830
+Kau adalah dokter bedah.
+Kasus sulit seperti ini adalah yang pertama bagimu.
+
+761
+00:39:59,830 --> 00:40:02,830
+Mau itu sulit atau gampang,
+dokter bedahnya adalah aku.
+
+762
+00:40:03,560 --> 00:40:07,570
+Bagi orang ini, setiap menit dan detik
+adalah pergulatan antara hidup dan mati.
+
+763
+00:40:08,900 --> 00:40:10,240
+Fokus semuanya!
+
+764
+00:40:12,240 --> 00:40:14,510
+Ttol Mi, cut!
+
+765
+00:40:30,660 --> 00:40:33,190
+Operasi berakhir sampai di sini.
+Pindahkan pasien ke ICU!
+
+766
+00:40:33,190 --> 00:40:36,000
+Operasi selesai.
+
+767
+00:40:36,800 --> 00:40:38,130
+Bagaimana dengan tanda-tanda vitalnya?
+
+768
+00:40:38,130 --> 00:40:41,330
+TD 80/40, nadi lebih kurang 120.
+
+769
+00:40:41,330 --> 00:40:42,540
+Tabung drainase nya sudah dipasang?
+
+770
+00:40:42,540 --> 00:40:43,740
+Sudah.
+
+771
+00:40:43,740 --> 00:40:46,270
+Setelah dia keluar,
+pantau tabung drainasenya dengan benar.
+
+772
+00:40:46,270 --> 00:40:48,010
+Operasi kedua harus dipersiapkan.
+
+773
+00:40:48,010 --> 00:40:49,610
+Harus pastikan sekali lagi
+ada bagian lain yang ruptur atau tidak.
+
+774
+00:40:57,220 --> 00:40:58,680
+Pengendalian kerusakan.
+
+775
+00:40:59,490 --> 00:41:01,490
+Aku hanya pernah membacanya dari buku.
+
+776
+00:41:01,490 --> 00:41:02,690
+Sama sekali tidak terbayangkan
+akan benar-benar dilakukan.
+
+777
+00:41:03,090 --> 00:41:06,960
+<i>Kupikir intestinnya bengkak,
+bagaimana dia akan menjahitnya kembali?</i>
+
+778
+00:41:06,960 --> 00:41:08,160
+Tak kusangka dia membiarkannya terbuka.
+
+779
+00:41:12,430 --> 00:41:16,440
+Bagi Profesor, operasi mungkin adalah
+menggunakan pisau bedah
+
+780
+00:41:16,440 --> 00:41:20,570
+untuk menghilangkan jaringan kanker.
+
+781
+00:41:21,240 --> 00:41:23,640
+Tapi bagiku, sudah cukup dengan
+menyelamatkan pasien
+
+782
+00:41:24,580 --> 00:41:28,310
+Karena RS. Mirae tidak melakukan operasi lain
+di luar operasi biasa.
+
+783
+00:41:30,480 --> 00:41:30,580
+<font color="#ffff00">[Damage Control Surgery/DCS - sistem operasi yang bertujuan untuk mengontrol pendarahan, melindungi dan menghindari kerusakan jaringan lebih lanjut]</font>
+
+784
+00:41:30,580 --> 00:41:35,520
+Ini juga pertama kalinya aku melakukan
+operasi damage control.
+<font color="#ffff00">[Damage Control Surgery/DCS - sistem operasi yang bertujuan untuk mengontrol pendarahan, melindungi dan menghindari kerusakan jaringan lebih lanjut]</font>
+
+785
+00:41:36,320 --> 00:41:37,520
+Tapi ternyata berhasil.
+
+786
+00:41:39,130 --> 00:41:40,590
+Tunggu apa lagi?
+Segera pindahkan pasien!
+
+787
+00:41:40,590 --> 00:41:41,530
+Baik.
+
+788
+00:41:55,270 --> 00:41:56,880
+Kau sudah dengar?
+Dia bilang pertama kali.
+
+789
+00:41:56,880 --> 00:42:00,480
+Otaknya sudah tidak waras lagi
+seperti habis makan liver puma.
+<font color="#ffff00">[Liver - kiasan untuk melukiskan keberanian seseorang]</font>
+
+790
+00:42:04,080 --> 00:42:05,550
+Tidakkah kau terlalu mengambil resiko?
+
+791
+00:42:07,820 --> 00:42:13,160
+Setidaknya aku masih punya hati,
+tidak menggunakan nyawa orang sebagai taruhan.
+
+792
+00:42:13,560 --> 00:42:15,160
+Lalu apa ini?
+
+793
+00:42:16,100 --> 00:42:18,230
+Karena keinginan untuk menyelamatkan nyawa pasien.
+
+794
+00:42:19,170 --> 00:42:21,570
+Aku adalah dokter.
+Apa pun itu,
+
+795
+00:42:21,570 --> 00:42:23,570
+bukankah sangat normal ingin bisa
+menyelamatkan nyawa pasien?
+
+796
+00:42:23,970 --> 00:42:28,510
+Aku juga dokter.
+Tapi ini adalah sebuah kecongkakan dan perjudian.
+
+797
+00:42:28,510 --> 00:42:31,040
+Lantas apa yang bisa kita perbuat sekarang?
+
+798
+00:42:31,040 --> 00:42:32,110
+Pasien luka ringan,
+karena tidak membahayakan jiwa
+
+799
+00:42:32,110 --> 00:42:33,710
+jadi mereka diabaikan.
+
+800
+00:42:33,710 --> 00:42:34,510
+Pasien yang beresiko tinggi,
+
+801
+00:42:34,510 --> 00:42:36,780
+karena ada ancaman jiwa,
+jadi kita abaikan juga.
+
+802
+00:42:36,780 --> 00:42:39,850
+Mencari seorang pasien yang cocok
+dan berpura-pura berusaha,
+
+803
+00:42:39,850 --> 00:42:41,590
+kemudian menyatakan dia meningal?
+
+804
+00:42:42,920 --> 00:42:45,990
+Mau itu sebuah arogansi ataupun judi,
+
+805
+00:42:45,990 --> 00:42:50,000
+selama ada 1% harapan untuk
+bisa menyelamatkan nyawanya,
+
+806
+00:42:50,000 --> 00:42:51,330
+maka aku akan berupaya semaksimal mungkin.
+
+807
+00:42:51,860 --> 00:42:53,470
+Karena itu adalah alasan kenapa
+aku jadi dokter.
+
+808
+00:43:03,610 --> 00:43:05,340
+Itulah Lee Hae Seong.
+
+809
+00:43:08,150 --> 00:43:12,020
+Kunyuk itu tidak kenal kata gentar?
+
+810
+00:43:13,750 --> 00:43:16,020
+Harusnya yang paling ditakutinya adalah
+pasien meninggal.
+
+811
+00:43:17,760 --> 00:43:21,230
+Prof. Han, sepertinya Anda
+memiliki ketakutan yang lain.
+
+812
+00:43:21,890 --> 00:43:22,960
+Apa itu?
+
+813
+00:43:22,960 --> 00:43:25,100
+Mengenai itu, bukankah seharusnya
+Anda pribadi lebih tahu?
+
+814
+00:43:48,590 --> 00:43:53,930
+Yang paling kutakuti,
+kau sama sekali tidak tahu.
+
+815
+00:43:54,590 --> 00:43:56,860
+Apa yang paling kutakuti?
+
+816
+00:44:13,950 --> 00:44:15,550
+Operasi damage control...
+
+817
+00:44:15,550 --> 00:44:19,150
+...menghentikan pendarahan dalam waktu singkat
+untuk memulihkan kondisi pasien.
+
+818
+00:44:19,150 --> 00:44:22,220
+Sehingga pasien bisa sekali lagi dioperasi.
+
+819
+00:44:22,220 --> 00:44:23,820
+Kalau begitu, apa yang harus diperhatikan?
+
+820
+00:44:25,560 --> 00:44:25,790
+Pertama-tama, gunakan norepinefrin untuk mempertahankan
+kestabilan tanda-tanda vitalnya.
+
+821
+00:44:25,790 --> 00:44:27,690
+Pertama-tama, gunakan norepinefrin untuk mempertahankan
+kestabilan tanda-tanda vitalnya.
+<font color="#ffff00">[Norepinefrin - obat u/ meningkatkan tekanan darah;
+I/O - Menyeimbangkan masuk dan keluarnya cairan]</font>
+
+822
+00:44:27,690 --> 00:44:30,100
+Kemudian secara bertahap kadarnya dikurangi
+kadar keseimbangan I/O
+<font color="#ffff00">[Norepinefrin - obat u/ meningkatkan tekanan darah;
+I/O - Menyeimbangkan masuk dan keluarnya cairan]</font>
+
+823
+00:44:30,100 --> 00:44:31,860
+untuk menghilangkan pembengkakan pada saluran usus.
+<font color="#ffff00">[Norepinefrin - obat u/ meningkatkan tekanan darah;
+I/O - Menyeimbangkan masuk dan keluarnya cairan]</font>
+
+824
+00:44:31,860 --> 00:44:32,100
+untuk menghilangkan pembengkakan pada saluran usus.
+
+825
+00:44:32,100 --> 00:44:34,770
+Walaupun persediaan darah rumah sakit sudah habis,
+
+826
+00:44:34,770 --> 00:44:36,970
+tapi pada kondisi sejauh mana
+sumber daya memungkinkan pengobatan,
+
+827
+00:44:36,970 --> 00:44:37,040
+<font color="#ffff00">[Rhabdomyolysis - suatu sindroma yang disebabkan cedera pada otat rangka dan keluarnya kandungan sel otot kedalam plasma.
+CRRT - terapi pengganti ginjal berkesinambungan]</font>
+
+828
+00:44:37,040 --> 00:44:38,770
+ada kemungkinan menyebabkan terjadinya rhabdomyolysis.
+<font color="#ffff00">[Rhabdomyolysis - suatu sindroma yang disebabkan cedera pada otat rangka hingga kandungan sel otot masuk kedalam plasma.
+CRRT - terapi pengganti ginjal berkesinambungan]</font>
+
+829
+00:44:38,770 --> 00:44:40,110
+Indeks kreatinin saat ini juga tinggi,
+<font color="#ffff00">[Rhabdomyolysis - suatu sindroma yang disebabkan cedera pada otat rangka hingga kandungan sel otot masuk kedalam plasma.
+CRRT - terapi pengganti ginjal berkesinambungan]</font>
+
+830
+00:44:40,110 --> 00:44:42,810
+sehingga boleh coba melakukan CRRT.
+<font color="#ffff00">[Rhabdomyolysis - suatu sindroma yang disebabkan cedera pada otat rangka hingga kandungan sel otot masuk kedalam plasma.
+CRRT - terapi pengganti ginjal berkesinambungan]</font>
+
+831
+00:44:42,810 --> 00:44:42,910
+sehingga boleh coba melakukan CRRT.
+
+832
+00:44:43,840 --> 00:44:45,180
+Kau hafal sekali.
+
+833
+00:44:45,180 --> 00:44:47,450
+Kalau begitu coba kau jelaskan secara spesifik
+apa yang harus kita lakukan.
+
+834
+00:44:50,380 --> 00:44:52,520
+Dokter Jeong Ttol Mi
+
+835
+00:44:52,920 --> 00:44:55,050
+ini saja kau tidak tahu?
+
+836
+00:44:56,260 --> 00:44:57,990
+Karena aku bukan dokter bedah.
+
+837
+00:44:57,990 --> 00:44:59,590
+Juga tidak pernah punya pikiran
+untuk masuk bedah.
+
+838
+00:45:00,130 --> 00:45:01,190
+Benar-benar tolol.
+
+839
+00:45:03,460 --> 00:45:05,200
+Waktu aku ujian pun tidak sampai tingkatan seperti ini.
+
+840
+00:45:05,200 --> 00:45:07,600
+Tapi kalau juara satu ya itu aku.
+Aku juara satu!
+
+841
+00:45:07,600 --> 00:45:10,400
+Hei, yang paling penting adalah...
+
+842
+00:45:10,400 --> 00:45:12,000
+Berhubung ini adalah operasi tanpa transfusi,
+
+843
+00:45:12,000 --> 00:45:14,010
+jadi nilai platelet itu harus diawasi dengan cermat.
+<font color="#ffff00">[Platelet -  unsur-unsur penting dalam darah yang bertugas membekukan darah]</font>
+
+844
+00:45:14,010 --> 00:45:15,340
+Aku sekarang lagi hipoglikemia.
+<font color="#ffff00">[Hipoglikemia - kadar gula di dalam darah berada di bawah kadar normal]</font>
+
+845
+00:45:15,340 --> 00:45:17,480
+Begitu terserang hipoglikemia,
+emosiku akan meledak.
+[Hipoglikemia - kadar gula di dalam darah berada di bawah kadar normal]
+
+846
+00:45:17,480 --> 00:45:22,010
+Pada masa di mana aku mengisi ulang
+kadar gula darahku, kalian jangan macam-macam ya!
+<font color="#ffff00">[Hipoglikemia - kadar gula di dalam darah berada di bawah kadar normal]</font>
+
+847
+00:45:22,010 --> 00:45:22,820
+Mengerti?
+
+848
+00:45:22,820 --> 00:45:24,280
+Terima kasih.
+
+849
+00:45:42,170 --> 00:45:43,100
+Kau itu...
+
+850
+00:45:43,125 --> 00:45:43,360
+S
+
+851
+00:45:43,361 --> 00:45:43,595
+Su
+
+852
+00:45:43,596 --> 00:45:43,831
+Sub
+
+853
+00:45:43,832 --> 00:45:44,067
+Subt
+
+854
+00:45:44,068 --> 00:45:44,303
+Subti
+
+855
+00:45:44,304 --> 00:45:44,538
+Subtit
+
+856
+00:45:44,539 --> 00:45:44,774
+Subtitl
+
+857
+00:45:44,775 --> 00:45:45,010
+Subtitle
+
+858
+00:45:45,011 --> 00:45:45,245
+Subtitle 
+
+859
+00:45:45,246 --> 00:45:45,481
+Subtitle o
+
+860
+00:45:45,482 --> 00:45:45,717
+Subtitle ol
+
+861
+00:45:45,718 --> 00:45:45,953
+Subtitle ole
+
+862
+00:45:45,954 --> 00:45:46,188
+Subtitle oleh
+
+863
+00:45:46,189 --> 00:45:46,424
+Subtitle oleh:
+
+864
+00:45:46,425 --> 00:45:46,660
+Subtitle oleh:
+
+865
+00:45:46,661 --> 00:45:46,895
+Subtitle oleh:
+
+
+866
+00:45:46,896 --> 00:45:47,131
+Subtitle oleh:
+~
+
+867
+00:45:47,132 --> 00:45:47,367
+Subtitle oleh:
+~ 
+
+868
+00:45:47,368 --> 00:45:47,603
+Subtitle oleh:
+~ D
+
+869
+00:45:47,604 --> 00:45:47,838
+Subtitle oleh:
+~ Da
+
+870
+00:45:47,839 --> 00:45:48,074
+Subtitle oleh:
+~ Dar
+
+871
+00:45:48,075 --> 00:45:48,310
+Subtitle oleh:
+~ Dark
+
+872
+00:45:48,311 --> 00:45:48,545
+Subtitle oleh:
+~ DarkS
+
+873
+00:45:48,546 --> 00:45:48,781
+Subtitle oleh:
+~ DarkSm
+
+874
+00:45:48,782 --> 00:45:49,017
+Subtitle oleh:
+~ DarkSmu
+
+875
+00:45:49,018 --> 00:45:49,253
+Subtitle oleh:
+~ DarkSmur
+
+876
+00:45:49,254 --> 00:45:49,489
+Subtitle oleh:
+~ DarkSmurf
+
+877
+00:45:49,489 --> 00:45:49,724
+Subtitle oleh:
+~ DarkSmurfS
+
+878
+00:45:49,725 --> 00:45:49,960
+Subtitle oleh:
+~ DarkSmurfSu
+
+879
+00:45:49,961 --> 00:45:50,196
+Subtitle oleh:
+~ DarkSmurfSub
+
+880
+00:45:50,196 --> 00:45:50,431
+Subtitle oleh:
+~ DarkSmurfSub 
+
+881
+00:45:50,432 --> 00:45:50,667
+Subtitle oleh:
+~ DarkSmurfSub I
+
+882
+00:45:50,668 --> 00:45:50,903
+Subtitle oleh:
+~ DarkSmurfSub In
+
+883
+00:45:50,904 --> 00:45:51,139
+Subtitle oleh:
+~ DarkSmurfSub Ind
+
+884
+00:45:51,139 --> 00:45:51,374
+Subtitle oleh:
+~ DarkSmurfSub Indo
+
+885
+00:45:51,375 --> 00:45:51,610
+Subtitle oleh:
+~ DarkSmurfSub Indon
+
+886
+00:45:51,611 --> 00:45:51,846
+Subtitle oleh:
+~ DarkSmurfSub Indone
+
+887
+00:45:51,846 --> 00:45:52,081
+Subtitle oleh:
+~ DarkSmurfSub Indones
+
+888
+00:45:52,082 --> 00:45:52,317
+Subtitle oleh:
+~ DarkSmurfSub Indonesi
+
+889
+00:45:52,318 --> 00:45:52,553
+Subtitle oleh:
+~ DarkSmurfSub Indonesia
+
+890
+00:45:52,554 --> 00:45:52,788
+Subtitle oleh:
+~ DarkSmurfSub Indonesia 
+
+891
+00:45:52,789 --> 00:45:53,024
+Subtitle oleh:
+~ DarkSmurfSub Indonesia ~
+
+892
+00:45:53,025 --> 00:45:58,125
+Subtitle oleh:
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000"> Indonesia</font> ~
+
+893
+00:45:58,150 --> 00:46:03,150
+Diterjemahkan oleh:
+~ <font color="#00ff00">to</font><font color="#ff00ff">to</font><font color="#ff8040">ro</font> ~
+
+894
+00:46:03,175 --> 00:46:10,175
+Penasehat Medis:
+~ <font color="#00ff00">d</font><font color="#ff8040">r</font>. <font color="#ff0000">a</font><font color="#ff00ff">l</font><font color="#ffff00">i</font><font color="#00ffff">e</font><font color="#ff0000">n</font> ~
+
+895
+00:46:11,530 --> 00:46:13,670
+Rasanya bagaikan mendapat hidup baru.
+
+896
+00:46:14,470 --> 00:46:16,600
+Pada saat lelah, memang glukosa yang paling efektif.
+
+897
+00:46:21,540 --> 00:46:23,410
+Dok!
+
+898
+00:46:24,480 --> 00:46:26,610
+Kenapa? Ada masalah pada pasien?
+
+899
+00:46:27,410 --> 00:46:29,420
+Bukan itu.
+
+900
+00:46:30,620 --> 00:46:33,820
+Tolong rawat Min Cheol baik-baik.
+
+901
+00:46:36,220 --> 00:46:39,560
+Tolong? Kau bukannya benci padaku?
+
+902
+00:46:39,560 --> 00:46:41,030
+Iya, aku benci padamu.
+
+903
+00:46:42,360 --> 00:46:44,760
+Sekalipun begitu,
+yang harus diakui tetap harus diakui.
+
+904
+00:46:45,560 --> 00:46:46,630
+Lagipula aku sangat jelas.
+
+905
+00:46:46,630 --> 00:46:50,100
+Satu-satunya orang yang bisa menyelamatkan
+nyawa Min Cheol sekarang hanyalah kau seorang, dok.
+
+906
+00:46:50,770 --> 00:46:54,370
+Kau kenapa begitu?
+Dulu kau bukan seperti ini.
+
+907
+00:46:54,910 --> 00:46:59,180
+Tidak ada bedanya dengan saat
+kau berlutut di depan Wonjang-nim.
+
+908
+00:46:59,180 --> 00:47:02,520
+Jika menundukkan kepala di hadapanmu,
+dapat menyelamatkan Min Cheol,
+
+909
+00:47:02,520 --> 00:47:04,250
+tidak peduli harus berapa kali,
+aku bersedia melakukannya.
+
+910
+00:47:09,190 --> 00:47:11,060
+Hubungan kalian hanya mantan teman sekolah?
+
+911
+00:47:11,860 --> 00:47:14,790
+Apa hubungan kalian berdua?
+
+912
+00:47:14,790 --> 00:47:16,400
+Aku banyak berhutang budi padanya.
+
+913
+00:47:17,730 --> 00:47:19,200
+Kumohon kau harus bisa menyelamatkannya.
+
+914
+00:47:21,330 --> 00:47:22,400
+Karena kau terlalu banyak hutang budi padanya
+
+915
+00:47:22,400 --> 00:47:23,600
+karena itu kau memohonku untuk menyelamatkannya?
+
+916
+00:47:25,740 --> 00:47:26,940
+Baiklah.
+
+917
+00:47:27,470 --> 00:47:28,270
+Terima kasih.
+
+918
+00:47:31,080 --> 00:47:32,140
+Hei, Ahn Dae Gil!
+
+919
+00:47:32,140 --> 00:47:32,810
+Ya?
+
+920
+00:47:33,210 --> 00:47:36,020
+Makanan yang ada hanya ini.
+
+921
+00:47:41,890 --> 00:47:43,890
+Setidaknya makanlah sedikit.
+Makan bersama dengan dokter-dokter yang lain.
+
+922
+00:47:46,160 --> 00:47:48,160
+Kenapa? Tidak suka agar-agar?
+
+923
+00:47:48,160 --> 00:47:52,570
+Ti--tidak.
+Aku suka sekali yang manis-manis.
+
+924
+00:47:52,570 --> 00:47:53,900
+Terima kasih.
+
+925
+00:48:01,510 --> 00:48:04,040
+Di dunia ini yang paling kubenci adalah kacang merah.
+
+926
+00:48:04,040 --> 00:48:06,310
+Yang kedua adalah kopi pakai susu.
+
+927
+00:48:08,310 --> 00:48:12,180
+Oke, tong sampah.
+Tong sampah di mana, tong sampah?
+
+928
+00:48:17,520 --> 00:48:19,930
+Sedang apa kau sekarang ini?
+
+929
+00:48:19,930 --> 00:48:21,130
+Makanlah!
+
+930
+00:48:27,400 --> 00:48:30,200
+Kau duduklah!
+
+931
+00:48:32,340 --> 00:48:33,540
+Tidak apa-apa, duduklah!
+
+932
+00:48:39,550 --> 00:48:42,210
+Semua ini buat kumakan?
+
+933
+00:48:43,280 --> 00:48:44,750
+Kau makan saja semuanya.
+
+934
+00:48:46,350 --> 00:48:48,890
+Aku disuruh menghabiskan semua ini?
+
+935
+00:48:48,890 --> 00:48:51,820
+Iya, karena aku tidak begitu suka
+makan yang manis-manis.
+
+936
+00:48:57,960 --> 00:48:59,160
+Jadi cowok kenapa sih begitu pemalu?
+
+937
+00:49:01,170 --> 00:49:04,100
+Nyatakan saja perasaanmu langsung.
+Aku bisa ngerti kok!
+
+938
+00:49:04,100 --> 00:49:06,070
+Bilang saja langsung kalau semuanya
+ingin kau hadiahkan padaku.
+
+939
+00:49:06,395 --> 00:49:06,895
+Buset.
+
+940
+00:49:10,110 --> 00:49:11,180
+Terima kasih.
+
+941
+00:49:14,650 --> 00:49:16,920
+Benar-benar mengharukan.
+Pastinya dia sendiri juga lapar.
+
+942
+00:49:35,330 --> 00:49:36,940
+Katanya mau pulang,
+kok malah balik lagi ke sini?
+
+943
+00:49:38,270 --> 00:49:40,810
+Di rumah juga gelap gulita.
+Bosan.
+
+944
+00:49:40,810 --> 00:49:43,480
+Gas juga tidak berfungsi,
+jadi aku makan mie mentah.
+
+945
+00:49:44,540 --> 00:49:46,280
+Bagaimana dengan keadaan di luar?
+
+946
+00:49:47,080 --> 00:49:48,810
+Bagaikan Seoul dimasukkan ke dalam
+sebuah mesin penggilingyang sangat besar,
+
+947
+00:49:48,810 --> 00:49:50,150
+dan hancur digiling.
+
+948
+00:49:50,950 --> 00:49:54,420
+Jembatan Hangang juga putus.
+Di mana-mana terjadi kebakaran.
+
+949
+00:49:55,620 --> 00:49:56,820
+Separah itukah?
+
+950
+00:49:56,820 --> 00:50:02,430
+Kau dan aku masih hidup boleh dibilang
+sebuah keajaiban, dan Min Cheol juga.
+
+951
+00:50:05,100 --> 00:50:10,840
+Jumlah cairan yang keluar dan suhu tubuh dalam batas normal.
+
+952
+00:50:12,570 --> 00:50:14,040
+Kejadiannya sudah lama.
+
+953
+00:50:14,040 --> 00:50:15,770
+Anggap saja kejadian itu
+sama sekali tidak pernah terjadi.
+
+954
+00:50:15,770 --> 00:50:21,650
+Dia sudah bilang tidak bersedia,
+tapi aku memaksanya untuk mencuri motor bersama.
+
+955
+00:50:21,650 --> 00:50:27,390
+Ayahku menggunakan uang menyelamatkanku
+dan membiarkan Min Cheol seorang menjadi kambing hitamnya.
+
+956
+00:50:27,390 --> 00:50:30,990
+Dia dikeluarkan dari sekolah
+dan menjadi orang dengan catatan kriminal.
+
+957
+00:50:31,390 --> 00:50:34,190
+Hal tidak akan pernah bisa
+kuanggap sebagai sesuatu yang tidak pernah terjadi.
+
+958
+00:50:34,730 --> 00:50:36,730
+Ayah janji akan mencarikan pengacara untuknya.
+
+959
+00:50:36,730 --> 00:50:38,600
+Akan menggunakan uang
+untuk mengganti rugi padanya.
+
+960
+00:50:40,600 --> 00:50:42,740
+Hari di mana aku mencuri motor,
+adalah hari di mana
+
+961
+00:50:42,740 --> 00:50:44,200
+aku menerima
+pemberitahuan lolos masuk FK.
+
+962
+00:50:45,540 --> 00:50:51,540
+Dia berkata padaku jika aku menyerah
+dan membiarkan semuanya menguap bagaikan asap...
+
+963
+00:50:51,540 --> 00:50:55,280
+Iya, karena keluarga Min Cheol miskin.
+
+964
+00:50:55,280 --> 00:50:58,220
+Ayah bilang akan memberinya uang,
+jadi tidak apa-apa.
+
+965
+00:50:58,220 --> 00:51:00,220
+Malahan akan menjadi sebuah rezeki bagi Min Cheol.
+
+966
+00:51:01,820 --> 00:51:03,290
+Demikianlah aku berpikir waktu itu.
+
+967
+00:51:03,690 --> 00:51:07,430
+Karena dengan penuh keyakinan
+aku bertekad ingin menjadi seorang dokter.
+
+968
+00:51:07,430 --> 00:51:11,300
+Saat itu aku sangat percaya pada ayahku.
+
+969
+00:51:11,830 --> 00:51:15,700
+Tapi, tidak ada ganti rugi
+dan tidak pernah mencari pengacara.
+
+970
+00:51:19,710 --> 00:51:21,710
+Demikianlah aku memperoleh
+seragam dokterku ini.
+
+971
+00:51:21,840 --> 00:51:23,180
+Sangat kotor dan tercela.
+
+972
+00:51:23,980 --> 00:51:25,840
+Saat itu kau masih muda.
+
+973
+00:51:29,180 --> 00:51:31,450
+Jika kau merasa bersalah,
+
+974
+00:51:31,450 --> 00:51:33,720
+rawatlah dia dengan baik.
+Anggap saja sebagai balas budi.
+
+975
+00:51:37,990 --> 00:51:42,390
+Iya, terlalu banyak aku berhutang budi padanya.
+
+976
+00:52:04,280 --> 00:52:05,480
+<i>Damage control...</i>
+
+977
+00:52:08,020 --> 00:52:10,420
+Pada kondisi di mana obat-obatan
+dan listrik tidak tersedia.
+
+978
+00:52:14,290 --> 00:52:16,300
+Dia hanya mempertontonkan sebuah
+pertunjukan dengan menggunakan pasien.
+
+979
+00:52:18,030 --> 00:52:19,100
+Hanyalah sebuah pertunjukan.
+
+980
+00:52:52,060 --> 00:52:53,800
+<i>Demi menyelamatkan nyawa
+Han Song Yi,</i>
+
+981
+00:52:53,800 --> 00:52:57,270
+<i>sudah lama Han Woo Seong nangis-nangis.</i>
+
+982
+00:52:57,270 --> 00:52:58,470
+<i>Hebat kan?</i>
+
+983
+00:52:59,400 --> 00:53:03,810
+<i>Gila masih bela-belain bikin puisi buatnya?
+Mendingan kalian pacaran saja sekalian.</i>
+
+984
+00:53:03,810 --> 00:53:04,480
+<i>Bagaimana kalau kita pacaran beneran?</i>
+
+985
+00:53:04,480 --> 00:53:05,410
+<i>Enyah sana!</i>
+
+986
+00:53:07,280 --> 00:53:11,280
+<i>Selama kau masih hidup,
+aku akan tetap menghantuimu.</i>
+
+987
+00:53:12,480 --> 00:53:14,220
+<i>Bersulang!</i>
+
+988
+00:53:14,220 --> 00:53:15,290
+<i>Oh ya, ayo kita foto!</i>
+
+989
+00:53:15,290 --> 00:53:16,360
+<i>Tidak, lebih baik cari orang
+buat fotoin kita.</i>
+
+990
+00:53:16,360 --> 00:53:18,090
+<i>Maaf, tolong bantu kami foto, boleh?</i>
+
+991
+00:53:18,090 --> 00:53:19,020
+<i>Boleh.</i>
+
+992
+00:53:21,290 --> 00:53:23,700
+<i>Satu, dua, tiga, bersulang!</i>
+
+993
+00:53:59,300 --> 00:54:00,900
+Sindrom...
+
+994
+00:54:07,840 --> 00:54:08,640
+Park Ji Na!
+
+995
+00:54:15,850 --> 00:54:19,180
+Kau sama sekali tidak bersedia
+memberi respek terhadap direktur rumah sakit seperti aku?
+
+996
+00:54:19,180 --> 00:54:21,190
+Aku sudah menyerahkan
+surat pengunduran diriku.
+
+997
+00:54:21,190 --> 00:54:22,790
+Bagaimana kalau sebagai seorang ayah?
+
+998
+00:54:23,460 --> 00:54:26,930
+Sudah lupa kalau aku ternyata
+masih punya ayah seperti ini.
+
+999
+00:54:31,200 --> 00:54:33,600
+Kenapa kau selalu bersama dengan Lee Hae Seong?
+
+1000
+00:54:33,870 --> 00:54:36,000
+Jika niatnya untuk mempertontonkan
+sesuatu padaku...
+
+1001
+00:54:36,000 --> 00:54:38,940
+kau keliru.
+Aku tidak akan goyah hanya karena
+masalah sepele seperti ini.
+
+1002
+00:54:39,340 --> 00:54:43,880
+Baguslah kalau begitu.
+Aku juga tidak berencana untuk berhenti di sini.
+
+1003
+00:54:46,810 --> 00:54:47,880
+Park Ji Na!
+
+1004
+00:54:51,750 --> 00:54:54,150
+Anda bilang etika?
+
+1005
+00:54:55,220 --> 00:54:57,490
+Walaupun kita hidup terpisah
+sudah lebih dari 20 tahun lamanya,
+
+1006
+00:54:57,490 --> 00:55:00,020
+tapi bagaimanapun juga
+kita adalah keluarga.
+
+1007
+00:55:00,020 --> 00:55:03,500
+Yang dimaksud etika adalah setidaknya
+menanyakan bagaimana kabar ibuku.
+
+1008
+00:55:20,450 --> 00:55:24,850
+<i>Mau diperkarakan?
+Bisakah Lee Hae Seong menang?</i>
+
+1009
+00:55:24,850 --> 00:55:27,790
+<i>Semua catatannya begitu sempurna.</i>
+
+1010
+00:55:27,790 --> 00:55:30,460
+<i>Seberapa efektif dengan hanya mengandalkan
+kesaksianmu di pengadilan?</i>
+
+1011
+00:55:30,460 --> 00:55:31,660
+<i>Kau benar-benar...</i>
+
+1012
+00:55:31,660 --> 00:55:34,860
+<i>Hati-hati kalau bicara!
+Aku adalah ayahmu!</i>
+
+1013
+00:55:39,400 --> 00:55:41,930
+<i>Jika mau diperkarakan,</i>
+
+1014
+00:55:41,930 --> 00:55:45,670
+<i>ke rumah sakit mana sebaiknya
+ibu Lee Hae Seong kupindahkan?</i>
+
+1015
+00:55:45,670 --> 00:55:46,600
+<i>Sanggupkah Lee Hae seong</i>
+
+1016
+00:55:46,600 --> 00:55:49,270
+<i>menanggung biaya pengobatan
+kondisi vegetatif ibunya?</i>
+
+1017
+00:55:49,270 --> 00:55:52,210
+<i>Sekalipun dengan mempermalukan
+RS. Mirae dan Han Woo Jin,</i>
+
+1018
+00:55:52,210 --> 00:55:55,810
+<i>ibu Lee Hae Seong akan bisa bangkit berdiri lagi?</i>
+
+1019
+00:55:58,080 --> 00:56:00,080
+<i>Sebagai ayah aku akan memberimu nasehat.</i>
+
+1020
+00:56:01,550 --> 00:56:03,290
+<i>Sebaiknya kau jangan macam-macam.</i>
+
+1021
+00:56:03,290 --> 00:56:08,630
+<i>Dengan tidak bertindak gegabah,
+boleh dibilang adalah pilihan terbaik dalam membantu Lee Hae Seong.</i>
+
+1022
+00:56:12,100 --> 00:56:15,170
+<i>Punya ayah sepertimu membuatku merasa malu!</i>
+
+1023
+00:56:15,170 --> 00:56:16,630
+<i>Kukira kau akan berubah.</i>
+
+1024
+00:56:18,900 --> 00:56:24,110
+<i>Ji Na, kursi yang sudah pernah rusak,</i>
+
+1025
+00:56:24,110 --> 00:56:26,240
+<i>sekalipun direparasi
+tetap akan menimbulkan suara derikan.</i>
+
+1026
+00:56:27,710 --> 00:56:32,920
+<i>Kau dan ibumu,
+kita sekeluarga sudah terpecah belah.</i>
+
+1027
+00:57:15,360 --> 00:57:17,760
+Kau kenapa? Ada kejadian apa?
+
+1028
+00:57:24,300 --> 00:57:25,640
+Lepaskan, aku mau pergi.
+
+1029
+00:57:28,970 --> 00:57:30,170
+Ada kejadian apa?
+
+1030
+00:57:31,640 --> 00:57:33,240
+Apa yang ingin kau ketahui?
+
+1031
+00:57:34,050 --> 00:57:35,250
+Kau sedang nangis?
+
+1032
+00:57:37,780 --> 00:57:39,650
+Apa yang Wonjang-nim katakan padamu?
+
+1033
+00:57:41,650 --> 00:57:42,720
+Tidak ada kejadian apa-apa.
+
+1034
+00:57:42,720 --> 00:57:44,590
+Tapi kenapa kau nangis?
+Pasti ada apa-apa.
+
+1035
+00:57:44,590 --> 00:57:46,190
+Sudah kubilang tidak apa-apa.
+
+1036
+00:57:49,530 --> 00:57:51,130
+Lupakanlah kejadian masa lalu!
+
+1037
+00:57:52,460 --> 00:57:54,070
+Aku tidak memutuskanmu.
+
+1038
+00:57:54,870 --> 00:57:57,400
+Kaulah yang mendepakku.
+
+1039
+00:57:57,400 --> 00:57:59,270
+Aku masih tetap berada di posisiku yang dulu.
+
+1040
+00:57:59,670 --> 00:58:00,610
+Sudah menjadi masa lalu.
+
+1041
+00:58:00,610 --> 00:58:04,880
+Jika bisa dengan begitu gampang aku menyerah,
+aku tidak akan jatuh cinta padamu.
+
+1042
+00:58:04,880 --> 00:58:07,280
+Kata-kata seperti ini...
+
+1043
+00:58:07,280 --> 00:58:09,410
+Sudah cukup kau menghukumku.
+
+1044
+00:58:10,210 --> 00:58:11,680
+Tidak mungkin lagi aku kembali
+ke masa lalu.
+
+1045
+00:58:35,310 --> 00:58:37,980
+Kenapa tidak kau eksekusi?
+
+1046
+00:58:37,980 --> 00:58:39,830
+Dept Dalam Negeri,
+jangan selalu melempar tanggung-jawab kepada
+Dept pertahanan!
+
+1047
+00:58:39,830 --> 00:58:40,800
+<font color="#ffff00">-=Selang 23:59:55 setelah gempa=-</font>
+Depdagri, jangan selalu melempar
+anggung-jawab kepada DepHan!
+
+1048
+00:58:40,800 --> 00:58:41,800
+<font color="#ffff00">-=Selang 23:59:56 setelah gempa=-</font>
+Depdagri, jangan selalu melempar
+anggung-jawab kepada DepHan!
+
+1049
+00:58:41,800 --> 00:58:42,110
+<font color="#ffff00">-=Selang 23:59:57 setelah gempa=-</font>
+Depdagri, jangan selalu melempar
+anggung-jawab kepada DepHan!
+
+1050
+00:58:42,110 --> 00:58:42,800
+<font color="#ffff00">-=Selang 23:59:57 setelah gempa=-</font>
+Segera mobilisasi perlengkapan berat
+beserta anggota yang memiliki izin operasional.
+
+1051
+00:58:42,800 --> 00:58:43,800
+<font color="#ffff00">-=Selang 23:59:58 setelah gempa=-</font>
+Segera mobilisasi perlengkapan berat
+beserta anggota yang memiliki izin operasional.
+
+1052
+00:58:43,800 --> 00:58:44,800
+<font color="#ffff00">-=Selang 23:59:59 setelah gempa=-</font>
+Segera mobilisasi perlengkapan berat
+beserta anggota yang memiliki izin operasional.
+
+1053
+00:58:44,800 --> 00:58:45,800
+<font color="#ffff00">-=Selang 24:00:00 setelah gempa=-</font>
+Segera mobilisasi perlengkapan berat
+beserta anggota yang memiliki izin operasional.
+
+1054
+00:58:45,800 --> 00:58:46,250
+<font color="#ffff00">-=Selang 24:00:01 setelah gempa=-</font>
+Segera mobilisasi perlengkapan berat
+beserta anggota yang memiliki izin operasional.
+
+1055
+00:58:46,250 --> 00:58:46,800
+<font color="#ffff00">-=Selang 24:00:01 setelah gempa=-</font>
+Depkeu, segera jabarkan statistik anggaran!
+
+1056
+00:58:46,800 --> 00:58:47,800
+<font color="#ffff00">-=Selang 24:00:02 setelah gempa=-</font>
+Depkeu, segera jabarkan statistik anggaran!
+
+1057
+00:58:47,800 --> 00:58:48,800
+<font color="#ffff00">-=Selang 24:00:03 setelah gempa=-</font>
+Depkeu, segera jabarkan statistik anggaran!
+
+1058
+00:58:48,800 --> 00:58:49,050
+<font color="#ffff00">-=Selang 24:00:04 setelah gempa=-</font>
+Depkeu, segera jabarkan statistik anggaran!
+
+1059
+00:58:49,050 --> 00:58:49,800
+<font color="#ffff00">-=Selang 24:00:04 setelah gempa=-</font>
+Berikan jaminan makanan, minuman dan perlindungan bagi korban bencana!
+
+1060
+00:58:49,800 --> 00:58:52,120
+Berikan jaminan makanan, minuman dan perlindungan bagi korban bencana!
+
+1061
+00:58:52,120 --> 00:58:53,990
+Mobilisasikan tim medis!
+
+1062
+00:58:53,990 --> 00:58:56,660
+Semuanya, jalanan harus bisa dilalui
+baru semuanya bisa berfungsi.
+
+1063
+00:58:56,660 --> 00:58:58,800
+Listrik, gas, air, komunikasi.
+
+1064
+00:58:58,800 --> 00:59:02,130
+Mengerti?
+Membuka jalur transportasi
+adalah hal terpenting!
+
+1065
+00:59:04,270 --> 00:59:07,210
+<i>Siapa dia memangnya?</i>
+
+1066
+00:59:09,210 --> 00:59:11,340
+Saya duduk di kursi ini,
+Anda semua merasa geram, bukan?
+
+1067
+00:59:12,010 --> 00:59:14,010
+Pria muda berduit aji mumpung
+
+1068
+00:59:14,010 --> 00:59:15,610
+dan berhasil duduk di posisi sebagai
+Kepala Satuan Tugas Khusus,
+
+1069
+00:59:15,610 --> 00:59:19,210
+kalian pasti merasa saya hanya
+akan menunjukkan arogansi saya bukan?
+
+1070
+00:59:19,620 --> 00:59:23,350
+Rasa curiga dan iri seperti itu,
+
+1071
+00:59:23,490 --> 00:59:25,620
+setelah masalah ini selesai,
+tinggal ajukan rapat sidang
+
+1072
+00:59:25,620 --> 00:59:28,290
+untuk meminta pertanggung-jawaban saya.
+Bukankah begitu?
+
+1073
+00:59:28,290 --> 00:59:32,030
+Sekarang dengarkan perintahku dulu.
+Nanti baru hakimi saya.
+
+1074
+00:59:32,030 --> 00:59:36,700
+72 jam setelah bencana alam
+adalah golden time.
+
+1075
+00:59:43,550 --> 00:59:49,250
+72 jam setelah bencana alam
+adalah golden time.
+
+1076
+00:59:50,200 --> 00:59:53,200
+Terima kasih telah menggunakan subtitle dari:
+~ DarkSmurfSub  Indonesia ~
+
+1077
+00:59:53,200 --> 00:59:56,200
+DarkSmurfSub Indonesia Facebook Fanpage:
+https://www.facebook.com/DarkSmurfSubIndo
+
+1078
+00:59:56,200 --> 00:59:59,200
+~ Follow twitter kami di: @DSSIndo
+dan nantikan karya kami berikutnya. ~
+
+1079
+00:59:59,200 --> 01:00:02,200
+Kunjungi blog DarkSmurfSub Indonesia di:
+~ http://dssindonesia.blogspot.com ~
+
+1080
+01:00:06,730 --> 01:00:09,930
+-=Cuplikan Episode Berikutnya=-
+
+1081
+01:00:09,930 --> 01:00:11,670
+<i>Terjadi kebakaran di Yonggwang-gu,
+kawasan 43.</i>
+
+1082
+01:00:11,670 --> 01:00:12,470
+<i>Mohon dikirim back-up.</i>
+
+1083
+01:00:12,470 --> 01:00:13,670
+<i>Ini adalah markas penanggulangan bencana.</i>
+
+1084
+01:00:13,670 --> 01:00:15,410
+<i>Hentikan tekanan apinya.</i>
+
+1085
+01:00:15,410 --> 01:00:18,880
+<i>Katanya datang untuk menolong kami,
+tapi kenapa malah berlipat tangan?</i>
+
+1086
+01:00:18,880 --> 01:00:21,410
+<i>Lantai runtuh, banyak korban jiwa.</i>
+
+1087
+01:00:22,880 --> 01:00:23,820
+<i>Apa yang terjadi sebenarnya?</i>
+
+1088
+01:00:23,820 --> 01:00:26,220
+<i>Maksudnya untuk 2 hari saja
+tidak sanggup bertahan?</i>
+
+1089
+01:00:26,220 --> 01:00:27,690
+<i>Pasien yang jumlahnya 200 hingga 300 orang,</i>
+
+1090
+01:00:27,690 --> 01:00:29,690
+<i>mau ditransfer ke rumah sakit apa
+dan di daerah mana?</i>
+
+1091
+01:00:29,690 --> 01:00:31,160
+<i>Lantas aku harus bagaimana?</i>
+
+1092
+01:00:31,160 --> 01:00:32,220
+<i>Mau aku mengumpulkan semua pasien
+yang meninggal di tempat ini</i>
+
+1093
+01:00:32,220 --> 01:00:33,830
+<i>dan melakukan pemakaman massal?</i>
+
+1094
+01:00:33,830 --> 01:00:35,960
+<i>Trombositnya menjadi seperti ini.
+Apa yang telah kau lakukan?</i>
+
+1095
+01:00:35,960 --> 01:00:38,760
+<i>Barusan diambil semua oleh
+dokter Yoo Myeong Hyeon.</i>
+
+1096
+01:00:38,760 --> 01:00:40,900
+<i>Bagikan sedikit platelet kepada kami.</i>
+
+1097
+01:00:40,900 --> 01:00:42,230
+<i>Saat memilih,</i>
+
+1098
+01:00:42,230 --> 01:00:44,500
+<i>harus memilih satu dari antara dua.</i>
+
+1099
+01:00:44,500 --> 01:00:47,040
+<i>Berikan plateletnya pada
+pasien di ruang isolasi.</i>
+
+1100
+01:00:47,040 --> 01:00:51,580
+<i>Katanya mau diberikan kepada
+pasien ruang isolasi,</i>
+
+1101
+01:00:51,580 --> 01:00:55,710
+<i>karena pasien tersebut adalah
+seorang VIP?</i>
+
+1102
+01:00:56,250 --> 01:00:57,980
+<i>Katanya dia mau pergi meminta platelet.</i>
+
+1103
+01:01:01,450 --> 01:01:05,320
+<i>Di luar jauh lebih berbahaya
+daripada yang kau bayangkan.</i>
+
+1104
+01:01:05,320 --> 01:01:09,330
+<i>Aku tidak ingin menyaksikan
+pasien meninggal di depan mataku.</i>
+

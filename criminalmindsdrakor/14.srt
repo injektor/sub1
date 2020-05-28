@@ -1,0 +1,3449 @@
+1
+00:00:35,877 --> 00:00:37,718
+<font color=#FFFF00>Bukan aku. Bukan aku!</font>
+
+2
+00:00:37,718 --> 00:00:38,917
+<font color=#FFFF00>Ibu. Ibu.</font>
+
+3
+00:00:39,078 --> 00:00:40,688
+<font color=#FFFF00>Hyeong! Hyeong!</font>
+
+4
+00:00:41,188 --> 00:00:44,987
+<font color=#FFFF00>Hyeong!
+Tunggu. Hyeong!</font>
+
+5
+00:00:46,258 --> 00:00:47,258
+<font color=#FFFF00>Hyeong!</font>
+
+6
+00:00:57,697 --> 00:01:02,237
+<font color=#FFFF00><b>[Episode 14]</b></font>
+
+7
+00:01:35,007 --> 00:01:37,007
+<font color=#FFFF00>Aku tahu apa yang terjadi...</font>
+
+8
+00:01:37,507 --> 00:01:38,638
+<font color=#FFFF00>...di pusat pelatihan.</font>
+
+9
+00:01:53,118 --> 00:01:55,028
+<font color=#FFFF00>Kau bertanggung jawab atas lembaga pelatihan...</font>
+
+10
+00:01:55,228 --> 00:01:57,028
+<font color=#FFFF00>...yang dikelola pusat, bukan?</font>
+
+11
+00:01:58,528 --> 00:02:00,767
+<font color=#FFFF00>Apa orang ini?</font>
+
+12
+00:02:05,267 --> 00:02:07,838
+<font color=#FFFF00>Pasti ada lebih banyak...</font>
+
+13
+00:02:08,137 --> 00:02:10,007
+<font color=#FFFF00>...korban sepertimu.</font>
+
+14
+00:02:11,208 --> 00:02:12,738
+<font color=#FFFF00>Aku tahu ini berat bagimu...</font>
+
+15
+00:02:13,137 --> 00:02:16,048
+<font color=#FFFF00>dan hidupmu telah berhenti...</font>
+
+16
+00:02:16,048 --> 00:02:17,577
+<font color=#FFFF00>...di hari itu.</font>
+
+17
+00:02:18,018 --> 00:02:19,347
+<font color=#FFFF00>Bulan Agustus 2013...</font>
+
+18
+00:02:20,688 --> 00:02:23,558
+<font color=#FFFF00>...ada Festival Pollack di desamu, apa kau ingat?</font>
+
+19
+00:02:25,417 --> 00:02:29,088
+<font color=#FFFF00>Hari itu seharusnya giliranmu membersihkan lembaga.</font>
+
+20
+00:02:30,697 --> 00:02:34,798
+<font color=#FFFF00>Apa kau orang yang pergi ke lembaga hari itu?</font>
+
+21
+00:02:37,067 --> 00:02:38,597
+<font color=#FFFF00>Target pertamanya adalah...</font>
+
+22
+00:02:39,537 --> 00:02:41,037
+<font color=#FFFF00>...Kang Ho Young,</font>
+
+23
+00:02:43,308 --> 00:02:45,107
+<font color=#FFFF00>selanjutnya itu aku.</font>
+
+24
+00:02:46,947 --> 00:02:48,648
+<font color=#FFFF00>Yang pergi ke lembaga hari itu...</font>
+
+25
+00:02:49,877 --> 00:02:51,218
+<font color=#FFFF00>...bukan aku.</font>
+
+26
+00:02:57,387 --> 00:02:59,257
+<font color=#FFFF00>Aku merasa lega saat itu juga...</font>
+
+27
+00:03:00,688 --> 00:03:04,727
+<font color=#FFFF00>...karena si brengsek itu menargetkan orang lain.</font>
+
+28
+00:03:05,627 --> 00:03:07,028
+<font color=#FFFF00>Dia itu siapa?</font>
+
+29
+00:03:08,727 --> 00:03:09,727
+<font color=#FFFF00>Apa itu...</font>
+
+30
+00:03:12,468 --> 00:03:13,868
+<font color=#FFFF00>...pelajar yang ini?</font>
+
+31
+00:03:21,607 --> 00:03:23,317
+<font color=#FFFF00>Dia Kim Jeong Soo, 41 tahun.</font>
+
+32
+00:03:23,648 --> 00:03:25,648
+<font color=#FFFF00>Dia bekerja sebagai kepala administrasi di pusat...</font>
+
+33
+00:03:25,648 --> 00:03:28,387
+<font color=#FFFF00>...selama beberapa tahun sebelum
+terjadi pembunuhan di Sungai Nadeul.</font>
+
+34
+00:03:28,387 --> 00:03:30,387
+<font color=#FFFF00>Tapi dia tidak termasuk dalam daftar pensiunan.</font>
+
+35
+00:03:31,257 --> 00:03:34,688
+<font color=#FFFF00>Makanya aku pikir itu aneh jadi kuselidiki dia.</font>
+
+36
+00:03:34,958 --> 00:03:38,827
+<font color=#FFFF00>Aku baru tahu bahwa mobil dan rumahnya
+terdaftar atas nama Kim Hyeon Joon.</font>
+
+37
+00:03:39,697 --> 00:03:42,627
+<font color=#FFFF00>Tapi karena dia tak ada dalam daftar keluarga,</font>
+
+38
+00:03:43,167 --> 00:03:45,697
+<font color=#FFFF00>dia pasti anak haram (tidak sah secara hukum).</font>
+
+39
+00:03:46,808 --> 00:03:49,407
+<font color=#FFFF00>Aku belum dapat alamatnya sekarang,
+jadi aku masih berusaha.</font>
+
+40
+00:03:50,678 --> 00:03:52,208
+<font color=#FFFF00>Kim Hyeon Joon bagaimana?</font>
+
+41
+00:03:54,208 --> 00:03:55,748
+<font color=#FFFF00>Dulu dia...</font>
+
+42
+00:03:55,907 --> 00:03:58,178
+<font color=#FFFF00>...diinterogasi oleh polisi beberapa kali.</font>
+
+43
+00:03:58,518 --> 00:04:01,718
+<font color=#FFFF00>Dia pasti mengalami masa-masa
+sulit setelah ayahnya meninggal.</font>
+
+44
+00:04:02,588 --> 00:04:05,118
+<font color=#FFFF00>Tapi setelah itu, dia masuk Akademi Kepolisian...</font>
+
+45
+00:04:05,118 --> 00:04:06,827
+<font color=#FFFF00>setelah mendapat beasiswa dari pusat.</font>
+
+46
+00:04:07,528 --> 00:04:09,357
+<font color=#FFFF00>Dan kita tahu apa yang terjadi selanjutnya.</font>
+
+47
+00:04:10,898 --> 00:04:13,327
+<font color=#FFFF00>Anggota keluarganya terdiri
+dari ibu dan kakak laki-laki.</font>
+
+48
+00:04:15,028 --> 00:04:16,967
+<font color=#FFFF00>Setelah kakaknya terlibat dalam kecelakaan tabrak lari,</font>
+
+49
+00:04:17,337 --> 00:04:19,637
+<font color=#FFFF00>sepertinya dia masih di rumah sakit.</font>
+
+50
+00:04:20,408 --> 00:04:21,507
+<font color=#FFFF00>Mungkin itu sebabnya...</font>
+
+51
+00:04:21,837 --> 00:04:24,707
+<font color=#FFFF00>...kita tak pernah mendengar
+tentang keluarganya dari dia.</font>
+
+52
+00:04:26,377 --> 00:04:27,548
+<font color=#FFFF00>Baiklah.</font>
+
+53
+00:04:28,178 --> 00:04:31,147
+<font color=#FFFF00>Kepala, Kim Jeong Soo tidak punya catatan kartu kredit...</font>
+
+54
+00:04:31,147 --> 00:04:32,618
+<font color=#FFFF00>atau panggilan telepon.</font>
+
+55
+00:04:32,978 --> 00:04:35,418
+<font color=#FFFF00>Bukankah lebih baik meminta bantuan polisi?</font>
+
+56
+00:04:37,058 --> 00:04:40,957
+<font color=#FFFF00>Mungkin pelaku sudah tahu bahwa Detektif Tae...</font>
+
+57
+00:04:41,327 --> 00:04:42,757
+<font color=#FFFF00>...mencurigai Kim Hyeon Joon.</font>
+
+58
+00:04:43,027 --> 00:04:45,798
+<font color=#FFFF00>Tapi kenapa Kang Ho Young,
+dari semua polisi yang dia kenal,</font>
+
+59
+00:04:46,228 --> 00:04:47,728
+<font color=#FFFF00>...memilih Hyeon Joon?</font>
+
+60
+00:04:48,798 --> 00:04:49,897
+<font color=#FFFF00>Belum, jangan dulu.</font>
+
+61
+00:04:50,368 --> 00:04:51,938
+<font color=#FFFF00>Kita harus memastikan dulu.</font>
+
+62
+00:04:52,438 --> 00:04:55,908
+<font color=#FFFF00>Kim Jeong Soo mungkin membunuh
+Mo Ji Eun supaya dia tutup mulut.</font>
+
+63
+00:04:56,637 --> 00:04:59,538
+<font color=#FFFF00>Catatan mengatakan, dia pergi
+ke pusat untuk perjalanan bisnis...</font>
+
+64
+00:04:59,538 --> 00:05:01,507
+<font color=#FFFF00>di hari Mo Ji Eun terbunuh.</font>
+
+65
+00:05:02,647 --> 00:05:03,647
+<font color=#FFFF00>Kalau begitu, apa...</font>
+
+66
+00:05:05,178 --> 00:05:06,748
+<font color=#FFFF00>Untuk membuktikan ketidakbersalahannya,</font>
+
+67
+00:05:06,887 --> 00:05:09,348
+<font color=#FFFF00>dia butuh alibi yang meyakinkan.</font>
+
+68
+00:05:11,558 --> 00:05:13,757
+<font color=#FFFF00>Kepala, coba lihat ini.</font>
+
+69
+00:05:15,527 --> 00:05:17,257
+<font color=#FFFF00>Ini pernyataan Hyeon Joon.</font>
+
+70
+00:05:17,327 --> 00:05:21,327
+<font color=#FFFF00>Awalnya, dia bilang dia melihat
+orang yang membawa korban,</font>
+
+71
+00:05:21,798 --> 00:05:23,637
+<font color=#FFFF00>kemudian dia mengubahnya.</font>
+
+72
+00:05:36,277 --> 00:05:38,478
+<font color=#FFFF00>Selama 14 tahun terakhir,</font>
+
+73
+00:05:38,848 --> 00:05:40,817
+<font color=#FFFF00>kau telah menyelidiki kasus ini sendirian.</font>
+
+74
+00:05:42,317 --> 00:05:44,918
+<font color=#FFFF00>Bahkan saat kau dianggap tersangka,</font>
+
+75
+00:05:45,158 --> 00:05:49,387
+<font color=#FFFF00>kau tidak menyebutkan fakta
+yang kau tahu tentang kasus ini.</font>
+
+76
+00:05:49,527 --> 00:05:51,627
+<font color=#FFFF00>Apa yang ingin kau katakan?</font>
+
+77
+00:05:52,127 --> 00:05:54,627
+<font color=#FFFF00>Kau ingin tahu kebenarannya,</font>
+
+78
+00:05:54,928 --> 00:05:57,767
+<font color=#FFFF00>tapi di sisi lain, kau ingin menghindarinya.</font>
+
+79
+00:05:58,337 --> 00:06:00,007
+<font color=#FFFF00>Kau menyelidiki kasus ini...</font>
+
+80
+00:06:00,168 --> 00:06:02,038
+<font color=#FFFF00>dengan perasaan mendua...</font>
+
+81
+00:06:02,038 --> 00:06:05,178
+<font color=#FFFF00>karena kau menyembunyikan sesuatu yang
+tak bisa kau ceritakan pada siapa pun.</font>
+
+82
+00:06:05,507 --> 00:06:06,577
+<font color=#FFFF00>Kepala.</font>
+
+83
+00:06:07,147 --> 00:06:08,808
+<font color=#FFFF00>Apa karena...</font>
+
+84
+00:06:09,147 --> 00:06:11,517
+<font color=#FFFF00>...kasus itu ada hubungannya
+dengan orang yang berarti bagimu?</font>
+
+85
+00:06:13,387 --> 00:06:16,688
+<font color=#FFFF00>Kudengar kau punya kakak yang
+dirawat di RS setelah kecelakaan.</font>
+
+86
+00:06:17,988 --> 00:06:19,918
+<font color=#FFFF00>Apa hubungan itu dengan kasus ini?</font>
+
+87
+00:06:21,558 --> 00:06:22,558
+<font color=#FFFF00>Apa kau...</font>
+
+88
+00:06:24,498 --> 00:06:26,298
+<font color=#FFFF00>...memeriksa latar belakangku juga?</font>
+
+89
+00:06:26,827 --> 00:06:27,827
+<font color=#FFFF00>Kau...</font>
+
+90
+00:06:28,767 --> 00:06:30,567
+<font color=#FFFF00>...mungkin melihat kakakmu...</font>
+
+91
+00:06:31,938 --> 00:06:33,098
+<font color=#FFFF00>...pada hari Mo Ji Eun terbunuh.</font>
+
+92
+00:06:44,548 --> 00:06:47,387
+<font color=#FFFF00>Dalam pernyataanmu, kau bicara
+tentang seorang pria tinggi bertopi...</font>
+
+93
+00:06:47,387 --> 00:06:49,688
+<font color=#FFFF00>yang bertemu dengan Ji Eun.</font>
+
+94
+00:06:50,217 --> 00:06:52,087
+<font color=#FFFF00>Awalnya, kau kira itu kakakmu.</font>
+
+95
+00:06:52,087 --> 00:06:54,087
+<font color=#FFFF00>Tapi setelah itu, kau bilang bukan.</font>
+
+96
+00:06:54,327 --> 00:06:55,488
+<font color=#FFFF00>Kenapa kau melakukan itu?</font>
+
+97
+00:06:57,298 --> 00:07:00,027
+<font color=#FFFF00>Awalnya, kau mencurigai...</font>
+
+98
+00:07:00,027 --> 00:07:02,228
+<font color=#FFFF00>kakakmu sebagai pelaku.</font>
+
+99
+00:07:03,368 --> 00:07:05,567
+<font color=#FFFF00>kau pasti takut itu bisa jadi kenyataan.</font>
+
+100
+00:07:12,637 --> 00:07:13,777
+<font color=#FFFF00>Pada saat itu,</font>
+
+101
+00:07:14,077 --> 00:07:16,848
+<font color=#FFFF00>kau pikir itu cara terbaik untuk melindungi kakakmu.</font>
+
+102
+00:07:17,048 --> 00:07:21,217
+<font color=#FFFF00>Ketakutan bahwa kakakmu
+bisa jadi pelaku sebenarnya...</font>
+
+103
+00:07:21,748 --> 00:07:23,957
+<font color=#FFFF00>...pasti menyiksamu.</font>
+
+104
+00:07:25,017 --> 00:07:26,627
+<font color=#FFFF00>Setelah kecelakaan,</font>
+
+105
+00:07:27,058 --> 00:07:29,788
+<font color=#FFFF00>tak ada cara bagimu untuk menemukan kebenaran.</font>
+
+106
+00:07:30,827 --> 00:07:31,897
+<font color=#FFFF00>Hentikan.</font>
+
+107
+00:07:32,457 --> 00:07:34,067
+<font color=#FFFF00>Kau juga pasti...</font>
+
+108
+00:07:35,397 --> 00:07:36,637
+<font color=#FFFF00>...memikirkan...</font>
+
+109
+00:07:36,837 --> 00:07:39,767
+<font color=#FFFF00>...alasan kenapa dia harus membunuh Mo Ji Eun...</font>
+
+110
+00:07:39,967 --> 00:07:42,707
+<font color=#FFFF00>jika dia pelaku sebenarnya Kasus Sungai Nadeul.</font>
+
+111
+00:07:43,067 --> 00:07:44,608
+<font color=#FFFF00>Sudah, hentikan!</font>
+
+112
+00:07:44,608 --> 00:07:46,748
+<font color=#FFFF00>14 tahun lalu di pusat pelatihan,</font>
+
+113
+00:07:47,507 --> 00:07:50,048
+<font color=#FFFF00>beberapa orang dilecehkan secara seksual.</font>
+
+114
+00:07:52,178 --> 00:07:54,248
+<font color=#FFFF00>Apa yang kau bicarakan?</font>
+
+115
+00:07:54,488 --> 00:07:56,288
+<font color=#FFFF00>Kau tidak tahu soal ini?</font>
+
+116
+00:07:58,387 --> 00:08:00,688
+<font color=#FFFF00>Kepala administrasi, Kim Jeong Soo,</font>
+
+117
+00:08:01,558 --> 00:08:05,327
+<font color=#FFFF00>seringkali melecehkan anak laki-laki di pusat pelatihan.</font>
+
+118
+00:08:06,397 --> 00:08:10,038
+<font color=#FFFF00>Orang-orang yang telah dilecehkan olehnya...</font>
+
+119
+00:08:11,738 --> 00:08:14,637
+<font color=#FFFF00>...adalah Kang Ho Young, Choi Sang Ho,</font>
+
+120
+00:08:18,007 --> 00:08:21,048
+<font color=#FFFF00>dan korban lain yang pelecehannya disaksikan oleh Mo Ji Eun.</font>
+
+121
+00:08:28,618 --> 00:08:29,918
+<font color=#FFFF00>Kim Tae Joon,</font>
+
+122
+00:08:31,217 --> 00:08:32,317
+<font color=#FFFF00>kakakmu.</font>
+
+123
+00:08:40,128 --> 00:08:42,298
+<font color=#FFFF00>Sayangnya, kakakmu...</font>
+
+124
+00:08:42,567 --> 00:08:45,438
+<font color=#FFFF00>...merupakan salah satu korban.</font>
+
+125
+00:08:45,798 --> 00:08:47,768
+<font color=#FFFF00>Dan Mo Ji Eun menyaksikan itu.</font>
+
+126
+00:08:48,607 --> 00:08:50,808
+<font color=#FFFF00>Dia pasti merasa dipermalukan.</font>
+
+127
+00:08:50,977 --> 00:08:52,337
+<font color=#FFFF00>Dia tidak ingin...</font>
+
+128
+00:08:52,538 --> 00:08:56,178
+<font color=#FFFF00>adik satu-satunya tahu hal itu...</font>
+
+129
+00:08:56,178 --> 00:08:58,548
+<font color=#FFFF00>karena bagimu, kakakmu...</font>
+
+130
+00:08:58,778 --> 00:09:00,518
+<font color=#FFFF00>...sudah seperti ayah.</font>
+
+131
+00:09:04,158 --> 00:09:07,827
+<font color=#FFFF00>Makanya hari itu kakakmu bertemu Mo Ji Eun lebih dulu.</font>
+
+132
+00:09:08,987 --> 00:09:11,758
+<font color=#FFFF00>Awalnya, dia pasti ingin memeriksa
+apa Mo Ji Eun benar-benar tahu.</font>
+
+133
+00:09:11,758 --> 00:09:14,028
+<font color=#FFFF00>Tapi dia pasti sudah tahu bahwa dia tahu.</font>
+
+134
+00:09:14,827 --> 00:09:16,997
+<font color=#FFFF00>Dia pasti berpikir dia tidak tahu hal ini.</font>
+
+135
+00:09:17,367 --> 00:09:20,168
+<font color=#FFFF00>Dia merasa perlu mencegahnya agar tidak bicara.</font>
+
+136
+00:09:24,178 --> 00:09:25,438
+<font color=#FFFF00>Bagaimana menurutmu?</font>
+
+137
+00:09:26,178 --> 00:09:28,607
+<font color=#FFFF00>Beritahu aku jika ada kesalahan selama profiling.</font>
+
+138
+00:09:29,648 --> 00:09:31,178
+<font color=#FFFF00>Jangan bicara omong kosong!</font>
+
+139
+00:09:32,077 --> 00:09:33,148
+<font color=#FFFF00>Kim Hyeon Joon.</font>
+
+140
+00:09:33,817 --> 00:09:36,447
+<font color=#FFFF00>Apa kau benar-benar mencoba menemukan kebenaran,</font>
+
+141
+00:09:36,617 --> 00:09:38,658
+<font color=#FFFF00>atau mencoba menyembunyikan hal-hal karena takut...</font>
+
+142
+00:09:38,658 --> 00:09:40,288
+<font color=#FFFF00>bahwa kakakmu bisa jadi pelakunya?</font>
+
+143
+00:09:40,457 --> 00:09:41,558
+<font color=#FFFF00>Tutup mulutmu.</font>
+
+144
+00:09:42,258 --> 00:09:43,697
+<font color=#FFFF00>Tutup mulutmu!</font>
+
+145
+00:09:46,128 --> 00:09:47,268
+<font color=#FFFF00>Sekarang...</font>
+
+146
+00:09:47,867 --> 00:09:49,567
+<font color=#FFFF00>...mari kita bahas kasus baru-baru ini.</font>
+
+147
+00:09:49,827 --> 00:09:52,768
+<font color=#FFFF00>Apa kau benar-benar gagal
+bertemu Kang Ho Young hari itu?</font>
+
+148
+00:09:53,097 --> 00:09:54,107
+<font color=#FFFF00>Apa?</font>
+
+149
+00:09:54,107 --> 00:09:56,107
+<font color=#FFFF00>Apa kau membunuh Kang Ho Young...</font>
+
+150
+00:09:56,337 --> 00:09:59,438
+<font color=#FFFF00>...agar kau bisa menyembunyikan
+kebenaran kasus ini sepenuhnya?</font>
+
+151
+00:10:01,678 --> 00:10:02,977
+<font color=#FFFF00>Apa yang kau tahu?</font>
+
+152
+00:10:03,477 --> 00:10:04,918
+<font color=#FFFF00>Kau tidak tahu apa-apa.</font>
+
+153
+00:10:05,048 --> 00:10:07,947
+<font color=#FFFF00>Katakan, apa kau membunuhnya?</font>
+
+154
+00:10:08,617 --> 00:10:10,758
+<font color=#FFFF00>Tutup mulutmu itu!</font>
+
+155
+00:10:24,668 --> 00:10:25,668
+<font color=#FFFF00><i>Seon Woo Seonbae.</i></font>
+
+156
+00:10:25,668 --> 00:10:27,438
+<font color=#FFFF00>Bukannya kita harus masuk dan melerai mereka?</font>
+
+157
+00:10:27,908 --> 00:10:28,938
+<font color=#FFFF00>Diam di sini.</font>
+
+158
+00:10:29,707 --> 00:10:31,607
+<font color=#FFFF00>Kepala punya rencana sendiri.</font>
+
+159
+00:10:33,378 --> 00:10:34,508
+<font color=#FFFF00>Kita harus tunggu.</font>
+
+160
+00:10:34,707 --> 00:10:36,878
+<font color=#FFFF00>Lepas. Lepas.</font>
+
+161
+00:10:37,648 --> 00:10:39,077
+<font color=#FFFF00>Lepas!</font>
+
+162
+00:10:40,317 --> 00:10:42,117
+<font color=#FFFF00>Dengarkan aku, Kim Hyeon Joon.</font>
+
+163
+00:10:43,418 --> 00:10:46,928
+<font color=#FFFF00>Mereka takkan bisa mendengar kita dari luar.</font>
+
+164
+00:10:47,087 --> 00:10:48,357
+<font color=#FFFF00>Kau paham ucapanku?</font>
+
+165
+00:10:59,837 --> 00:11:01,168
+<font color=#FFFF00>Apa yang kalian lihat?</font>
+
+166
+00:11:01,938 --> 00:11:03,008
+<font color=#FFFF00>Kembali bekerja.</font>
+
+167
+00:11:06,747 --> 00:11:08,148
+<font color=#FFFF00>Bersikap seperti biasa.</font>
+
+168
+00:11:09,048 --> 00:11:11,048
+<font color=#FFFF00>Mereka mungkin masih mengawasi kita.</font>
+
+169
+00:11:17,587 --> 00:11:18,617
+<font color=#FFFF00>Ya, ini aku.</font>
+
+170
+00:11:18,918 --> 00:11:20,788
+<font color=#FFFF00>Aku dapat lokasi Kim Jeong Soo.</font>
+
+171
+00:11:20,928 --> 00:11:24,798
+<font color=#FFFF00>Aku menyelidiki untuk tahu apa dia
+menyetir mobil atas nama ayahnya.</font>
+
+172
+00:11:24,798 --> 00:11:26,798
+<font color=#FFFF00>Ini sedan mewah.</font>
+
+173
+00:11:26,798 --> 00:11:28,997
+<font color=#FFFF00>Ada catatan pelanggaran parkir,
+mengebut saat menyetir...</font>
+
+174
+00:11:28,997 --> 00:11:31,737
+<font color=#FFFF00>dari lokasi yang jauh dari pusat pelatihan.</font>
+
+175
+00:11:34,508 --> 00:11:35,737
+<font color=#FFFF00>Kim Jeong Soo.</font>
+
+176
+00:11:36,438 --> 00:11:39,908
+<font color=#FFFF00>Dia memanipulasi alibinya
+saat insiden di Sungai Nadeul.</font>
+
+177
+00:11:41,048 --> 00:11:43,447
+<font color=#FFFF00>Dia memerintahkan Kang Ho Young atau kakakmu...</font>
+
+178
+00:11:43,447 --> 00:11:45,217
+<font color=#FFFF00>untuk membawa Mo Ji Eun,</font>
+
+179
+00:11:45,217 --> 00:11:47,518
+<font color=#FFFF00>dan membunuh mereka untuk
+mencegah mereka mengaku.</font>
+
+180
+00:11:47,688 --> 00:11:51,457
+<font color=#FFFF00>Seseorang di dalam kepolisian membantunya.</font>
+
+181
+00:11:51,817 --> 00:11:53,058
+<font color=#FFFF00>Jadi maksudmu...</font>
+
+182
+00:11:53,987 --> 00:11:56,658
+<font color=#FFFF00>...ada kaki tangan di antara para polisi?</font>
+
+183
+00:11:58,997 --> 00:11:59,997
+<font color=#FFFF00>Itu sebabnya...</font>
+
+184
+00:12:00,428 --> 00:12:04,898
+<font color=#FFFF00>...selama 14 tahun, kasus pembunuhan
+di Sungai Nadeul belum terpecahkan.</font>
+
+185
+00:12:06,638 --> 00:12:08,908
+<font color=#FFFF00>Kang Ho Young ketakutan.</font>
+
+186
+00:12:09,337 --> 00:12:12,038
+<font color=#FFFF00>Dia tahu suatu hari nanti dia akan jadi target.</font>
+
+187
+00:12:12,778 --> 00:12:15,548
+<font color=#FFFF00>Kenapa menurutmu dia tak bisa memberitahu polisi?</font>
+
+188
+00:12:16,717 --> 00:12:19,678
+<font color=#FFFF00>Aku yakin kasus kakakmu juga dimanipulasi.</font>
+
+189
+00:12:21,788 --> 00:12:23,117
+<font color=#FFFF00>Setelah Mo Ji Eun meninggal,</font>
+
+190
+00:12:23,117 --> 00:12:26,628
+<font color=#FFFF00>kakakmu mungkin mencurigai Kim Jeong Soo.</font>
+
+191
+00:12:26,987 --> 00:12:28,987
+<font color=#FFFF00>Dia harus mencegahnya untuk mengaku.</font>
+
+192
+00:12:29,388 --> 00:12:31,298
+<font color=#FFFF00>Kang Ho Young meninggalkan...</font>
+
+193
+00:12:31,298 --> 00:12:33,867
+<font color=#FFFF00>hal yang tersembunyi yang bisa
+jadi bukti untuk bertahan hidup.</font>
+
+194
+00:12:35,168 --> 00:12:39,097
+<font color=#FFFF00>Dia ingin menunjukkannya secara langsung padamu.</font>
+
+195
+00:12:40,938 --> 00:12:43,337
+<font color=#FFFF00>Menurutmu siapa yang memanipulasi kasus ini?</font>
+
+196
+00:12:43,337 --> 00:12:44,538
+<font color=#FFFF00>Siapa pun itu,</font>
+
+197
+00:12:45,538 --> 00:12:47,447
+<font color=#FFFF00>dia akan mulai bergerak.</font>
+
+198
+00:13:57,178 --> 00:14:00,087
+<font color=#FFFF00>Dasar bajingan cabul!</font>
+
+199
+00:14:00,418 --> 00:14:02,587
+<font color=#FFFF00>Bukan perempuan, tapi malah laki-laki?</font>
+
+200
+00:14:03,758 --> 00:14:05,117
+<font color=#FFFF00>Sini! Sini!</font>
+
+201
+00:14:05,117 --> 00:14:06,217
+<font color=#FFFF00>Kita bisa bicara.</font>
+
+202
+00:14:06,217 --> 00:14:07,788
+<font color=#FFFF00>Sini kau, brengsek!</font>
+
+203
+00:14:11,058 --> 00:14:14,067
+<font color=#FFFF00>Dasar bajingan cabul menjijikkan!</font>
+
+204
+00:14:15,628 --> 00:14:18,697
+<font color=#FFFF00>Heh, berapa banyak korbanmu?</font>
+
+205
+00:14:19,438 --> 00:14:21,268
+<font color=#FFFF00>- Hah?
+- Apanya?</font>
+
+206
+00:14:21,268 --> 00:14:22,438
+<font color=#FFFF00>Dasar...</font>
+
+207
+00:14:23,138 --> 00:14:25,938
+<font color=#FFFF00>5... Tidak, 6.</font>
+
+208
+00:14:28,447 --> 00:14:31,477
+<font color=#FFFF00>Itu tidak berarti apa-apa.</font>
+
+209
+00:14:31,717 --> 00:14:33,888
+<font color=#FFFF00>Aku cuma pikir mereka manis.</font>
+
+210
+00:14:34,418 --> 00:14:37,087
+<font color=#FFFF00>Dasar bajingan cabul menjijikkan!</font>
+
+211
+00:14:38,058 --> 00:14:40,158
+<font color=#FFFF00>Kenapa kau membunuh Mo Ji Eun?</font>
+
+212
+00:14:40,888 --> 00:14:43,558
+<font color=#FFFF00>Kenapa kau bunuh dia?</font>
+
+213
+00:14:43,558 --> 00:14:45,628
+<font color=#FFFF00>Jawab!
+Tidak mau jawab!?</font>
+
+214
+00:14:45,628 --> 00:14:48,398
+<font color=#FFFF00>Brengsek.</font>
+
+215
+00:15:33,477 --> 00:15:36,077
+<font color=#FFFF00>Aku cari ke mana-mana, tapi
+tak bisa menemukan jejak dia.</font>
+
+216
+00:15:44,188 --> 00:15:45,188
+<font color=#FFFF00>Itu sebabnya...</font>
+
+217
+00:15:45,717 --> 00:15:50,197
+<font color=#FFFF00>...selama 14 tahun, kasus pembunuhan
+di Sungai Nadeul belum terpecahkan.</font>
+
+218
+00:15:51,697 --> 00:15:54,697
+<font color=#FFFF00>Aku yakin kasus kakakmu juga dimanipulasi.</font>
+
+219
+00:15:58,438 --> 00:15:59,538
+<font color=#FFFF00>Ada apa?</font>
+
+220
+00:16:01,337 --> 00:16:02,908
+<font color=#FFFF00>Tolong panggilkan Detektif Tae.</font>
+
+221
+00:16:03,438 --> 00:16:06,977
+<font color=#FFFF00>- Sekarang?
+- Ada yang harus kuberitahu padanya.</font>
+
+222
+00:16:09,508 --> 00:16:11,378
+<font color=#FFFF00>Apa yang ingin kau beritahukan?</font>
+
+223
+00:16:13,518 --> 00:16:16,587
+<font color=#FFFF00>Kepala, aku mencari tahu
+para polisi yang menyelidiki...</font>
+
+224
+00:16:16,587 --> 00:16:20,058
+<font color=#FFFF00>kecelakaan motor kakak Hyeon Joon pada 12 Agustus 2003.</font>
+
+225
+00:16:20,058 --> 00:16:21,658
+<font color=#FFFF00>Itu Sersan Oh Jong Taek.</font>
+
+226
+00:16:22,888 --> 00:16:25,727
+<font color=#FFFF00>Jika ini terjadi dengan skenario seseorang,</font>
+
+227
+00:16:25,957 --> 00:16:28,097
+<font color=#FFFF00>dia seseorang yang mengenal kita dengan baik,</font>
+
+228
+00:16:28,528 --> 00:16:31,268
+<font color=#FFFF00>atau seseorang yang sangat mengenal Hyeon Joon.</font>
+
+229
+00:16:31,938 --> 00:16:35,067
+<font color=#FFFF00>Orang yang mengenal Hyeon Joon
+lebih baik dari siapa pun,</font>
+
+230
+00:16:35,638 --> 00:16:38,408
+<font color=#FFFF00>dan yang telah mengawasi kasus ini dari dulu,</font>
+
+231
+00:16:38,808 --> 00:16:41,008
+<font color=#FFFF00>dan punya kekuasaan.</font>
+
+232
+00:16:56,487 --> 00:16:57,957
+<font color=#FFFF00>Apa yang kalian lihat?</font>
+
+233
+00:16:58,697 --> 00:16:59,727
+<font color=#FFFF00>Kembali bekerja.</font>
+
+234
+00:17:01,567 --> 00:17:02,928
+<font color=#FFFF00>Itu Sersan Oh.</font>
+
+235
+00:17:03,867 --> 00:17:04,868
+<font color=#FFFF00>Apa?</font>
+
+236
+00:17:05,537 --> 00:17:06,767
+<font color=#FFFF00>Kau yakin?</font>
+
+237
+00:17:06,868 --> 00:17:10,838
+<font color=#FFFF00>Menurutmu kenapa tak ada dari kita
+yang bisa menemukan apa-apa.....</font>
+
+238
+00:17:10,838 --> 00:17:12,707
+<font color=#FFFF00>...bahkan setelah sekian lama?</font>
+
+239
+00:17:13,108 --> 00:17:15,477
+<font color=#FFFF00>Menurut kenapa Kang Ho Young
+tak bisa menghubungi polisi,</font>
+
+240
+00:17:15,807 --> 00:17:17,017
+<font color=#FFFF00>tapi malah menelepon aku?</font>
+
+241
+00:17:18,348 --> 00:17:19,747
+<font color=#FFFF00>Ada seseorang...</font>
+
+242
+00:17:20,247 --> 00:17:22,688
+<font color=#FFFF00>...di kepolisian yang memanipulasi kasus ini</font>
+
+243
+00:17:24,787 --> 00:17:26,017
+<font color=#FFFF00>Awalnya,</font>
+
+244
+00:17:26,628 --> 00:17:29,358
+<font color=#FFFF00>aku bersaksi aku melihat pria yang membawa Ji Eun.</font>
+
+245
+00:17:31,727 --> 00:17:33,568
+<font color=#FFFF00>Aku juga bilang itu kakakku,</font>
+
+246
+00:17:39,098 --> 00:17:41,207
+<font color=#FFFF00>kemudian aku mengubah kesaksianku.</font>
+
+247
+00:17:42,338 --> 00:17:44,378
+<font color=#FFFF00>Aku bilang aku pasti keliru.</font>
+
+248
+00:17:44,938 --> 00:17:47,078
+<font color=#FFFF00>Menurutmu kenapa Sersan Oh
+menyuruhku melakukan itu?</font>
+
+249
+00:17:47,777 --> 00:17:49,908
+<font color=#FFFF00>Dia menyuruhmu untuk mengubah kesaksianmu?</font>
+
+250
+00:17:52,017 --> 00:17:53,318
+<font color=#FFFF00>Hanya ada satu alasan.</font>
+
+251
+00:17:53,688 --> 00:17:57,787
+<font color=#FFFF00>Orang-orang terkait Kim Jeong Soo tak boleh terlibat.</font>
+
+252
+00:17:58,618 --> 00:18:00,658
+<font color=#FFFF00>Itulah satu-satunya cara untuk melindungi dirinya.</font>
+
+253
+00:18:01,027 --> 00:18:02,027
+<font color=#FFFF00>Tidak.</font>
+
+254
+00:18:02,658 --> 00:18:04,797
+<font color=#FFFF00>Kita perlu bukti.</font>
+
+255
+00:18:04,797 --> 00:18:07,828
+<font color=#FFFF00>Kau tahu siapa yang menyelidiki alibi Kim Jeong Soo?</font>
+
+256
+00:18:08,098 --> 00:18:10,598
+<font color=#FFFF00>Dan polisi yang membuktikan
+Kang Ho Young tidak bersalah?</font>
+
+257
+00:18:12,598 --> 00:18:15,237
+<font color=#FFFF00>Sersan Oh yang pertama tiba di TKP...</font>
+
+258
+00:18:15,237 --> 00:18:16,507
+<font color=#FFFF00>...kecelakaan kakakku.</font>
+
+259
+00:18:17,938 --> 00:18:19,977
+<font color=#FFFF00>Periksa riwayat pekerjaan.</font>
+
+260
+00:18:20,307 --> 00:18:21,507
+<font color=#FFFF00>Aku yakin...</font>
+
+261
+00:18:22,348 --> 00:18:24,447
+<font color=#FFFF00>Sersan Oh membawa Kim Jeong Soo.</font>
+
+262
+00:18:31,358 --> 00:18:32,517
+<font color=#FFFF00>Tolong lepaskan aku.</font>
+
+263
+00:18:32,517 --> 00:18:33,787
+<font color=#FFFF00>Aku harus hentikan Sersan Oh.</font>
+
+264
+00:18:33,787 --> 00:18:36,227
+<font color=#FFFF00>Tidak. Kau bisa terluka.</font>
+
+265
+00:18:36,487 --> 00:18:37,557
+<font color=#FFFF00>Lepaskan aku.</font>
+
+266
+00:18:38,898 --> 00:18:40,928
+<font color=#FFFF00>Ini harus kutangani sendiri.</font>
+
+267
+00:18:42,328 --> 00:18:43,467
+<font color=#FFFF00>Detektif Tae.</font>
+
+268
+00:18:44,138 --> 00:18:45,138
+<font color=#FFFF00>Hey.</font>
+
+269
+00:18:45,467 --> 00:18:47,537
+<font color=#FFFF00>Kau sadar betapa seriusnya ini?</font>
+
+270
+00:18:47,908 --> 00:18:49,408
+<font color=#FFFF00>Bagaimana kalau ada yang salah?</font>
+
+271
+00:18:51,207 --> 00:18:52,378
+<font color=#FFFF00>Jangan khawatir.</font>
+
+272
+00:18:54,378 --> 00:18:55,878
+<font color=#FFFF00>Ini tanggung jawab saya.</font>
+
+273
+00:19:01,348 --> 00:19:03,918
+<font color=#FFFF00>Hubungi aku segera setelah kau tahu lokasi Sersan Oh.</font>
+
+274
+00:19:04,358 --> 00:19:05,388
+<font color=#FFFF00>Mengerti?</font>
+
+275
+00:19:05,918 --> 00:19:06,928
+<font color=#FFFF00>Ya.</font>
+
+276
+00:19:16,838 --> 00:19:18,068
+<font color=#FFFF00>Pukul aku.</font>
+
+277
+00:19:19,598 --> 00:19:21,668
+<font color=#FFFF00>Jika sesuatu terjadi padamu,
+ini akan membuat kita impas.</font>
+
+278
+00:19:27,977 --> 00:19:29,947
+<font color=#FFFF00>Sersan Oh.</font>
+
+279
+00:19:36,757 --> 00:19:39,358
+<font color=#FFFF00>Kau yakin tidak apa-apa?</font>
+
+280
+00:19:39,818 --> 00:19:41,457
+<font color=#FFFF00>Ya, tidak apa-apa.</font>
+
+281
+00:19:42,588 --> 00:19:43,828
+<font color=#FFFF00>Aku akan hentikan semuanya.</font>
+
+282
+00:19:45,957 --> 00:19:47,568
+<font color=#FFFF00>Hal seperti itu tak akan terjadi lagi.</font>
+
+283
+00:19:57,007 --> 00:19:58,108
+<font color=#FFFF00>Ho Young.</font>
+
+284
+00:20:01,447 --> 00:20:02,678
+<font color=#FFFF00>Tunggu aku.</font>
+
+285
+00:20:03,477 --> 00:20:05,217
+<font color=#FFFF00>Hyeon Joon di mana?</font>
+
+286
+00:20:13,828 --> 00:20:14,828
+<font color=#FFFF00>Hai.</font>
+
+287
+00:20:23,967 --> 00:20:25,368
+<font color=#FFFF00>Aku lihat semuanya.</font>
+
+288
+00:20:26,068 --> 00:20:28,007
+<font color=#FFFF00>Jangan pernah melecehkan Tae Joon lagi,</font>
+
+289
+00:20:28,007 --> 00:20:30,108
+<font color=#FFFF00>atau aku akan beritahu polisi.</font>
+
+290
+00:20:30,108 --> 00:20:31,108
+<font color=#FFFF00>Apa?</font>
+
+291
+00:20:31,438 --> 00:20:33,848
+<font color=#FFFF00>Dia bilang aku melakukannya?</font>
+
+292
+00:20:33,908 --> 00:20:36,408
+<font color=#FFFF00>- Dia benar. Tae Joon cuma...
+- Pergi sana!</font>
+
+293
+00:20:37,017 --> 00:20:38,217
+<font color=#FFFF00>Kau tidak ada bedanya.</font>
+
+294
+00:21:00,108 --> 00:21:01,767
+<font color=#FFFF00>Sialan.</font>
+
+295
+00:21:03,578 --> 00:21:06,207
+<font color=#FFFF00>Kang Ho Young, apa yang kau lakukan?</font>
+
+296
+00:21:17,158 --> 00:21:19,287
+<font color=#FFFF00>Hey! Kejar dia!</font>
+
+297
+00:21:19,388 --> 00:21:21,128
+<font color=#FFFF00>Pergi sekarang!
+Kejar Kim Hyeon Joon!</font>
+
+298
+00:21:21,227 --> 00:21:23,158
+<font color=#FFFF00>Cepat cari Kim Hyeon Joon!</font>
+
+299
+00:21:52,658 --> 00:21:53,688
+<font color=#FFFF00>Ya, Nana.</font>
+
+300
+00:21:54,287 --> 00:21:56,957
+<font color=#FFFF00>Minta surat perintah pencarian mobil
+Oh Jong Taek, beritahu aku koordinatnya.</font>
+
+301
+00:21:56,957 --> 00:21:58,057
+<font color=#FFFF00>Sudah tak ada waktu. Cepat!</font>
+
+302
+00:21:59,098 --> 00:22:01,267
+<font color=#FFFF00>Kim Hyeon Joon telah kabur.
+Laporkan segera setelah dia ditemukan.</font>
+
+303
+00:22:01,628 --> 00:22:02,797
+<font color=#FFFF00>Aku ulangi.</font>
+
+304
+00:22:02,797 --> 00:22:04,797
+<font color=#FFFF00>Kim Hyeon Joon telah kabur.
+Laporkan segera setelah dia ditemukan.</font>
+
+305
+00:22:06,037 --> 00:22:07,908
+<font color=#FFFF00>Kim Hyeon Joon bukan sosok berbahaya.</font>
+
+306
+00:22:07,967 --> 00:22:10,207
+<font color=#FFFF00>Kim Hyeon Joon tersangka pembunuhan
+yang mengambil pistol polisi...</font>
+
+307
+00:22:10,378 --> 00:22:11,608
+<font color=#FFFF00>...dan kemudian kabur.</font>
+
+308
+00:22:12,108 --> 00:22:13,108
+<font color=#FFFF00>Aku ulangi.</font>
+
+309
+00:22:14,777 --> 00:22:16,307
+<font color=#FFFF00>Apa yang kau lakukan?</font>
+
+310
+00:22:16,378 --> 00:22:17,977
+<font color=#FFFF00>- Kepala.
+- Salah satu agen kita...</font>
+
+311
+00:22:17,977 --> 00:22:19,818
+<font color=#FFFF00>...mungkin dalam bahaya selama pengejaran.</font>
+
+312
+00:22:20,188 --> 00:22:23,188
+<font color=#FFFF00>Kepala, situasi ini sulit dihentikan.</font>
+
+313
+00:22:23,418 --> 00:22:25,618
+<font color=#FFFF00>Pertama, kita harus temukan Hyeon Joon.</font>
+
+314
+00:22:43,908 --> 00:22:45,138
+<font color=#FFFF00>Kau benar.</font>
+
+315
+00:22:45,507 --> 00:22:47,408
+<font color=#FFFF00>CCTV dekat rumah Kim Jeong Soo merekam...</font>
+
+316
+00:22:47,408 --> 00:22:49,378
+<font color=#FFFF00>mobil Sersan Oh yang lewat,</font>
+
+317
+00:22:49,507 --> 00:22:51,747
+<font color=#FFFF00>tapi mobil itu hilang di persimpangan berikutnya.</font>
+
+318
+00:22:51,878 --> 00:22:53,287
+<font color=#FFFF00>Ponselnya juga mati.</font>
+
+319
+00:22:54,047 --> 00:22:55,918
+<font color=#FFFF00>Terus lacak mobilnya, segera kabari
+aku setelah menemukan sesuatu.</font>
+
+320
+00:22:55,918 --> 00:22:56,918
+<font color=#FFFF00>Ya, Kepala.</font>
+
+321
+00:23:01,128 --> 00:23:02,628
+<font color=#FFFF00>Tak ada yang tahu soal informasi yang kita dapat...</font>
+
+322
+00:23:02,628 --> 00:23:05,197
+<font color=#FFFF00>selain detektif lokal.</font>
+
+323
+00:23:05,727 --> 00:23:07,598
+<font color=#FFFF00>Oh Jong Taek membawa Kim Jeong Soo.</font>
+
+324
+00:23:07,868 --> 00:23:09,128
+<font color=#FFFF00>Hyeon Joon bagaimana?</font>
+
+325
+00:23:09,267 --> 00:23:11,267
+<font color=#FFFF00>Hyeon Joon tertangkap lebih cepat daripada kita.</font>
+
+326
+00:23:11,368 --> 00:23:13,037
+<font color=#FFFF00>Kita harus cepat cari tahu...</font>
+
+327
+00:23:13,197 --> 00:23:15,007
+<font color=#FFFF00>...apa yang Oh Jong Taek mau,</font>
+
+328
+00:23:15,668 --> 00:23:17,007
+<font color=#FFFF00>dan kenapa dia membawa Kim Jeong Soo.</font>
+
+329
+00:23:22,977 --> 00:23:26,547
+<font color=#FFFF00>Sudah kubilang jangan pernah
+muncul lagi di depan mataku,</font>
+
+330
+00:23:27,848 --> 00:23:29,787
+<font color=#FFFF00>dan bersembunyilah!</font>
+
+331
+00:23:30,088 --> 00:23:31,188
+<font color=#FFFF00>Ya.</font>
+
+332
+00:23:34,287 --> 00:23:37,098
+<font color=#FFFF00>Tapi kau membuat kekacauan lain?</font>
+
+333
+00:23:38,057 --> 00:23:40,168
+<font color=#FFFF00>Orang bodoh sepertimu harus mati.</font>
+
+334
+00:23:41,767 --> 00:23:44,668
+<font color=#FFFF00>Bagaimana bisa aku terlibat
+dengan orang bodoh sepertimu?</font>
+
+335
+00:23:45,568 --> 00:23:46,598
+<font color=#FFFF00>Jeong Soo.</font>
+
+336
+00:23:47,537 --> 00:23:49,767
+<font color=#FFFF00>Mari kita akhiri ini.</font>
+
+337
+00:23:50,237 --> 00:23:53,207
+<font color=#FFFF00>Jeong Soo, lepas!</font>
+
+338
+00:24:35,947 --> 00:24:37,757
+<font color=#FFFF00>Aku dengar semuanya...</font>
+
+339
+00:24:39,287 --> 00:24:40,388
+<font color=#FFFF00>...apa yang terjadi di pusat.</font>
+
+340
+00:24:42,987 --> 00:24:44,997
+<font color=#FFFF00>Aku akan penjarakan orang-orang itu...</font>
+
+341
+00:24:46,197 --> 00:24:47,997
+<font color=#FFFF00>...yang jahat padamu dan kakakku.</font>
+
+342
+00:24:58,078 --> 00:24:59,338
+<font color=#FFFF00>Apa yang...</font>
+
+343
+00:24:59,977 --> 00:25:01,878
+<font color=#FFFF00>...ingin kau beritahu di pusat waktu itu?</font>
+
+344
+00:25:02,608 --> 00:25:03,777
+<font color=#FFFF00>Hyeon Joon.</font>
+
+345
+00:25:03,777 --> 00:25:05,277
+<font color=#FFFF00>Selamat sekali lagi.</font>
+
+346
+00:25:13,257 --> 00:25:14,527
+<font color=#FFFF00>Jangan khawatir.</font>
+
+347
+00:25:15,358 --> 00:25:16,658
+<font color=#FFFF00>Percaya padaku, beritahu aku.</font>
+
+348
+00:25:17,797 --> 00:25:18,828
+<font color=#FFFF00>Tolonglah.</font>
+
+349
+00:25:19,257 --> 00:25:20,767
+<font color=#FFFF00>Beberapa hari sebelum dia meninggal,</font>
+
+350
+00:25:23,797 --> 00:25:25,598
+<font color=#FFFF00>Ho Young mengunjungi aku.</font>
+
+351
+00:25:26,707 --> 00:25:28,368
+<font color=#FFFF00>Dia benar-benar mabuk.</font>
+
+352
+00:25:30,138 --> 00:25:32,207
+<font color=#FFFF00>Dia bilang takkan hidup lebih lama lagi,</font>
+
+353
+00:25:34,108 --> 00:25:35,848
+<font color=#FFFF00>dan kita tak bisa memutar balik waktu,</font>
+
+354
+00:25:35,977 --> 00:25:38,447
+<font color=#FFFF00>tapi kita masih bisa memperbaikinya.</font>
+
+355
+00:25:39,717 --> 00:25:41,318
+<font color=#FFFF00>Katanya dia punya bukti.</font>
+
+356
+00:25:41,987 --> 00:25:43,418
+<font color=#FFFF00>Dia menyembunyikan bukti...</font>
+
+357
+00:25:44,418 --> 00:25:45,557
+<font color=#FFFF00>...di tempat yang cuma dia yang tahu.</font>
+
+358
+00:25:46,217 --> 00:25:47,227
+<font color=#FFFF00>Kang Ho Young.</font>
+
+359
+00:25:48,128 --> 00:25:49,257
+<font color=#FFFF00>Apa yang kau lakukan?</font>
+
+360
+00:25:57,797 --> 00:25:59,497
+<font color=#FFFF00>Itu pasti alasan Ho Young memberitahu...</font>
+
+361
+00:25:59,797 --> 00:26:00,868
+<font color=#FFFF00>Apa Sersan Oh...</font>
+
+362
+00:26:02,967 --> 00:26:04,678
+<font color=#FFFF00>...benar-benar di balik semua ini?</font>
+
+363
+00:26:09,747 --> 00:26:12,447
+<font color=#FFFF00>Kang Ho Young bilang ada yang
+ingin dia tunjukkan padamu?</font>
+
+364
+00:26:12,977 --> 00:26:14,017
+<font color=#FFFF00>Ya.</font>
+
+365
+00:26:15,148 --> 00:26:17,088
+<font color=#FFFF00>Mungkin Ho Young punya...</font>
+
+366
+00:26:17,358 --> 00:26:19,987
+<font color=#FFFF00>...bukti terkait insiden itu.</font>
+
+367
+00:26:29,697 --> 00:26:30,697
+<font color=#FFFF00>(NCI Kim Hyeon Joon)</font>
+
+368
+00:26:32,997 --> 00:26:34,037
+<font color=#FFFF00>Ini aku.</font>
+
+369
+00:26:34,707 --> 00:26:35,868
+<font color=#FFFF00>Sekarang aku tahu...</font>
+
+370
+00:26:36,878 --> 00:26:38,707
+<font color=#FFFF00>...apa yang Sersan Oh rencanakan.</font>
+
+371
+00:26:39,108 --> 00:26:40,108
+<font color=#FFFF00>Apa?</font>
+
+372
+00:26:40,378 --> 00:26:41,707
+<font color=#FFFF00>Sersan Oh tidak sadar...</font>
+
+373
+00:26:42,078 --> 00:26:44,547
+<font color=#FFFF00>...bahwa kita sudah tahu siapa dia.</font>
+
+374
+00:26:44,547 --> 00:26:45,878
+<font color=#FFFF00>Dia ingin mencari bukti,</font>
+
+375
+00:26:46,247 --> 00:26:48,287
+<font color=#FFFF00>membuat kematian Kim Jeong Soo sebagai bunuh diri,</font>
+
+376
+00:26:48,388 --> 00:26:50,388
+<font color=#FFFF00>dan lolos dari ini dengan tidak tersentuh.</font>
+
+377
+00:26:51,487 --> 00:26:54,128
+<font color=#FFFF00>Kepala, ponsel Hyeon Joon kembali nyala.</font>
+
+378
+00:26:54,388 --> 00:26:55,388
+<font color=#FFFF00>Dia di mana?</font>
+
+379
+00:26:55,487 --> 00:26:57,928
+<font color=#FFFF00>Di dekat persimpangan Naeyeon,
+dekat dengan toko Choi Sang Woo.</font>
+
+380
+00:26:58,098 --> 00:27:01,027
+<font color=#FFFF00>Ayo pergi, kalau begitu.
+Hyeon Joon mungkin dalam bahaya.</font>
+
+381
+00:27:01,727 --> 00:27:02,727
+<font color=#FFFF00>Tunggu dulu.</font>
+
+382
+00:27:05,938 --> 00:27:07,108
+<font color=#FFFF00>Ada yang aneh.</font>
+
+383
+00:27:07,938 --> 00:27:10,307
+<font color=#FFFF00>Hey! Berhenti!</font>
+
+384
+00:27:11,277 --> 00:27:12,277
+<font color=#FFFF00>Hey!</font>
+
+385
+00:27:15,247 --> 00:27:17,118
+<font color=#FFFF00>Kim Hyeon Joon!
+Berhenti di sana!</font>
+
+386
+00:27:17,348 --> 00:27:18,378
+<font color=#FFFF00>Hyeon Joon!</font>
+
+387
+00:27:20,888 --> 00:27:21,947
+<font color=#FFFF00>Jangan bergerak!</font>
+
+388
+00:27:25,418 --> 00:27:28,128
+<font color=#FFFF00>Hyeon Joon memimpin polisi di sana.</font>
+
+389
+00:27:31,898 --> 00:27:34,767
+<font color=#FFFF00>Cari tahu di mana truk kerja Choi Sang Woo.</font>
+
+390
+00:27:46,908 --> 00:27:48,277
+<font color=#FFFF00>Sudah ketemu.</font>
+
+391
+00:27:48,547 --> 00:27:50,477
+<font color=#FFFF00>Ada di jalan luar menuju pusat.</font>
+
+392
+00:27:51,118 --> 00:27:53,047
+<font color=#FFFF00>Di situlah seluruh kejadian ini dimulai.</font>
+
+393
+00:27:53,217 --> 00:27:55,487
+<font color=#FFFF00>Itu lokasi paling alami untuk
+membunuh Kim Jeong Soo,</font>
+
+394
+00:27:55,487 --> 00:27:56,918
+<font color=#FFFF00>dan mengaturnya sebagai bunuh diri.</font>
+
+395
+00:27:57,388 --> 00:27:58,517
+<font color=#FFFF00>Di pusat pelatihan.</font>
+
+396
+00:28:10,168 --> 00:28:11,797
+<font color=#FFFF00>Jangan bunuh aku!</font>
+
+397
+00:28:47,967 --> 00:28:50,537
+<font color=#FFFF00>Aku mengakui semua kejahatanku...</font>
+
+398
+00:28:50,537 --> 00:28:52,378
+<font color=#FFFF00>dengan rekaman ini,</font>
+
+399
+00:28:53,007 --> 00:28:56,178
+<font color=#FFFF00>dan aku ingin mengakhiri hidupku
+untuk menebus semua perbuatanku.</font>
+
+400
+00:28:57,017 --> 00:28:58,447
+<font color=#FFFF00>14 tahun lalu,</font>
+
+401
+00:28:58,977 --> 00:29:01,047
+<font color=#FFFF00>ketika aku bekerja di pusat pelatihan,</font>
+
+402
+00:29:01,648 --> 00:29:04,787
+<font color=#FFFF00>Mo Ji Eun menyaksikan perbuatanku, dan aku...</font>
+
+403
+00:29:06,158 --> 00:29:09,787
+<font color=#FFFF00>Aku membunuh Mo Ji Eun setelah pertengkaran fisik.</font>
+
+404
+00:29:41,487 --> 00:29:44,557
+<font color=#FFFF00>Dan saat Kim Tae Joon mengetahui perbuatanku,</font>
+
+405
+00:29:45,297 --> 00:29:46,967
+<font color=#FFFF00>aku mencoba membuat kecelakaan mobil,</font>
+
+406
+00:29:47,598 --> 00:29:50,638
+<font color=#FFFF00>dan membunuhnya.</font>
+
+407
+00:29:53,507 --> 00:29:57,037
+<font color=#FFFF00>Setelah itu, Kang Ho Young, yang tahu semua kejahatanku...</font>
+
+408
+00:29:58,178 --> 00:29:59,207
+<font color=#FFFF00>Aku telah...</font>
+
+409
+00:29:59,977 --> 00:30:03,578
+<font color=#FFFF00>Sersan Oh. Sersan Oh!</font>
+
+410
+00:30:03,848 --> 00:30:05,777
+<font color=#FFFF00>Sersan Oh!</font>
+
+411
+00:30:05,777 --> 00:30:08,118
+<font color=#FFFF00>Bukan aku.</font>
+
+412
+00:30:31,408 --> 00:30:33,178
+<font color=#FFFF00>Kau pikir tidak adil jika kau mati begini?</font>
+
+413
+00:30:34,908 --> 00:30:37,547
+<font color=#FFFF00>Aku tidak membunuh Kang Ho Young dan Kim Tae Joon.</font>
+
+414
+00:30:39,717 --> 00:30:41,017
+<font color=#FFFF00>Kau pelakunya.</font>
+
+415
+00:30:47,057 --> 00:30:48,057
+<font color=#FFFF00>Buang pisaunya.</font>
+
+416
+00:30:48,928 --> 00:30:50,257
+<font color=#FFFF00>Hyeon Joon.</font>
+
+417
+00:30:50,658 --> 00:30:53,398
+<font color=#FFFF00>Hyeon Joon, tolong aku.</font>
+
+418
+00:30:54,098 --> 00:30:58,398
+<font color=#FFFF00>Membunuh Ji Eun itu tidak disengaja.</font>
+
+419
+00:30:58,668 --> 00:31:01,467
+<font color=#FFFF00>Aku tidak membunuh Ji Eun.</font>
+
+420
+00:31:01,807 --> 00:31:03,507
+<font color=#FFFF00>Itu sebuah kesalahan.</font>
+
+421
+00:31:03,938 --> 00:31:05,277
+<font color=#FFFF00>Orang ini yang melukai...</font>
+
+422
+00:31:05,977 --> 00:31:07,447
+<font color=#FFFF00>...kakakmu, Tae Joon.</font>
+
+423
+00:31:07,447 --> 00:31:08,547
+<font color=#FFFF00>Tutup mulutmu!</font>
+
+424
+00:31:09,408 --> 00:31:10,717
+<font color=#FFFF00>Dari mana kau tahu?</font>
+
+425
+00:31:10,818 --> 00:31:12,148
+<font color=#FFFF00>Buang pisau itu.</font>
+
+426
+00:31:36,007 --> 00:31:37,207
+<font color=#FFFF00>Yang kau bilang sebelumnya...</font>
+
+427
+00:31:38,578 --> 00:31:40,148
+<font color=#FFFF00>Apa itu kebenarannya?</font>
+
+428
+00:31:40,878 --> 00:31:41,878
+<font color=#FFFF00>Iya.</font>
+
+429
+00:31:42,207 --> 00:31:44,078
+<font color=#FFFF00>Apa kau membunuh Ho Young?</font>
+
+430
+00:31:45,118 --> 00:31:47,588
+<font color=#FFFF00>Kau memalsukan alibimu pada hari pembunuhan itu,</font>
+
+431
+00:31:48,318 --> 00:31:51,818
+<font color=#FFFF00>menyembunyikan fakta pembunuhan
+seorang gadis selama 14 tahun,</font>
+
+432
+00:31:52,318 --> 00:31:53,987
+<font color=#FFFF00>dan menyebabkan kecelakaan...</font>
+
+433
+00:31:54,328 --> 00:31:57,197
+<font color=#FFFF00>...yang mengakhiri hidup seseorang
+untuk menyembunyikan kesalahanmu.</font>
+
+434
+00:31:57,197 --> 00:31:58,628
+<font color=#FFFF00>Dan anak-anak...</font>
+
+435
+00:31:59,398 --> 00:32:01,368
+<font color=#FFFF00>...yang kau lecehkan...</font>
+
+436
+00:32:03,638 --> 00:32:05,598
+<font color=#FFFF00>...saat itu baru 16 atau 17 tahun.</font>
+
+437
+00:32:07,838 --> 00:32:09,868
+<font color=#FFFF00>Mereka seusia putrimu.</font>
+
+438
+00:32:12,507 --> 00:32:13,507
+<font color=#FFFF00>Katakan.</font>
+
+439
+00:32:15,848 --> 00:32:16,977
+<font color=#FFFF00>Kenapa kau begitu?</font>
+
+440
+00:32:17,547 --> 00:32:18,818
+<font color=#FFFF00>Kenapa kau...</font>
+
+441
+00:32:19,987 --> 00:32:21,818
+<font color=#FFFF00>...lakukan itu pada kakakku?</font>
+
+442
+00:32:23,017 --> 00:32:24,017
+<font color=#FFFF00>Beritahu aku.</font>
+
+443
+00:32:27,487 --> 00:32:29,358
+<font color=#FFFF00>Katakan!</font>
+
+444
+00:32:33,628 --> 00:32:34,628
+<font color=#FFFF00>Ada apa?</font>
+
+445
+00:32:42,868 --> 00:32:43,908
+<font color=#FFFF00>Apa ini?</font>
+
+446
+00:32:44,938 --> 00:32:47,648
+<font color=#FFFF00>Aku pikir segini sudah cukup.</font>
+
+447
+00:32:48,507 --> 00:32:49,977
+<font color=#FFFF00>Apa yang kau lakukan?</font>
+
+448
+00:32:50,717 --> 00:32:51,717
+<font color=#FFFF00>Ayah.</font>
+
+449
+00:32:54,287 --> 00:32:58,557
+<font color=#FFFF00>Anggap ini sebagai cara membantu
+kehidupan seorang anak muda.</font>
+
+450
+00:32:58,858 --> 00:33:01,628
+<font color=#FFFF00>Biarkan saja hal ini.</font>
+
+451
+00:33:02,027 --> 00:33:03,598
+<font color=#FFFF00>Ini kesalahan.</font>
+
+452
+00:33:04,858 --> 00:33:09,168
+<font color=#FFFF00>Kesalahan? Kau pikir perbuatannya
+pada anak-anak itu sebuah kesalahan?</font>
+
+453
+00:33:10,967 --> 00:33:13,197
+<font color=#FFFF00>Orang mati ya sudah mati.</font>
+
+454
+00:33:13,197 --> 00:33:17,138
+<font color=#FFFF00>Tapi orang yang masih hidup harus terus hidup.</font>
+
+455
+00:33:17,807 --> 00:33:19,578
+<font color=#FFFF00>Ambil uangmu, pergilah...</font>
+
+456
+00:33:19,838 --> 00:33:23,148
+<font color=#FFFF00>sebelum aku menuntutmu karena
+mengganggu pejabat publik...</font>
+
+457
+00:33:23,148 --> 00:33:24,818
+<font color=#FFFF00>dan kasus suap.</font>
+
+458
+00:33:25,118 --> 00:33:27,348
+<font color=#FFFF00>Sini! Sini, brengsek!</font>
+
+459
+00:33:27,348 --> 00:33:28,418
+<font color=#FFFF00>Ayah.</font>
+
+460
+00:33:29,348 --> 00:33:30,588
+<font color=#FFFF00>Aku dengar...</font>
+
+461
+00:33:31,487 --> 00:33:33,527
+<font color=#FFFF00>...putrimu menderita penyakit langka.</font>
+
+462
+00:33:34,027 --> 00:33:38,757
+<font color=#FFFF00>Aku juga dengar kau terlilit hutang karena itu.</font>
+
+463
+00:33:38,757 --> 00:33:39,928
+<font color=#FFFF00>Diam.</font>
+
+464
+00:33:41,398 --> 00:33:42,898
+<font color=#FFFF00>Sini, brengsek!</font>
+
+465
+00:33:42,898 --> 00:33:44,697
+<font color=#FFFF00>Ayah!</font>
+
+466
+00:33:46,497 --> 00:33:47,568
+<font color=#FFFF00>Jadi...</font>
+
+467
+00:33:48,608 --> 00:33:50,138
+<font color=#FFFF00>...ini tidak cukup?</font>
+
+468
+00:33:52,777 --> 00:33:55,648
+<font color=#FFFF00>Lalu apa lagi yang bisa kubantu?</font>
+
+469
+00:33:55,848 --> 00:33:58,378
+<font color=#FFFF00>Ya ampun, apa yang kau lakukan?</font>
+
+470
+00:34:07,888 --> 00:34:09,427
+<font color=#FFFF00>Ya, ini Oh Jong Taek dari Unit Kejahatan Berat</font>
+
+471
+00:34:09,427 --> 00:34:10,858
+<font color=#FFFF00>Kepala Oh.</font>
+
+472
+00:34:11,457 --> 00:34:13,198
+<font color=#FFFF00>Sudah kubilang jangan menelepon.</font>
+
+473
+00:34:13,767 --> 00:34:14,968
+<font color=#FFFF00>- Aku akan pergi.
+- Okay.</font>
+
+474
+00:34:16,327 --> 00:34:17,468
+<font color=#FFFF00>Kenapa kau terus meneleponku?</font>
+
+475
+00:34:17,468 --> 00:34:19,798
+<font color=#FFFF00>Tae Joon pasti sudah tahu...</font>
+
+476
+00:34:20,568 --> 00:34:22,137
+<font color=#FFFF00>...bahwa aku membunuh Ji Eun.</font>
+
+477
+00:34:22,508 --> 00:34:23,508
+<font color=#FFFF00>Apa?</font>
+
+478
+00:34:26,438 --> 00:34:27,847
+<font color=#FFFF00>Dia tahu dari mana?</font>
+
+479
+00:34:28,448 --> 00:34:29,948
+<font color=#FFFF00>Ho Young pasti memberitahu dia.</font>
+
+480
+00:34:38,088 --> 00:34:39,088
+<font color=#FFFF00>Ini Oh Jong Taek.</font>
+
+481
+00:34:40,588 --> 00:34:41,827
+<font color=#FFFF00>Ya, Tae Joon?</font>
+
+482
+00:34:41,827 --> 00:34:43,957
+<font color=#FFFF00>Ada yang ingin kuberitahukan.</font>
+
+483
+00:34:43,957 --> 00:34:46,528
+<font color=#FFFF00>Oh ya? Soal apa?</font>
+
+484
+00:34:50,637 --> 00:34:54,938
+<font color=#FFFF00>Kalau begitu, aku akan ke persimpangan.</font>
+
+485
+00:34:54,938 --> 00:34:57,608
+<font color=#FFFF00>Jangan beritahu siapa pun sebelum aku tiba, ya?</font>
+
+486
+00:35:29,707 --> 00:35:31,938
+<font color=#FFFF00>Tolong.</font>
+
+487
+00:35:35,511 --> 00:35:36,511
+<font color=#FFFF00>Nomor 590.</font>
+
+488
+00:35:37,810 --> 00:35:40,451
+<font color=#FFFF00>Nomor 590, bersiap.</font>
+
+489
+00:35:40,980 --> 00:35:43,951
+<font color=#FFFF00>Aku di dekat situ.
+Aku bisa ke sana.</font>
+
+490
+00:35:47,721 --> 00:35:49,060
+<font color=#FFFF00>Tolong.</font>
+
+491
+00:35:52,020 --> 00:35:53,230
+<font color=#FFFF00>Tolong.</font>
+
+492
+00:35:56,511 --> 00:35:57,511
+<font color=#FFFF00>Nomor 590.</font>
+
+493
+00:35:58,810 --> 00:36:01,451
+<font color=#FFFF00>Nomor 590, bersiap.</font>
+
+494
+00:36:01,980 --> 00:36:04,951
+<font color=#FFFF00>Aku di dekat situ.
+Aku bisa ke sana.</font>
+
+495
+00:36:08,721 --> 00:36:10,060
+<font color=#FFFF00>Tolong.</font>
+
+496
+00:36:13,020 --> 00:36:14,230
+<font color=#FFFF00>Tolong.</font>
+
+497
+00:36:17,860 --> 00:36:18,960
+<font color=#FFFF00>Letakkan pistolmu.</font>
+
+498
+00:36:20,270 --> 00:36:21,630
+<font color=#FFFF00>Letakkan itu!</font>
+
+499
+00:36:22,000 --> 00:36:23,101
+<font color=#FFFF00>Hyeon Joon.</font>
+
+500
+00:36:23,940 --> 00:36:25,940
+<font color=#FFFF00>Aku sangat senang...</font>
+
+501
+00:36:26,201 --> 00:36:27,971
+<font color=#FFFF00>...saat kau jadi polisi.</font>
+
+502
+00:36:29,810 --> 00:36:30,810
+<font color=#FFFF00>Tapi...</font>
+
+503
+00:36:32,040 --> 00:36:33,451
+<font color=#FFFF00>...aku takut pada saat bersamaan.</font>
+
+504
+00:36:33,650 --> 00:36:35,581
+<font color=#FFFF00>Yang aku mau lebih dari sekedar menjadi polisi...</font>
+
+505
+00:36:37,681 --> 00:36:40,221
+<font color=#FFFF00>...adalah menjadi ayah yang
+bisa menyelamatkan putrinya.</font>
+
+506
+00:36:41,190 --> 00:36:43,221
+<font color=#FFFF00>Seharusnya aku menyelesaikan ini lebih awal.</font>
+
+507
+00:36:43,491 --> 00:36:44,960
+<font color=#FFFF00>Tapi ini sudah terlambat.</font>
+
+508
+00:36:47,130 --> 00:36:48,190
+<font color=#FFFF00>Tidak!</font>
+
+509
+00:36:53,500 --> 00:36:56,701
+<font color=#FFFF00>Maafkan aku,</font>
+
+510
+00:36:58,141 --> 00:36:59,471
+<font color=#FFFF00>Tae Joon.</font>
+
+511
+00:37:18,360 --> 00:37:20,661
+<font color=#FFFF00><i>Pasien Kim Tae Joon | 34 tahun.
+Keadaan vegetatif yang terus-menerus</i></font>
+
+512
+00:37:46,750 --> 00:37:48,221
+<font color=#FFFF00>Kau datang.</font>
+
+513
+00:37:50,491 --> 00:37:52,520
+<font color=#FFFF00>Kau harus mempekerjakan perawat.</font>
+
+514
+00:37:55,460 --> 00:37:56,761
+<font color=#FFFF00>Kau bahkan tidak menelepon.</font>
+
+515
+00:37:57,460 --> 00:37:59,360
+<font color=#FFFF00>Kau ke sini naik apa?</font>
+
+516
+00:38:00,000 --> 00:38:02,730
+<font color=#FFFF00>Ada pekerjaan di dekat sini, jadi aku mampir.</font>
+
+517
+00:38:04,601 --> 00:38:05,770
+<font color=#FFFF00>Ibu jadi semakin kurus.</font>
+
+518
+00:38:06,911 --> 00:38:08,141
+<font color=#FFFF00>Iya juga.</font>
+
+519
+00:38:13,040 --> 00:38:16,980
+<font color=#FFFF00>Dia mengalami masa-masa sulit belakangan ini.</font>
+
+520
+00:38:19,621 --> 00:38:21,051
+<font color=#FFFF00>Dia terbaring di sini...</font>
+
+521
+00:38:21,621 --> 00:38:25,090
+<font color=#FFFF00>...di kasur keras 365 hari setahun.</font>
+
+522
+00:38:26,790 --> 00:38:30,531
+<font color=#FFFF00>Bagaimana bisa aku bermimpi
+tidur di kasur yang hangat?</font>
+
+523
+00:38:33,770 --> 00:38:36,601
+<font color=#FFFF00>Orang tua tidak boleh begitu.</font>
+
+524
+00:38:42,170 --> 00:38:43,210
+<font color=#FFFF00>Aku akan jaga dia.</font>
+
+525
+00:38:44,310 --> 00:38:45,511
+<font color=#FFFF00>Ibu harus istirahat.</font>
+
+526
+00:40:02,690 --> 00:40:07,391
+<font color=#FFFF00>(Mo Ji Eun)</font>
+
+527
+00:40:43,601 --> 00:40:45,230
+<font color=#FFFF00>Butuh waktu lama...</font>
+
+528
+00:40:46,670 --> 00:40:48,301
+<font color=#FFFF00>...untuk kembali ke sini.</font>
+
+529
+00:40:49,000 --> 00:40:50,670
+<font color=#FFFF00>Selama 14 tahun, kau...</font>
+
+530
+00:40:51,471 --> 00:40:53,511
+<font color=#FFFF00>...tak bisa melupakan orang yang sama.</font>
+
+531
+00:41:02,110 --> 00:41:03,920
+<font color=#FFFF00>Akhirnya aku melihat pemandangan di sini.</font>
+
+532
+00:41:05,380 --> 00:41:08,491
+<font color=#FFFF00>Aku tidak sadar betapa indahnya tempat ini.</font>
+
+533
+00:41:13,090 --> 00:41:15,690
+<font color=#FFFF00>(Gopchanggo)</font>
+
+534
+00:41:17,500 --> 00:41:20,071
+<font color=#FFFF00>Silahkan dimakan.</font>
+
+535
+00:41:20,071 --> 00:41:21,571
+<font color=#FFFF00>Kau yang traktir, kan?</font>
+
+536
+00:41:21,571 --> 00:41:22,571
+<font color=#FFFF00>Iya.</font>
+
+537
+00:41:29,340 --> 00:41:31,581
+<font color=#FFFF00>Sebenarnya, banyak orang mengira...</font>
+
+538
+00:41:31,581 --> 00:41:33,781
+<font color=#FFFF00>ini babat,</font>
+
+539
+00:41:34,011 --> 00:41:35,451
+<font color=#FFFF00>tapi babat sebenarnya...</font>
+
+540
+00:41:35,581 --> 00:41:38,081
+<font color=#FFFF00>berasal dari kata untuk lemak hewani.</font>
+
+541
+00:41:38,181 --> 00:41:40,250
+<font color=#FFFF00>Jadi sebenarnya usus itu mengandung banyak lemak,</font>
+
+542
+00:41:40,420 --> 00:41:42,420
+<font color=#FFFF00>bukan usus keriting.</font>
+
+543
+00:41:42,650 --> 00:41:45,321
+<font color=#FFFF00>Doktor Lee, aku mau kasih saran.</font>
+
+544
+00:41:45,460 --> 00:41:46,931
+<font color=#FFFF00>Haruskah kita buat sebuah tim?</font>
+
+545
+00:41:47,090 --> 00:41:48,130
+<font color=#FFFF00>Tim apa?</font>
+
+546
+00:41:48,130 --> 00:41:50,560
+<font color=#FFFF00>Tim kuis.
+Kita bisa ikut di semua acara kuis...</font>
+
+547
+00:41:50,560 --> 00:41:52,761
+<font color=#FFFF00>dan merebut semua hadiahnya.</font>
+
+548
+00:41:52,931 --> 00:41:55,031
+<font color=#FFFF00>Aku akan menata gayamu,</font>
+
+549
+00:41:55,031 --> 00:41:56,270
+<font color=#FFFF00>jadi bagaimana dengan bagi hadiah 6 sampai 4?</font>
+
+550
+00:41:56,371 --> 00:41:57,770
+<font color=#FFFF00>Siapa yang 6?</font>
+
+551
+00:41:57,770 --> 00:41:59,000
+<font color=#FFFF00>Aku pastinya.</font>
+
+552
+00:41:59,141 --> 00:42:01,141
+<font color=#FFFF00>Tidak mungkin.</font>
+
+553
+00:42:02,011 --> 00:42:04,110
+<font color=#FFFF00>Intinya, kerja bagus, semuanya.</font>
+
+554
+00:42:05,940 --> 00:42:07,480
+<font color=#FFFF00>Kerja bagus, Kepala.</font>
+
+555
+00:42:10,150 --> 00:42:11,351
+<font color=#FFFF00>Yang lain juga.</font>
+
+556
+00:42:13,081 --> 00:42:14,351
+<font color=#FFFF00>Kerja bagus.</font>
+
+557
+00:42:14,690 --> 00:42:16,860
+<font color=#FFFF00>Hal yang paling sulit bagi seorang profiler...</font>
+
+558
+00:42:17,420 --> 00:42:19,290
+<font color=#FFFF00>...adalah melakukan profiling pada rekannya.</font>
+
+559
+00:42:20,531 --> 00:42:22,360
+<font color=#FFFF00>Itu berarti aku meragukan rekanku.</font>
+
+560
+00:42:22,891 --> 00:42:26,331
+<font color=#FFFF00>Aku tak pernah meragukanmu, sedikit pun tidak.</font>
+
+561
+00:42:28,531 --> 00:42:31,170
+<font color=#FFFF00>Kim Hyeon Joon, selamat atas kembalinya kau.</font>
+
+562
+00:42:32,000 --> 00:42:33,770
+<font color=#FFFF00>Aku rindu kau, Hyeon Joon.</font>
+
+563
+00:42:34,141 --> 00:42:35,210
+<font color=#FFFF00>Kita bisa bekerja lagi sebagai tim.</font>
+
+564
+00:42:35,911 --> 00:42:36,911
+<font color=#FFFF00>Terima kasih.</font>
+
+565
+00:42:36,911 --> 00:42:39,480
+<font color=#FFFF00>Karena semua anggota NCI di sini,</font>
+
+566
+00:42:39,781 --> 00:42:41,411
+<font color=#FFFF00>haruskah kita bersulang?</font>
+
+567
+00:42:41,411 --> 00:42:42,411
+<font color=#FFFF00>Tentu.</font>
+
+568
+00:42:42,411 --> 00:42:44,121
+<font color=#FFFF00>Untuk NCI.</font>
+
+569
+00:42:44,121 --> 00:42:46,250
+<font color=#FFFF00>- Untuk NCI.
+- Untuk NCI.</font>
+
+570
+00:42:49,750 --> 00:42:52,460
+<font color=#FFFF00>Aku bersyukur itu berhasil.</font>
+
+571
+00:42:53,531 --> 00:42:54,790
+<font color=#FFFF00>Kerja bagus.</font>
+
+572
+00:42:54,790 --> 00:42:55,831
+<font color=#FFFF00>Terima kasih.</font>
+
+573
+00:42:59,971 --> 00:43:01,831
+<font color=#FFFF00>Kau mau mengatakan sesuatu?</font>
+
+574
+00:43:02,101 --> 00:43:04,971
+<font color=#FFFF00>Bisa kau beri aku lebih banyak waktu?</font>
+
+575
+00:43:05,170 --> 00:43:06,911
+<font color=#FFFF00>Kukira kita sudah selesai membahas ini.</font>
+
+576
+00:43:07,141 --> 00:43:09,170
+<font color=#FFFF00>Masih ada yang harus kukerjakan.</font>
+
+577
+00:43:09,440 --> 00:43:10,741
+<font color=#FFFF00>Apa itu Reaper?</font>
+
+578
+00:43:16,581 --> 00:43:18,420
+<font color=#FFFF00>Ini video dari black box...</font>
+
+579
+00:43:18,420 --> 00:43:19,951
+<font color=#FFFF00>...yang membuktikan alibi Hyeon Joon.</font>
+
+580
+00:43:21,920 --> 00:43:22,920
+<font color=#FFFF00>Kenapa itu?</font>
+
+581
+00:43:23,221 --> 00:43:25,661
+<font color=#FFFF00>Ini bagian yang aku pulihkan kembali.</font>
+
+582
+00:43:33,900 --> 00:43:34,900
+<font color=#FFFF00>Ada apa?</font>
+
+583
+00:43:34,931 --> 00:43:37,170
+<font color=#FFFF00>Kirim ini ke ruang rapat sekarang.</font>
+
+584
+00:43:42,610 --> 00:43:44,011
+<font color=#FFFF00>Orang yang membunuh Kang Ho Young...</font>
+
+585
+00:43:44,610 --> 00:43:46,710
+<font color=#FFFF00>bukan Kim Jeong Soo ataupun Sersan Oh.</font>
+
+586
+00:43:49,650 --> 00:43:51,581
+<font color=#FFFF00>Dia mengincar seluruh tim.</font>
+
+587
+00:43:53,321 --> 00:43:55,090
+<font color=#FFFF00>Dia mencoba membuat tim menyerah.</font>
+
+588
+00:44:00,531 --> 00:44:03,730
+<font color=#FFFF00>(Kim Hyeon Joon)</font>
+
+589
+00:44:08,670 --> 00:44:12,540
+<font color=#FFFF00>(Kim Hyeon Joon)</font>
+
+590
+00:44:18,681 --> 00:44:21,380
+<font color=#FFFF00>Betul. Yang Reaper mau adalah...</font>
+
+591
+00:44:21,581 --> 00:44:23,681
+<font color=#FFFF00>...memecah belah tim.</font>
+
+592
+00:44:24,380 --> 00:44:26,051
+<font color=#FFFF00>Dia ingin melihat kita...</font>
+
+593
+00:44:26,150 --> 00:44:29,621
+<font color=#FFFF00>...meragukan satu sama lain,
+dan akhirnya saling berpaling.</font>
+
+594
+00:44:35,991 --> 00:44:37,331
+<font color=#FFFF00>Bahkan jika aku menyerah,</font>
+
+595
+00:44:38,230 --> 00:44:40,071
+<font color=#FFFF00>dia takkan berhenti.</font>
+
+596
+00:44:40,571 --> 00:44:43,000
+<font color=#FFFF00>Itu cuma akan membuatnya mengincar anggota tim...</font>
+
+597
+00:44:44,000 --> 00:44:45,871
+<font color=#FFFF00>...untuk mengusikku.</font>
+
+598
+00:44:47,511 --> 00:44:48,540
+<font color=#FFFF00>Direktur Baek.</font>
+
+599
+00:44:49,310 --> 00:44:51,081
+<font color=#FFFF00>Tolong beri aku waktu sampai...</font>
+
+600
+00:44:51,911 --> 00:44:53,250
+<font color=#FFFF00>...aku selesai berurusan dengan kasus ini.</font>
+
+601
+00:44:53,880 --> 00:44:55,750
+<font color=#FFFF00>Dia akhirnya akan sadar...</font>
+
+602
+00:44:56,011 --> 00:44:58,181
+<font color=#FFFF00>...bahwa kita tak akan pernah menyerah.</font>
+
+603
+00:45:00,420 --> 00:45:01,451
+<font color=#FFFF00>Kita yang...</font>
+
+604
+00:45:02,020 --> 00:45:04,190
+<font color=#FFFF00>...akan menangkap dia.</font>
+
+605
+00:45:12,400 --> 00:45:15,730
+<font color=#FFFF00>Jangan lupa bahwa aku mengawasimu.</font>
+
+606
+00:45:20,810 --> 00:45:22,040
+<font color=#FFFF00>"Aku percaya bahwa..."</font>
+
+607
+00:45:22,511 --> 00:45:26,681
+<font color=#FFFF00>"...tak ada Tuhan, tak ada kejahatan, atau tak ada neraka,"</font>
+
+608
+00:45:27,650 --> 00:45:29,210
+<font color=#FFFF00>"...jadi jangan takut."</font>
+
+609
+00:45:30,321 --> 00:45:31,380
+<font color=#FFFF00>Nietzsche.</font>
+
+610
+00:45:32,181 --> 00:45:33,221
+<font color=#FFFF00>Bagus.</font>
+
+611
+00:45:34,321 --> 00:45:35,451
+<font color=#FFFF00>Lebih dalam.</font>
+
+612
+00:45:51,101 --> 00:45:52,741
+<font color=#FFFF00>Hey, Yoo Jin,</font>
+
+613
+00:45:52,801 --> 00:45:55,270
+<font color=#FFFF00>kau sedang apa?</font>
+
+614
+00:45:55,270 --> 00:45:56,810
+<font color=#FFFF00>Cepat.</font>
+
+615
+00:45:58,540 --> 00:45:59,610
+<font color=#FFFF00>Sentuh.</font>
+
+616
+00:46:00,150 --> 00:46:01,181
+<font color=#FFFF00>Sentuh.</font>
+
+617
+00:46:01,911 --> 00:46:02,951
+<font color=#FFFF00>Sentuh.</font>
+
+618
+00:46:04,951 --> 00:46:06,051
+<font color=#FFFF00>Biar kulihat.</font>
+
+619
+00:46:10,060 --> 00:46:11,721
+<font color=#FFFF00>Persaingan sudah dekat.</font>
+
+620
+00:46:11,721 --> 00:46:13,960
+<font color=#FFFF00>Jaga kesehatan baik-baik.</font>
+
+621
+00:46:15,161 --> 00:46:17,400
+<font color=#FFFF00>Kuyakin kalian semua sadar betapa pentingnya hal ini.</font>
+
+622
+00:46:17,860 --> 00:46:19,560
+<font color=#FFFF00>Hidup kalian bergantung...</font>
+
+623
+00:46:19,560 --> 00:46:22,601
+<font color=#FFFF00>pada memenangkan medali kompetisi.</font>
+
+624
+00:46:22,871 --> 00:46:23,940
+<font color=#FFFF00>- Iya.
+- Iya.</font>
+
+625
+00:46:24,270 --> 00:46:27,340
+<font color=#FFFF00>Terus rilekskan otot-otot kalian di rumah,</font>
+
+626
+00:46:27,340 --> 00:46:30,141
+<font color=#FFFF00>dan jaga kondisi kalian.
+Bubar.</font>
+
+627
+00:46:30,581 --> 00:46:32,241
+<font color=#FFFF00>- Terima kasih.
+- Terima kasih.</font>
+
+628
+00:46:36,750 --> 00:46:39,181
+<font color=#FFFF00>Jangan macam-macam di malam hari,
+tidurlah lebih awal.</font>
+
+629
+00:46:40,190 --> 00:46:43,590
+<font color=#FFFF00>Dia bersikap seolah dia peduli dengan kita.</font>
+
+630
+00:46:44,520 --> 00:46:45,960
+<font color=#FFFF00>Dia pasti sangat capek.</font>
+
+631
+00:46:46,831 --> 00:46:49,661
+<font color=#FFFF00>Apa menurutmu dia tahu kita akan clubbing?</font>
+
+632
+00:46:50,701 --> 00:46:52,661
+<font color=#FFFF00>Kalau dia tahu, dia takkan di sini.</font>
+
+633
+00:46:53,170 --> 00:46:55,170
+<font color=#FFFF00>Dia tampak bodoh sekali.</font>
+
+634
+00:46:57,340 --> 00:46:58,940
+<font color=#FFFF00>Bagaimana penampilanku?
+Apa sudah sepeti idola?</font>
+
+635
+00:46:59,440 --> 00:47:01,411
+<font color=#FFFF00>- Tidak.
+- Tidak.</font>
+
+636
+00:47:02,770 --> 00:47:05,281
+<font color=#FFFF00>Baik, terserah.
+Ayo kita ramaikan malam ini.</font>
+
+637
+00:47:05,340 --> 00:47:06,610
+<font color=#FFFF00>Mari kita lepaskan stress.</font>
+
+638
+00:47:06,610 --> 00:47:08,310
+<font color=#FFFF00>- Ayo.
+- Ayo.</font>
+
+639
+00:47:10,020 --> 00:47:11,951
+<font color=#FFFF00>Oh, rumahmu kosong, kan?</font>
+
+640
+00:47:11,951 --> 00:47:14,290
+<font color=#FFFF00>Tidak hanya malam ini.
+Kalian bisa tinggal di rumahku.</font>
+
+641
+00:47:14,290 --> 00:47:15,420
+<font color=#FFFF00>Datanglah kapan saja.</font>
+
+642
+00:47:17,360 --> 00:47:18,360
+<font color=#FFFF00>Kau sakit?</font>
+
+643
+00:47:18,790 --> 00:47:21,630
+<font color=#FFFF00>Cuma flu.
+Jangan khawatir.</font>
+
+644
+00:47:21,960 --> 00:47:24,960
+<font color=#FFFF00>Ini tidak apa-apa kok.</font>
+
+645
+00:47:25,161 --> 00:47:26,400
+<font color=#FFFF00>Ibumu bagaimana?</font>
+
+646
+00:47:27,031 --> 00:47:29,000
+<font color=#FFFF00>Matikan lokasi di ponselmu.</font>
+
+647
+00:47:29,000 --> 00:47:31,201
+<font color=#FFFF00>Bagaimana kalau ibumu datang seperti waktu itu?</font>
+
+648
+00:47:31,440 --> 00:47:33,641
+<font color=#FFFF00>Hey, ibuku tidak seburuk itu.</font>
+
+649
+00:47:33,840 --> 00:47:35,270
+<font color=#FFFF00>- Memang.
+- Memang.</font>
+
+650
+00:47:36,440 --> 00:47:37,741
+<font color=#FFFF00>Sudah kumatikan.</font>
+
+651
+00:47:38,540 --> 00:47:42,011
+<font color=#FFFF00>Jangan cemas. Aku pamit
+akan ke pesta ulang tahunmu.</font>
+
+652
+00:47:42,110 --> 00:47:44,880
+<font color=#FFFF00>Bagus. Aku siap.</font>
+
+653
+00:47:46,121 --> 00:47:47,351
+<font color=#FFFF00>Hey, kita telat.</font>
+
+654
+00:47:47,520 --> 00:47:49,721
+<font color=#FFFF00>- Oh ya?
+- Ayo. Cepat.</font>
+
+655
+00:47:51,121 --> 00:47:52,661
+<font color=#FFFF00>Aku ada yang ketinggalan nih.</font>
+
+656
+00:47:52,891 --> 00:47:54,491
+<font color=#FFFF00>Ambil sana, kita ketemu di lantai bawah.</font>
+
+657
+00:47:54,491 --> 00:47:55,531
+<font color=#FFFF00>Okay.</font>
+
+658
+00:48:22,491 --> 00:48:23,621
+<font color=#FFFF00>Park Song Yi.</font>
+
+659
+00:48:24,290 --> 00:48:26,391
+<font color=#FFFF00>Itu kau?</font>
+
+660
+00:48:27,190 --> 00:48:29,261
+<font color=#FFFF00>Tidak, bukan.</font>
+
+661
+00:48:38,241 --> 00:48:39,301
+<font color=#FFFF00>Yoo Jin.</font>
+
+662
+00:48:40,440 --> 00:48:43,610
+<font color=#FFFF00>Jika kau tak lakukan ucapanku, dia akan mati.</font>
+
+663
+00:48:47,351 --> 00:48:48,411
+<font color=#FFFF00>Oh, ya ampun.</font>
+
+664
+00:48:54,750 --> 00:48:55,821
+<font color=#FFFF00>Astaga.</font>
+
+665
+00:48:58,621 --> 00:49:00,360
+<font color=#FFFF00>Kita di mana?</font>
+
+666
+00:49:00,860 --> 00:49:02,090
+<font color=#FFFF00>Kenapa dingn sekali?</font>
+
+667
+00:49:02,331 --> 00:49:03,860
+<font color=#FFFF00>Kita pasti di pegunungan.</font>
+
+668
+00:49:05,761 --> 00:49:06,900
+<font color=#FFFF00>Kau tak apa, Yoo Jin?</font>
+
+669
+00:49:09,701 --> 00:49:11,440
+<font color=#FFFF00>Kenapa dia mengurung kita?</font>
+
+670
+00:49:12,400 --> 00:49:13,770
+<font color=#FFFF00>Apa yang mau dia lakukan?</font>
+
+671
+00:49:14,871 --> 00:49:17,480
+<font color=#FFFF00>Dia tahu nama kita.</font>
+
+672
+00:49:18,380 --> 00:49:19,540
+<font color=#FFFF00>Kau beritahu dia?</font>
+
+673
+00:49:19,781 --> 00:49:21,911
+<font color=#FFFF00>Tidak, ngapain juga?</font>
+
+674
+00:49:22,581 --> 00:49:24,321
+<font color=#FFFF00>Dia juga tahu namaku.</font>
+
+675
+00:49:25,181 --> 00:49:26,181
+<font color=#FFFF00>Terus?</font>
+
+676
+00:49:27,020 --> 00:49:28,821
+<font color=#FFFF00>Aku tidak bilang apa-apa.</font>
+
+677
+00:49:29,190 --> 00:49:30,420
+<font color=#FFFF00>Aku cuma bertanya.</font>
+
+678
+00:49:33,060 --> 00:49:36,060
+<font color=#FFFF00>Itu artinya selama ini dia kenal kita.</font>
+
+679
+00:49:36,460 --> 00:49:38,101
+<font color=#FFFF00>Apa dia orang yang kita kenal?</font>
+
+680
+00:49:39,801 --> 00:49:41,301
+<font color=#FFFF00>Aku penasaran.</font>
+
+681
+00:49:42,270 --> 00:49:43,601
+<font color=#FFFF00>Dia tahu kita?</font>
+
+682
+00:49:47,641 --> 00:49:49,440
+<font color=#FFFF00>Kalau begitu dia bisa bilang...</font>
+
+683
+00:49:50,210 --> 00:49:52,440
+<font color=#FFFF00>...apa yang dia mau.</font>
+
+684
+00:49:52,681 --> 00:49:55,310
+<font color=#FFFF00>Orang normal takkan pernah melakukan ini.</font>
+
+685
+00:49:55,451 --> 00:49:58,250
+<font color=#FFFF00>Dia pasti gila.
+Dia tidak waras.</font>
+
+686
+00:49:58,250 --> 00:49:59,851
+<font color=#FFFF00>Apa dia mau membunuh kita?</font>
+
+687
+00:49:59,891 --> 00:50:01,621
+<font color=#FFFF00>Jangan bilang begitu!</font>
+
+688
+00:50:04,391 --> 00:50:06,090
+<font color=#FFFF00>Kita semua harus tetap waspada.</font>
+
+689
+00:50:06,121 --> 00:50:07,560
+<font color=#FFFF00>Kita bisa keluar dari sini.</font>
+
+690
+00:50:07,690 --> 00:50:09,491
+<font color=#FFFF00>Ini bukan apa-apa.</font>
+
+691
+00:50:10,101 --> 00:50:12,130
+<font color=#FFFF00>Kita sudah jalani latihan yang lebih buruk.</font>
+
+692
+00:50:12,831 --> 00:50:15,170
+<font color=#FFFF00>Ya. Kita bertiga bersama.</font>
+
+693
+00:50:15,270 --> 00:50:16,840
+<font color=#FFFF00>Dia takkan bisa berbuat apa-apa.</font>
+
+694
+00:50:17,000 --> 00:50:18,340
+<font color=#FFFF00>Okay.</font>
+
+695
+00:50:20,210 --> 00:50:21,571
+<font color=#FFFF00>Kau benar tak apa?</font>
+
+696
+00:50:24,440 --> 00:50:25,581
+<font color=#FFFF00>Kau siapa?</font>
+
+697
+00:50:27,051 --> 00:50:29,610
+<font color=#FFFF00>Apa yang kau mau dari kami?</font>
+
+698
+00:50:29,851 --> 00:50:33,081
+<font color=#FFFF00>Yang harus kalian lakukan adalah membuat pilihan.</font>
+
+699
+00:50:33,321 --> 00:50:34,551
+<font color=#FFFF00>Pilihan?</font>
+
+700
+00:50:37,460 --> 00:50:39,221
+<font color=#FFFF00>Pilihan apa maksudmu?</font>
+
+701
+00:50:39,261 --> 00:50:40,460
+<font color=#FFFF00>Dengarkan baik-baik.</font>
+
+702
+00:50:41,831 --> 00:50:43,531
+<font color=#FFFF00>Dua orang dari kalian bertiga...</font>
+
+703
+00:50:44,201 --> 00:50:47,230
+<font color=#FFFF00>...akan keluar dari sini hidup-hidup. Tapi...</font>
+
+704
+00:50:48,031 --> 00:50:51,741
+<font color=#FFFF00>...satu orang yang lain harus mati di sini.</font>
+
+705
+00:50:53,310 --> 00:50:54,471
+<font color=#FFFF00>Terserah kalian menentuka...</font>
+
+706
+00:50:55,011 --> 00:50:56,471
+<font color=#FFFF00>...siapa yang harus mati.</font>
+
+707
+00:50:58,480 --> 00:51:01,581
+<font color=#FFFF00>Hanya itu caranya...</font>
+
+708
+00:51:02,781 --> 00:51:04,951
+<font color=#FFFF00>...kalian bisa keluar dari sini.</font>
+
+709
+00:51:15,960 --> 00:51:17,560
+<font color=#FFFF00>- Siap pesan?
+- Iya.</font>
+
+710
+00:51:17,831 --> 00:51:19,871
+<font color=#FFFF00>Aku pesan 6 es americano.</font>
+
+711
+00:51:19,871 --> 00:51:20,871
+<font color=#FFFF00>Okay.</font>
+
+712
+00:51:21,670 --> 00:51:22,770
+<font color=#FFFF00>Ini kopinya.</font>
+
+713
+00:51:22,770 --> 00:51:24,601
+<font color=#FFFF00>- Terima kasih.
+- Terima kasih.</font>
+
+714
+00:51:28,741 --> 00:51:29,741
+<font color=#FFFF00>Sebentar ya.</font>
+
+715
+00:51:31,781 --> 00:51:32,781
+<font color=#FFFF00>Ya, <i>Imo.</i></font>
+
+716
+00:51:37,250 --> 00:51:38,851
+<font color=#FFFF00>Ya, berikan teleponnya.</font>
+
+717
+00:51:39,681 --> 00:51:40,690
+<font color=#FFFF00>Ini.</font>
+
+718
+00:51:42,351 --> 00:51:43,860
+<font color=#FFFF00>Apa kay detektif?</font>
+
+719
+00:51:45,920 --> 00:51:48,331
+<font color=#FFFF00>Tak ada yang mempercayaiku.</font>
+
+720
+00:51:49,931 --> 00:51:53,230
+<font color=#FFFF00>Tolong temukan Song Yi, putriku.</font>
+
+721
+00:51:55,531 --> 00:51:57,500
+<font color=#FFFF00>Aku sudah melapor ke polisi.</font>
+
+722
+00:51:57,840 --> 00:52:01,011
+<font color=#FFFF00>Tapi mereka hanya bilang dia kabur dari rumah,</font>
+
+723
+00:52:01,440 --> 00:52:03,710
+<font color=#FFFF00>dan aku disuruh menunggunya pulang.</font>
+
+724
+00:52:07,011 --> 00:52:08,011
+<font color=#FFFF00>Maksudku,</font>
+
+725
+00:52:08,380 --> 00:52:10,321
+<font color=#FFFF00>bagaimana bisa aku menunggu di rumah...</font>
+
+726
+00:52:10,321 --> 00:52:13,491
+<font color=#FFFF00>...saat putriku hilang?</font>
+
+727
+00:52:20,290 --> 00:52:23,500
+<font color=#FFFF00>Aku yakin sesuatu terjadi padanya.</font>
+
+728
+00:52:24,230 --> 00:52:26,931
+<font color=#FFFF00>Sesuatu melarangnya pulang ke rumah.</font>
+
+729
+00:52:27,670 --> 00:52:30,701
+<font color=#FFFF00>Jika dilihat ke sini, ketiga gadis itu
+meninggalkan pesan yang sama.</font>
+
+730
+00:52:30,701 --> 00:52:33,440
+<font color=#FFFF00>Setelahnya, tak ada jejak pemakaian ponsel atau kartu kredit,</font>
+
+731
+00:52:33,511 --> 00:52:35,971
+<font color=#FFFF00>dan juga mereka tidak online di media sosial.</font>
+
+732
+00:52:38,011 --> 00:52:40,851
+<font color=#FFFF00>(Aku akan pergi dengan Song Yi dan Hye In.
+Aku akan pulang pada hari Jumat.)</font>
+
+733
+00:52:41,411 --> 00:52:43,011
+<font color=#FFFF00>Pesannya persis sama,</font>
+
+734
+00:52:43,221 --> 00:52:45,721
+<font color=#FFFF00>dari setiap kata ke setiap tanda baca.</font>
+
+735
+00:52:45,750 --> 00:52:47,721
+<font color=#FFFF00>Mungkin mereka memang pergi?</font>
+
+736
+00:52:48,451 --> 00:52:50,761
+<font color=#FFFF00>Aku dulu pelari, jadi aku tahu.</font>
+
+737
+00:52:50,790 --> 00:52:51,790
+<font color=#FFFF00>Mereka tidak mungkin pergi.</font>
+
+738
+00:52:51,790 --> 00:52:54,590
+<font color=#FFFF00>Yoo Jin, bagaimana rasanya juara 1?</font>
+
+739
+00:52:54,860 --> 00:52:58,801
+<font color=#FFFF00>Ya, aku juara 1.</font>
+
+740
+00:52:58,801 --> 00:53:00,230
+<font color=#FFFF00>Aku yang juara pertama.</font>
+
+741
+00:53:00,230 --> 00:53:01,701
+<font color=#FFFF00>- Ini aku.
+- Tunggu.</font>
+
+742
+00:53:01,701 --> 00:53:03,871
+<font color=#FFFF00>Semuanya, aku yang juara 1.
+Aku pemenang sebenarnya.</font>
+
+743
+00:53:03,871 --> 00:53:05,371
+<font color=#FFFF00>- Aku yang pertama.
+- Itu aku.</font>
+
+744
+00:53:05,371 --> 00:53:08,071
+<font color=#FFFF00>Mereka ada kompetisi penting sebentar lagi.</font>
+
+745
+00:53:08,170 --> 00:53:10,610
+<font color=#FFFF00>Mereka pasti sudah bertahun-tahun berlatih untuk itu.</font>
+
+746
+00:53:10,710 --> 00:53:13,040
+<font color=#FFFF00>Kuyakin mereka takkan teledor begitu.</font>
+
+747
+00:53:13,040 --> 00:53:15,411
+<font color=#FFFF00>Sepertinya sebuah terjadi.</font>
+
+748
+00:53:15,451 --> 00:53:18,051
+<font color=#FFFF00>Pertama, ayo kita cari tahu.</font>
+
+749
+00:53:19,681 --> 00:53:20,690
+<font color=#FFFF00>Ya, ayo.</font>
+
+750
+00:53:21,891 --> 00:53:25,460
+<font color=#FFFF00>Kalau sudah tahu pasti, kau bisa lapor ke Kepala.</font>
+
+751
+00:53:25,621 --> 00:53:27,860
+<font color=#FFFF00>Ya. Terima kasih, semuanya.</font>
+
+752
+00:53:29,860 --> 00:53:31,500
+<font color=#FFFF00>- Kita yang pertama.
+- Kita semua.</font>
+
+753
+00:53:31,500 --> 00:53:32,931
+<font color=#FFFF00>- Dah...
+- Dah...</font>
+
+754
+00:53:33,201 --> 00:53:34,201
+<font color=#FFFF00>Semoga beruntung!</font>
+
+755
+00:53:48,066 --> 00:53:50,866
+<font color=#FFFF00>Yoo Jin, bagaimana rasanya juara 1?</font>
+
+756
+00:53:51,136 --> 00:53:55,077
+<font color=#FFFF00>Ya, aku juara 1.</font>
+
+757
+00:53:55,077 --> 00:53:56,506
+<font color=#FFFF00>Aku yang juara pertama.</font>
+
+758
+00:53:56,506 --> 00:53:57,977
+<font color=#FFFF00>- Itu aku.
+- Tunggu.</font>
+
+759
+00:53:57,977 --> 00:54:00,147
+<font color=#FFFF00>Semuanya, aku yang juara 1.
+Aku pemenang sebenarnya.</font>
+
+760
+00:54:00,147 --> 00:54:01,647
+<font color=#FFFF00>- Aku pertama.
+- Itu aku.</font>
+
+761
+00:54:01,647 --> 00:54:04,347
+<font color=#FFFF00>Mereka ada kompetisi penting sebentar lagi.</font>
+
+762
+00:54:04,446 --> 00:54:06,886
+<font color=#FFFF00>Mereka pasti sudah bertahun-tahun berlatih untuk itu.</font>
+
+763
+00:54:06,986 --> 00:54:09,316
+<font color=#FFFF00>Kuyakin mereka takkan tidak teledor begitu.</font>
+
+764
+00:54:09,316 --> 00:54:11,687
+<font color=#FFFF00>Sepertinya sesuatu terjadi.</font>
+
+765
+00:54:11,727 --> 00:54:14,327
+<font color=#FFFF00>Pertama, ayo kita cari tahu.</font>
+
+766
+00:54:15,957 --> 00:54:16,966
+<font color=#FFFF00>Ya, ayo.</font>
+
+767
+00:54:18,167 --> 00:54:21,736
+<font color=#FFFF00>Kalau sudah tahu pasti, kau bisa lapor ke Kepala.</font>
+
+768
+00:54:21,897 --> 00:54:24,136
+<font color=#FFFF00>Ya. Terima kasih , sejus.</font>
+
+769
+00:54:26,136 --> 00:54:27,776
+<font color=#FFFF00>- Kita pertama.
+- Kita semua.</font>
+
+770
+00:54:27,776 --> 00:54:29,207
+<font color=#FFFF00>- Dah...
+- Dah....</font>
+
+771
+00:54:29,477 --> 00:54:30,477
+<font color=#FFFF00>Good luck!</font>
+
+772
+00:54:40,501 --> 00:54:43,733
+<font color=#FFFF00><b>Translated by @oohthifa</b></font>
+
+773
+00:54:52,478 --> 00:54:54,917
+<font color=#FFFF00>CCTV itu tidak berfungsi.</font>
+
+774
+00:55:06,797 --> 00:55:10,127
+<font color=#FFFF00>Di sinilah gadis-gadis itu terakhir terlihat.</font>
+
+775
+00:55:14,138 --> 00:55:15,507
+<font color=#FFFF00>Jika melihat jadwal di sini,</font>
+
+776
+00:55:15,667 --> 00:55:17,437
+<font color=#FFFF00>mereka selesai latihan jam 8 malam pada hari kerja,</font>
+
+777
+00:55:17,437 --> 00:55:19,237
+<font color=#FFFF00>dan waktu 30 menit untuk mandi.</font>
+
+778
+00:55:19,237 --> 00:55:20,848
+<font color=#FFFF00>Lalu mereka pulang.</font>
+
+779
+00:55:23,647 --> 00:55:25,047
+<font color=#FFFF00>Mereka punya rutinitas tertentu.</font>
+
+780
+00:55:25,448 --> 00:55:26,678
+<font color=#FFFF00>Anak di tim olahraga bilang...</font>
+
+781
+00:55:26,678 --> 00:55:29,587
+<font color=#FFFF00>setelah latihan renang, gadis-gadis itu
+ganti baju dan mengenakan make-up.</font>
+
+782
+00:55:30,147 --> 00:55:32,388
+<font color=#FFFF00>Jika seseorang menculik mereka,</font>
+
+783
+00:55:33,558 --> 00:55:36,027
+<font color=#FFFF00>artinya, orang tahu jadwal
+gadis-gadis itu sebelumnya.</font>
+
+784
+00:55:48,308 --> 00:55:50,107
+<font color=#FFFF00>Halo, Kepala Jeon.</font>
+
+785
+00:55:50,408 --> 00:55:52,408
+<font color=#FFFF00>Saya Yoo Min Young.
+Kita bicara di telepon tadi.</font>
+
+786
+00:55:53,877 --> 00:55:56,308
+<font color=#FFFF00>Aku sering melihatmu di TV.</font>
+
+787
+00:55:56,978 --> 00:55:59,317
+<font color=#FFFF00>Karena kau membahasnya,</font>
+
+788
+00:55:59,317 --> 00:56:01,888
+<font color=#FFFF00>jadi aku menyuruh orang tua untuk datang.</font>
+
+789
+00:56:02,147 --> 00:56:05,158
+<font color=#FFFF00>Tapi kenapa NCI terlibat dalam kasus seperti ini?</font>
+
+790
+00:56:06,417 --> 00:56:07,527
+<font color=#FFFF00>Detektif Lee.</font>
+
+791
+00:56:08,888 --> 00:56:11,127
+<font color=#FFFF00>Aku masih tak bisa hubungi ayah Hye In.</font>
+
+792
+00:56:12,257 --> 00:56:14,768
+<font color=#FFFF00>Gadis itu tinggal sendirian dengan ayahnya.</font>
+
+793
+00:56:14,768 --> 00:56:17,167
+<font color=#FFFF00>Tapi ternyata, dia memancing selama beberapa hari.</font>
+
+794
+00:56:17,167 --> 00:56:19,268
+<font color=#FFFF00>Kami meninggalkan pesan.</font>
+
+795
+00:56:19,538 --> 00:56:20,868
+<font color=#FFFF00>Okay, terima kasih.</font>
+
+796
+00:56:20,908 --> 00:56:23,607
+<font color=#FFFF00>Kau yakin mereka diculik?</font>
+
+797
+00:56:24,277 --> 00:56:26,138
+<font color=#FFFF00>Lalu kenapa tidak ada kabar?</font>
+
+798
+00:56:26,138 --> 00:56:28,377
+<font color=#FFFF00>Ini belum dikonfirmasikan.</font>
+
+799
+00:56:28,377 --> 00:56:29,607
+<font color=#FFFF00>Bahkan jika diculik,</font>
+
+800
+00:56:29,607 --> 00:56:31,248
+<font color=#FFFF00>bukannya kami akan dimintai uang?</font>
+
+801
+00:56:31,248 --> 00:56:33,518
+<font color=#FFFF00>Atau permintaan semacam itu?</font>
+
+802
+00:56:33,518 --> 00:56:36,487
+<font color=#FFFF00>Kami sedang menyelidiki beberapa kemungkinan.</font>
+
+803
+00:56:36,487 --> 00:56:37,618
+<font color=#FFFF00>Detektif,</font>
+
+804
+00:56:37,717 --> 00:56:40,828
+<font color=#FFFF00>Mungkin mereka memang pergi seperti kata mereka.</font>
+
+805
+00:56:40,958 --> 00:56:43,487
+<font color=#FFFF00>Putriku sangat stres karena kompetisi mendatang.</font>
+
+806
+00:56:43,487 --> 00:56:47,498
+<font color=#FFFF00>Apa ada yang terlintas dalam pikiran dalam hal ini?</font>
+
+807
+00:56:48,268 --> 00:56:50,498
+<font color=#FFFF00>Apa hal aneh terjadi baru-baru ini?</font>
+
+808
+00:56:50,498 --> 00:56:53,297
+<font color=#FFFF00>Atau kau lihat orang mencurigakan di sekitar?</font>
+
+809
+00:56:54,607 --> 00:56:57,337
+<font color=#FFFF00>Kepala, mereka menemukan jejak.</font>
+
+810
+00:56:59,737 --> 00:57:00,948
+<font color=#FFFF00>Aku sudah bilang.</font>
+
+811
+00:57:10,357 --> 00:57:12,257
+<font color=#FFFF00>Jika mereka diculik di sini,</font>
+
+812
+00:57:12,388 --> 00:57:15,458
+<font color=#FFFF00>bagaimana tiga gadis dibawa sekaligus?</font>
+
+813
+00:57:15,757 --> 00:57:17,198
+<font color=#FFFF00>Penculik itu punya kosmopolitan,</font>
+
+814
+00:57:17,558 --> 00:57:21,868
+<font color=#FFFF00>atau jika tidak, dia menunggu
+sampai mereka berpisah.</font>
+
+815
+00:57:23,897 --> 00:57:25,498
+<font color=#FFFF00>Jika dia bertindak sendiri,</font>
+
+816
+00:57:26,138 --> 00:57:28,607
+<font color=#FFFF00>dia bisa menunggu sampai gadis itu mati,</font>
+
+817
+00:57:28,937 --> 00:57:31,737
+<font color=#FFFF00>dan mengotrol gadis-gadis itu sebagai sandera.</font>
+
+818
+00:57:40,217 --> 00:57:41,217
+<font color=#FFFF00>Ya, Min Young.</font>
+
+819
+00:57:44,087 --> 00:57:45,087
+<font color=#FFFF00>Apa?</font>
+
+820
+00:57:46,417 --> 00:57:47,527
+<font color=#FFFF00>Okay, kami ke sana sekarang.</font>
+
+821
+00:58:10,007 --> 00:58:12,118
+<font color=#FFFF00>Mereka ditemukan 30 menit yang lalu.</font>
+
+822
+00:58:22,458 --> 00:58:24,558
+<font color=#FFFF00>Seseorang sengaja merusak mereka.</font>
+
+823
+00:58:25,198 --> 00:58:27,498
+<font color=#FFFF00>Dan mereka ditinggalkan di tempat
+yang terbuka agar dilihat orang.</font>
+
+824
+00:58:28,467 --> 00:58:30,737
+<font color=#FFFF00>Sepertinya kasus penculikan dimotivasi oleh dendam.</font>
+
+825
+00:58:53,357 --> 00:58:55,587
+<font color=#FFFF00>Kita tidak menemukan jejak perlawanan.</font>
+
+826
+00:58:55,587 --> 00:58:57,397
+<font color=#FFFF00>Itu pasti direncanakan dengan cermat.</font>
+
+827
+00:58:57,698 --> 00:58:58,897
+<font color=#FFFF00>Biarkan kami pergi!</font>
+
+828
+00:58:58,897 --> 00:59:01,728
+<font color=#FFFF00>Kita mungkin akan mati di sini!</font>
+
+829
+00:59:02,428 --> 00:59:04,467
+<font color=#FFFF00>Si penculik menyebut tanggal tertentu.</font>
+
+830
+00:59:04,467 --> 00:59:06,538
+<font color=#FFFF00>Dia menetapkannya sebagai hari H-nya.</font>
+
+831
+00:59:06,538 --> 00:59:08,167
+<font color=#FFFF00>Waktu tinggal 1 hari.</font>
+
+832
+00:59:08,667 --> 00:59:10,678
+<font color=#FFFF00>Ayah Hye In tiba-tiba menghilang.</font>
+
+833
+00:59:10,937 --> 00:59:11,937
+<font color=#FFFF00>Apa?</font>
+
+834
+00:59:12,678 --> 00:59:14,948
+<font color=#FFFF00>Apa yang kau lakukan hari Senin malam itu?</font>
+
+835
+00:59:14,948 --> 00:59:16,607
+<font color=#FFFF00>Kau mencurigai aku?</font>
+
+836
+00:59:17,018 --> 00:59:19,248
+<font color=#FFFF00>Bunuh seorang teman agar kita bisa hidup?</font>
+
+837
+00:59:20,118 --> 00:59:22,888
+<font color=#FFFF00>Ini berarti kalian mungkin kenal penculiknya.</font>
+

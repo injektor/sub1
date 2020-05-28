@@ -1,0 +1,4368 @@
+1
+00:00:07,674 --> 00:00:09,074
+<font color="yellow">(Episode 24)</font>
+
+2
+00:00:25,134 --> 00:00:26,574
+<font color="yellow">We had such a hard time finding him.</font>
+
+3
+00:00:28,574 --> 00:00:29,604
+<font color="yellow">Is he the child?</font>
+
+4
+00:00:50,004 --> 00:00:51,204
+<font color="yellow">Yes, he is.</font>
+
+5
+00:00:53,474 --> 00:00:55,004
+<font color="yellow">It's my brother, Sang Woo.</font>
+
+6
+00:00:55,604 --> 00:00:56,634
+<font color="yellow">Sir.</font>
+
+7
+00:00:57,604 --> 00:00:58,934
+<font color="yellow">I'm glad that he's the one.</font>
+
+8
+00:01:00,174 --> 00:01:03,474
+<font color="yellow">He was sent to a nearby orphanage
+according to the record.</font>
+
+9
+00:01:04,904 --> 00:01:07,804
+<font color="yellow">A man who went fishing found him first.</font>
+
+10
+00:01:23,204 --> 00:01:24,274
+<font color="yellow">Sang Woo.</font>
+
+11
+00:01:30,374 --> 00:01:33,234
+<font color="yellow">What did you just say?</font>
+
+12
+00:01:36,074 --> 00:01:37,704
+<font color="yellow">Did you call me?</font>
+
+13
+00:01:39,204 --> 00:01:40,274
+<font color="yellow">I think so.</font>
+
+14
+00:01:45,174 --> 00:01:47,214
+<font color="yellow">What is your reason behind
+your actions towards me?</font>
+
+15
+00:01:53,474 --> 00:01:54,474
+<font color="yellow">Seong Joon.</font>
+
+16
+00:01:55,174 --> 00:01:56,374
+<font color="yellow">What are you doing over there?</font>
+
+17
+00:01:56,874 --> 00:01:58,204
+<font color="yellow">It's nothing, Father.</font>
+
+18
+00:02:09,174 --> 00:02:10,234
+<font color="yellow">What were you doing?</font>
+
+19
+00:02:10,874 --> 00:02:12,334
+<font color="yellow">Were you talking to someone?</font>
+
+20
+00:02:13,904 --> 00:02:14,974
+<font color="yellow">No, I wasn't. Father.</font>
+
+21
+00:02:15,774 --> 00:02:17,603
+<font color="yellow">- Are you throwing out the trash?
+- Yes.</font>
+
+22
+00:02:17,604 --> 00:02:18,634
+<font color="yellow">Let me.</font>
+
+23
+00:02:18,934 --> 00:02:20,474
+<font color="yellow">Gosh, it's cold.</font>
+
+24
+00:02:22,544 --> 00:02:23,834
+<font color="yellow">Let's go in, Father.</font>
+
+25
+00:03:15,534 --> 00:03:16,704
+<font color="yellow">President.</font>
+
+26
+00:03:17,534 --> 00:03:18,674
+<font color="yellow">Are you okay?</font>
+
+27
+00:03:18,804 --> 00:03:19,804
+<font color="yellow">President.</font>
+
+28
+00:03:23,174 --> 00:03:24,204
+<font color="yellow">Let's go.</font>
+
+29
+00:03:35,404 --> 00:03:36,474
+<font color="yellow">Congratulations.</font>
+
+30
+00:03:37,534 --> 00:03:41,374
+<font color="yellow">Your effort of 23 years has
+brought you a fruitful result.</font>
+
+31
+00:03:47,134 --> 00:03:48,174
+<font color="yellow">I am not so certain.</font>
+
+32
+00:03:50,904 --> 00:03:53,074
+<font color="yellow">I am not certain if this
+is something to celebrate.</font>
+
+33
+00:03:54,104 --> 00:03:55,534
+<font color="yellow">What do you mean?</font>
+
+34
+00:03:56,474 --> 00:03:57,604
+<font color="yellow">Sang Woo...</font>
+
+35
+00:03:59,534 --> 00:04:01,234
+<font color="yellow">Sang Woo is with that family.</font>
+
+36
+00:04:02,634 --> 00:04:04,404
+<font color="yellow">I have to bring the family to its ruins.</font>
+
+37
+00:04:05,074 --> 00:04:08,434
+<font color="yellow">Would you like to revise your plan?</font>
+
+38
+00:04:09,074 --> 00:04:10,074
+<font color="yellow">No.</font>
+
+39
+00:04:11,834 --> 00:04:12,834
+<font color="yellow">I won't.</font>
+
+40
+00:04:14,034 --> 00:04:15,404
+<font color="yellow">No, I will never revise it.</font>
+
+41
+00:04:17,004 --> 00:04:18,974
+<font color="yellow">That man destroyed our family.</font>
+
+42
+00:04:19,274 --> 00:04:21,134
+<font color="yellow">He drove my father to death.</font>
+
+43
+00:04:21,974 --> 00:04:24,704
+<font color="yellow">He caused me to be separated
+from my brother for 23 years.</font>
+
+44
+00:04:25,904 --> 00:04:28,104
+<font color="yellow">Just because he raised Sang Woo,</font>
+
+45
+00:04:29,004 --> 00:04:32,274
+<font color="yellow">should I forgive that man?</font>
+
+46
+00:04:32,704 --> 00:04:33,704
+<font color="yellow">However,</font>
+
+47
+00:04:34,304 --> 00:04:37,344
+<font color="yellow">you might harm Sang Woo. Not just
+harm, but you might destroy him.</font>
+
+48
+00:04:38,344 --> 00:04:39,674
+<font color="yellow">Don't you think it's possible?</font>
+
+49
+00:04:39,904 --> 00:04:42,774
+<font color="yellow">Imagine he discovers that the
+father, who has raised him...</font>
+
+50
+00:04:43,844 --> 00:04:46,844
+<font color="yellow">for 23 years, drove his
+biological father into his death.</font>
+
+51
+00:04:48,074 --> 00:04:51,374
+<font color="yellow">How will Sang Woo cope with that pain?</font>
+
+52
+00:04:57,474 --> 00:04:59,604
+<font color="yellow">That was the despair I felt tonight.</font>
+
+53
+00:05:00,774 --> 00:05:03,374
+<font color="yellow">I couldn't even hug my
+brother even if I found him.</font>
+
+54
+00:05:05,704 --> 00:05:07,974
+<font color="yellow">I couldn't tell him that I was his brother.</font>
+
+55
+00:05:09,934 --> 00:05:12,474
+<font color="yellow">He still has my brother.</font>
+
+56
+00:05:13,004 --> 00:05:16,074
+<font color="yellow">To him, I am just a
+strange and pathetic man.</font>
+
+57
+00:05:20,434 --> 00:05:22,304
+<font color="yellow">I don't know how to approach him...</font>
+
+58
+00:05:24,704 --> 00:05:26,974
+<font color="yellow">and how to resolve this matter.</font>
+
+59
+00:05:29,174 --> 00:05:30,534
+<font color="yellow">I am clueless.</font>
+
+60
+00:05:32,474 --> 00:05:35,804
+<font color="yellow">Just think about one thing tonight.</font>
+
+61
+00:05:36,404 --> 00:05:38,874
+<font color="yellow">Sang Woo grew up as a fine individual.</font>
+
+62
+00:05:39,604 --> 00:05:41,034
+<font color="yellow">Don't you think so?</font>
+
+63
+00:05:48,104 --> 00:05:49,474
+<font color="yellow">Yes, I think so.</font>
+
+64
+00:05:51,774 --> 00:05:53,104
+<font color="yellow">He did indeed.</font>
+
+65
+00:05:54,234 --> 00:05:55,274
+<font color="yellow">President.</font>
+
+66
+00:05:56,704 --> 00:05:59,174
+<font color="yellow">Just think about that for tonight.</font>
+
+67
+00:06:10,434 --> 00:06:11,704
+<font color="yellow">Moong Chi, let's eat.</font>
+
+68
+00:06:14,074 --> 00:06:15,534
+<font color="yellow">Dong Hui already fed you breakfast.</font>
+
+69
+00:06:18,804 --> 00:06:19,804
+<font color="yellow">Dong Hui.</font>
+
+70
+00:06:21,274 --> 00:06:22,274
+<font color="yellow">Should we go to work?</font>
+
+71
+00:06:22,734 --> 00:06:25,134
+<font color="yellow">No, I will go by myself.</font>
+
+72
+00:06:25,234 --> 00:06:26,734
+<font color="yellow">I will see you at work later.</font>
+
+73
+00:06:28,174 --> 00:06:29,334
+<font color="yellow">Dong Hui.</font>
+
+74
+00:06:46,234 --> 00:06:47,274
+<font color="yellow">Sang Woo.</font>
+
+75
+00:06:48,034 --> 00:06:49,634
+<font color="yellow">Did you call me?</font>
+
+76
+00:06:50,674 --> 00:06:51,674
+<font color="yellow">I think so.</font>
+
+77
+00:07:06,804 --> 00:07:07,804
+<font color="yellow">Ms. Oh Dong Hui.</font>
+
+78
+00:07:08,904 --> 00:07:11,904
+<font color="yellow">- Yes?
+- Can you give me a cup of coffee?</font>
+
+79
+00:07:23,304 --> 00:07:24,334
+<font color="yellow">Come in.</font>
+
+80
+00:07:36,474 --> 00:07:38,734
+<font color="yellow">Why do you treat me like this?</font>
+
+81
+00:07:39,274 --> 00:07:40,274
+<font color="yellow">Excuse me?</font>
+
+82
+00:07:41,374 --> 00:07:43,774
+<font color="yellow">You know in a drama,</font>
+
+83
+00:07:43,874 --> 00:07:46,334
+<font color="yellow">a woman is angry at a man.</font>
+
+84
+00:07:46,374 --> 00:07:48,004
+<font color="yellow">She doesn't tell him why she's angry.</font>
+
+85
+00:07:48,604 --> 00:07:50,704
+<font color="yellow">When the guy asks her why she's mad,</font>
+
+86
+00:07:50,774 --> 00:07:53,535
+<font color="yellow">instead of answering, she asks him
+if he doesn't know and gets angry.</font>
+
+87
+00:07:55,474 --> 00:07:58,604
+<font color="yellow">How can that guy know if
+she wouldn't tell him?</font>
+
+88
+00:07:59,974 --> 00:08:02,134
+<font color="yellow">Why are you asking me that?</font>
+
+89
+00:08:03,174 --> 00:08:06,104
+<font color="yellow">Dong Hui, aren't you angry at me?</font>
+
+90
+00:08:06,834 --> 00:08:09,634
+<font color="yellow">You seem angry, but you wouldn't tell me.</font>
+
+91
+00:08:10,234 --> 00:08:13,634
+<font color="yellow">You're pushing me away again.
+Aren't I correct?</font>
+
+92
+00:08:13,834 --> 00:08:15,804
+<font color="yellow">- No, you are wrong.
+- Am I wrong?</font>
+
+93
+00:08:15,934 --> 00:08:17,134
+<font color="yellow">Yes, you are wrong.</font>
+
+94
+00:08:17,974 --> 00:08:19,474
+<font color="yellow">Then, why are you so distant?</font>
+
+95
+00:08:20,634 --> 00:08:22,374
+<font color="yellow">What do you mean?</font>
+
+96
+00:08:23,034 --> 00:08:24,714
+<font color="yellow">You said not to visit you in the workroom.</font>
+
+97
+00:08:24,804 --> 00:08:28,374
+<font color="yellow">I asked you to go to work together,
+but you ran away. Even now,</font>
+
+98
+00:08:28,774 --> 00:08:31,504
+<font color="yellow">you were about to leave like a stray
+cat after you served me coffee.</font>
+
+99
+00:08:31,874 --> 00:08:36,374
+<font color="yellow">So I am certain that you are mad at me.
+Are you telling me you're not?</font>
+
+100
+00:08:39,134 --> 00:08:42,634
+<font color="yellow">- What?
+- Don't pick a fight in the morning.</font>
+
+101
+00:08:43,374 --> 00:08:44,374
+<font color="yellow">Excuse me?</font>
+
+102
+00:08:48,204 --> 00:08:50,134
+<font color="yellow">If everyone's here, let's
+start the meeting.</font>
+
+103
+00:08:50,504 --> 00:08:52,944
+<font color="yellow">- Where's Director Han?
+- He came in a while ago.</font>
+
+104
+00:08:56,904 --> 00:08:58,034
+<font color="yellow">Seong Joon.</font>
+
+105
+00:08:59,804 --> 00:09:00,834
+<font color="yellow">What are you doing?</font>
+
+106
+00:09:01,274 --> 00:09:04,034
+<font color="yellow">Hello, Director. I'll get going now.</font>
+
+107
+00:09:10,404 --> 00:09:12,204
+<font color="yellow">You're here.</font>
+
+108
+00:09:20,304 --> 00:09:23,274
+<font color="yellow">- What are you doing today?
+- I'm visiting the branches.</font>
+
+109
+00:09:23,404 --> 00:09:24,834
+<font color="yellow">Okay. Work hard.</font>
+
+110
+00:09:33,704 --> 00:09:35,474
+<font color="yellow">Ms. Hong. Pull down the blind.</font>
+
+111
+00:09:45,274 --> 00:09:47,234
+<font color="yellow">The meeting with the
+shareholders is next Monday.</font>
+
+112
+00:09:47,534 --> 00:09:49,074
+<font color="yellow">I reckon in that meeting,</font>
+
+113
+00:09:49,104 --> 00:09:52,074
+<font color="yellow">they'll discuss whether to maintain
+Contents Department or not.</font>
+
+114
+00:09:52,234 --> 00:09:55,103
+<font color="yellow">Before that, we must find
+Writer Jo's replacement.</font>
+
+115
+00:09:55,104 --> 00:09:58,904
+<font color="yellow">Not to lose our airing time, we must
+submit a groundbreaking synopsis.</font>
+
+116
+00:10:00,204 --> 00:10:03,834
+<font color="yellow">Did you pick three synopses
+you'd like to recommend?</font>
+
+117
+00:10:03,974 --> 00:10:05,004
+<font color="yellow">- Yes.
+- Yes.</font>
+
+118
+00:10:05,534 --> 00:10:07,694
+<font color="yellow">Can you give your recommendations
+first, Director Han?</font>
+
+119
+00:10:08,474 --> 00:10:10,704
+<font color="yellow">I won't partake in this.</font>
+
+120
+00:10:11,274 --> 00:10:14,134
+<font color="yellow">- Why is that?
+- To make sure, it's chosen fairly.</font>
+
+121
+00:10:14,734 --> 00:10:17,534
+<font color="yellow">I know the titles and the
+names of the writers.</font>
+
+122
+00:10:18,304 --> 00:10:20,834
+<font color="yellow">Okay. Why don't we start with
+you first, Mr. Park Jin Sang?</font>
+
+123
+00:10:20,874 --> 00:10:22,974
+<font color="yellow">- Tell us your recommendations.
+- Yes.</font>
+
+124
+00:10:29,174 --> 00:10:30,704
+<font color="yellow">Seong Joon went to work early.</font>
+
+125
+00:10:30,944 --> 00:10:34,204
+<font color="yellow">He said he was busy with work. He
+didn't even get to have breakfast.</font>
+
+126
+00:10:34,704 --> 00:10:38,234
+<font color="yellow">Did he? I guess Dong Hui
+went in early as well.</font>
+
+127
+00:10:39,634 --> 00:10:44,033
+<font color="yellow">I told you not to bring her up when
+we are talking about Seong Joon.</font>
+
+128
+00:10:44,034 --> 00:10:46,773
+<font color="yellow">Why do you talk about them together?</font>
+
+129
+00:10:46,774 --> 00:10:49,943
+<font color="yellow">They work at the same company.</font>
+
+130
+00:10:49,944 --> 00:10:52,773
+<font color="yellow">Even if they work at the same
+company, Seong Joon is a director...</font>
+
+131
+00:10:52,774 --> 00:10:54,804
+<font color="yellow">and she is just a mere employee.</font>
+
+132
+00:10:54,874 --> 00:10:58,934
+<font color="yellow">How can you put them in the same
+group when you talk? You're his dad.</font>
+
+133
+00:11:01,134 --> 00:11:03,774
+<font color="yellow">Do you think I'm devious like you?</font>
+
+134
+00:11:04,034 --> 00:11:05,604
+<font color="yellow">I didn't mean anything by it.</font>
+
+135
+00:11:05,904 --> 00:11:08,974
+<font color="yellow">Anyway, watch your tongue.
+Whatever you say might come true.</font>
+
+136
+00:11:10,304 --> 00:11:13,304
+<font color="yellow">My gosh. Where are you going?</font>
+
+137
+00:11:14,274 --> 00:11:18,304
+<font color="yellow">I'm going downstairs. Seong
+Hoon didn't go to work yet.</font>
+
+138
+00:11:18,404 --> 00:11:20,324
+<font color="yellow">I'm just going to give him
+some beef bone broth.</font>
+
+139
+00:11:21,034 --> 00:11:22,074
+<font color="yellow">How about mine?</font>
+
+140
+00:11:23,374 --> 00:11:24,474
+<font color="yellow">There's none.</font>
+
+141
+00:11:28,734 --> 00:11:29,834
+<font color="yellow">Okay.</font>
+
+142
+00:11:33,534 --> 00:11:34,634
+<font color="yellow">Goodness. My head hurts.</font>
+
+143
+00:11:35,934 --> 00:11:38,174
+<font color="yellow">Gosh, my head hurts so much.</font>
+
+144
+00:11:38,874 --> 00:11:39,874
+<font color="yellow">My goodness.</font>
+
+145
+00:11:40,734 --> 00:11:43,634
+<font color="yellow">I think I drank too much
+with the Senior Secretary.</font>
+
+146
+00:11:45,874 --> 00:11:47,234
+<font color="yellow">Honey.</font>
+
+147
+00:11:48,874 --> 00:11:52,374
+<font color="yellow">Honey. Get me some water.</font>
+
+148
+00:11:53,504 --> 00:11:55,134
+<font color="yellow">Honey.</font>
+
+149
+00:11:59,974 --> 00:12:00,974
+<font color="yellow">My head.</font>
+
+150
+00:12:05,374 --> 00:12:08,334
+<font color="yellow">I'm dying. Is it water with honey?</font>
+
+151
+00:12:15,474 --> 00:12:18,074
+<font color="yellow">Honey. Can you get me my clothes?</font>
+
+152
+00:12:18,874 --> 00:12:21,534
+<font color="yellow">I have to leave early, but
+look at what I'm doing.</font>
+
+153
+00:12:22,604 --> 00:12:25,574
+<font color="yellow">My gosh. I have to stop by a sauna.</font>
+
+154
+00:12:31,634 --> 00:12:33,704
+<font color="yellow">Who are you?</font>
+
+155
+00:12:36,204 --> 00:12:37,604
+<font color="yellow">It's me. What?</font>
+
+156
+00:12:38,234 --> 00:12:39,434
+<font color="yellow">Seong Hoon?</font>
+
+157
+00:12:40,574 --> 00:12:42,834
+<font color="yellow">Seong Hoon.</font>
+
+158
+00:12:43,204 --> 00:12:46,834
+<font color="yellow">Why are you dressed like a wolf
+in "Little Red Riding Hood"?</font>
+
+159
+00:12:48,134 --> 00:12:51,934
+<font color="yellow">What? A wolf in "Little Red Riding Hood"?</font>
+
+160
+00:12:53,234 --> 00:12:55,374
+<font color="yellow">Sure. I am a wolf, dressed
+up as a lady. So what?</font>
+
+161
+00:12:56,734 --> 00:13:00,704
+<font color="yellow">Get up. Do I need to give you water
+with honey and your clothes?</font>
+
+162
+00:13:03,704 --> 00:13:04,974
+<font color="yellow">Why are you flaring your nose?</font>
+
+163
+00:13:10,634 --> 00:13:11,674
+<font color="yellow">Eat.</font>
+
+164
+00:13:12,374 --> 00:13:14,234
+<font color="yellow">Seong Hoon, what is this?</font>
+
+165
+00:13:14,834 --> 00:13:17,934
+<font color="yellow">Do you have to ask? It's leftover
+fried chicken from yesterday.</font>
+
+166
+00:13:18,634 --> 00:13:19,774
+<font color="yellow">But still, Seong Hoon.</font>
+
+167
+00:13:20,074 --> 00:13:23,574
+<font color="yellow">Who serves leftover fried chicken
+from the day before as breakfast?</font>
+
+168
+00:13:23,774 --> 00:13:26,074
+<font color="yellow">Hey. Be grateful that I'm feeding you.</font>
+
+169
+00:13:26,474 --> 00:13:28,604
+<font color="yellow">Our children went to school
+without having breakfast.</font>
+
+170
+00:13:28,674 --> 00:13:30,574
+<font color="yellow">Seong Hoon, you can't serve this.</font>
+
+171
+00:13:30,634 --> 00:13:32,474
+<font color="yellow">This is ridiculous.</font>
+
+172
+00:13:32,574 --> 00:13:33,654
+<font color="yellow">What are you talking about?</font>
+
+173
+00:13:33,904 --> 00:13:35,034
+<font color="yellow">Where is Hye Joo?</font>
+
+174
+00:13:36,034 --> 00:13:37,234
+<font color="yellow">Of course, she's at work now.</font>
+
+175
+00:13:37,374 --> 00:13:40,674
+<font color="yellow">Then, what about my wife?</font>
+
+176
+00:13:41,304 --> 00:13:42,674
+<font color="yellow">How on earth would I know?</font>
+
+177
+00:13:47,074 --> 00:13:48,134
+<font color="yellow">What are you doing here?</font>
+
+178
+00:13:49,574 --> 00:13:51,674
+<font color="yellow">- Hello, Mom.
+- You're here.</font>
+
+179
+00:13:51,934 --> 00:13:54,134
+<font color="yellow">What are you doing?</font>
+
+180
+00:13:54,304 --> 00:13:55,304
+<font color="yellow">Well...</font>
+
+181
+00:13:55,904 --> 00:13:57,133
+<font color="yellow">Mom, actually...</font>
+
+182
+00:13:57,134 --> 00:13:58,774
+<font color="yellow">Mom, well...</font>
+
+183
+00:13:59,134 --> 00:14:00,204
+<font color="yellow">Oh, boy.</font>
+
+184
+00:14:01,034 --> 00:14:02,334
+<font color="yellow">Seong Hoon!</font>
+
+185
+00:14:09,004 --> 00:14:11,433
+<font color="yellow">These are the survey papers
+for the demonstration.</font>
+
+186
+00:14:11,434 --> 00:14:13,374
+<font color="yellow">Summarize them and make a report.</font>
+
+187
+00:14:13,534 --> 00:14:15,073
+<font color="yellow">What about the spa tickets?</font>
+
+188
+00:14:15,074 --> 00:14:16,603
+<font color="yellow">Find out what happened and
+make a report about it.</font>
+
+189
+00:14:16,604 --> 00:14:17,774
+<font color="yellow">I will.</font>
+
+190
+00:14:18,204 --> 00:14:20,373
+<font color="yellow">I got a lot of calls from your family...</font>
+
+191
+00:14:20,374 --> 00:14:21,803
+<font color="yellow">when you were in the showroom.</font>
+
+192
+00:14:21,804 --> 00:14:24,034
+<font color="yellow">I know, my phone kept ringing.</font>
+
+193
+00:14:27,074 --> 00:14:28,504
+<font color="yellow">You can leave.</font>
+
+194
+00:14:32,304 --> 00:14:34,903
+<font color="yellow">Hello, my dear mother.</font>
+
+195
+00:14:34,904 --> 00:14:36,334
+<font color="yellow">How are you?</font>
+
+196
+00:14:36,904 --> 00:14:38,473
+<font color="yellow">Are you joking me?</font>
+
+197
+00:14:38,474 --> 00:14:40,533
+<font color="yellow">Sorry? I am not.</font>
+
+198
+00:14:40,534 --> 00:14:42,174
+<font color="yellow">Why did you ignore my phone calls?</font>
+
+199
+00:14:42,204 --> 00:14:43,934
+<font color="yellow">I didn't, Mother.</font>
+
+200
+00:14:43,974 --> 00:14:45,204
+<font color="yellow">Don't try to fool me.</font>
+
+201
+00:14:45,674 --> 00:14:48,234
+<font color="yellow">I'm sorry. I was working.</font>
+
+202
+00:14:48,534 --> 00:14:52,004
+<font color="yellow">You don't need to explain. What
+do you think you're doing?</font>
+
+203
+00:14:52,174 --> 00:14:53,873
+<font color="yellow">Pardon? What do you mean?</font>
+
+204
+00:14:53,874 --> 00:14:56,934
+<font color="yellow">Don't ask me. Just come see
+what your husband is doing now!</font>
+
+205
+00:14:57,304 --> 00:15:01,173
+<font color="yellow">Seong Hoon, please take this
+apron and this scarf off.</font>
+
+206
+00:15:01,174 --> 00:15:03,904
+<font color="yellow">Wait. I'm didn't finish the housework yet.</font>
+
+207
+00:15:03,974 --> 00:15:05,404
+<font color="yellow">What?</font>
+
+208
+00:15:05,674 --> 00:15:09,804
+<font color="yellow">How can you do this to my son?</font>
+
+209
+00:15:11,334 --> 00:15:12,434
+<font color="yellow">Mother,</font>
+
+210
+00:15:12,804 --> 00:15:15,234
+<font color="yellow">I am sorry. I was too busy this morning.</font>
+
+211
+00:15:15,334 --> 00:15:18,734
+<font color="yellow">Still, you can't make him wear
+an apron and a scarf like that!</font>
+
+212
+00:15:18,834 --> 00:15:20,734
+<font color="yellow">- Come on.
+- Stop it.</font>
+
+213
+00:15:21,434 --> 00:15:23,503
+<font color="yellow">Mother,</font>
+
+214
+00:15:23,504 --> 00:15:25,934
+<font color="yellow">guys also wear an apron.</font>
+
+215
+00:15:26,204 --> 00:15:27,473
+<font color="yellow">Mine is worn out,</font>
+
+216
+00:15:27,474 --> 00:15:29,755
+<font color="yellow">so I made him wear Hee Sook's
+Doesn't he look good in it?</font>
+
+217
+00:15:30,374 --> 00:15:31,434
+<font color="yellow">He looks like a doll.</font>
+
+218
+00:15:32,234 --> 00:15:33,874
+<font color="yellow">What? A doll?</font>
+
+219
+00:15:36,934 --> 00:15:39,134
+<font color="yellow">Are you trying to mess with me?</font>
+
+220
+00:15:39,474 --> 00:15:41,833
+<font color="yellow">You're living in the same
+house with me, his mother.</font>
+
+221
+00:15:41,834 --> 00:15:46,174
+<font color="yellow">How can you do such a
+barbaric thing to my son?</font>
+
+222
+00:15:46,604 --> 00:15:47,674
+<font color="yellow">Sorry?</font>
+
+223
+00:15:48,074 --> 00:15:49,373
+<font color="yellow">A barbaric thing?</font>
+
+224
+00:15:49,374 --> 00:15:51,733
+<font color="yellow">I've never made him do housework...</font>
+
+225
+00:15:51,734 --> 00:15:54,074
+<font color="yellow">while raising him.</font>
+
+226
+00:15:54,204 --> 00:15:57,473
+<font color="yellow">That's why he's grown into...</font>
+
+227
+00:15:57,474 --> 00:15:59,804
+<font color="yellow">a mother's boy.</font>
+
+228
+00:15:59,904 --> 00:16:02,674
+<font color="yellow">A mother's boy? Did you just say that?</font>
+
+229
+00:16:02,874 --> 00:16:04,134
+<font color="yellow">Say that again.</font>
+
+230
+00:16:04,304 --> 00:16:05,334
+<font color="yellow">Well...</font>
+
+231
+00:16:05,634 --> 00:16:08,174
+<font color="yellow">Actually, Hee Sook...</font>
+
+232
+00:16:08,334 --> 00:16:11,434
+<font color="yellow">Speaking of Hee Sook, where is she now?</font>
+
+233
+00:16:11,634 --> 00:16:13,433
+<font color="yellow">What is she up to these days?</font>
+
+234
+00:16:13,434 --> 00:16:15,003
+<font color="yellow">The house is chaotic.</font>
+
+235
+00:16:15,004 --> 00:16:18,803
+<font color="yellow">Right, Mom. Ask her where my wife is.</font>
+
+236
+00:16:18,804 --> 00:16:20,433
+<font color="yellow">Stay out of it.</font>
+
+237
+00:16:20,434 --> 00:16:23,734
+<font color="yellow">Just take these off now!</font>
+
+238
+00:16:23,874 --> 00:16:24,874
+<font color="yellow">Mother,</font>
+
+239
+00:16:25,234 --> 00:16:28,174
+<font color="yellow">Hee Sook is extremely busy these days.</font>
+
+240
+00:16:28,404 --> 00:16:30,934
+<font color="yellow">Why? Why is she that busy?</font>
+
+241
+00:16:32,634 --> 00:16:33,734
+<font color="yellow">Let's say...</font>
+
+242
+00:16:33,934 --> 00:16:37,334
+<font color="yellow">she's regained the joy of life.</font>
+
+243
+00:16:37,804 --> 00:16:40,034
+<font color="yellow">Please do not stop her.</font>
+
+244
+00:16:40,174 --> 00:16:41,404
+<font color="yellow">Please don't look for her.</font>
+
+245
+00:16:42,134 --> 00:16:44,134
+<font color="yellow">It won't be easy.</font>
+
+246
+00:16:44,304 --> 00:16:46,734
+<font color="yellow">What on earth are you talking about?</font>
+
+247
+00:16:48,134 --> 00:16:50,504
+<font color="yellow">This sikhye is too sweet.</font>
+
+248
+00:16:50,874 --> 00:16:52,733
+<font color="yellow">- Let's drink iced coffee.
+- Okay.</font>
+
+249
+00:16:52,734 --> 00:16:54,234
+<font color="yellow">- I'll go get it.
+- Sure.</font>
+
+250
+00:16:57,674 --> 00:17:00,634
+<font color="yellow">It's all right. Please go sit down.</font>
+
+251
+00:17:01,174 --> 00:17:02,774
+<font color="yellow">Hello.</font>
+
+252
+00:17:03,074 --> 00:17:04,334
+<font color="yellow">Hello.</font>
+
+253
+00:17:05,474 --> 00:17:07,234
+<font color="yellow">Please sit down.</font>
+
+254
+00:17:07,374 --> 00:17:08,804
+<font color="yellow">It's nice to meet you.</font>
+
+255
+00:17:08,934 --> 00:17:11,474
+<font color="yellow">I bought a lot. Why don't
+you share with me?</font>
+
+256
+00:17:11,734 --> 00:17:15,234
+<font color="yellow">I saw the news that the egg price soared.</font>
+
+257
+00:17:15,334 --> 00:17:16,874
+<font color="yellow">And it really did.</font>
+
+258
+00:17:19,674 --> 00:17:22,474
+<font color="yellow">Please have an egg.</font>
+
+259
+00:17:24,034 --> 00:17:25,334
+<font color="yellow">Please enjoy.</font>
+
+260
+00:17:26,004 --> 00:17:28,273
+<font color="yellow">And this is the iced coffee...</font>
+
+261
+00:17:28,274 --> 00:17:31,334
+<font color="yellow">you've wanted to have badly.</font>
+
+262
+00:17:33,934 --> 00:17:36,203
+<font color="yellow">By the way, who are you?</font>
+
+263
+00:17:36,204 --> 00:17:37,274
+<font color="yellow">Aren't you...</font>
+
+264
+00:17:37,534 --> 00:17:39,933
+<font color="yellow">mothers of the 10th-grade
+students who study vocal music...</font>
+
+265
+00:17:39,934 --> 00:17:41,734
+<font color="yellow">in Seoul Munhwa Art High School?</font>
+
+266
+00:17:42,734 --> 00:17:44,874
+<font color="yellow">My son also studies vocal music.</font>
+
+267
+00:17:46,904 --> 00:17:49,334
+<font color="yellow">Your son is In Seok,</font>
+
+268
+00:17:49,574 --> 00:17:52,534
+<font color="yellow">the winner of the recent
+Inha Competition, right?</font>
+
+269
+00:17:53,704 --> 00:17:54,934
+<font color="yellow">No, he's not.</font>
+
+270
+00:17:55,704 --> 00:17:57,874
+<font color="yellow">My son took the third place.</font>
+
+271
+00:17:59,934 --> 00:18:01,003
+<font color="yellow">Sorry?</font>
+
+272
+00:18:01,004 --> 00:18:03,604
+<font color="yellow">The mother of the winner is not here.</font>
+
+273
+00:18:07,234 --> 00:18:08,304
+<font color="yellow">Then,</font>
+
+274
+00:18:09,274 --> 00:18:10,834
+<font color="yellow">where should I go to meet her?</font>
+
+275
+00:18:16,904 --> 00:18:19,774
+<font color="yellow">Thank you for the flowers.</font>
+
+276
+00:18:19,834 --> 00:18:22,604
+<font color="yellow">I'm sure you will be blessed.</font>
+
+277
+00:18:23,604 --> 00:18:25,534
+<font color="yellow">Thank you so much.</font>
+
+278
+00:18:25,974 --> 00:18:27,204
+<font color="yellow">By the way,</font>
+
+279
+00:18:27,674 --> 00:18:30,604
+<font color="yellow">I don't think we've met before.</font>
+
+280
+00:18:30,874 --> 00:18:32,704
+<font color="yellow">I'm sorry I don't recognize you.</font>
+
+281
+00:18:33,374 --> 00:18:35,104
+<font color="yellow">It's all right.</font>
+
+282
+00:18:35,404 --> 00:18:38,904
+<font color="yellow">It's not been long since I came to church.</font>
+
+283
+00:18:41,234 --> 00:18:42,704
+<font color="yellow">I heard...</font>
+
+284
+00:18:42,774 --> 00:18:46,234
+<font color="yellow">that there's a great singer
+in this church's choir.</font>
+
+285
+00:18:48,504 --> 00:18:51,374
+<font color="yellow">That's my youngest son.</font>
+
+286
+00:18:51,834 --> 00:18:54,374
+<font color="yellow">Really?</font>
+
+287
+00:18:55,144 --> 00:18:56,904
+<font color="yellow">He's the winner of Inha competition...</font>
+
+288
+00:18:56,974 --> 00:18:59,304
+<font color="yellow">which is the largest one in Korea, right?</font>
+
+289
+00:18:59,434 --> 00:19:00,674
+<font color="yellow">Isn't he?</font>
+
+290
+00:19:01,004 --> 00:19:05,334
+<font color="yellow">No. My son got the second place.</font>
+
+291
+00:19:05,534 --> 00:19:06,534
+<font color="yellow">Sorry?</font>
+
+292
+00:19:06,834 --> 00:19:09,334
+<font color="yellow">The winner isn't here.</font>
+
+293
+00:19:12,074 --> 00:19:13,304
+<font color="yellow">I see.</font>
+
+294
+00:19:15,334 --> 00:19:16,974
+<font color="yellow">Where is he?</font>
+
+295
+00:19:21,074 --> 00:19:28,034
+<font color="yellow">(3000 bows)</font>
+
+296
+00:19:40,774 --> 00:19:42,644
+<font color="yellow">3000 bows...</font>
+
+297
+00:19:45,104 --> 00:19:46,374
+<font color="yellow">My goodness.</font>
+
+298
+00:19:47,804 --> 00:19:49,334
+<font color="yellow">Gosh.</font>
+
+299
+00:19:50,144 --> 00:19:52,604
+<font color="yellow">All right. Let's draw a conclusion, then.</font>
+
+300
+00:19:52,774 --> 00:19:55,774
+<font color="yellow">Let's start from Producer Kim.
+Which one do you want?</font>
+
+301
+00:19:55,904 --> 00:19:57,974
+<font color="yellow">I like the third one.</font>
+
+302
+00:19:58,144 --> 00:20:00,103
+<font color="yellow">As the life is rough,</font>
+
+303
+00:20:00,104 --> 00:20:02,273
+<font color="yellow">even I feel exhausted when I read...</font>
+
+304
+00:20:02,274 --> 00:20:03,874
+<font color="yellow">complicated and serious scenarios.</font>
+
+305
+00:20:04,104 --> 00:20:07,474
+<font color="yellow">I think choosing a light one
+is strategically good as well.</font>
+
+306
+00:20:07,534 --> 00:20:09,833
+<font color="yellow">No way. Only young people will like it.</font>
+
+307
+00:20:09,834 --> 00:20:12,274
+<font color="yellow">I like the first one the most.</font>
+
+308
+00:20:12,574 --> 00:20:14,933
+<font color="yellow">It's about adults' passionate love.</font>
+
+309
+00:20:14,934 --> 00:20:17,774
+<font color="yellow">"Way to Incheon Port". The
+title is fascinating.</font>
+
+310
+00:20:17,804 --> 00:20:19,834
+<font color="yellow">What did they do on their
+way to Incheon Port?</font>
+
+311
+00:20:20,034 --> 00:20:23,573
+<font color="yellow">They wouldn't just stop at a
+service area and have some snack.</font>
+
+312
+00:20:23,574 --> 00:20:25,644
+<font color="yellow">But I don't like adultery.</font>
+
+313
+00:20:26,034 --> 00:20:28,004
+<font color="yellow">I like the third one like Producer Kim.</font>
+
+314
+00:20:28,334 --> 00:20:29,434
+<font color="yellow">I just feel like...</font>
+
+315
+00:20:29,734 --> 00:20:31,234
+<font color="yellow">people will like it.</font>
+
+316
+00:20:31,404 --> 00:20:32,504
+<font color="yellow">I like the third one, too.</font>
+
+317
+00:20:32,804 --> 00:20:36,603
+<font color="yellow">I think the writer is talented.
+It's very fresh.</font>
+
+318
+00:20:36,604 --> 00:20:39,333
+<font color="yellow">The issue is whether it will
+pass the censorship or not.</font>
+
+319
+00:20:39,334 --> 00:20:40,574
+<font color="yellow">I also like the third one.</font>
+
+320
+00:20:41,334 --> 00:20:43,004
+<font color="yellow">"Romance Learned through Books."</font>
+
+321
+00:20:43,374 --> 00:20:44,604
+<font color="yellow">I like it.</font>
+
+322
+00:20:44,734 --> 00:20:47,103
+<font color="yellow">If the quality of the script is
+as good as that of the synopsis,</font>
+
+323
+00:20:47,104 --> 00:20:48,474
+<font color="yellow">it will be a hit.</font>
+
+324
+00:20:49,274 --> 00:20:51,573
+<font color="yellow">This is a new writing style. Director Han,</font>
+
+325
+00:20:51,574 --> 00:20:52,934
+<font color="yellow">is it written by a budding writer?</font>
+
+326
+00:20:55,304 --> 00:20:56,373
+<font color="yellow">Yes.</font>
+
+327
+00:20:56,374 --> 00:20:58,833
+<font color="yellow">Still, the writer doesn't
+seem like a complete novice.</font>
+
+328
+00:20:58,834 --> 00:21:01,504
+<font color="yellow">It's good since it's not awkward
+while it's fresh and unique.</font>
+
+329
+00:21:02,204 --> 00:21:04,274
+<font color="yellow">Then, I'll leave the negotiation to you.</font>
+
+330
+00:21:04,604 --> 00:21:05,874
+<font color="yellow">We'll go with this one.</font>
+
+331
+00:21:06,174 --> 00:21:07,604
+<font color="yellow">What's the name of the writer?</font>
+
+332
+00:21:16,274 --> 00:21:19,033
+<font color="yellow">Hello, I'm from the headquarters.
+I'm here for the assessment.</font>
+
+333
+00:21:19,034 --> 00:21:20,233
+<font color="yellow">- Welcome.
+- Hello.</font>
+
+334
+00:21:20,234 --> 00:21:22,673
+<font color="yellow">- Aren't you cold?
+- I'm okay.</font>
+
+335
+00:21:22,674 --> 00:21:24,274
+<font color="yellow">Do you want some hot tea?</font>
+
+336
+00:21:24,774 --> 00:21:26,034
+<font color="yellow">Yes, please. Thank you.</font>
+
+337
+00:21:28,144 --> 00:21:29,874
+<font color="yellow">Director Han, who's the writer?</font>
+
+338
+00:21:32,734 --> 00:21:34,034
+<font color="yellow">Why are you silent?</font>
+
+339
+00:21:34,404 --> 00:21:35,404
+<font color="yellow">Director Han.</font>
+
+340
+00:21:37,874 --> 00:21:38,904
+<font color="yellow">Well,</font>
+
+341
+00:21:39,804 --> 00:21:40,804
+<font color="yellow">the writer is...</font>
+
+342
+00:21:45,204 --> 00:21:46,674
+<font color="yellow">Oh Dong Hui.</font>
+
+343
+00:21:47,034 --> 00:21:48,274
+<font color="yellow">- What?
+- Pardon?</font>
+
+344
+00:21:55,704 --> 00:21:56,834
+<font color="yellow">Dong Hui?</font>
+
+345
+00:21:56,934 --> 00:21:58,734
+<font color="yellow">You mean Dong Hui in our office?</font>
+
+346
+00:21:59,504 --> 00:22:00,534
+<font color="yellow">Yes.</font>
+
+347
+00:22:01,074 --> 00:22:04,004
+<font color="yellow">Yes, Assistant Dong Hui wrote the scenario.</font>
+
+348
+00:22:07,734 --> 00:22:11,104
+<font color="yellow">Do you mean the Dong Hui...</font>
+
+349
+00:22:11,204 --> 00:22:13,534
+<font color="yellow">who's visiting stores outside now?</font>
+
+350
+00:22:14,574 --> 00:22:15,604
+<font color="yellow">Yes.</font>
+
+351
+00:22:24,574 --> 00:22:26,004
+<font color="yellow">Are you out of mind?</font>
+
+352
+00:22:26,134 --> 00:22:27,503
+<font color="yellow">This is your workplace.</font>
+
+353
+00:22:27,504 --> 00:22:30,174
+<font color="yellow">This place isn't for your
+romantic relationship!</font>
+
+354
+00:22:30,274 --> 00:22:32,734
+<font color="yellow">- Director Bang.
+- I said we should focus on work.</font>
+
+355
+00:22:32,934 --> 00:22:35,204
+<font color="yellow">I said you and Dong Hui
+should focus on work.</font>
+
+356
+00:22:35,274 --> 00:22:36,904
+<font color="yellow">Do you have to do this...</font>
+
+357
+00:22:37,104 --> 00:22:39,004
+<font color="yellow">in the same office with me?</font>
+
+358
+00:22:39,374 --> 00:22:40,633
+<font color="yellow">What are you talking about?</font>
+
+359
+00:22:40,634 --> 00:22:42,504
+<font color="yellow">Do you think I'm a fool?</font>
+
+360
+00:22:42,604 --> 00:22:44,724
+<font color="yellow">Did you think I wouldn't
+notice if you stayed silent?</font>
+
+361
+00:22:45,734 --> 00:22:47,804
+<font color="yellow">Is this why you two were in
+the rooftop room together?</font>
+
+362
+00:22:47,834 --> 00:22:49,004
+<font color="yellow">Is this what you did there?</font>
+
+363
+00:22:49,304 --> 00:22:51,574
+<font color="yellow">Do you want to make your precious
+Dong Hui become a writer...</font>
+
+364
+00:22:51,674 --> 00:22:53,534
+<font color="yellow">even by using such a dirty means?</font>
+
+365
+00:22:53,804 --> 00:22:54,804
+<font color="yellow">What...</font>
+
+366
+00:22:55,804 --> 00:22:57,304
+<font color="yellow">What did you just say?</font>
+
+367
+00:22:59,274 --> 00:23:01,274
+<font color="yellow">Do you think I showed you her scenario...</font>
+
+368
+00:23:01,774 --> 00:23:03,674
+<font color="yellow">because I love her?</font>
+
+369
+00:23:03,774 --> 00:23:04,833
+<font color="yellow">Then, why did you do that?</font>
+
+370
+00:23:04,834 --> 00:23:06,834
+<font color="yellow">Do you really think I'm such a scum?</font>
+
+371
+00:23:07,204 --> 00:23:10,034
+<font color="yellow">This is my job and my career.</font>
+
+372
+00:23:10,434 --> 00:23:13,604
+<font color="yellow">And the future of the staff members
+is riding on this project.</font>
+
+373
+00:23:13,934 --> 00:23:15,134
+<font color="yellow">And...</font>
+
+374
+00:23:16,274 --> 00:23:19,533
+<font color="yellow">you think I showed you the script
+just to flirt with Dong Hui?</font>
+
+375
+00:23:19,534 --> 00:23:22,503
+<font color="yellow">Do you think her scenario is
+good enough to be selected?</font>
+
+376
+00:23:22,504 --> 00:23:23,734
+<font color="yellow">You already recognized her writing.</font>
+
+377
+00:23:23,834 --> 00:23:26,373
+<font color="yellow">You said that her scenarios
+is better than the rest.</font>
+
+378
+00:23:26,374 --> 00:23:27,774
+<font color="yellow">Director Han!</font>
+
+379
+00:23:27,874 --> 00:23:30,303
+<font color="yellow">I need you to calm down and
+read the scenarios over again.</font>
+
+380
+00:23:30,304 --> 00:23:31,334
+<font color="yellow">After that,</font>
+
+381
+00:23:31,734 --> 00:23:33,604
+<font color="yellow">you can choose the one you like the most.</font>
+
+382
+00:23:34,074 --> 00:23:36,573
+<font color="yellow">We need your approval after all.</font>
+
+383
+00:23:36,574 --> 00:23:40,134
+<font color="yellow">And I won't push ahead with the
+scenario you didn't approve of.</font>
+
+384
+00:24:11,474 --> 00:24:15,433
+<font color="yellow">(Lee Jae Cheol)</font>
+
+385
+00:24:15,434 --> 00:24:16,434
+<font color="yellow">Dad,</font>
+
+386
+00:24:17,974 --> 00:24:19,334
+<font color="yellow">I found Sang Woo.</font>
+
+387
+00:24:22,434 --> 00:24:23,534
+<font color="yellow">But things are bad.</font>
+
+388
+00:24:24,904 --> 00:24:26,834
+<font color="yellow">What should I do with him?</font>
+
+389
+00:24:29,134 --> 00:24:30,904
+<font color="yellow">Did you know about this from the beginning?</font>
+
+390
+00:24:32,674 --> 00:24:34,304
+<font color="yellow">Why didn't you do anything?</font>
+
+391
+00:24:35,134 --> 00:24:36,934
+<font color="yellow">Why on earth did you...</font>
+
+392
+00:24:37,974 --> 00:24:39,674
+<font color="yellow">let the evil guy raise Sang Woo?</font>
+
+393
+00:24:41,774 --> 00:24:43,634
+<font color="yellow">What should I do now?</font>
+
+394
+00:24:44,734 --> 00:24:47,634
+<font color="yellow">Why am I the only one left
+with difficult choices?</font>
+
+395
+00:24:48,674 --> 00:24:49,734
+<font color="yellow">Answer me.</font>
+
+396
+00:24:55,934 --> 00:24:57,904
+<font color="yellow">I didn't mean to offend you.</font>
+
+397
+00:24:58,304 --> 00:24:59,804
+<font color="yellow">But I think...</font>
+
+398
+00:25:00,534 --> 00:25:03,504
+<font color="yellow">family can help each other out...</font>
+
+399
+00:25:03,974 --> 00:25:05,474
+<font color="yellow">better than others.</font>
+
+400
+00:25:06,034 --> 00:25:08,934
+<font color="yellow">You really love your family.</font>
+
+401
+00:25:09,574 --> 00:25:12,674
+<font color="yellow">I owe a lot to my family.</font>
+
+402
+00:25:14,834 --> 00:25:16,274
+<font color="yellow">It will take forever...</font>
+
+403
+00:25:17,034 --> 00:25:18,904
+<font color="yellow">to repay their kindness.</font>
+
+404
+00:25:20,234 --> 00:25:21,834
+<font color="yellow">My family is all I have.</font>
+
+405
+00:25:22,974 --> 00:25:24,274
+<font color="yellow">They matter the most to me.</font>
+
+406
+00:25:25,834 --> 00:25:29,204
+<font color="yellow">Wait, why did you put your stone there?</font>
+
+407
+00:25:29,604 --> 00:25:32,534
+<font color="yellow">Dad, I did to win.</font>
+
+408
+00:25:33,104 --> 00:25:36,904
+<font color="yellow">Gosh, it's me who raised
+you into a smart guy.</font>
+
+409
+00:26:16,334 --> 00:26:17,504
+<font color="yellow">Hyun Woo!</font>
+
+410
+00:26:24,604 --> 00:26:26,504
+<font color="yellow">What are you doing here?</font>
+
+411
+00:26:28,134 --> 00:26:29,374
+<font color="yellow">Where have you been?</font>
+
+412
+00:26:34,804 --> 00:26:38,874
+<font color="yellow">I went to the construction site
+because you didn't answer the phone.</font>
+
+413
+00:26:41,374 --> 00:26:45,204
+<font color="yellow">I gave some coffee and a
+sandwich to the manager...</font>
+
+414
+00:26:45,434 --> 00:26:47,374
+<font color="yellow">because it's really cold today.</font>
+
+415
+00:26:51,904 --> 00:26:53,134
+<font color="yellow">Wait here.</font>
+
+416
+00:27:03,174 --> 00:27:05,234
+<font color="yellow">Making a heart shape with this isn't easy.</font>
+
+417
+00:27:09,874 --> 00:27:13,804
+<font color="yellow">Surprise! Do you like it?
+I made it for you.</font>
+
+418
+00:27:16,404 --> 00:27:17,404
+<font color="yellow">What is this?</font>
+
+419
+00:27:18,174 --> 00:27:21,104
+<font color="yellow">Sweets are the best remedy for the blues.</font>
+
+420
+00:27:21,474 --> 00:27:22,674
+<font color="yellow">Have some.</font>
+
+421
+00:27:30,304 --> 00:27:33,074
+<font color="yellow">How is it? Isn't it tasty?</font>
+
+422
+00:27:44,134 --> 00:27:45,704
+<font color="yellow">Did something happen?</font>
+
+423
+00:27:46,334 --> 00:27:49,774
+<font color="yellow">I was worried as I couldn't reach
+you after you went to the station.</font>
+
+424
+00:27:50,804 --> 00:27:52,004
+<font color="yellow">Did something...</font>
+
+425
+00:27:52,934 --> 00:27:56,034
+<font color="yellow">go wrong with your brother?</font>
+
+426
+00:27:59,134 --> 00:28:00,304
+<font color="yellow">I found...</font>
+
+427
+00:28:03,374 --> 00:28:05,874
+<font color="yellow">- my brother.
+- Really?</font>
+
+428
+00:28:06,304 --> 00:28:08,304
+<font color="yellow">Did you really find Sang Woo?</font>
+
+429
+00:28:09,874 --> 00:28:10,904
+<font color="yellow">Yes.</font>
+
+430
+00:28:13,504 --> 00:28:16,834
+<font color="yellow">That's so great. I'm happy for you.</font>
+
+431
+00:28:22,134 --> 00:28:24,504
+<font color="yellow">How is he doing? Has he been well?</font>
+
+432
+00:28:24,774 --> 00:28:27,334
+<font color="yellow">Where has he been? Did you meet him?</font>
+
+433
+00:28:34,074 --> 00:28:35,174
+<font color="yellow">I guess...</font>
+
+434
+00:28:35,704 --> 00:28:38,104
+<font color="yellow">there's something bad again.</font>
+
+435
+00:28:39,274 --> 00:28:40,704
+<font color="yellow">Is my guess right?</font>
+
+436
+00:28:44,404 --> 00:28:46,604
+<font color="yellow">No, it's not.</font>
+
+437
+00:28:49,374 --> 00:28:50,504
+<font color="yellow">Is Sang Woo...</font>
+
+438
+00:28:51,374 --> 00:28:53,804
+<font color="yellow">leading an unhappy life?</font>
+
+439
+00:28:56,174 --> 00:28:57,174
+<font color="yellow">No.</font>
+
+440
+00:28:59,104 --> 00:29:00,874
+<font color="yellow">He seemed very happy.</font>
+
+441
+00:29:01,334 --> 00:29:04,904
+<font color="yellow">Then, go tell him that
+you're his brother...</font>
+
+442
+00:29:05,004 --> 00:29:08,204
+<font color="yellow">and you'd been looking for him.
+Apologize to him for taking so long.</font>
+
+443
+00:29:11,174 --> 00:29:12,474
+<font color="yellow">I can't.</font>
+
+444
+00:29:14,134 --> 00:29:16,934
+<font color="yellow">- I can't do that.
+- Why not?</font>
+
+445
+00:29:19,534 --> 00:29:21,704
+<font color="yellow">I don't know if it's a good idea...</font>
+
+446
+00:29:23,634 --> 00:29:25,504
+<font color="yellow">to show up in front of him.</font>
+
+447
+00:29:28,404 --> 00:29:32,374
+<font color="yellow">What are you talking about? You've
+been waiting for that moment.</font>
+
+448
+00:29:33,804 --> 00:29:34,874
+<font color="yellow">You're right.</font>
+
+449
+00:29:36,404 --> 00:29:38,204
+<font color="yellow">This is the day I've been waiting for.</font>
+
+450
+00:29:40,674 --> 00:29:42,434
+<font color="yellow">I overcame all the hardships...</font>
+
+451
+00:29:43,974 --> 00:29:46,234
+<font color="yellow">only for this moment.</font>
+
+452
+00:29:48,904 --> 00:29:50,404
+<font color="yellow">I thought I'd want nothing more...</font>
+
+453
+00:29:51,774 --> 00:29:53,934
+<font color="yellow">only if I could find him.</font>
+
+454
+00:29:57,234 --> 00:29:58,874
+<font color="yellow">But if I tell him that I'm his brother,</font>
+
+455
+00:30:00,304 --> 00:30:02,274
+<font color="yellow">he'll be unhappy.</font>
+
+456
+00:30:03,074 --> 00:30:05,304
+<font color="yellow">That doesn't make sense at all!</font>
+
+457
+00:30:07,904 --> 00:30:10,104
+<font color="yellow">I really have no idea what to do.</font>
+
+458
+00:30:12,134 --> 00:30:14,134
+<font color="yellow">I don't know what choice
+I should make for him.</font>
+
+459
+00:30:25,804 --> 00:30:27,504
+<font color="yellow">Poor Hyun Woo.</font>
+
+460
+00:30:28,434 --> 00:30:32,034
+<font color="yellow">You don't need to think that way.
+Please don't.</font>
+
+461
+00:30:33,074 --> 00:30:35,074
+<font color="yellow">You've long yearned for him.</font>
+
+462
+00:30:37,134 --> 00:30:39,004
+<font color="yellow">Please go see him.</font>
+
+463
+00:30:39,404 --> 00:30:41,774
+<font color="yellow">You should meet him and call
+his name at least once.</font>
+
+464
+00:31:00,474 --> 00:31:02,174
+<font color="yellow">This is unexpected.</font>
+
+465
+00:31:03,274 --> 00:31:07,234
+<font color="yellow">Her scenario was selected as a runner-up.
+She must be good.</font>
+
+466
+00:31:07,404 --> 00:31:10,734
+<font color="yellow">Well, there are good budding writers.</font>
+
+467
+00:31:12,274 --> 00:31:14,774
+<font color="yellow">Don't pretend to be cool.</font>
+
+468
+00:31:14,974 --> 00:31:16,274
+<font color="yellow">We cannot...</font>
+
+469
+00:31:16,304 --> 00:31:19,934
+<font color="yellow">let such an amateur become a
+substitute writer of our company.</font>
+
+470
+00:31:22,134 --> 00:31:25,974
+<font color="yellow">I think Director Bang and
+Han are having a fight.</font>
+
+471
+00:31:26,104 --> 00:31:30,204
+<font color="yellow">I bet they already had a big fight.</font>
+
+472
+00:31:31,234 --> 00:31:34,874
+<font color="yellow">I'm sorry for being late. There
+was a problem at a store.</font>
+
+473
+00:31:35,074 --> 00:31:37,704
+<font color="yellow">Writer Oh, welcome back.</font>
+
+474
+00:31:37,734 --> 00:31:40,674
+<font color="yellow">You're back, Writer Oh.</font>
+
+475
+00:31:41,634 --> 00:31:43,234
+<font color="yellow">What's going on?</font>
+
+476
+00:31:43,304 --> 00:31:47,204
+<font color="yellow">Dong Hui, you're very canny.</font>
+
+477
+00:31:47,504 --> 00:31:50,574
+<font color="yellow">- Sorry?
+- Dong Hui, go to Director's office.</font>
+
+478
+00:31:51,174 --> 00:31:52,174
+<font color="yellow">Okay.</font>
+
+479
+00:31:53,104 --> 00:31:54,424
+<font color="yellow">("Romance Learned through Books")</font>
+
+480
+00:32:03,774 --> 00:32:05,074
+<font color="yellow">What are you doing?</font>
+
+481
+00:32:06,174 --> 00:32:09,474
+<font color="yellow">Get out. I need you to leave
+our company right now!</font>
+
+482
+00:32:11,874 --> 00:32:14,134
+<font color="yellow">Still, you can't throw things like that.</font>
+
+483
+00:32:15,234 --> 00:32:18,834
+<font color="yellow">What is it again? Fine. Just tell
+me the reason before I leave.</font>
+
+484
+00:32:19,074 --> 00:32:20,604
+<font color="yellow">You're such a foxy witch.</font>
+
+485
+00:32:20,804 --> 00:32:23,034
+<font color="yellow">You played the victim all the time
+as if you were the poorest girl...</font>
+
+486
+00:32:23,104 --> 00:32:26,474
+<font color="yellow">in the world. Did you think you
+could hide it from me forever?</font>
+
+487
+00:32:26,734 --> 00:32:28,304
+<font color="yellow">Do you think this is your playground?</font>
+
+488
+00:32:28,574 --> 00:32:31,534
+<font color="yellow">I have no idea what you are talking about.
+Just get to the point.</font>
+
+489
+00:32:31,774 --> 00:32:35,274
+<font color="yellow">And I neither played the victim
+nor hid something from you.</font>
+
+490
+00:32:36,004 --> 00:32:38,734
+<font color="yellow">It's you who make me
+feel as I'm the victim.</font>
+
+491
+00:32:38,834 --> 00:32:42,874
+<font color="yellow">Anyway, you are fired as of today. Leave!</font>
+
+492
+00:32:43,404 --> 00:32:46,334
+<font color="yellow">I am asking what the reason is. Tell me.</font>
+
+493
+00:32:46,604 --> 00:32:49,404
+<font color="yellow">Explain why you treat me like this.</font>
+
+494
+00:32:49,474 --> 00:32:52,074
+<font color="yellow">I know you coaxed Director Han
+into selecting your script.</font>
+
+495
+00:32:52,174 --> 00:32:54,674
+<font color="yellow">You're working at the rooftop of his
+house, saying you're an in-law.</font>
+
+496
+00:32:54,704 --> 00:32:57,834
+<font color="yellow">You even flirted with him by
+asking him to help you write.</font>
+
+497
+00:32:58,134 --> 00:33:01,574
+<font color="yellow">Isn't making him select
+your scenario your plan?</font>
+
+498
+00:33:03,174 --> 00:33:06,274
+<font color="yellow">- My scenario? - "Romance
+Learned through Books".</font>
+
+499
+00:33:06,704 --> 00:33:08,134
+<font color="yellow">Isn't that yours?</font>
+
+500
+00:33:09,734 --> 00:33:11,234
+<font color="yellow">How do you...</font>
+
+501
+00:33:14,704 --> 00:33:16,133
+<font color="yellow">(Self-statement for nomination)</font>
+
+502
+00:33:16,134 --> 00:33:18,134
+<font color="yellow">"Have you bought a property..."</font>
+
+503
+00:33:18,404 --> 00:33:21,574
+<font color="yellow">"with the information you learned at work?"</font>
+
+504
+00:33:23,904 --> 00:33:26,774
+<font color="yellow">I barely make my both ends meet.
+How can I afford a property?</font>
+
+505
+00:33:29,174 --> 00:33:30,204
+<font color="yellow">"No."</font>
+
+506
+00:33:31,504 --> 00:33:32,574
+<font color="yellow">"No."</font>
+
+507
+00:33:34,204 --> 00:33:37,204
+<font color="yellow">Why isn't Ms. Jang calling me?</font>
+
+508
+00:33:37,474 --> 00:33:39,434
+<font color="yellow">I took care of her business well.</font>
+
+509
+00:33:39,574 --> 00:33:42,233
+<font color="yellow">So she should call me first and thank me.</font>
+
+510
+00:33:42,234 --> 00:33:44,104
+<font color="yellow">I left her so many text messages.</font>
+
+511
+00:33:52,804 --> 00:33:56,073
+<font color="yellow">The number you have dialed...</font>
+
+512
+00:33:56,074 --> 00:33:58,104
+<font color="yellow">What's going on?</font>
+
+513
+00:33:58,204 --> 00:34:00,334
+<font color="yellow">Is not available at this moment.</font>
+
+514
+00:34:04,774 --> 00:34:07,134
+<font color="yellow">Is her family celebrating the occasion?</font>
+
+515
+00:34:08,104 --> 00:34:09,204
+<font color="yellow">Gosh, Ms. Jang.</font>
+
+516
+00:34:09,734 --> 00:34:11,704
+<font color="yellow">You should still answer the phone.</font>
+
+517
+00:34:17,674 --> 00:34:20,504
+<font color="yellow">"Have you ever been involved in
+a rumor for an immoral act..."</font>
+
+518
+00:34:20,634 --> 00:34:22,504
+<font color="yellow">"including sexual harassment?"</font>
+
+519
+00:34:24,274 --> 00:34:26,004
+<font color="yellow">I would never sexually harass someone.</font>
+
+520
+00:34:26,104 --> 00:34:29,574
+<font color="yellow">I only dated Ms. Jang.</font>
+
+521
+00:34:30,504 --> 00:34:31,544
+<font color="yellow">"No."</font>
+
+522
+00:34:32,074 --> 00:34:33,134
+<font color="yellow">"No."</font>
+
+523
+00:34:40,934 --> 00:34:43,373
+<font color="yellow">The number you have dialed is
+not available at this moment.</font>
+
+524
+00:34:43,374 --> 00:34:45,333
+<font color="yellow">Where did you go, Ms. Jang?</font>
+
+525
+00:34:45,334 --> 00:34:47,074
+<font color="yellow">Why won't you pick up the phone?</font>
+
+526
+00:34:48,404 --> 00:34:49,934
+<font color="yellow">Gosh.</font>
+
+527
+00:34:51,504 --> 00:34:52,634
+<font color="yellow">Yes.</font>
+
+528
+00:34:53,604 --> 00:34:54,974
+<font color="yellow">Where are you, Honey?</font>
+
+529
+00:34:55,774 --> 00:34:57,973
+<font color="yellow">Mother yelled at me this morning,</font>
+
+530
+00:34:57,974 --> 00:34:59,544
+<font color="yellow">so I came home early.</font>
+
+531
+00:34:59,904 --> 00:35:03,004
+<font color="yellow">You didn't have to do that. You
+should focus on your work.</font>
+
+532
+00:35:04,304 --> 00:35:07,804
+<font color="yellow">I told you not to care too
+much about what Mom says.</font>
+
+533
+00:35:08,104 --> 00:35:10,403
+<font color="yellow">How am I supposed to do that?</font>
+
+534
+00:35:10,404 --> 00:35:12,634
+<font color="yellow">Try being her daughter-in-law for 20 years.</font>
+
+535
+00:35:13,174 --> 00:35:15,334
+<font color="yellow">Even 20 years isn't enough.</font>
+
+536
+00:35:16,604 --> 00:35:17,844
+<font color="yellow">By the way, where are the kids?</font>
+
+537
+00:35:18,204 --> 00:35:20,674
+<font color="yellow">I'm going to feed them dinner here.</font>
+
+538
+00:35:23,634 --> 00:35:26,134
+<font color="yellow">Here are the new dishes.</font>
+
+539
+00:35:26,474 --> 00:35:28,104
+<font color="yellow">This is spicy, so you should eat it.</font>
+
+540
+00:35:28,274 --> 00:35:29,934
+<font color="yellow">Ah In, you should eat the sweet one, okay?</font>
+
+541
+00:35:29,974 --> 00:35:31,873
+<font color="yellow">Okay. Thank you.</font>
+
+542
+00:35:31,874 --> 00:35:33,574
+<font color="yellow">- Thank you.
+- You sweetie pies.</font>
+
+543
+00:35:34,504 --> 00:35:36,544
+<font color="yellow">You should just take a good rest.</font>
+
+544
+00:35:36,804 --> 00:35:39,574
+<font color="yellow">I should clean the house then.</font>
+
+545
+00:35:39,634 --> 00:35:40,874
+<font color="yellow">All right. Bye.</font>
+
+546
+00:35:41,044 --> 00:35:42,174
+<font color="yellow">Bye.</font>
+
+547
+00:35:44,134 --> 00:35:46,304
+<font color="yellow">Let's eat.</font>
+
+548
+00:35:50,774 --> 00:35:52,634
+<font color="yellow">Seong Hoon! Seong Hoon!</font>
+
+549
+00:35:53,574 --> 00:35:56,174
+<font color="yellow">Why aren't you picking up your phone?</font>
+
+550
+00:35:56,834 --> 00:35:57,934
+<font color="yellow">Did you call me?</font>
+
+551
+00:35:58,334 --> 00:35:59,434
+<font color="yellow">Did I call you?</font>
+
+552
+00:36:00,004 --> 00:36:02,474
+<font color="yellow">How can a restaurant owner
+not pick up the phone?</font>
+
+553
+00:36:02,574 --> 00:36:03,574
+<font color="yellow">Why did you call?</font>
+
+554
+00:36:03,974 --> 00:36:06,834
+<font color="yellow">I was trying to order
+fried chicken for dinner.</font>
+
+555
+00:36:07,834 --> 00:36:08,904
+<font color="yellow">Hey,</font>
+
+556
+00:36:09,874 --> 00:36:12,504
+<font color="yellow">why do I have to deliver fried
+chicken to your office?</font>
+
+557
+00:36:13,044 --> 00:36:15,174
+<font color="yellow">Why not? You should if
+you want to earn money.</font>
+
+558
+00:36:16,604 --> 00:36:18,504
+<font color="yellow">- What did you say?
+- Hey,</font>
+
+559
+00:36:18,874 --> 00:36:20,004
+<font color="yellow">the kids are watching.</font>
+
+560
+00:36:21,044 --> 00:36:22,474
+<font color="yellow">Calm down. Okay?</font>
+
+561
+00:36:22,734 --> 00:36:25,674
+<font color="yellow">Sit next to them and eat
+when I say it nicely.</font>
+
+562
+00:36:27,634 --> 00:36:28,674
+<font color="yellow">Okay.</font>
+
+563
+00:36:35,704 --> 00:36:36,803
+<font color="yellow">Hello.</font>
+
+564
+00:36:36,804 --> 00:36:38,334
+<font color="yellow">Hello.</font>
+
+565
+00:36:41,474 --> 00:36:43,404
+<font color="yellow">Long time no see.</font>
+
+566
+00:36:43,834 --> 00:36:44,874
+<font color="yellow">Yes.</font>
+
+567
+00:36:45,544 --> 00:36:46,674
+<font color="yellow">How have you been?</font>
+
+568
+00:36:47,544 --> 00:36:49,934
+<font color="yellow">You're studying well, right?</font>
+
+569
+00:36:50,734 --> 00:36:53,274
+<font color="yellow">- What?
+- Be quiet and just eat.</font>
+
+570
+00:36:55,874 --> 00:36:57,204
+<font color="yellow">All right.</font>
+
+571
+00:36:59,304 --> 00:37:00,634
+<font color="yellow">I need that.</font>
+
+572
+00:37:01,574 --> 00:37:04,074
+<font color="yellow">Otherwise, my hand will get dirty.</font>
+
+573
+00:37:20,904 --> 00:37:23,004
+<font color="yellow">Gosh, I'm so tired.</font>
+
+574
+00:37:24,304 --> 00:37:26,634
+<font color="yellow">I have to do house chores
+after I come home from work.</font>
+
+575
+00:37:33,404 --> 00:37:37,434
+<font color="yellow">Where on earth did Hee Sook go?</font>
+
+576
+00:37:44,704 --> 00:37:45,834
+<font color="yellow">Hello.</font>
+
+577
+00:37:47,934 --> 00:37:49,004
+<font color="yellow">Hello.</font>
+
+578
+00:37:51,274 --> 00:37:54,734
+<font color="yellow">Why are you smiling like that?</font>
+
+579
+00:37:56,544 --> 00:37:59,074
+<font color="yellow">Hey, what are you doing?</font>
+
+580
+00:37:59,974 --> 00:38:01,044
+<font color="yellow">What?</font>
+
+581
+00:38:01,334 --> 00:38:02,404
+<font color="yellow">Did you just...</font>
+
+582
+00:38:03,174 --> 00:38:05,204
+<font color="yellow">Gosh, I can't believe this.</font>
+
+583
+00:38:06,004 --> 00:38:08,834
+<font color="yellow">What's up with your hair and clothes?</font>
+
+584
+00:38:09,074 --> 00:38:11,474
+<font color="yellow">And what's that pretentious behavior?</font>
+
+585
+00:38:11,734 --> 00:38:14,214
+<font color="yellow">My mother told me that the student
+studying classical music...</font>
+
+586
+00:38:14,334 --> 00:38:16,833
+<font color="yellow">must dress neatly, classy,</font>
+
+587
+00:38:16,834 --> 00:38:18,804
+<font color="yellow">and behave elegantly.</font>
+
+588
+00:38:20,904 --> 00:38:22,134
+<font color="yellow">Goodness.</font>
+
+589
+00:38:22,374 --> 00:38:24,733
+<font color="yellow">My mother thinks about me all day,</font>
+
+590
+00:38:24,734 --> 00:38:27,434
+<font color="yellow">so she bought me the
+entire outfit in no time.</font>
+
+591
+00:38:27,574 --> 00:38:29,673
+<font color="yellow">In the past, I used to wear
+a cheap t-shirt on top,</font>
+
+592
+00:38:29,674 --> 00:38:32,804
+<font color="yellow">gym shorts on the bottom, and no socks.</font>
+
+593
+00:38:33,004 --> 00:38:35,734
+<font color="yellow">Now, I am wearing a dress shirt, a belt,</font>
+
+594
+00:38:35,774 --> 00:38:38,334
+<font color="yellow">well-ironed trousers,</font>
+
+595
+00:38:38,874 --> 00:38:41,874
+<font color="yellow">and socks that are carefully
+selected to match the colors.</font>
+
+596
+00:38:45,874 --> 00:38:46,934
+<font color="yellow">So?</font>
+
+597
+00:38:47,204 --> 00:38:48,574
+<font color="yellow">I'm just saying.</font>
+
+598
+00:38:50,634 --> 00:38:51,634
+<font color="yellow">Hey!</font>
+
+599
+00:38:52,544 --> 00:38:54,074
+<font color="yellow">Why are you yelling?</font>
+
+600
+00:38:54,934 --> 00:38:56,903
+<font color="yellow">You are just unbelievable.</font>
+
+601
+00:38:56,904 --> 00:38:59,804
+<font color="yellow">You constantly surprise me.</font>
+
+602
+00:38:59,874 --> 00:39:02,334
+<font color="yellow">You should watch and reflect on yourself.</font>
+
+603
+00:39:03,774 --> 00:39:06,544
+<font color="yellow">You should reflect on yourself.</font>
+
+604
+00:39:07,234 --> 00:39:09,574
+<font color="yellow">I knew you were immature,</font>
+
+605
+00:39:10,104 --> 00:39:13,673
+<font color="yellow">how can you stick so closely to
+your mom when I'm just downstairs?</font>
+
+606
+00:39:13,674 --> 00:39:16,233
+<font color="yellow">How can you appear in front of
+your former mom in this outfit...</font>
+
+607
+00:39:16,234 --> 00:39:17,633
+<font color="yellow">and tell me to reflect on myself?</font>
+
+608
+00:39:17,634 --> 00:39:20,973
+<font color="yellow">Is that an appropriate behavior for
+someone who was once your mom?</font>
+
+609
+00:39:20,974 --> 00:39:22,704
+<font color="yellow">Is it?</font>
+
+610
+00:39:24,234 --> 00:39:25,904
+<font color="yellow">Also, hey,</font>
+
+611
+00:39:26,234 --> 00:39:28,834
+<font color="yellow">what's the point of dressing so nicely?</font>
+
+612
+00:39:28,874 --> 00:39:30,503
+<font color="yellow">You are just going to eat a lot...</font>
+
+613
+00:39:30,504 --> 00:39:32,273
+<font color="yellow">and get Kimchi all over your shirt.</font>
+
+614
+00:39:32,274 --> 00:39:35,474
+<font color="yellow">It's going to get covered in food.
+Don't you think I know you?</font>
+
+615
+00:39:36,304 --> 00:39:37,374
+<font color="yellow">I no longer...</font>
+
+616
+00:39:37,604 --> 00:39:39,504
+<font color="yellow">eat too much.</font>
+
+617
+00:39:40,174 --> 00:39:41,204
+<font color="yellow">What?</font>
+
+618
+00:39:41,604 --> 00:39:45,304
+<font color="yellow">My mother said I should have
+class to study classical music.</font>
+
+619
+00:39:45,434 --> 00:39:47,874
+<font color="yellow">I have to sing, so I don't
+have to lose any weight.</font>
+
+620
+00:39:48,174 --> 00:39:50,204
+<font color="yellow">But she said I shouldn't
+gain any more weight.</font>
+
+621
+00:39:50,604 --> 00:39:51,604
+<font color="yellow">So?</font>
+
+622
+00:39:51,605 --> 00:39:54,904
+<font color="yellow">I've decided to drink this
+refreshing iced barley tea...</font>
+
+623
+00:39:55,544 --> 00:39:56,974
+<font color="yellow">for dinner.</font>
+
+624
+00:40:00,174 --> 00:40:01,974
+<font color="yellow">Then I will get going then.</font>
+
+625
+00:40:05,604 --> 00:40:06,604
+<font color="yellow">Hey.</font>
+
+626
+00:40:06,804 --> 00:40:09,374
+<font color="yellow">- Go inside your room fast.
+- Don't upset me more.</font>
+
+627
+00:40:09,604 --> 00:40:12,934
+<font color="yellow">Be patient. My mother said I shouldn't...</font>
+
+628
+00:40:13,004 --> 00:40:15,544
+<font color="yellow">act rashly if I were to do classical music.</font>
+
+629
+00:40:22,274 --> 00:40:23,504
+<font color="yellow">Chang Soo!</font>
+
+630
+00:40:28,934 --> 00:40:30,004
+<font color="yellow">My head hurts.</font>
+
+631
+00:40:30,604 --> 00:40:34,634
+<font color="yellow">My head hurts. What's wrong with my life?</font>
+
+632
+00:40:36,434 --> 00:40:40,774
+<font color="yellow">Why did our children have to be switched?</font>
+
+633
+00:40:42,074 --> 00:40:45,043
+<font color="yellow">I really want to move. I want to move.</font>
+
+634
+00:40:45,044 --> 00:40:46,504
+<font color="yellow">It's killing me.</font>
+
+635
+00:40:51,804 --> 00:40:53,934
+<font color="yellow">Hey, where are you now?</font>
+
+636
+00:40:55,074 --> 00:40:58,874
+<font color="yellow">I don't think I can go
+home today, Hye Sook.</font>
+
+637
+00:40:59,204 --> 00:41:00,704
+<font color="yellow">Why not? Where are you?</font>
+
+638
+00:41:01,134 --> 00:41:03,874
+<font color="yellow">I'm at a Buddhist temple.</font>
+
+639
+00:41:04,544 --> 00:41:06,274
+<font color="yellow">Why did you go there?</font>
+
+640
+00:41:08,004 --> 00:41:10,503
+<font color="yellow">I have to bow 3,000 times today.</font>
+
+641
+00:41:10,504 --> 00:41:12,274
+<font color="yellow">So please take care of the kids.</font>
+
+642
+00:41:12,474 --> 00:41:15,174
+<font color="yellow">Please prepare a suit for my
+husband tomorrow morning.</font>
+
+643
+00:41:15,604 --> 00:41:16,774
+<font color="yellow">What?</font>
+
+644
+00:41:17,134 --> 00:41:18,734
+<font color="yellow">Hee Sook!</font>
+
+645
+00:41:18,804 --> 00:41:20,074
+<font color="yellow">Thank you, Hee Sook.</font>
+
+646
+00:42:10,434 --> 00:42:11,504
+<font color="yellow">Hello.</font>
+
+647
+00:42:12,304 --> 00:42:15,074
+<font color="yellow">- Hello.
+- Did you come for your son?</font>
+
+648
+00:42:15,274 --> 00:42:18,204
+<font color="yellow">Yes. My son is a musician.</font>
+
+649
+00:42:18,674 --> 00:42:21,304
+<font color="yellow">I am praying so that he will
+do well in a competition.</font>
+
+650
+00:42:21,334 --> 00:42:22,974
+<font color="yellow">I see.</font>
+
+651
+00:42:23,704 --> 00:42:26,174
+<font color="yellow">My son is a musician, too.</font>
+
+652
+00:42:26,734 --> 00:42:27,804
+<font color="yellow">He has to...</font>
+
+653
+00:42:28,674 --> 00:42:29,974
+<font color="yellow">go on a competition, too.</font>
+
+654
+00:42:31,574 --> 00:42:32,574
+<font color="yellow">I see.</font>
+
+655
+00:43:08,404 --> 00:43:11,634
+<font color="yellow">Moong Chi, I feel sad. Don't bother me.</font>
+
+656
+00:43:12,604 --> 00:43:14,673
+<font color="yellow">I am going to bite anyone...</font>
+
+657
+00:43:14,674 --> 00:43:16,834
+<font color="yellow">who bothers me today.</font>
+
+658
+00:43:17,004 --> 00:43:18,804
+<font color="yellow">So don't bother me.</font>
+
+659
+00:44:12,074 --> 00:44:13,304
+<font color="yellow">Pour me a drink, will you?</font>
+
+660
+00:44:19,004 --> 00:44:21,734
+<font color="yellow">Do you mind if I join you?</font>
+
+661
+00:44:47,674 --> 00:44:48,674
+<font color="yellow">Let me.</font>
+
+662
+00:44:50,604 --> 00:44:51,734
+<font color="yellow">I'll pour you one.</font>
+
+663
+00:45:04,404 --> 00:45:05,504
+<font color="yellow">This is unexpected.</font>
+
+664
+00:45:06,834 --> 00:45:08,604
+<font color="yellow">I thought you hated me.</font>
+
+665
+00:45:09,174 --> 00:45:12,134
+<font color="yellow">I still don't like you very much.</font>
+
+666
+00:45:17,674 --> 00:45:21,074
+<font color="yellow">I feel like you're
+hovering around my family.</font>
+
+667
+00:45:22,504 --> 00:45:25,504
+<font color="yellow">I still have doubts about you.</font>
+
+668
+00:45:29,234 --> 00:45:30,274
+<font color="yellow">But...</font>
+
+669
+00:45:34,234 --> 00:45:38,034
+<font color="yellow">I thought maybe you have
+something you want to say to me.</font>
+
+670
+00:45:42,874 --> 00:45:44,034
+<font color="yellow">I think...</font>
+
+671
+00:45:45,174 --> 00:45:47,204
+<font color="yellow">you called me that night.</font>
+
+672
+00:45:56,934 --> 00:45:57,934
+<font color="yellow">Do you think so?</font>
+
+673
+00:45:59,674 --> 00:46:00,704
+<font color="yellow">Yes.</font>
+
+674
+00:46:01,634 --> 00:46:04,104
+<font color="yellow">Did I hear it wrong?</font>
+
+675
+00:46:05,804 --> 00:46:09,374
+<font color="yellow">No. I called you Sang Woo.</font>
+
+676
+00:46:11,534 --> 00:46:12,604
+<font color="yellow">Sang Woo...</font>
+
+677
+00:46:14,674 --> 00:46:17,374
+<font color="yellow">Who is Sang Woo?</font>
+
+678
+00:46:21,774 --> 00:46:22,934
+<font color="yellow">He's my brother.</font>
+
+679
+00:46:43,034 --> 00:46:45,474
+<font color="yellow">- Hi, Mom.
+- Where are you?</font>
+
+680
+00:46:45,574 --> 00:46:47,904
+<font color="yellow">- I'm at a place near our house.
+- Have you had dinner?</font>
+
+681
+00:46:50,574 --> 00:46:52,104
+<font color="yellow">How are you going to eat dinner?</font>
+
+682
+00:46:52,604 --> 00:46:54,933
+<font color="yellow">You should tell me how you'll eat dinner,</font>
+
+683
+00:46:54,934 --> 00:46:57,904
+<font color="yellow">so I can know whether I
+should fix you dinner or not.</font>
+
+684
+00:46:58,704 --> 00:47:01,274
+<font color="yellow">You don't have to. I'll
+go and do it myself.</font>
+
+685
+00:47:03,474 --> 00:47:06,274
+<font color="yellow">I made kimchi stew today.</font>
+
+686
+00:47:06,304 --> 00:47:08,674
+<font color="yellow">Come and eat it before the meat gets cold.</font>
+
+687
+00:47:09,134 --> 00:47:12,074
+<font color="yellow">Okay. I will. See you soon, Mom.</font>
+
+688
+00:47:16,434 --> 00:47:17,474
+<font color="yellow">I'm sorry.</font>
+
+689
+00:47:20,404 --> 00:47:23,304
+<font color="yellow">If you haven't had dinner
+yet, you can order some food.</font>
+
+690
+00:47:23,934 --> 00:47:27,804
+<font color="yellow">No. My mom says she made
+kimchi stew at home.</font>
+
+691
+00:47:28,834 --> 00:47:31,004
+<font color="yellow">She must've worked hard to make it.</font>
+
+692
+00:47:31,574 --> 00:47:33,804
+<font color="yellow">I should go and eat it.</font>
+
+693
+00:47:36,474 --> 00:47:39,104
+<font color="yellow">- I see.
+- That's right.</font>
+
+694
+00:47:40,674 --> 00:47:44,874
+<font color="yellow">You said your brother's
+name is Sang Woo, right?</font>
+
+695
+00:47:47,334 --> 00:47:48,334
+<font color="yellow">Yes.</font>
+
+696
+00:47:52,034 --> 00:47:53,434
+<font color="yellow">Didn't I tell you before?</font>
+
+697
+00:47:54,404 --> 00:47:56,774
+<font color="yellow">I have a brother who is around your age.</font>
+
+698
+00:48:04,504 --> 00:48:06,574
+<font color="yellow">I lost him when I was seven years old.</font>
+
+699
+00:48:08,474 --> 00:48:09,834
+<font color="yellow">His name is Lee Sang Woo.</font>
+
+700
+00:48:11,904 --> 00:48:13,534
+<font color="yellow">He's the same age as you.</font>
+
+701
+00:48:17,334 --> 00:48:18,574
+<font color="yellow">I see.</font>
+
+702
+00:48:20,934 --> 00:48:23,174
+<font color="yellow">I moved to this neighborhood to find him,</font>
+
+703
+00:48:24,674 --> 00:48:25,774
+<font color="yellow">and I found out...</font>
+
+704
+00:48:27,204 --> 00:48:29,704
+<font color="yellow">you've been adopted.</font>
+
+705
+00:48:32,174 --> 00:48:33,174
+<font color="yellow">That's why I...</font>
+
+706
+00:48:35,734 --> 00:48:36,934
+<font color="yellow">I'm sorry.</font>
+
+707
+00:48:38,804 --> 00:48:41,085
+<font color="yellow">I asked you a question about
+a sensitive matter abruptly.</font>
+
+708
+00:48:42,974 --> 00:48:44,004
+<font color="yellow">That's what happened.</font>
+
+709
+00:48:45,904 --> 00:48:47,274
+<font color="yellow">I didn't know.</font>
+
+710
+00:48:49,104 --> 00:48:51,274
+<font color="yellow">I'm sorry, too.</font>
+
+711
+00:48:54,274 --> 00:48:55,304
+<font color="yellow">Not at all.</font>
+
+712
+00:48:58,304 --> 00:48:59,804
+<font color="yellow">I've been hoping...</font>
+
+713
+00:49:00,934 --> 00:49:04,274
+<font color="yellow">my whole life that Sang Woo would have...</font>
+
+714
+00:49:06,604 --> 00:49:09,204
+<font color="yellow">grown into a healthy and decent
+man with a loving family...</font>
+
+715
+00:49:10,234 --> 00:49:12,104
+<font color="yellow">just like you.</font>
+
+716
+00:49:15,034 --> 00:49:16,434
+<font color="yellow">I guess...</font>
+
+717
+00:49:17,574 --> 00:49:20,604
+<font color="yellow">that's why I called you
+Sang Woo without realizing.</font>
+
+718
+00:49:21,834 --> 00:49:22,904
+<font color="yellow">I'm sorry.</font>
+
+719
+00:49:23,334 --> 00:49:26,674
+<font color="yellow">I didn't know that was the reason
+for your kindness and interest.</font>
+
+720
+00:49:31,374 --> 00:49:32,374
+<font color="yellow">So,</font>
+
+721
+00:49:34,034 --> 00:49:35,834
+<font color="yellow">did you find your brother?</font>
+
+722
+00:49:40,674 --> 00:49:41,934
+<font color="yellow">I'm sure you will find him.</font>
+
+723
+00:49:43,004 --> 00:49:44,034
+<font color="yellow">I'm also sure...</font>
+
+724
+00:49:45,104 --> 00:49:48,334
+<font color="yellow">he would've grown into a
+better man than I am.</font>
+
+725
+00:49:50,734 --> 00:49:52,974
+<font color="yellow">- Seong Joon.
+- Yes?</font>
+
+726
+00:49:53,834 --> 00:49:55,674
+<font color="yellow">Are you happy with your family?</font>
+
+727
+00:49:57,604 --> 00:49:58,604
+<font color="yellow">Of course.</font>
+
+728
+00:49:59,504 --> 00:50:02,534
+<font color="yellow">Is there anyone who is not
+happy with their family?</font>
+
+729
+00:50:05,504 --> 00:50:07,104
+<font color="yellow">To me, my family is...</font>
+
+730
+00:50:08,034 --> 00:50:09,934
+<font color="yellow">more valuable than my own life.</font>
+
+731
+00:50:11,974 --> 00:50:13,004
+<font color="yellow">I'm sure that...</font>
+
+732
+00:50:14,074 --> 00:50:15,574
+<font color="yellow">Sang Woo would be as happy as me.</font>
+
+733
+00:50:16,704 --> 00:50:17,904
+<font color="yellow">Don't worry.</font>
+
+734
+00:50:51,604 --> 00:50:52,604
+<font color="yellow">I think...</font>
+
+735
+00:50:53,934 --> 00:50:55,304
+<font color="yellow">I lost.</font>
+
+736
+00:50:55,704 --> 00:50:58,034
+<font color="yellow">What do you mean, President Lee?</font>
+
+737
+00:51:01,074 --> 00:51:02,904
+<font color="yellow">I think Hyung Seop has...</font>
+
+738
+00:51:04,434 --> 00:51:05,774
+<font color="yellow">defeated me.</font>
+
+739
+00:51:20,234 --> 00:51:21,274
+<font color="yellow">Gosh, it hurts.</font>
+
+740
+00:51:22,774 --> 00:51:24,104
+<font color="yellow">Hee Sook, what on earth...</font>
+
+741
+00:51:26,434 --> 00:51:27,734
+<font color="yellow">I made...</font>
+
+742
+00:51:29,504 --> 00:51:32,174
+<font color="yellow">I made 3,000 bows at the temple.</font>
+
+743
+00:51:36,074 --> 00:51:38,434
+<font color="yellow">- Hee Sook. Are you okay?
+- Gosh.</font>
+
+744
+00:51:39,874 --> 00:51:43,104
+<font color="yellow">I think I'm going to enter nirvana soon.</font>
+
+745
+00:51:44,104 --> 00:51:47,034
+<font color="yellow">You can't enter nirvana. Hold on.</font>
+
+746
+00:51:48,674 --> 00:51:49,774
+<font color="yellow">My goodness.</font>
+
+747
+00:51:52,704 --> 00:51:55,304
+<font color="yellow">By the way, Mother is very upset, Hee Sook.</font>
+
+748
+00:51:55,474 --> 00:51:56,934
+<font color="yellow">I don't care.</font>
+
+749
+00:52:00,874 --> 00:52:03,304
+<font color="yellow">Here. Look.</font>
+
+750
+00:52:03,534 --> 00:52:04,534
+<font color="yellow">What's this?</font>
+
+751
+00:52:04,534 --> 00:52:05,534
+<font color="yellow">(Mr. Kang)</font>
+
+752
+00:52:05,804 --> 00:52:09,034
+<font color="yellow">He's the best vocal music teacher there is.</font>
+
+753
+00:52:11,734 --> 00:52:13,704
+<font color="yellow">He's the best teacher in this country.</font>
+
+754
+00:52:14,304 --> 00:52:16,274
+<font color="yellow">How did you get his number?</font>
+
+755
+00:52:17,534 --> 00:52:19,774
+<font color="yellow">After I made 3,000 bows at the temple,</font>
+
+756
+00:52:21,004 --> 00:52:23,274
+<font color="yellow">I thought I was going to die, Hye Joo.</font>
+
+757
+00:52:24,204 --> 00:52:26,873
+<font color="yellow">You know I hardly make bows...</font>
+
+758
+00:52:26,874 --> 00:52:28,704
+<font color="yellow">to anyone.</font>
+
+759
+00:52:28,834 --> 00:52:31,634
+<font color="yellow">I do know. You're an arrogant person.</font>
+
+760
+00:52:31,674 --> 00:52:33,004
+<font color="yellow">Gosh, Hye Joo.</font>
+
+761
+00:52:33,974 --> 00:52:36,934
+<font color="yellow">I really...</font>
+
+762
+00:52:37,734 --> 00:52:41,574
+<font color="yellow">made 3,000 bows at the temple.</font>
+
+763
+00:52:41,604 --> 00:52:43,174
+<font color="yellow">- My gosh, it hurts.
+- Really?</font>
+
+764
+00:52:46,674 --> 00:52:48,734
+<font color="yellow">By the way, is this 6 or 8?</font>
+
+765
+00:52:48,774 --> 00:52:51,004
+<font color="yellow">I think it got smudged by your sweat.</font>
+
+766
+00:52:52,674 --> 00:52:54,704
+<font color="yellow">- What did you say?
+- Here.</font>
+
+767
+00:53:01,174 --> 00:53:02,374
+<font color="yellow">Why are you crying, Chang Soo?</font>
+
+768
+00:53:03,204 --> 00:53:07,004
+<font color="yellow">Mom. Kids at school make fun of me.</font>
+
+769
+00:53:08,034 --> 00:53:09,904
+<font color="yellow">Why? With what?</font>
+
+770
+00:53:10,004 --> 00:53:12,874
+<font color="yellow">They say my face looks
+bigger with this hair.</font>
+
+771
+00:53:13,604 --> 00:53:16,774
+<font color="yellow">What? Who said that?</font>
+
+772
+00:53:17,204 --> 00:53:19,534
+<font color="yellow">Who said my son's face is big?</font>
+
+773
+00:53:20,274 --> 00:53:21,274
+<font color="yellow">The kids at school.</font>
+
+774
+00:53:26,434 --> 00:53:29,404
+<font color="yellow">I will go and teach them a lesson.</font>
+
+775
+00:53:29,674 --> 00:53:32,074
+<font color="yellow">Gosh. My son doesn't have a big face.</font>
+
+776
+00:53:32,574 --> 00:53:33,934
+<font color="yellow">Don't cry.</font>
+
+777
+00:53:34,234 --> 00:53:38,273
+<font color="yellow">Your face isn't big at all. My goodness.</font>
+
+778
+00:53:38,274 --> 00:53:40,234
+<font color="yellow">My poor baby.</font>
+
+779
+00:53:40,404 --> 00:53:41,574
+<font color="yellow">Goodness.</font>
+
+780
+00:53:42,604 --> 00:53:45,004
+<font color="yellow">I should really move out of this house.</font>
+
+781
+00:53:52,804 --> 00:53:55,474
+<font color="yellow">No. I must be crazy.</font>
+
+782
+00:53:55,874 --> 00:53:58,104
+<font color="yellow">I guess I'm still crazy. No.</font>
+
+783
+00:54:02,534 --> 00:54:03,574
+<font color="yellow">Aunt.</font>
+
+784
+00:54:03,704 --> 00:54:05,334
+<font color="yellow">Yes. Hello.</font>
+
+785
+00:54:05,634 --> 00:54:07,574
+<font color="yellow">Chang Soo. Come and say hello.</font>
+
+786
+00:54:07,904 --> 00:54:09,803
+<font color="yellow">- Hello.
+- Hi, Chang Soo.</font>
+
+787
+00:54:09,804 --> 00:54:11,204
+<font color="yellow">Come and have a seat.</font>
+
+788
+00:54:11,934 --> 00:54:13,934
+<font color="yellow">Here. Let's sit.</font>
+
+789
+00:54:14,174 --> 00:54:16,774
+<font color="yellow">Oh, my. Hee Sook. What's wrong?</font>
+
+790
+00:54:18,004 --> 00:54:21,134
+<font color="yellow">Well... It's nothing. I'm fine, Aunt.</font>
+
+791
+00:54:22,204 --> 00:54:23,234
+<font color="yellow">Goodness.</font>
+
+792
+00:54:23,834 --> 00:54:26,374
+<font color="yellow">Chang Soo. I heard that you
+study vocal music now.</font>
+
+793
+00:54:26,674 --> 00:54:28,504
+<font color="yellow">- Yes.
+- My gosh.</font>
+
+794
+00:54:28,704 --> 00:54:31,474
+<font color="yellow">I've never imagined that
+you'd study singing.</font>
+
+795
+00:54:32,904 --> 00:54:34,404
+<font color="yellow">That makes two of us.</font>
+
+796
+00:54:35,834 --> 00:54:38,704
+<font color="yellow">That's right. Have you found a teacher yet?</font>
+
+797
+00:54:38,974 --> 00:54:42,174
+<font color="yellow">I don't think Professor Park can teach you.</font>
+
+798
+00:54:42,734 --> 00:54:44,674
+<font color="yellow">You're right. That's why...</font>
+
+799
+00:54:44,904 --> 00:54:46,633
+<font color="yellow">I think I will let him teach Chang Soo.</font>
+
+800
+00:54:46,634 --> 00:54:48,574
+<font color="yellow">I was wondering if you know him.</font>
+
+801
+00:54:50,474 --> 00:54:52,904
+<font color="yellow">Well, he's not such a great teacher.</font>
+
+802
+00:54:54,774 --> 00:54:57,833
+<font color="yellow">Wait. Why not? Among other parents,</font>
+
+803
+00:54:57,834 --> 00:55:00,634
+<font color="yellow">he's considered as the best teacher.</font>
+
+804
+00:55:00,774 --> 00:55:03,874
+<font color="yellow">It was so hard for me to get his number.</font>
+
+805
+00:55:05,234 --> 00:55:07,973
+<font color="yellow">People like you who don't know him well...</font>
+
+806
+00:55:07,974 --> 00:55:10,604
+<font color="yellow">would think that he is a great teacher.</font>
+
+807
+00:55:10,934 --> 00:55:12,634
+<font color="yellow">But the way I see it,</font>
+
+808
+00:55:13,534 --> 00:55:16,533
+<font color="yellow">everyone is just mediocre except for...</font>
+
+809
+00:55:16,534 --> 00:55:18,074
+<font color="yellow">one man.</font>
+
+810
+00:55:18,874 --> 00:55:21,174
+<font color="yellow">One man? Who is that?</font>
+
+811
+00:55:23,034 --> 00:55:24,134
+<font color="yellow">He was...</font>
+
+812
+00:55:25,234 --> 00:55:27,074
+<font color="yellow">the best singer I've ever known.</font>
+
+813
+00:55:28,204 --> 00:55:30,274
+<font color="yellow">Oh, my. Who is it?</font>
+
+814
+00:55:30,634 --> 00:55:33,933
+<font color="yellow">Just someone I know. Stop asking.
+It's painful to talk about him.</font>
+
+815
+00:55:33,934 --> 00:55:36,004
+<font color="yellow">Just let Mr. Kang teach Chang Soo.</font>
+
+816
+00:55:37,034 --> 00:55:38,354
+<font color="yellow">"It's painful to talk about him"?</font>
+
+817
+00:55:39,034 --> 00:55:41,573
+<font color="yellow">If Chang Soo is going to
+work as a singer in Korea,</font>
+
+818
+00:55:41,574 --> 00:55:43,104
+<font color="yellow">Mr. Kang won't be a bad teacher.</font>
+
+819
+00:55:43,234 --> 00:55:45,104
+<font color="yellow">I just have high standards.</font>
+
+820
+00:55:45,534 --> 00:55:48,533
+<font color="yellow">Aunt. Who is that man?
+Tell me more about him.</font>
+
+821
+00:55:48,534 --> 00:55:49,904
+<font color="yellow">Forget it.</font>
+
+822
+00:56:00,434 --> 00:56:02,904
+<font color="yellow">Gosh, Aunt. Come on.</font>
+
+823
+00:56:03,104 --> 00:56:06,174
+<font color="yellow">Who is the man you just mentioned?</font>
+
+824
+00:56:06,704 --> 00:56:08,674
+<font color="yellow">Could you please tell me? Please.</font>
+
+825
+00:56:09,474 --> 00:56:10,874
+<font color="yellow">Stop bothering me.</font>
+
+826
+00:56:11,074 --> 00:56:13,374
+<font color="yellow">I'm listening to music. Be quiet.</font>
+
+827
+00:56:15,174 --> 00:56:17,134
+<font color="yellow">Aunt. Please tell me who he is.</font>
+
+828
+00:56:57,634 --> 00:56:58,704
+<font color="yellow">Hello?</font>
+
+829
+00:56:58,904 --> 00:57:00,374
+<font color="yellow">Can I see you for a second?</font>
+
+830
+00:57:12,734 --> 00:57:15,104
+<font color="yellow">I'm surprised that you let
+me come into your workroom.</font>
+
+831
+00:57:18,704 --> 00:57:19,834
+<font color="yellow">How...</font>
+
+832
+00:57:20,304 --> 00:57:23,474
+<font color="yellow">could you do such thing without
+discussing it with me?</font>
+
+833
+00:57:23,734 --> 00:57:25,833
+<font color="yellow">- Dong Hui.
+- You know better than anyone...</font>
+
+834
+00:57:25,834 --> 00:57:27,874
+<font color="yellow">that I've worked so hard to write...</font>
+
+835
+00:57:27,904 --> 00:57:29,374
+<font color="yellow">each and every word of it.</font>
+
+836
+00:57:29,534 --> 00:57:31,334
+<font color="yellow">How could you do such a thing?</font>
+
+837
+00:57:31,804 --> 00:57:34,734
+<font color="yellow">Why did you use my script
+without asking me first?</font>
+
+838
+00:57:34,934 --> 00:57:37,704
+<font color="yellow">Why did you sell my baby
+without my approval?</font>
+
+839
+00:57:38,174 --> 00:57:39,204
+<font color="yellow">How is it...</font>
+
+840
+00:57:39,574 --> 00:57:41,204
+<font color="yellow">just your baby?</font>
+
+841
+00:57:41,474 --> 00:57:44,034
+<font color="yellow">I also helped that script grow.</font>
+
+842
+00:57:44,134 --> 00:57:45,134
+<font color="yellow">Even so,</font>
+
+843
+00:57:45,604 --> 00:57:47,804
+<font color="yellow">you didn't have to do that.</font>
+
+844
+00:57:47,934 --> 00:57:51,834
+<font color="yellow">Now people say I'm debuting because
+of you, not because of my work.</font>
+
+845
+00:57:52,704 --> 00:57:54,534
+<font color="yellow">Are you complaining about it?</font>
+
+846
+00:57:55,474 --> 00:57:57,373
+<font color="yellow">I chose good synopses among...</font>
+
+847
+00:57:57,374 --> 00:57:59,534
+<font color="yellow">the ones I had, and gave
+them out to the team.</font>
+
+848
+00:57:59,934 --> 00:58:03,004
+<font color="yellow">We took a vote, and your work was chosen.</font>
+
+849
+00:58:03,334 --> 00:58:05,504
+<font color="yellow">I never forced anyone to pick yours.</font>
+
+850
+00:58:06,034 --> 00:58:09,103
+<font color="yellow">I'm asking why you included
+mine along with those...</font>
+
+851
+00:58:09,104 --> 00:58:10,634
+<font color="yellow">great synopses.</font>
+
+852
+00:58:10,704 --> 00:58:13,533
+<font color="yellow">They picked yours without
+realizing that it's yours.</font>
+
+853
+00:58:13,534 --> 00:58:15,474
+<font color="yellow">If they had known, they
+wouldn't have picked it.</font>
+
+854
+00:58:15,704 --> 00:58:17,134
+<font color="yellow">They know they shouldn't.</font>
+
+855
+00:58:17,334 --> 00:58:18,433
+<font color="yellow">What did you say?</font>
+
+856
+00:58:18,434 --> 00:58:20,634
+<font color="yellow">Why are you so insecure
+about your own work?</font>
+
+857
+00:58:20,904 --> 00:58:24,474
+<font color="yellow">You call it your baby. How could
+you have such little trust in it?</font>
+
+858
+00:58:24,774 --> 00:58:26,304
+<font color="yellow">- Look.
+- Also,</font>
+
+859
+00:58:26,534 --> 00:58:29,034
+<font color="yellow">who says I helped you make your debut?</font>
+
+860
+00:58:29,334 --> 00:58:32,173
+<font color="yellow">Does that mean I helped
+you debut because...</font>
+
+861
+00:58:32,174 --> 00:58:34,274
+<font color="yellow">I want to get on the right side of you?</font>
+
+862
+00:58:34,974 --> 00:58:36,134
+<font color="yellow">Why would I?</font>
+
+863
+00:58:37,404 --> 00:58:39,704
+<font color="yellow">Why do I have to try to be in your favor?</font>
+
+864
+00:58:40,074 --> 00:58:41,304
+<font color="yellow">What did you say?</font>
+
+865
+00:58:41,474 --> 00:58:43,204
+<font color="yellow">This is so insulting.</font>
+
+866
+00:58:43,834 --> 00:58:46,174
+<font color="yellow">What do you all take me for?</font>
+
+867
+00:58:46,704 --> 00:58:50,174
+<font color="yellow">I'm confident that I'm
+a competent producer.</font>
+
+868
+00:58:50,274 --> 00:58:54,134
+<font color="yellow">Even if they give me 100 beautiful
+actresses like Scarlett Johansson,</font>
+
+869
+00:58:54,434 --> 00:58:55,903
+<font color="yellow">I would never trade it...</font>
+
+870
+00:58:55,904 --> 00:58:58,303
+<font color="yellow">with one great script.</font>
+
+871
+00:58:58,304 --> 00:58:59,934
+<font color="yellow">- Do you get it?
+- My gosh.</font>
+
+872
+00:59:00,774 --> 00:59:03,574
+<font color="yellow">Anyhow, I will never do it.
+I wanted to let you know.</font>
+
+873
+00:59:03,674 --> 00:59:04,734
+<font color="yellow">Forget it, then.</font>
+
+874
+00:59:04,904 --> 00:59:07,033
+<font color="yellow">You're kicking away your own fortune.</font>
+
+875
+00:59:07,034 --> 00:59:09,334
+<font color="yellow">A great opportunity comes
+along, but you don't take it.</font>
+
+876
+00:59:09,374 --> 00:59:10,704
+<font color="yellow">Suit yourself, then.</font>
+
+877
+00:59:12,234 --> 00:59:13,274
+<font color="yellow">Hey!</font>
+
+878
+00:59:13,374 --> 00:59:15,474
+<font color="yellow">Did you just yell at me?</font>
+
+879
+00:59:15,534 --> 00:59:17,734
+<font color="yellow">Yes, I did. What are you going to do?</font>
+
+880
+00:59:17,804 --> 00:59:19,173
+<font color="yellow">My gosh. Hey!</font>
+
+881
+00:59:19,174 --> 00:59:20,174
+<font color="yellow">What?</font>
+
+882
+00:59:34,474 --> 00:59:35,674
+<font color="yellow">Aren't you going to eat lunch?</font>
+
+883
+00:59:37,104 --> 00:59:38,404
+<font color="yellow">I'm just going to take a rest.</font>
+
+884
+00:59:40,774 --> 00:59:43,934
+<font color="yellow">Are you getting ready for the
+stockholders' meeting tomorrow?</font>
+
+885
+00:59:44,104 --> 00:59:45,634
+<font color="yellow">Please get out.</font>
+
+886
+00:59:55,534 --> 00:59:57,134
+<font color="yellow">Lunch is ready, Sir.</font>
+
+887
+00:59:59,074 --> 01:00:01,674
+<font color="yellow">Gosh. It's bean paste stew again.</font>
+
+888
+01:00:03,274 --> 01:00:06,174
+<font color="yellow">I like bean paste stew very much.</font>
+
+889
+01:00:08,074 --> 01:00:10,373
+<font color="yellow">How long have you been
+working in our house?</font>
+
+890
+01:00:10,374 --> 01:00:12,274
+<font color="yellow">It's been five years.</font>
+
+891
+01:00:13,134 --> 01:00:14,404
+<font color="yellow">It hasn't been that long.</font>
+
+892
+01:00:14,934 --> 01:00:18,534
+<font color="yellow">We once had a housekeeper who
+worked here for 20 years.</font>
+
+893
+01:00:20,274 --> 01:00:22,734
+<font color="yellow">She made...</font>
+
+894
+01:00:22,934 --> 01:00:25,474
+<font color="yellow">such delicious bean paste stew.</font>
+
+895
+01:00:27,604 --> 01:00:28,634
+<font color="yellow">President Bang.</font>
+
+896
+01:00:29,334 --> 01:00:30,404
+<font color="yellow">Yes.</font>
+
+897
+01:00:32,974 --> 01:00:35,374
+<font color="yellow">So, how did it go?</font>
+
+898
+01:00:41,674 --> 01:00:42,734
+<font color="yellow">Is that so?</font>
+
+899
+01:00:44,234 --> 01:00:46,404
+<font color="yellow">I said I'll fold it for you.</font>
+
+900
+01:00:46,774 --> 01:00:48,434
+<font color="yellow">Just eat your tangerines.</font>
+
+901
+01:00:49,134 --> 01:00:52,134
+<font color="yellow">I'll fold my own laundry.</font>
+
+902
+01:00:53,104 --> 01:00:56,504
+<font color="yellow">I know that you're bothered
+that I'm living off you.</font>
+
+903
+01:00:56,804 --> 01:00:59,634
+<font color="yellow">I can imagine what you're going to say...</font>
+
+904
+01:00:59,674 --> 01:01:02,173
+<font color="yellow">if I ask you to fold my laundry.</font>
+
+905
+01:01:02,174 --> 01:01:04,134
+<font color="yellow">Why would I hear that?</font>
+
+906
+01:01:05,534 --> 01:01:09,604
+<font color="yellow">Is it because of what my
+daughter-in-law said the other day?</font>
+
+907
+01:01:11,534 --> 01:01:13,804
+<font color="yellow">Forget about what she said.</font>
+
+908
+01:01:14,174 --> 01:01:17,404
+<font color="yellow">She didn't mean it in a bad way.</font>
+
+909
+01:01:18,004 --> 01:01:21,273
+<font color="yellow">She was just worried that
+Dong Hui should marry...</font>
+
+910
+01:01:21,274 --> 01:01:22,634
+<font color="yellow">That's my point.</font>
+
+911
+01:01:22,974 --> 01:01:25,203
+<font color="yellow">Why would your family worry about...</font>
+
+912
+01:01:25,204 --> 01:01:27,434
+<font color="yellow">whom my granddaughter will marry?</font>
+
+913
+01:01:27,574 --> 01:01:30,833
+<font color="yellow">They're not just my family.
+You shouldn't say that.</font>
+
+914
+01:01:30,834 --> 01:01:34,004
+<font color="yellow">We've been living in the
+same roof for months now.</font>
+
+915
+01:01:34,504 --> 01:01:38,074
+<font color="yellow">People don't even treat
+their dog so coldheartedly.</font>
+
+916
+01:01:38,304 --> 01:01:41,074
+<font color="yellow">Are you likening Dong Hui to a dog now?</font>
+
+917
+01:01:41,134 --> 01:01:42,833
+<font color="yellow">Like your dog, Moong Chi?</font>
+
+918
+01:01:42,834 --> 01:01:45,033
+<font color="yellow">Why do you always get upset whenever...</font>
+
+919
+01:01:45,034 --> 01:01:46,704
+<font color="yellow">we talk about Dong Hui?</font>
+
+920
+01:01:47,004 --> 01:01:49,874
+<font color="yellow">My goodness. I don't understand.</font>
+
+921
+01:01:52,104 --> 01:01:54,074
+<font color="yellow">Forget it. Forget I said anything.</font>
+
+922
+01:01:55,004 --> 01:01:58,334
+<font color="yellow">By the way, you said Dong Hui was...</font>
+
+923
+01:01:59,034 --> 01:02:02,534
+<font color="yellow">the granddaughter of your brother, right?</font>
+
+924
+01:02:02,804 --> 01:02:05,333
+<font color="yellow">His son and son's wife suddenly died...</font>
+
+925
+01:02:05,334 --> 01:02:06,504
+<font color="yellow">in an accident.</font>
+
+926
+01:02:06,674 --> 01:02:09,604
+<font color="yellow">You said that's why you
+started to raise Dong Hui.</font>
+
+927
+01:02:10,604 --> 01:02:13,673
+<font color="yellow">Why are you so interested in Dong Hui?</font>
+
+928
+01:02:13,674 --> 01:02:15,554
+<font color="yellow">What do you want to know
+about my dear Dong Hui?</font>
+
+929
+01:02:15,604 --> 01:02:17,634
+<font color="yellow">Why are you getting so angry?</font>
+
+930
+01:02:18,174 --> 01:02:21,633
+<font color="yellow">I just thought maybe I can
+fix her up with someone.</font>
+
+931
+01:02:21,634 --> 01:02:23,503
+<font color="yellow">If you want to fix someone up,</font>
+
+932
+01:02:23,504 --> 01:02:25,534
+<font color="yellow">you should fix up your
+60-year-old daughter.</font>
+
+933
+01:02:25,704 --> 01:02:26,704
+<font color="yellow">What did you say?</font>
+
+934
+01:02:26,974 --> 01:02:29,634
+<font color="yellow">Are you attacking my weak spot?</font>
+
+935
+01:02:30,274 --> 01:02:33,103
+<font color="yellow">I'm only saying this because you keep...</font>
+
+936
+01:02:33,104 --> 01:02:35,234
+<font color="yellow">talking about Dong Hui.</font>
+
+937
+01:02:35,334 --> 01:02:38,833
+<font color="yellow">We have a man and a woman who
+are at a marriageable age.</font>
+
+938
+01:02:38,834 --> 01:02:40,903
+<font color="yellow">Isn't it natural that...</font>
+
+939
+01:02:40,904 --> 01:02:43,874
+<font color="yellow">we talk about their marriage?</font>
+
+940
+01:02:44,204 --> 01:02:45,534
+<font color="yellow">Dong Hui isn't...</font>
+
+941
+01:02:46,074 --> 01:02:49,373
+<font color="yellow">someone I can give away to
+anybody just because...</font>
+
+942
+01:02:49,374 --> 01:02:51,734
+<font color="yellow">she's old enough to marry.</font>
+
+943
+01:02:51,904 --> 01:02:53,474
+<font color="yellow">You shouldn't...</font>
+
+944
+01:02:53,634 --> 01:02:56,934
+<font color="yellow">treat her this way just because
+she doesn't have parents.</font>
+
+945
+01:02:58,304 --> 01:03:01,234
+<font color="yellow">It's not like she's from
+a rich family. Gosh.</font>
+
+946
+01:03:01,834 --> 01:03:04,873
+<font color="yellow">Whether you have parents or not,
+you marry someone eventually.</font>
+
+947
+01:03:04,874 --> 01:03:07,273
+<font color="yellow">Why do you think Dong Hui is so special?</font>
+
+948
+01:03:07,274 --> 01:03:08,834
+<font color="yellow">How ridiculous.</font>
+
+949
+01:03:10,974 --> 01:03:14,674
+<font color="yellow">Anyhow, don't speak inappropriately
+just because we live together.</font>
+
+950
+01:03:15,174 --> 01:03:18,634
+<font color="yellow">My goodness. Why don't you stop
+being inappropriate first?</font>
+
+951
+01:03:20,034 --> 01:03:22,504
+<font color="yellow">Excuse me? What are you talking about?</font>
+
+952
+01:03:22,674 --> 01:03:24,134
+<font color="yellow">Why am I being appropriate?</font>
+
+953
+01:03:24,274 --> 01:03:27,234
+<font color="yellow">Did you think I wouldn't know?
+You're seeing a man.</font>
+
+954
+01:03:28,004 --> 01:03:29,034
+<font color="yellow">What?</font>
+
+955
+01:03:29,404 --> 01:03:30,434
+<font color="yellow">It's true.</font>
+
+956
+01:03:30,504 --> 01:03:32,034
+<font color="yellow">Do you think I don't know about it?</font>
+
+957
+01:03:32,234 --> 01:03:35,404
+<font color="yellow">Gosh, every night,</font>
+
+958
+01:03:35,534 --> 01:03:37,634
+<font color="yellow">you hide and talk to a guy.</font>
+
+959
+01:03:38,474 --> 01:03:40,604
+<font color="yellow">You are so secretive about it...</font>
+
+960
+01:03:40,704 --> 01:03:43,603
+<font color="yellow">that you won't even introduce his
+friend to your lonely friend.</font>
+
+961
+01:03:43,604 --> 01:03:45,104
+<font color="yellow">You enjoy it alone.</font>
+
+962
+01:03:45,204 --> 01:03:48,303
+<font color="yellow">I shared everything with you,
+no matter how small it is.</font>
+
+963
+01:03:48,304 --> 01:03:49,404
+<font color="yellow">Do you know that?</font>
+
+964
+01:03:49,904 --> 01:03:52,574
+<font color="yellow">What did you say?</font>
+
+965
+01:03:52,604 --> 01:03:56,534
+<font color="yellow">They say sorrow reduces to half and
+joy doubles when you share it.</font>
+
+966
+01:03:57,174 --> 01:04:00,633
+<font color="yellow">I still can't get my head around...</font>
+
+967
+01:04:00,634 --> 01:04:02,634
+<font color="yellow">about why men find you so charming.</font>
+
+968
+01:04:03,204 --> 01:04:06,204
+<font color="yellow">You always say you won't marry off
+your daughter-in-law to anyone,</font>
+
+969
+01:04:06,234 --> 01:04:08,634
+<font color="yellow">and you lock her in a
+room in her prime time.</font>
+
+970
+01:04:08,674 --> 01:04:11,834
+<font color="yellow">Yet you always talk on the
+phone with your boyfriend.</font>
+
+971
+01:04:12,304 --> 01:04:14,304
+<font color="yellow">I wouldn't care if you worked
+at a building as a cleaner...</font>
+
+972
+01:04:14,474 --> 01:04:16,334
+<font color="yellow">or if you went to a skating link...</font>
+
+973
+01:04:16,474 --> 01:04:20,134
+<font color="yellow">and broke your arm.</font>
+
+974
+01:04:20,434 --> 01:04:23,104
+<font color="yellow">What did you say? How dare you?</font>
+
+975
+01:04:24,504 --> 01:04:27,704
+<font color="yellow">- Gosh, I am so upset.
+- Goodness, Mother.</font>
+
+976
+01:04:29,274 --> 01:04:30,834
+<font color="yellow">Why didn't you invite me to lunch?</font>
+
+977
+01:04:30,874 --> 01:04:33,204
+<font color="yellow">- Goodness.
+- Did you not eat yet?</font>
+
+978
+01:04:33,304 --> 01:04:35,603
+<font color="yellow">- Have a seat, Mother.
+- Nobody gave me food.</font>
+
+979
+01:04:35,604 --> 01:04:37,504
+<font color="yellow">Have a seat, Mother, I
+will serve it to you.</font>
+
+980
+01:04:38,634 --> 01:04:41,233
+<font color="yellow">Why didn't you have lunch with Gui Boon?</font>
+
+981
+01:04:41,234 --> 01:04:44,174
+<font color="yellow">Don't even mention her to me.
+I really don't like her.</font>
+
+982
+01:04:44,804 --> 01:04:46,204
+<font color="yellow">Did something happen?</font>
+
+983
+01:04:46,234 --> 01:04:49,274
+<font color="yellow">I offered to match her granddaughter,</font>
+
+984
+01:04:49,304 --> 01:04:52,573
+<font color="yellow">and she yelled at me saying
+that her granddaughter...</font>
+
+985
+01:04:52,574 --> 01:04:55,004
+<font color="yellow">won't marry just anyone.</font>
+
+986
+01:04:55,034 --> 01:04:57,574
+<font color="yellow">- What?
+- Is that true?</font>
+
+987
+01:04:57,674 --> 01:05:01,574
+<font color="yellow">It is. Does she think her
+granddaughter is precious,</font>
+
+988
+01:05:01,704 --> 01:05:03,374
+<font color="yellow">and my grandson is not?</font>
+
+989
+01:05:03,474 --> 01:05:05,774
+<font color="yellow">Is that what she thinks?</font>
+
+990
+01:05:06,634 --> 01:05:10,474
+<font color="yellow">I hate old people who think their
+grandchild is the most precious.</font>
+
+991
+01:05:11,234 --> 01:05:14,704
+<font color="yellow">I really think that way of
+thinking should be eradicated.</font>
+
+992
+01:05:15,374 --> 01:05:19,104
+<font color="yellow">Didn't you say that Dong Hui had
+a rather unfortunate childhood?</font>
+
+993
+01:05:19,404 --> 01:05:20,804
+<font color="yellow">I think that's what I heard.</font>
+
+994
+01:05:20,834 --> 01:05:22,803
+<font color="yellow">I heard she's the child of...</font>
+
+995
+01:05:22,804 --> 01:05:24,934
+<font color="yellow">Gui Boon's brother's son.</font>
+
+996
+01:05:25,104 --> 01:05:27,703
+<font color="yellow">The family got into an accident,
+and only Dong Hui survived.</font>
+
+997
+01:05:27,704 --> 01:05:29,734
+<font color="yellow">That's why Gui Boon raised her.</font>
+
+998
+01:05:30,404 --> 01:05:32,734
+<font color="yellow">Goodness, did that really happen?</font>
+
+999
+01:05:32,904 --> 01:05:36,103
+<font color="yellow">Yes. That's why Gui Boon
+is overprotecting her.</font>
+
+1000
+01:05:36,104 --> 01:05:37,904
+<font color="yellow">She thinks her granddaughter
+is the most precious one.</font>
+
+1001
+01:05:38,074 --> 01:05:39,674
+<font color="yellow">I hate her so much.</font>
+
+1002
+01:05:41,004 --> 01:05:43,404
+<font color="yellow">Calm down and have some sujebi.</font>
+
+1003
+01:05:44,374 --> 01:05:47,734
+<font color="yellow">Dong Hui's born with a
+life fitting for a writer.</font>
+
+1004
+01:05:47,874 --> 01:05:49,904
+<font color="yellow">Her life is full of stories.</font>
+
+1005
+01:05:50,404 --> 01:05:53,234
+<font color="yellow">- Stop it.
+- What?</font>
+
+1006
+01:06:02,574 --> 01:06:05,034
+<font color="yellow">- Hello, Madam.
+- Goodness.</font>
+
+1007
+01:06:11,504 --> 01:06:12,604
+<font color="yellow">Mom!</font>
+
+1008
+01:06:13,874 --> 01:06:16,434
+<font color="yellow">Mom, it's me, Bang Jin.</font>
+
+1009
+01:06:17,234 --> 01:06:19,304
+<font color="yellow">It's been such a long time.</font>
+
+1010
+01:06:20,674 --> 01:06:23,534
+<font color="yellow">You look the same, Mom.</font>
+
+1011
+01:06:38,934 --> 01:06:39,934
+<font color="yellow">Sir.</font>
+
+1012
+01:06:41,074 --> 01:06:42,174
+<font color="yellow">It's ready.</font>
+
+1013
+01:07:13,134 --> 01:07:14,174
+<font color="yellow">Sir?</font>
+
+1014
+01:07:16,734 --> 01:07:18,774
+<font color="yellow">- Let's go.
+- Okay.</font>
+
+1015
+01:07:37,304 --> 01:07:40,474
+<font color="yellow">Sir, it's Jeong Eun. What should I do?</font>
+
+1016
+01:07:49,304 --> 01:07:50,404
+<font color="yellow">Let's just go.</font>
+
+1017
+01:08:09,804 --> 01:08:10,874
+<font color="yellow">Hyun Woo.</font>
+
+1018
+01:08:11,474 --> 01:08:13,104
+<font color="yellow">Are you home, Hyun Woo?</font>
+
+1019
+01:08:17,734 --> 01:08:20,704
+<font color="yellow">Where did he go? He's not
+picking up his phone, either.</font>
+
+1020
+01:08:27,104 --> 01:08:28,344
+<font color="yellow">(Han Jeong Eun)</font>
+
+1021
+01:09:00,844 --> 01:09:02,704
+<font color="yellow">(Father, I'll Take Care of You)</font>
+
+1022
+01:09:03,174 --> 01:09:04,174
+<font color="yellow">Hyeon Jung?</font>
+
+1023
+01:09:05,034 --> 01:09:07,134
+<font color="yellow">It's the late Gwang Ho's daughter.</font>
+
+1024
+01:09:07,504 --> 01:09:09,634
+<font color="yellow">- Hello.
+- Hello.</font>
+
+1025
+01:09:10,234 --> 01:09:12,844
+<font color="yellow">- How dare you come here?
+- Is Seong Joon well?</font>
+
+1026
+01:09:13,134 --> 01:09:14,534
+<font color="yellow">How much did it drop?</font>
+
+1027
+01:09:14,844 --> 01:09:18,674
+<font color="yellow">I don't think I can get
+away from Mom, Uncle.</font>
+
+1028
+01:09:19,504 --> 01:09:21,074
+<font color="yellow">I was truthful.</font>
+
+1029
+01:09:21,474 --> 01:09:23,344
+<font color="yellow">I treated you sincerely.</font>
+
